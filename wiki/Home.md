@@ -24,4 +24,4 @@ Teller's Forge is an open tabletop roleplaying game for every era, from the ston
 
 ## Licence
 
-Teller's Forge's system of play is shared under the ORC Licence. The name Teller's Forge and its branding stay with the project, so the brand stays recognisable and is never used for profit. 
+Teller's Forge's system of play is shared under the Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA 4.0). Anyone may use, adapt and share it, as long as they credit the project and share what they make under the same licence. The name Teller's Forge and its branding are not part of the licence, so the brand stays recognisable and is never used for profit. 
