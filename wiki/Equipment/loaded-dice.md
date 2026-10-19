@@ -1,5 +1,9 @@
 # Loaded dice
 
+![Loaded dice](../Images/GR-0606-equipment-loaded-dice.jpg){.illus}
+
+
+*Catalogue: GR-0606*
 *Set: Expansion*
 
 *aka: ______________________________*

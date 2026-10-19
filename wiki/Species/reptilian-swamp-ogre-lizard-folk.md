@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### One-eyed swamp ogre-lizard *(NPC only)*
 
+![One-eyed swamp ogre-lizard](../Images/species-one-eyed-swamp-ogre-lizard.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +1 INT −2 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +3, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, Perception (attribute) −1, [Survival: Arctic](../Skills/survival-arctic.md) −3

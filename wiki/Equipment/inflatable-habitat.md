@@ -1,7 +1,8 @@
 # Inflatable habitat
 
-![Inflatable habitat](../Images/equipment-inflatable-habitat.jpg){.illus}
+![Inflatable habitat](../Images/GR-0558-equipment-inflatable-habitat.jpg){.illus}
 
+*Catalogue: GR-0558*
 *Set: Expansion*
 
 *aka: ______________________________*

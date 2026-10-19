@@ -1,5 +1,9 @@
 # Death-Sensing
 
+![Death-Sensing](../Images/PW-061-powers-death-sensing.jpg){.illus}
+
+
+*Catalogue: PW-061*
 *Set: Expansion*
 
 *aka: ______________________________*

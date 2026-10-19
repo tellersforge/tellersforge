@@ -1,5 +1,9 @@
 # Cloth sack
 
+![Cloth sack](../Images/GR-0288-equipment-cloth-sack.jpg){.illus}
+
+
+*Catalogue: GR-0288*
 *Set: Expansion*
 
 *aka: ______________________________*

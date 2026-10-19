@@ -1,5 +1,9 @@
 # Light
 
+![Light](../Images/PW-152-powers-light.jpg){.illus}
+
+
+*Catalogue: PW-152*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 697 Wereboar *(genres: gothic horror)*
 
+![Wereboar](../Images/species-wereboar.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed(shift)
 - **What it's like:** People who shift into a tusked boar-warrior form and charge hard when the change takes them. (looks like: boar; good at: fighting, strength)
 - **Attributes:** STR +1 AGI +1 END +1 WIS −1 CHA +1
@@ -48,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 698 Werebear *(genres: gothic horror)*
 
+![Werebear](../Images/species-werebear.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed(shift)
 - **What it's like:** People who shift into a massive bear form, gaining huge strength and a fierce protective streak. (looks like: bear; good at: strength, fighting)
 - **Attributes:** STR +4 AGI −2 END +1 WIS −1 CHA +1
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Its beast is the bear; beyond its greater bulk and strength (attribute step) it matches its species.
 
 ### No. 699 Weretiger/wereleopard *(genres: gothic horror)*
+
+![Weretiger/wereleopard](../Images/species-weretiger-wereleopard.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed(shift)
 - **What it's like:** People who shift into a big-cat form built for silent, deadly ambush. (looks like: cat; good at: sneaking, fighting)
@@ -69,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 700 Beast-hybrid lycanthrope folk *(genres: beast-folk: fur, gothic horror)*
 
+![Beast-hybrid lycanthrope folk](../Images/species-beast-hybrid-lycanthrope-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Folk who only half-shift into animal form, keeping sharp senses and passing their curse on with a bite. (looks like: wolf; good at: keen senses, fighting)
 - **Attributes:** STR +1 AGI +1 END +1 WIS −1 CHA +1
@@ -79,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Transform Others only by bite, passing the lycanthropic curse; the GM decides how it takes hold.
 
 ### Full-shift lycanthrope predator *(NPC only)*
+
+![Full-shift lycanthrope predator](../Images/species-full-shift-lycanthrope-predator.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −1 END +2 INT −2 WIS −1 CHA −1

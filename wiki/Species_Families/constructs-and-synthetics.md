@@ -1,5 +1,8 @@
 # Constructs and synthetics
 
+![Constructs and synthetics](../Images/species-families-constructs-and-synthetics.jpg){.illus}
+
+
 
 Made, not born. Every member of this family began as someone else's idea: a clay guardian with a word on its brow, a clockwork servant, a steel soldier, a thinking machine in a box, a doll that woke up. Some were built to obey and still do. Others grew past their makers, and now argue about souls, rights and whether a copy is the same person. The family holds androids who pass for human, networks that think with a thousand bodies, machines that build more machines, and people who are half flesh and half fitting. They share no blood, only a question: what am I for, and who decides? Others answer that question for them far too often.
 

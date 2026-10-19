@@ -1,5 +1,8 @@
 # Steppe riders
 
+![Steppe riders](../Images/cultures-steppe-riders.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Dust devil
 
+![Dust devil](../Images/BE-167-bestiary-dust-devil.jpg){.illus}
+
+
+*Catalogue: BE-167*
 *Set: Expansion*
 
 *aka: ______________________________*

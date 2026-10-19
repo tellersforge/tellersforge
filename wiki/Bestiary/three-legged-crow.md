@@ -1,5 +1,9 @@
 # Three-legged crow
 
+![Three-legged crow](../Images/BE-622-bestiary-three-legged-crow.jpg){.illus}
+
+
+*Catalogue: BE-622*
 *Set: Expansion*
 
 *aka: ______________________________*

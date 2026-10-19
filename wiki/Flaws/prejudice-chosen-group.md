@@ -1,5 +1,8 @@
 # Prejudice (chosen group)
 
+![Prejudice (chosen group)](../Images/flaws-prejudice-chosen-group.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when looks down on or distrusts one group of people.

@@ -1,5 +1,9 @@
 # Loin belt
 
+![Loin belt](../Images/GR-0613-equipment-loin-belt.jpg){.illus}
+
+
+*Catalogue: GR-0613*
 *Set: Expansion*
 
 *aka: ______________________________*

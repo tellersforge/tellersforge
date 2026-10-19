@@ -1,5 +1,8 @@
 # Tattletale
 
+![Tattletale](../Images/flaws-tattletale.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when tells on others to whoever is in charge.

@@ -1,5 +1,9 @@
 # Festival mask
 
+![Festival mask](../Images/GR-0398-equipment-festival-mask.jpg){.illus}
+
+
+*Catalogue: GR-0398*
 *Set: Core*
 
 *aka: ______________________________*

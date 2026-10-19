@@ -1,5 +1,9 @@
 # Compact power core
 
+![Compact power core](../Images/GR-0296-equipment-compact-power-core.jpg){.illus}
+
+
+*Catalogue: GR-0296*
 *Set: Expansion*
 
 *aka: ______________________________*

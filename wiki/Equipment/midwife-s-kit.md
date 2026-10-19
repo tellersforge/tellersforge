@@ -1,5 +1,9 @@
 # Midwife's kit
 
+![Midwife's kit](../Images/GR-0650-equipment-midwife-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0650*
 *Set: Expansion*
 
 *aka: ______________________________*

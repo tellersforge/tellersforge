@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 568 Frozen-world crystalline colonist *(genres: super-powered: cosmic and mythic)*
 
+![Frozen-world crystalline colonist](../Images/species-frozen-world-crystalline-colonist.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Human settlers turned to living crystal to survive endless cold, now able to soak up and throw back raw energy. (looks like: crystal; good at: toughness, powers and magic)
 - **Attributes:** STR +2 AGI −3 END +2

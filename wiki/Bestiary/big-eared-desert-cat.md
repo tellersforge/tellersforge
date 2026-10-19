@@ -1,5 +1,9 @@
 # Big-eared desert cat
 
+![Big-eared desert cat](../Images/BE-043-bestiary-big-eared-desert-cat.jpg){.illus}
+
+
+*Catalogue: BE-043*
 *Set: Expansion*
 
 *aka: ______________________________*

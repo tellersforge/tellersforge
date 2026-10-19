@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 599 Soul-reaping guide spirit *(genres: heavens, hells and other planes)*
 
+![Soul-reaping guide spirit](../Images/species-soul-reaping-guide-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived spirit-folk who carry soul-cutting swords, guiding the dead onward and cleansing corrupted spirits. (looks like: ghost; good at: powers and magic, fighting)
 - **Attributes:** AGI +1 END −1 WIS +1 CHA +1 COU +1

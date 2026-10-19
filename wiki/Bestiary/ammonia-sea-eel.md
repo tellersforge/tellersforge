@@ -1,5 +1,9 @@
 # Ammonia-sea eel
 
+![Ammonia-sea eel](../Images/BE-015-bestiary-ammonia-sea-eel.jpg){.illus}
+
+
+*Catalogue: BE-015*
 *Set: Expansion*
 
 *aka: ______________________________*

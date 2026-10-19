@@ -1,5 +1,9 @@
 # Destroyer
 
+![Destroyer](../Images/GR-1060-vehicles-destroyer.jpg){.illus}
+
+
+*Catalogue: GR-1060*
 *Set: Expansion*
 
 

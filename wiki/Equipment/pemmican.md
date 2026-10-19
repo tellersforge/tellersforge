@@ -1,5 +1,9 @@
 # Pemmican
 
+![Pemmican](../Images/GR-0714-equipment-pemmican.jpg){.illus}
+
+
+*Catalogue: GR-0714*
 *Set: Expansion*
 
 *aka: ______________________________*

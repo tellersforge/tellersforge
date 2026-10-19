@@ -1,5 +1,8 @@
 # Martial artist
 
+![Martial artist](../Images/professions-martial-artist.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

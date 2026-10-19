@@ -1,5 +1,9 @@
 # Bell tripwire
 
+![Bell tripwire](../Images/GR-0209-equipment-bell-tripwire.jpg){.illus}
+
+
+*Catalogue: GR-0209*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Glass bead strand
 
+![Glass bead strand](../Images/GR-0458-equipment-glass-bead-strand.jpg){.illus}
+
+
+*Catalogue: GR-0458*
 *Set: Expansion*
 
 *aka: ______________________________*

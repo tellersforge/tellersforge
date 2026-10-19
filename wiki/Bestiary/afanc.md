@@ -1,5 +1,9 @@
 # Afanc
 
+![Afanc](../Images/BE-008-bestiary-afanc.jpg){.illus}
+
+
+*Catalogue: BE-008*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Calligraphy & Scribing
 
+![Calligraphy & Scribing](../Images/SK-026-skills-calligraphy-and-scribing.jpg){.illus}
+
+
+*Catalogue: SK-026*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Sleight of Hand
 
+![Sleight of Hand](../Images/SK-182-skills-sleight-of-hand.jpg){.illus}
+
+
+*Catalogue: SK-182*
 *Set: Core · Basic skill: Thievery*
 
 *aka: ______________________________*

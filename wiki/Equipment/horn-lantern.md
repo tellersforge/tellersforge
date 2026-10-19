@@ -1,5 +1,9 @@
 # Horn lantern
 
+![Horn lantern](../Images/GR-0546-equipment-horn-lantern.jpg){.illus}
+
+
+*Catalogue: GR-0546*
 *Set: Expansion*
 
 *aka: ______________________________*

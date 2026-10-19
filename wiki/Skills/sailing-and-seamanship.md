@@ -1,5 +1,9 @@
 # Sailing & Seamanship
 
+![Sailing & Seamanship](../Images/SK-169-skills-sailing-and-seamanship.jpg){.illus}
+
+
+*Catalogue: SK-169*
 *Set: Expansion*
 
 *aka: ______________________________*

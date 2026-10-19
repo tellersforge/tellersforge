@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 314 Crab-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Crab-folk](../Images/species-crab-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+carapace
 - **What it's like:** Armoured crab people with snapping pincers and a hard shell, scuttling sideways and swimming the coast with ease. (looks like: crab; good at: toughness, swimming)
 - **Attributes:** STR +1 AGI −1 END +2 CHA −1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Pincer claws are real weapons.
 
 ### No. 315 Giant crab-shelled warrior *(genres: space opera: strange aliens)*
+
+![Giant crab-shelled warrior](../Images/species-giant-crab-shelled-warrior.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** A huge armoured crab warrior with crushing pincers, amphibious and gruff, hiring out its shell and muscle as a mercenary. (looks like: crab; good at: toughness, strength, swimming)
@@ -49,6 +55,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Lobster-folk *(NPC only)*
 
+![Lobster-folk](../Images/species-lobster-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+carapace
 - **Attributes:** STR +2 AGI −1 END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Swimming](../Skills/swimming.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Balance](../Skills/balance.md) −1, [Acrobatics](../Skills/acrobatics.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -59,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A great crushing and cutting claw pair.
 
 ### Shrimp-folk *(NPC only)*
+
+![Shrimp-folk](../Images/species-shrimp-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+carapace
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1
@@ -71,6 +83,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Some are bioluminescent: Light Set 1 for those.
 
 ### No. 316 Hermit crab-folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Hermit crab-folk](../Images/species-hermit-crab-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+carapace
 - **What it's like:** A soft-bodied crab person who borrows shells and shelters to protect its back, cautious, social and handy at trading. (looks like: crab; good at: swimming, sneaking)
@@ -85,6 +100,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Barnacle-folk *(NPC only)*
 
+![Barnacle-folk](../Images/species-barnacle-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** colonial
 - **Attributes:** STR −2 AGI −1 END +2 INT −2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Swimming](../Skills/swimming.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Balance](../Skills/balance.md) −1, [Acrobatics](../Skills/acrobatics.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2, [Jumping](../Skills/jumping.md) Foreign Concept, [Running](../Skills/running.md) Foreign Concept
@@ -94,6 +112,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only. No hands: held weapons unusable.
 
 ### Mantis shrimp-folk *(NPC only)*
+
+![Mantis shrimp-folk](../Images/species-mantis-shrimp-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+carapace
 - **Attributes:** STR +1 AGI +2 END +2 WIS +1 CHA −1
@@ -105,6 +126,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An extremely fast smashing strike and vision far beyond the ordinary colour range.
 
 ### Insectoid refugee crustacean folk *(NPC only)*
+
+![Insectoid refugee crustacean folk](../Images/species-insectoid-refugee-crustacean-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +2 CHA −1

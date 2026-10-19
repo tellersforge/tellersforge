@@ -1,5 +1,8 @@
 # Fear of Rats
 
+![Fear of Rats](../Images/flaws-fear-of-rats.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when rats, mice, vermin.

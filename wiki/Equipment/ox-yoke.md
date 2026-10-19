@@ -1,5 +1,9 @@
 # Ox yoke
 
+![Ox yoke](../Images/GR-0693-equipment-ox-yoke.jpg){.illus}
+
+
+*Catalogue: GR-0693*
 *Set: Expansion*
 
 *aka: ______________________________*

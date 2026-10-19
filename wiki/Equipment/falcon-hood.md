@@ -1,5 +1,9 @@
 # Falcon hood
 
+![Falcon hood](../Images/GR-0382-equipment-falcon-hood.jpg){.illus}
+
+
+*Catalogue: GR-0382*
 *Set: Expansion*
 
 *aka: ______________________________*

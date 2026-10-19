@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 357 Wolf-bonded tribal elf *(genres: classic fantasy)*
 
+![Wolf-bonded tribal elf](../Images/species-wolf-bonded-tribal-elf.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, long-lived tribal elves who bond telepathically with a wolf companion for life, hunting and gathering through the forest. (looks like: elf; good at: wilderness, powers and magic)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 358 Savage swamp elf-kin *(genres: underworld and wild places)*
 
+![Savage swamp elf-kin](../Images/species-savage-swamp-elf-kin.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Swamp-dwelling elf-kin gone half-wild after mixing with trolls, mistrustful of strangers and at home in the mire. (looks like: elf; good at: wilderness, swimming)
 - **Attributes:** AGI +2 END +1 INT −1 WIS +1 PER +2 CHA −1
@@ -59,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Partly trollish ancestry shows in attributes, not here.
 
 ### No. 359 Cliff-dwelling glider elf *(genres: classic fantasy, sea and sky)*
+
+![Cliff-dwelling glider elf](../Images/species-cliff-dwelling-glider-elf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Cliff-dwelling elves with skin membranes between arm and body, gliding from their hidden city under a strict caste system. (looks like: elf; good at: flying, keen senses)

@@ -1,5 +1,9 @@
 # Curse
 
+![Curse](../Images/PW-058-powers-curse.jpg){.illus}
+
+
+*Catalogue: PW-058*
 *Set: Core*
 
 *aka: ______________________________*

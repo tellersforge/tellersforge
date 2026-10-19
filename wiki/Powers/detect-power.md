@@ -1,5 +1,9 @@
 # Detect Power
 
+![Detect Power](../Images/PW-069-powers-detect-power.jpg){.illus}
+
+
+*Catalogue: PW-069*
 *Set: Expansion*
 
 *aka: ______________________________*

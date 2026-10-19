@@ -1,5 +1,9 @@
 # Leadership
 
+![Leadership](../Images/SK-109-skills-leadership.jpg){.illus}
+
+
+*Catalogue: SK-109*
 *Set: Core*
 
 *aka: ______________________________*

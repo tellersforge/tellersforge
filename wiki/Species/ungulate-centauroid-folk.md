@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 817 Isolationist herd centauroid *(genres: space opera: beast-like aliens)*
 
+![Isolationist herd centauroid](../Images/species-isolationist-herd-centauroid.jpg){.illus}
+
+
 - **Size:** large · **Body:** centauroid
 - **What it's like:** Herd-bound centaur-like folk, oddly afraid of open unclaimed land and deeply wary of outsiders. (looks like: centaur; good at: speed and agility, wilderness)
 - **Attributes:** STR +4 AGI −2 END +1 COU −1

@@ -1,5 +1,9 @@
 # One-legged thunder ox
 
+![One-legged thunder ox](../Images/BE-447-bestiary-one-legged-thunder-ox.jpg){.illus}
+
+
+*Catalogue: BE-447*
 *Set: Expansion*
 
 *aka: ______________________________*

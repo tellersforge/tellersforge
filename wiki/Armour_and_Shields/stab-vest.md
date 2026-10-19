@@ -1,5 +1,9 @@
 # Stab vest
 
+![Stab vest](../Images/GR-0163-armour-stab-vest.jpg){.illus}
+
+
+*Catalogue: GR-0163*
 *Set: Expansion*
 
 *aka: ______________________________*

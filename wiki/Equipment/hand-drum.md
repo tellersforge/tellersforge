@@ -1,5 +1,9 @@
 # Hand drum
 
+![Hand drum](../Images/GR-0492-equipment-hand-drum.jpg){.illus}
+
+
+*Catalogue: GR-0492*
 *Set: Core*
 
 *aka: ______________________________*

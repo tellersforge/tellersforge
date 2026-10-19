@@ -1,5 +1,9 @@
 # Racing saddle
 
+![Racing saddle](../Images/GR-0771-equipment-racing-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0771*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Angel-winged alien *(NPC only)*
 
+![Angel-winged alien](../Images/species-angel-winged-alien.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** AGI +2 WIS +1 PER +2
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Swimming](../Skills/swimming.md) −2

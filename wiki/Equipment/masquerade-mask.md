@@ -1,5 +1,9 @@
 # Masquerade mask
 
+![Masquerade mask](../Images/GR-0632-equipment-masquerade-mask.jpg){.illus}
+
+
+*Catalogue: GR-0632*
 *Set: Expansion*
 
 *aka: ______________________________*

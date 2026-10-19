@@ -1,5 +1,9 @@
 # Bivouac sack
 
+![Bivouac sack](../Images/GR-0215-equipment-bivouac-sack.jpg){.illus}
+
+
+*Catalogue: GR-0215*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Lindworm
 
-![Lindworm](../Images/bestiary-lindworm.jpg){.illus}
+![Lindworm](../Images/BE-390-bestiary-lindworm.jpg){.illus}
 
+*Catalogue: BE-390*
 *Set: Core*
 
 *aka: ______________________________*

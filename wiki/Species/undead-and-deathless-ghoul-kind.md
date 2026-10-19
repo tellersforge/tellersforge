@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Subterranean corpse-eating ghoul *(NPC only)*
 
+![Subterranean corpse-eating ghoul](../Images/species-subterranean-corpse-eating-ghoul.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +2, [Composure](../Skills/composure.md) +1, [Tracking](../Skills/tracking.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Clawed tunnel-dwellers beneath the graveyards.
 
 ### Feral paralytic ghoul *(NPC only)*
+
+![Feral paralytic ghoul](../Images/species-feral-paralytic-ghoul.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −1 END +2 INT −2 CHA −2 COU +2
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shapeshifting desert graveyard ghoul *(NPC only)*
 
+![Shapeshifting desert graveyard ghoul](../Images/species-shapeshifting-desert-graveyard-ghoul.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Survival: Desert](../Skills/survival-desert.md) +2, [Composure](../Skills/composure.md) +1, [Tracking](../Skills/tracking.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Animal Form is hyena-like.
 
 ### No. 792 Radiation-preserved ghoul *(genres: after the fall)*
+
+![Radiation-preserved ghoul](../Images/species-radiation-preserved-ghoul.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Rotting but functionally immortal ghouls, immune to radiation, often unfairly feared by ordinary humans. (looks like: zombie; good at: toughness, wilderness)

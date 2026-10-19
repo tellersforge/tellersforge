@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sea otter-folk *(NPC only)*
 
+![Sea otter-folk](../Images/species-sea-otter-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** aquatic+tailed
 - **Attributes:** STR −1 AGI +2 CHA −1 COU +1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Diving](../Skills/diving.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -44,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Sea-living otters of the kelp forests, at home floating and diving offshore.
 
 ### No. 570 Badger-folk *(genres: animal fable, beast-folk: fur)*
+
+![Badger-folk](../Images/species-badger-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Stubborn, tough-skinned badger people who dig fast tunnels and refuse to give up a fight. (looks like: badger; good at: sneaking, toughness)
@@ -55,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Tough-hided diggers with strong claws.
 
 ### No. 571 Berserker badger folk *(genres: animal fable)*
+
+![Berserker badger folk](../Images/species-berserker-badger-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** The biggest of the badger clans: wise leaders who fly into a terrifying battle-rage when pushed. (looks like: badger; good at: fighting, strength)
@@ -68,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Honey badger-folk *(NPC only)*
 
+![Honey badger-folk](../Images/species-honey-badger-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +2 END +2 CHA −1 COU +3
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Composure](../Skills/composure.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Swimming](../Skills/swimming.md) +1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -77,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Fearless and nearly indifferent to pain, with loose, bite-resistant skin.
 
 ### No. 572 Weasel-folk *(genres: animal fable)*
+
+![Weasel-folk](../Images/species-weasel-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Quick, sly weasel folk with fast reflexes, more comfortable robbing you than fighting fair. (looks like: weasel; good at: speed and agility, sneaking)
@@ -88,6 +103,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 573 Ferret-folk *(genres: beast-folk: fur)*
 
+![Ferret-folk](../Images/species-ferret-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Playful, wriggly ferret folk who can slip through impossibly tight gaps. (looks like: ferret; good at: sneaking, speed and agility)
 - **Attributes:** STR −2 AGI +2 CHA −1 COU +1
@@ -97,6 +115,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An especially flexible, elongated body.
 
 ### No. 574 Wolverine-folk *(genres: beast-folk: fur)*
+
+![Wolverine-folk](../Images/species-wolverine-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Small but ferocious wolverine folk, tough enough for the deep cold and always ready for a fight. (looks like: wolverine; good at: fighting, toughness)
@@ -108,6 +129,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mink-folk *(NPC only)*
 
+![Mink-folk](../Images/species-mink-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 CHA −1 COU +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Swimming](../Skills/swimming.md) +2, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -116,6 +140,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Semi-aquatic solitary hunters.
 
 ### No. 575 Espionage mustelid folk *(genres: space opera: beast-like aliens)*
+
+![Espionage mustelid folk](../Images/species-espionage-mustelid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+furred
 - **What it's like:** Sharp-eyed weasel-faced folk who trade in secrets across the stars. (looks like: otter; good at: sneaking, people and talk)
@@ -128,6 +155,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 576 Den-clan mustelid folk *(genres: space opera: beast-like aliens)*
 
+![Den-clan mustelid folk](../Images/species-den-clan-mustelid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+furred
 - **What it's like:** Long, sleek river-dwelling weasel folk who live in close-knit clans led by their mothers. (looks like: otter; good at: swimming, sneaking)
 - **Attributes:** STR −1 AGI +2 CHA −1 COU +1
@@ -138,6 +168,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The clan culture is lexicon and Culture-step detail.
 
 ### No. 577 Storm-charged beast folk *(genres: beast-folk: fur)*
+
+![Storm-charged beast folk](../Images/species-storm-charged-beast-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Fierce beast-warriors who crackle with static electricity and prize a fine hairstyle almost as much as honour. (looks like: wolf; good at: fighting, powers and magic)

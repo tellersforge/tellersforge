@@ -1,5 +1,9 @@
 # Pressure lantern
 
+![Pressure lantern](../Images/GR-0758-equipment-pressure-lantern.jpg){.illus}
+
+
+*Catalogue: GR-0758*
 *Set: Expansion*
 
 *aka: ______________________________*

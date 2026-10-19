@@ -1,5 +1,9 @@
 # Animated statue
 
+![Animated statue](../Images/BE-022-bestiary-animated-statue.jpg){.illus}
+
+
+*Catalogue: BE-022*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Riding Elephant
 
-![Riding elephant](../Images/vehicles-riding-elephant.jpg){.illus}
+![Riding elephant](../Images/GR-1106-vehicles-riding-elephant.jpg){.illus}
 
+*Catalogue: GR-1106*
 *Set: Expansion*
 
 

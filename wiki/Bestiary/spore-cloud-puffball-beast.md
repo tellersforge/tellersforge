@@ -1,5 +1,9 @@
 # Spore-cloud puffball beast
 
+![Spore-cloud puffball beast](../Images/BE-585-bestiary-spore-cloud-puffball-beast.jpg){.illus}
+
+
+*Catalogue: BE-585*
 *Set: Expansion*
 
 *aka: ______________________________*

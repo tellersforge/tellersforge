@@ -1,5 +1,9 @@
 # Shatter
 
+![Shatter](../Images/PW-258-powers-shatter.jpg){.illus}
+
+
+*Catalogue: PW-258*
 *Set: Expansion*
 
 *aka: ______________________________*

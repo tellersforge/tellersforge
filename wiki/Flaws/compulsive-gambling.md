@@ -1,5 +1,8 @@
 # Compulsive Gambling
 
+![Compulsive Gambling](../Images/flaws-compulsive-gambling.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when bets on anything, chases losses.

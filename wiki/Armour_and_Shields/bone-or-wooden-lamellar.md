@@ -1,7 +1,8 @@
 # Bone or wooden lamellar
 
-![Bone or wooden lamellar](../Images/armour-bone-or-wooden-lamellar.jpg){.illus}
+![Bone or wooden lamellar](../Images/GR-0127-armour-bone-or-wooden-lamellar.jpg){.illus}
 
+*Catalogue: GR-0127*
 *Set: Expansion*
 
 *aka: ______________________________*

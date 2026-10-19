@@ -1,7 +1,8 @@
 # Vacuum plankton whale
 
-![Vacuum plankton whale](../Images/bestiary-vacuum-plankton-whale.jpg){.illus}
+![Vacuum plankton whale](../Images/BE-646-bestiary-vacuum-plankton-whale.jpg){.illus}
 
+*Catalogue: BE-646*
 *Set: Expansion*
 
 *aka: ______________________________*

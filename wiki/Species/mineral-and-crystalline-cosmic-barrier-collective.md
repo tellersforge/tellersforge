@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Petrified cosmic seeker *(NPC only)*
 
+![Petrified cosmic seeker](../Images/species-petrified-cosmic-seeker.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** STR +2 AGI −6 END +2 WIS +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Stealth](../Skills/stealth.md) −2, [Climbing](../Skills/climbing.md) Foreign Concept, [Jumping](../Skills/jumping.md) Foreign Concept, [Running](../Skills/running.md) Foreign Concept, [Swimming](../Skills/swimming.md) Foreign Concept

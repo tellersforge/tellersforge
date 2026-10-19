@@ -1,5 +1,9 @@
 # Signal jammer
 
+![Signal jammer](../Images/GR-0859-equipment-signal-jammer.jpg){.illus}
+
+
+*Catalogue: GR-0859*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Mutant stalking mantis
 
+![Mutant stalking mantis](../Images/BE-431-bestiary-mutant-stalking-mantis.jpg){.illus}
+
+
+*Catalogue: BE-431*
 *Set: Expansion*
 
 *aka: ______________________________*

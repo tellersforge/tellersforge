@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Carved gargoyle guardian *(NPC only)*
 
+![Carved gargoyle guardian](../Images/species-carved-gargoyle-guardian.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR +2 AGI −2 END +2 WIS +1 PER +1
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Camouflage](../Skills/camouflage.md) +2, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Running](../Skills/running.md) −2, [Stealth](../Skills/stealth.md) −2, [Swimming](../Skills/swimming.md) Foreign Concept

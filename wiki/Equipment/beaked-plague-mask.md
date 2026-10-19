@@ -1,5 +1,9 @@
 # Beaked plague mask
 
+![Beaked plague mask](../Images/GR-0204-equipment-beaked-plague-mask.jpg){.illus}
+
+
+*Catalogue: GR-0204*
 *Set: Expansion*
 
 *aka: ______________________________*

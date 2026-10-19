@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Refractive silicate crystal-being *(NPC only)*
 
+![Refractive silicate crystal-being](../Images/species-refractive-silicate-crystal-being.jpg){.illus}
+
+
 - **Size:** large · **Body:** other
 - **Attributes:** STR +4 AGI −3 INT +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Running](../Skills/running.md) −2, [Stealth](../Skills/stealth.md) −2, [Swimming](../Skills/swimming.md) Foreign Concept

@@ -1,5 +1,9 @@
 # Feather headdress
 
+![Feather headdress](../Images/GR-0391-equipment-feather-headdress.jpg){.illus}
+
+
+*Catalogue: GR-0391*
 *Set: Core*
 
 *aka: ______________________________*

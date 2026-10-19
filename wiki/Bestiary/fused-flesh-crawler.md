@@ -1,5 +1,9 @@
 # Fused-flesh crawler
 
+![Fused-flesh crawler](../Images/BE-229-bestiary-fused-flesh-crawler.jpg){.illus}
+
+
+*Catalogue: BE-229*
 *Set: Expansion*
 
 *aka: ______________________________*

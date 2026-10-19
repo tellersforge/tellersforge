@@ -1,5 +1,9 @@
 # Four-winged cliff flyer
 
+![Four-winged cliff flyer](../Images/BE-217-bestiary-four-winged-cliff-flyer.jpg){.illus}
+
+
+*Catalogue: BE-217*
 *Set: Expansion*
 
 *aka: ______________________________*

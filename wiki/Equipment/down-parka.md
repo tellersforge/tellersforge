@@ -1,5 +1,9 @@
 # Down parka
 
+![Down parka](../Images/GR-0347-equipment-down-parka.jpg){.illus}
+
+
+*Catalogue: GR-0347*
 *Set: Expansion*
 
 *aka: ______________________________*

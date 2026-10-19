@@ -1,5 +1,9 @@
 # Remedies & Pharmacy
 
+![Remedies & Pharmacy](../Images/SK-160-skills-remedies-and-pharmacy.jpg){.illus}
+
+
+*Catalogue: SK-160*
 *Set: Expansion*
 
 *aka: ______________________________*

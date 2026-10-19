@@ -1,5 +1,9 @@
 # Giant eagle
 
+![Giant eagle](../Images/BE-247-bestiary-giant-eagle.jpg){.illus}
+
+
+*Catalogue: BE-247*
 *Set: Expansion*
 
 *aka: ______________________________*

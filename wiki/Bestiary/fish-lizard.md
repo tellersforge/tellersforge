@@ -1,5 +1,9 @@
 # Fish lizard
 
+![Fish lizard](../Images/BE-198-bestiary-fish-lizard.jpg){.illus}
+
+
+*Catalogue: BE-198*
 *Set: Expansion*
 
 *aka: ______________________________*

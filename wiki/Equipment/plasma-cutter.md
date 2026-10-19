@@ -1,7 +1,8 @@
 # Plasma cutter
 
-![Plasma cutter](../Images/equipment-plasma-cutter.jpg){.illus}
+![Plasma cutter](../Images/GR-0730-equipment-plasma-cutter.jpg){.illus}
 
+*Catalogue: GR-0730*
 *Set: Expansion*
 
 *aka: ______________________________*

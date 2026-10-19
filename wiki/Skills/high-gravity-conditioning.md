@@ -1,5 +1,9 @@
 # High-Gravity Conditioning
 
+![High-Gravity Conditioning](../Images/SK-092-skills-high-gravity-conditioning.jpg){.illus}
+
+
+*Catalogue: SK-092*
 *Set: Expansion*
 
 *aka: ______________________________*

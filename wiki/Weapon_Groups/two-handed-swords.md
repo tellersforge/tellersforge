@@ -1,5 +1,9 @@
 # Two-Handed Swords
 
+![Two-Handed Swords](../Images/WG-029-weapon-groups-two-handed-swords.jpg){.illus}
+
+
+*Catalogue: WG-029*
 *Set: Core*
 
 *aka: ______________________________*

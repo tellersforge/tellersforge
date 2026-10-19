@@ -1,5 +1,9 @@
 # Sympathetic Curse
 
+![Sympathetic Curse](../Images/PW-288-powers-sympathetic-curse.jpg){.illus}
+
+
+*Catalogue: PW-288*
 *Set: Expansion*
 
 *aka: ______________________________*

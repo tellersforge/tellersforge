@@ -1,5 +1,8 @@
 # Goblinoid and orc-kind
 
+![Goblinoid and orc-kind](../Images/species-families-goblinoid-and-orc-kind.jpg){.illus}
+
+
 
 Goblins, orcs and their many cousins, from small sly raiders to great tusked warriors bred for war. Most have green, grey or ruddy skin, heavy jaws, pointed ears and eyes that see well in the dark. They live hard, breed fast and fight often, and their societies tend to prize strength, loyalty to the clan and a good loud boast. Goblins are clever, cowardly and endlessly inventive. Hobgoblins drill like soldiers. Orcs value courage above all else. The family also includes scaly little kobolds and tusked folk from other worlds. Other peoples cast them as villains, which suits some of them and angers the rest.
 

@@ -1,5 +1,8 @@
 # Fear of Strangers
 
+![Fear of Strangers](../Images/flaws-fear-of-strangers.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when unfamiliar people, foreigners.

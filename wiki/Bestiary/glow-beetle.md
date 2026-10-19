@@ -1,5 +1,9 @@
 # Glow beetle
 
+![Glow beetle](../Images/BE-295-bestiary-glow-beetle.jpg){.illus}
+
+
+*Catalogue: BE-295*
 *Set: Expansion*
 
 *aka: ______________________________*

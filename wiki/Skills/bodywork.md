@@ -1,5 +1,9 @@
 # Bodywork
 
+![Bodywork](../Images/SK-020-skills-bodywork.jpg){.illus}
+
+
+*Catalogue: SK-020*
 *Set: Expansion*
 
 *aka: ______________________________*

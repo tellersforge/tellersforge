@@ -1,5 +1,8 @@
 # Guard
 
+![Guard](../Images/professions-guard.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

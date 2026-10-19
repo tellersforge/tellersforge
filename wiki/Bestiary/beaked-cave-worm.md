@@ -1,5 +1,9 @@
 # Beaked cave worm
 
+![Beaked cave worm](../Images/BE-037-bestiary-beaked-cave-worm.jpg){.illus}
+
+
+*Catalogue: BE-037*
 *Set: Expansion*
 
 *aka: ______________________________*

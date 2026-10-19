@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 305 TV-head robot royalty *(genres: robots and synthetics)*
 
+![TV-head robot royalty](../Images/species-tv-head-robot-royalty.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A robot ruler whose old television-set head flickers with static to show its mood, reigning over a robot kingdom. (looks like: robot; good at: people and talk, knowledge)
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Rule over a robot kingdom is a station, not a breed trait.
 
 ### TV-head robot worker caste *(NPC only)*
+
+![TV-head robot worker caste](../Images/species-tv-head-robot-worker-caste.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END +2 WIS −1 CHA −2

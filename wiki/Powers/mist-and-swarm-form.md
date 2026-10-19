@@ -1,5 +1,9 @@
 # Mist & Swarm Form
 
+![Mist & Swarm Form](../Images/PW-191-powers-mist-and-swarm-form.jpg){.illus}
+
+
+*Catalogue: PW-191*
 *Set: Expansion*
 
 *aka: ______________________________*

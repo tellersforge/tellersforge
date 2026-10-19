@@ -1,5 +1,9 @@
 # Silk undershirt
 
+![Silk undershirt](../Images/GR-0865-equipment-silk-undershirt.jpg){.illus}
+
+
+*Catalogue: GR-0865*
 *Set: Expansion*
 
 *aka: ______________________________*

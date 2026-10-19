@@ -1,5 +1,9 @@
 # Horseshoes and nails
 
+![Horseshoes and nails](../Images/GR-0547-equipment-horseshoes-and-nails.jpg){.illus}
+
+
+*Catalogue: GR-0547*
 *Set: Expansion*
 
 *aka: ______________________________*

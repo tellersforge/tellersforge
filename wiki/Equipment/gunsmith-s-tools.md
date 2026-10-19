@@ -1,5 +1,9 @@
 # Gunsmith's tools
 
+![Gunsmith's tools](../Images/GR-0480-equipment-gunsmith-s-tools.jpg){.illus}
+
+
+*Catalogue: GR-0480*
 *Set: Expansion*
 
 *aka: ______________________________*

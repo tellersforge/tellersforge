@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Alien symbiote *(NPC only)*
 
+![Alien symbiote](../Images/species-alien-symbiote.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR +2 AGI +1 END +2 CHA −2 COU +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Worm-form host-bonding symbiont *(NPC only)*
 
+![Worm-form host-bonding symbiont](../Images/species-worm-form-host-bonding-symbiont.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +1 END +2 INT +2 WIS +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Cannot move on land without a host (a flaw). NPC. Lifespan (very long-lived) is a lexicon detail, not a game number. No hands: held weapons unusable.
 
 ### Violent offspring symbiote *(NPC only)*
+
+![Violent offspring symbiote](../Images/species-violent-offspring-symbiote.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR +3 AGI +1 END +2 WIS −2 CHA −2 COU +2
@@ -58,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Benign symbiote strain *(NPC only)*
 
+![Benign symbiote strain](../Images/species-benign-symbiote-strain.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR +2 AGI +1 END +2 CHA −1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -69,6 +81,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Healing Factor heals the bonded host. NPC.
 
 ### Ancestral symbiote dragon *(NPC only)*
+
+![Ancestral symbiote dragon](../Images/species-ancestral-symbiote-dragon.jpg){.illus}
+
 
 - **Size:** large · **Body:** winged biped
 - **Attributes:** STR +5 AGI −1 END +2 CHA −2 COU +2

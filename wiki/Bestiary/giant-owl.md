@@ -1,5 +1,9 @@
 # Giant owl
 
+![Giant owl](../Images/BE-269-bestiary-giant-owl.jpg){.illus}
+
+
+*Catalogue: BE-269*
 *Set: Expansion*
 
 *aka: ______________________________*

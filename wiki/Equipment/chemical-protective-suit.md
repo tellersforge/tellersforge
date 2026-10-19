@@ -1,5 +1,9 @@
 # Chemical protective suit
 
+![Chemical protective suit](../Images/GR-0269-equipment-chemical-protective-suit.jpg){.illus}
+
+
+*Catalogue: GR-0269*
 *Set: Expansion*
 
 *aka: ______________________________*

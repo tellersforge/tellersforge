@@ -1,5 +1,9 @@
 # Prayer beads
 
+![Prayer beads](../Images/GR-0754-equipment-prayer-beads.jpg){.illus}
+
+
+*Catalogue: GR-0754*
 *Set: Expansion*
 
 *aka: ______________________________*

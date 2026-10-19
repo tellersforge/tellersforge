@@ -1,5 +1,9 @@
 # Fire wyvern
 
+![Fire wyvern](../Images/BE-197-bestiary-fire-wyvern.jpg){.illus}
+
+
+*Catalogue: BE-197*
 *Set: Expansion*
 
 *aka: ______________________________*

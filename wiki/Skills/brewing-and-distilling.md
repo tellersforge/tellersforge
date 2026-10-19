@@ -1,5 +1,9 @@
 # Brewing & Distilling
 
+![Brewing & Distilling](../Images/SK-024-skills-brewing-and-distilling.jpg){.illus}
+
+
+*Catalogue: SK-024*
 *Set: Expansion*
 
 *aka: ______________________________*

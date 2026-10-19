@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 429 Golden-eyed tracker folk *(genres: space opera: near-humans)*
 
+![Golden-eyed tracker folk](../Images/species-golden-eyed-tracker-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Golden-eyed cat-folk trackers with sharp teeth and a nocturnal hunter's instincts, in high demand as bounty hunters. (looks like: cat; good at: keen senses, sneaking)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +1

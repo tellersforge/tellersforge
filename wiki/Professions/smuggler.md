@@ -1,5 +1,8 @@
 # Smuggler
 
+![Smuggler](../Images/professions-smuggler.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

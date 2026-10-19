@@ -1,5 +1,9 @@
 # Padded leather cap
 
+![Padded leather cap](../Images/GR-0699-equipment-padded-leather-cap.jpg){.illus}
+
+
+*Catalogue: GR-0699*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Signal flares
 
+![Signal flares](../Images/GR-0857-equipment-signal-flares.jpg){.illus}
+
+
+*Catalogue: GR-0857*
 *Set: Expansion*
 
 *aka: ______________________________*

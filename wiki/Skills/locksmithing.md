@@ -1,5 +1,9 @@
 # Locksmithing
 
+![Locksmithing](../Images/SK-119-skills-locksmithing.jpg){.illus}
+
+
+*Catalogue: SK-119*
 *Set: Expansion*
 
 *aka: ______________________________*

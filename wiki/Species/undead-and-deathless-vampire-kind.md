@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 783 Aristocratic immortal blood-drinker *(genres: gothic horror)*
 
+![Aristocratic immortal blood-drinker](../Images/species-aristocratic-immortal-blood-drinker.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Immortal, aristocratic blood-drinkers of great strength and senses, burned by sunlight and prone to brooding. (looks like: vampire; good at: strength, keen senses)
 - **Attributes:** STR +1 COU +2
@@ -50,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Decaying flesh-eating vampire *(NPC only)*
 
+![Decaying flesh-eating vampire](../Images/species-decaying-flesh-eating-vampire.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -61,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Insectile parasite-possessed vampire *(NPC only)*
 
+![Insectile parasite-possessed vampire](../Images/species-insectile-parasite-possessed-vampire.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -71,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Glamour-cloaked energy vampire *(NPC only)*
 
+![Glamour-cloaked energy vampire](../Images/species-glamour-cloaked-energy-vampire.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 CHA +1 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Intrigue & Politics](../Skills/intrigue-and-politics.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -80,6 +92,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Life Drain here feeds on life-energy or lust, not blood.
 
 ### No. 784 Disciplined self-controlled vampire *(genres: gothic horror)*
+
+![Disciplined self-controlled vampire](../Images/species-disciplined-self-controlled-vampire.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Disciplined vampires who've trained themselves to master their bloodlust rather than give in to it. (looks like: vampire; good at: strength, keen senses)
@@ -93,6 +108,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 785 Glittering venom vampire *(genres: gothic horror)*
 
+![Glittering venom vampire](../Images/species-glittering-venom-vampire.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Immortal vampires whose skin glitters rather than burns in daylight, blindingly fast and strong. (looks like: vampire; good at: speed and agility, strength)
 - **Attributes:** STR +1 COU +2
@@ -104,6 +122,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Sunlight makes the skin glitter, not burn: no sunlight flaw. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### No. 786 Color-draining half-demon vampire *(genres: gothic horror)*
+
+![Color-draining half-demon vampire](../Images/species-color-draining-half-demon-vampire.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Half-demon undead who drain colour and life from their victims instead of blood, and can change their shape at will. (looks like: vampire; good at: powers and magic, strength)
@@ -117,6 +138,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Firefly shapeshifting vampire *(NPC only)*
 
+![Firefly shapeshifting vampire](../Images/species-firefly-shapeshifting-vampire.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped+other
 - **Attributes:** STR −2 AGI +3 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -126,6 +150,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Animal Form is the firefly only.
 
 ### Finger-sucking small vampire *(NPC only)*
+
+![Finger-sucking small vampire](../Images/species-finger-sucking-small-vampire.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −1 AGI +2 CHA −2 COU +2

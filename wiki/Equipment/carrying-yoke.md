@@ -1,5 +1,9 @@
 # Carrying yoke
 
+![Carrying yoke](../Images/GR-0262-equipment-carrying-yoke.jpg){.illus}
+
+
+*Catalogue: GR-0262*
 *Set: Expansion*
 
 *aka: ______________________________*

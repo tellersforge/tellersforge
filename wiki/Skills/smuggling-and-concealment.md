@@ -1,5 +1,9 @@
 # Smuggling & Concealment
 
+![Smuggling & Concealment](../Images/SK-183-skills-smuggling-and-concealment.jpg){.illus}
+
+
+*Catalogue: SK-183*
 *Set: Expansion*
 
 *aka: ______________________________*

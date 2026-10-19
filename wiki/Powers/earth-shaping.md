@@ -1,5 +1,9 @@
 # Earth Shaping
 
+![Earth Shaping](../Images/PW-080-powers-earth-shaping.jpg){.illus}
+
+
+*Catalogue: PW-080*
 *Set: Core*
 
 *aka: ______________________________*

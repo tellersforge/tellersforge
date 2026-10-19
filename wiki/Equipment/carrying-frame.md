@@ -1,5 +1,9 @@
 # Carrying frame
 
+![Carrying frame](../Images/GR-0261-equipment-carrying-frame.jpg){.illus}
+
+
+*Catalogue: GR-0261*
 *Set: Core*
 
 *aka: ______________________________*

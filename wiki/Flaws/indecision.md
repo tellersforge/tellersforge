@@ -1,5 +1,8 @@
 # Indecision
 
+![Indecision](../Images/flaws-indecision.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when freezes at a choice.

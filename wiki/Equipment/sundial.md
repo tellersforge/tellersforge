@@ -1,5 +1,9 @@
 # Sundial
 
+![Sundial](../Images/GR-0932-equipment-sundial.jpg){.illus}
+
+
+*Catalogue: GR-0932*
 *Set: Expansion*
 
 *aka: ______________________________*

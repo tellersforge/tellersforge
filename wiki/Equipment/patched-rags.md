@@ -1,5 +1,9 @@
 # Patched rags
 
+![Patched rags](../Images/GR-0710-equipment-patched-rags.jpg){.illus}
+
+
+*Catalogue: GR-0710*
 *Set: Expansion*
 
 *aka: ______________________________*

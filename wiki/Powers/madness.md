@@ -1,5 +1,9 @@
 # Madness
 
+![Madness](../Images/PW-165-powers-madness.jpg){.illus}
+
+
+*Catalogue: PW-165*
 *Set: Expansion*
 
 *aka: ______________________________*

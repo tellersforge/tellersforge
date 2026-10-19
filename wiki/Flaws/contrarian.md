@@ -1,5 +1,8 @@
 # Contrarian
 
+![Contrarian](../Images/flaws-contrarian.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when argues against whatever anyone says.

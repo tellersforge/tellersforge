@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Spore-controller starfish overlord *(NPC only; NPC-scale)*
 
+![Spore-controller starfish overlord](../Images/species-spore-controller-starfish-overlord.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** AGI −3 END +1 INT +2 WIS +3 CHA −2 COU +3
 - **Skills:** [Formation Fighting](../Skills/formation-fighting.md) +3, [Logistics](../Skills/logistics.md) +2, [Signals](../Skills/signals.md) +2, [Composure](../Skills/composure.md) +1, [Insight](../Skills/insight.md) −1, [Storytelling & Conversation](../Skills/storytelling-and-conversation.md) −1, [Deception](../Skills/deception.md) −2

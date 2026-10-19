@@ -1,5 +1,9 @@
 # Medicine
 
+![Medicine](../Images/SK-127-skills-medicine.jpg){.illus}
+
+
+*Catalogue: SK-127*
 *Set: Core · Basic skill: Healing*
 
 *aka: ______________________________*

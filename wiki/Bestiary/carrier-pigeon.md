@@ -1,5 +1,9 @@
 # Carrier pigeon
 
+![Carrier pigeon](../Images/BE-089-bestiary-carrier-pigeon.jpg){.illus}
+
+
+*Catalogue: BE-089*
 *Set: Core*
 
 *aka: ______________________________*

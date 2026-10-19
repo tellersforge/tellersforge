@@ -1,7 +1,8 @@
 # Blunderbuss
 
-![Blunderbuss](../Images/weapons-blunderbuss.jpg){.illus}
+![Blunderbuss](../Images/GR-0009-weapons-blunderbuss.jpg){.illus}
 
+*Catalogue: GR-0009*
 *Set: Expansion*
 
 *aka: ______________________________*

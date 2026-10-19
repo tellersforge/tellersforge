@@ -1,5 +1,9 @@
 # Signal Ghosting
 
+![Signal Ghosting](../Images/PW-261-powers-signal-ghosting.jpg){.illus}
+
+
+*Catalogue: PW-261*
 *Set: Expansion*
 
 *aka: ______________________________*

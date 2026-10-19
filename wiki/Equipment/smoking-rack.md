@@ -1,5 +1,9 @@
 # Smoking rack
 
+![Smoking rack](../Images/GR-0886-equipment-smoking-rack.jpg){.illus}
+
+
+*Catalogue: GR-0886*
 *Set: Expansion*
 
 *aka: ______________________________*

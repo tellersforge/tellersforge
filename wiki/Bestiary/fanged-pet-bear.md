@@ -1,5 +1,9 @@
 # Fanged pet bear
 
+![Fanged pet bear](../Images/BE-185-bestiary-fanged-pet-bear.jpg){.illus}
+
+
+*Catalogue: BE-185*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Luck-Stealing
 
+![Luck-Stealing](../Images/PW-161-powers-luck-stealing.jpg){.illus}
+
+
+*Catalogue: PW-161*
 *Set: Expansion*
 
 *aka: ______________________________*

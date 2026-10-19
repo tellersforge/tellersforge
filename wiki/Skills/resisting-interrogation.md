@@ -1,5 +1,9 @@
 # Resisting Interrogation
 
+![Resisting Interrogation](../Images/SK-162-skills-resisting-interrogation.jpg){.illus}
+
+
+*Catalogue: SK-162*
 *Set: Expansion*
 
 *aka: ______________________________*

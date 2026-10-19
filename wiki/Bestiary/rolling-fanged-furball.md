@@ -1,5 +1,9 @@
 # Rolling fanged furball
 
+![Rolling fanged furball](../Images/BE-503-bestiary-rolling-fanged-furball.jpg){.illus}
+
+
+*Catalogue: BE-503*
 *Set: Expansion*
 
 *aka: ______________________________*

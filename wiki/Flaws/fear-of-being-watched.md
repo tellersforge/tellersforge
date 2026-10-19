@@ -1,5 +1,8 @@
 # Fear of Being Watched
 
+![Fear of Being Watched](../Images/flaws-fear-of-being-watched.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when being stared at, observed, spied on.

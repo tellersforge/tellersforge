@@ -1,7 +1,8 @@
 # Riding Horse
 
-![Riding horse](../Images/vehicles-riding-horse.jpg){.illus}
+![Riding horse](../Images/GR-1107-vehicles-riding-horse.jpg){.illus}
 
+*Catalogue: GR-1107*
 *Set: Core*
 
 

@@ -1,5 +1,9 @@
 # Summon Creature
 
+![Summon Creature](../Images/PW-280-powers-summon-creature.jpg){.illus}
+
+
+*Catalogue: PW-280*
 *Set: Core*
 
 *aka: ______________________________*

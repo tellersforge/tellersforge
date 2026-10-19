@@ -1,5 +1,9 @@
 # Running shoes
 
+![Running shoes](../Images/GR-0808-equipment-running-shoes.jpg){.illus}
+
+
+*Catalogue: GR-0808*
 *Set: Expansion*
 
 *aka: ______________________________*

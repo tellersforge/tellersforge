@@ -1,5 +1,9 @@
 # Maw demon
 
+![Maw demon](../Images/BE-411-bestiary-maw-demon.jpg){.illus}
+
+
+*Catalogue: BE-411*
 *Set: Core*
 
 *aka: ______________________________*

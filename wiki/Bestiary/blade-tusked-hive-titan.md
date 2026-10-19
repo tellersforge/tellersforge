@@ -1,5 +1,9 @@
 # Blade-tusked hive titan
 
+![Blade-tusked hive titan](../Images/BE-049-bestiary-blade-tusked-hive-titan.jpg){.illus}
+
+
+*Catalogue: BE-049*
 *Set: Expansion*
 
 *aka: ______________________________*

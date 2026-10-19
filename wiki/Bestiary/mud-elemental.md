@@ -1,5 +1,9 @@
 # Mud elemental
 
+![Mud elemental](../Images/BE-426-bestiary-mud-elemental.jpg){.illus}
+
+
+*Catalogue: BE-426*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Great helm or visored helmet
 
-![Great helm](../Images/armour-great-helm-or-visored-helmet.jpg){.illus}
+![Great helm](../Images/GR-0139-armour-great-helm-or-visored-helmet.jpg){.illus}
 
+*Catalogue: GR-0139*
 *Set: Expansion*
 
 *aka: ______________________________*

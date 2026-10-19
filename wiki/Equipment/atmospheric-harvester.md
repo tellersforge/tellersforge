@@ -1,5 +1,9 @@
 # Atmospheric harvester
 
+![Atmospheric harvester](../Images/GR-0194-equipment-atmospheric-harvester.jpg){.illus}
+
+
+*Catalogue: GR-0194*
 *Set: Expansion*
 
 *aka: ______________________________*

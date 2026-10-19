@@ -1,5 +1,9 @@
 # Speedboat
 
+![Speedboat](../Images/GR-1120-vehicles-speedboat.jpg){.illus}
+
+
+*Catalogue: GR-1120*
 *Set: Core*
 
 

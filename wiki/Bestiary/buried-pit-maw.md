@@ -1,7 +1,8 @@
 # Buried pit maw
 
-![Buried pit maw](../Images/bestiary-buried-pit-maw.jpg){.illus}
+![Buried pit maw](../Images/BE-081-bestiary-buried-pit-maw.jpg){.illus}
 
+*Catalogue: BE-081*
 *Set: Expansion*
 
 *aka: ______________________________*

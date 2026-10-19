@@ -1,5 +1,9 @@
 # Terror bird
 
+![Terror bird](../Images/BE-618-bestiary-terror-bird.jpg){.illus}
+
+
+*Catalogue: BE-618*
 *Set: Expansion*
 
 *aka: ______________________________*

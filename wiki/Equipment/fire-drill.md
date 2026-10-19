@@ -1,5 +1,9 @@
 # Fire drill
 
+![Fire drill](../Images/GR-0410-equipment-fire-drill.jpg){.illus}
+
+
+*Catalogue: GR-0410*
 *Set: Core*
 
 *aka: ______________________________*

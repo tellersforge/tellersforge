@@ -1,5 +1,9 @@
 # Flesh-eating horse
 
+![Flesh-eating horse](../Images/BE-202-bestiary-flesh-eating-horse.jpg){.illus}
+
+
+*Catalogue: BE-202*
 *Set: Core*
 
 *aka: ______________________________*

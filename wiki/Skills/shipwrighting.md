@@ -1,5 +1,9 @@
 # Shipwrighting
 
+![Shipwrighting](../Images/SK-178-skills-shipwrighting.jpg){.illus}
+
+
+*Catalogue: SK-178*
 *Set: Expansion*
 
 *aka: ______________________________*

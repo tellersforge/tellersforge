@@ -1,5 +1,8 @@
 # Fear of Firearms
 
+![Fear of Firearms](../Images/flaws-fear-of-firearms.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when guns and shooting.

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 17 Beast-bonded psychic folk *(genres: classic fantasy)*
 
+![Beast-bonded psychic folk](../Images/species-beast-bonded-psychic-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Scouts bonded mind-to-mind with an animal partner, sharing its senses and heart. (looks like: human; good at: wilderness, powers and magic, keen senses)
 - **Attributes:** none
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Their gift is an innate mind-bond with an animal partner, sharing senses and feelings.
 
 ### No. 18 Pacifist telepathic colonist folk *(genres: space opera: near-humans)*
+
+![Pacifist telepathic colonist folk](../Images/species-pacifist-telepathic-colonist-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Peaceful farming colonists who speak mind-to-mind instead of aloud. (looks like: human; good at: powers and magic, people and talk)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 19 Space-born psychic folk *(genres: space opera: near-humans, near future and cyberpunk)*
 
+![Space-born psychic folk](../Images/species-space-born-psychic-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Space-born folk with a flicker of foresight and a knack for zero gravity. (looks like: human; good at: powers and magic, keen senses)
 - **Attributes:** none
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Generations in space give a keen spatial sense and a flash of foresight in danger.
 
 ### No. 20 Void/star-touched psychic folk *(genres: space opera: near-humans)*
+
+![Void/star-touched psychic folk](../Images/species-void-star-touched-psychic-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pale, faintly glowing wanderers touched by the void, with a flicker of second sight. (looks like: human; good at: powers and magic, keen senses)
@@ -65,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 21 Short-lived psionic folk *(genres: space opera: near-humans)*
 
+![Short-lived psionic folk](../Images/species-short-lived-psionic-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Big-eyed cave folk who live barely nine years but think sharp and strange. (looks like: goblin; good at: powers and magic, keen senses, speed and agility)
 - **Attributes:** STR −2 AGI +2
@@ -75,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Telekinesis is affinity. Their nine-year lifespan is a flaw, not a line.
 
 ### No. 22 Twin-linked psychic folk *(genres: space opera: near-humans)*
+
+![Twin-linked psychic folk](../Images/species-twin-linked-psychic-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Twins bound by an unbreakable psychic link, feeling each other's every thought. (looks like: human; good at: powers and magic, people and talk)
@@ -87,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 23 Large-headed telepathic scholar folk *(genres: space opera: near-humans)*
 
+![Large-headed telepathic scholar folk](../Images/species-large-headed-telepathic-scholar-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Big-headed scholars who read minds and think deep, quiet thoughts. (looks like: human; good at: powers and magic, knowledge)
 - **Attributes:** STR −1 INT +1
@@ -97,6 +118,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 24 Cold-adapted telepathic hunter folk *(genres: space opera: near-humans)*
 
+![Cold-adapted telepathic hunter folk](../Images/species-cold-adapted-telepathic-hunter-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Furry cold-country hunters who coordinate every hunt with a shared, silent mindsense. (looks like: human; good at: wilderness, powers and magic, toughness)
 - **Attributes:** END +1
@@ -106,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Fur and fat for deep cold, and a mild telepathic sense for hunting together.
 
 ### No. 25 Tattooed psychic seafaring folk *(genres: after the fall, multiverse and time)*
+
+![Tattooed psychic seafaring folk](../Images/species-tattooed-psychic-seafaring-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tattooed seafarers whose ink magic wards off harm and keeps their island isolated. (looks like: human; good at: powers and magic, toughness)
@@ -118,6 +145,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 26 Telepathic/empathic near-human folk *(genres: space opera: near-humans)*
 
+![Telepathic/empathic near-human folk](../Images/species-telepathic-empathic-near-human-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Near-human people who read minds and feel others' emotions as their own. (looks like: human; good at: powers and magic, people and talk)
 - **Attributes:** none
@@ -128,6 +158,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 27 Stress-awakened psionic folk *(genres: super-powered: mutants and the enhanced)*
 
+![Stress-awakened psionic folk](../Images/species-stress-awakened-psionic-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary-seeming people whose hidden mind-powers burst out only under extreme stress. (looks like: human; good at: powers and magic, keen senses)
 - **Attributes:** none
@@ -137,6 +170,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* On awakening, the GM Sets one psychic power at 1 or 2 for that character.
 
 ### No. 28 Void-sighted navigator folk *(genres: space opera: near-humans)*
+
+![Void-sighted navigator folk](../Images/species-void-sighted-navigator-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Frail, secretive navigators with a mutant third eye that steers ships through the void. (looks like: human; good at: powers and magic, knowledge)

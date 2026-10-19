@@ -1,7 +1,8 @@
 # Arming Sword
 
-![Arming sword](../Images/weapons-arming-sword.jpg){.illus}
+![Arming sword](../Images/GR-0001-weapons-arming-sword.jpg){.illus}
 
+*Catalogue: GR-0001*
 *Set: Core*
 
 *aka: ______________________________*

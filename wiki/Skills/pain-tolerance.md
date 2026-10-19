@@ -1,5 +1,9 @@
 # Pain Tolerance
 
+![Pain Tolerance](../Images/SK-144-skills-pain-tolerance.jpg){.illus}
+
+
+*Catalogue: SK-144*
 *Set: Core*
 
 *aka: ______________________________*

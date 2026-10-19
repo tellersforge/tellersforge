@@ -1,5 +1,8 @@
 # Rodent
 
+![Rodent](../Images/species-families-rodent.jpg){.illus}
+
+
 
 Rats, mice, squirrels, voles and their many kin, and the peoples shaped from them. They are small, quick, clever and everywhere. Gnawing teeth that never stop growing, twitching whiskers and nimble paws let them get into anything, and large families let them survive almost anything. The family holds sewer-wise rat folk, tree-top squirrel scouts, burrowing villages, speedy forest runners, shrewd trader peoples from other worlds, and unlucky beasts bred or mutated into pests. Larger peoples look down on them, literally and otherwise, and are then surprised to find the rodents running the market.
 

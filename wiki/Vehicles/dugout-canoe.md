@@ -1,7 +1,8 @@
 # Dugout Canoe
 
-![Dugout canoe](../Images/vehicles-dugout-canoe.jpg){.illus}
+![Dugout canoe](../Images/GR-1066-vehicles-dugout-canoe.jpg){.illus}
 
+*Catalogue: GR-1066*
 *Set: Core*
 
 

@@ -1,5 +1,8 @@
 # Glory-Hound
 
+![Glory-Hound](../Images/flaws-glory-hound.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when must be seen, must take the credit, shows off.

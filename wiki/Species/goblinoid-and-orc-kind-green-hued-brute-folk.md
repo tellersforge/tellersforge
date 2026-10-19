@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 473 Fungoid spore-born orc *(genres: space opera: strange aliens)*
 
+![Fungoid spore-born orc](../Images/species-fungoid-spore-born-orc.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Spore-born orcs grown fresh from fungal roots, incredibly tough and always ready for a fight. (looks like: mushroom; good at: toughness, fighting)
 - **Attributes:** STR +3 AGI −2 END +2 INT −2 CHA −1 COU +2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Incredibly tough and indifferent to pain.
 
 ### No. 474 Small unstable goblinoid tinkerer *(genres: space opera: strange aliens)*
+
+![Small unstable goblinoid tinkerer](../Images/species-small-unstable-goblinoid-tinkerer.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** A small, jumpy goblin engineer whose gadgets are brilliant right up until they explode. (looks like: goblin; good at: making and fixing, sneaking)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 475 Savage forest orc *(genres: classic fantasy)*
 
+![Savage forest orc](../Images/species-savage-forest-orc.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Strong forest orcs whose battle-rage fuels a wild magic all its own, fighting in loose tribal warbands. (looks like: orc; good at: strength, fighting)
 - **Attributes:** STR +4 AGI −2 END +1 INT −1 WIS −1 CHA −1 COU +2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Battle Fury is fed by the warband's fervour.
 
 ### Tiny scavenger goblinoid *(NPC only)*
+
+![Tiny scavenger goblinoid](../Images/species-tiny-scavenger-goblinoid.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 END +1 INT −4 CHA −1 COU −2

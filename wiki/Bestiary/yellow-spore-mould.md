@@ -1,5 +1,9 @@
 # Yellow spore mould
 
+![Yellow spore mould](../Images/BE-692-bestiary-yellow-spore-mould.jpg){.illus}
+
+
+*Catalogue: BE-692*
 *Set: Expansion*
 
 *aka: ______________________________*

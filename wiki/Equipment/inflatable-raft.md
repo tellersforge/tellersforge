@@ -1,5 +1,9 @@
 # Inflatable raft
 
+![Inflatable raft](../Images/GR-0559-equipment-inflatable-raft.jpg){.illus}
+
+
+*Catalogue: GR-0559*
 *Set: Expansion*
 
 *aka: ______________________________*

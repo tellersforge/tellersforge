@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 765 Pocket-space wanderer *(genres: multiverse and time)*
 
+![Pocket-space wanderer](../Images/species-pocket-space-wanderer.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Tiny wanderers from a pocket dimension outside normal space-time, capable of small reality-bending tricks. (looks like: fairy; good at: powers and magic, sneaking)
 - **Attributes:** STR −2 AGI +2 INT +1 WIS +1 PER +1 CHA −1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Plane Shift is limited dimension-hopping; their minor reality tricks are flavour of it.
 
 ### No. 766 Demiplane hermit *(genres: heavens, hells and other planes)*
+
+![Demiplane hermit](../Images/species-demiplane-hermit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Hermits who live inside their own private pocket dimension, shaped and reshaped by their own memories. (looks like: human; good at: powers and magic, knowledge)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pocket-realm caretaker *(NPC only)*
 
+![Pocket-realm caretaker](../Images/species-pocket-realm-caretaker.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (very long-lived while its realm persists) is a lexicon detail, not a game number.
 
 ### Wood-between-worlds dweller *(NPC only)*
+
+![Wood-between-worlds dweller](../Images/species-wood-between-worlds-dweller.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** INT +1 WIS −1 CHA −1
@@ -66,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sigma-space enigma dweller *(NPC only; NPC-scale)*
 
+![Sigma-space enigma dweller](../Images/species-sigma-space-enigma-dweller.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -76,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Limbo-exiled fading wraith *(NPC only)*
 
+![Limbo-exiled fading wraith](../Images/species-limbo-exiled-fading-wraith.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -85,6 +103,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Fading is a flaw, not a line.
 
 ### No. 767 Pocket-realm colony descendant *(genres: fairy tale and folklore)*
+
+![Pocket-realm colony descendant](../Images/species-pocket-realm-colony-descendant.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Descendants of a lost colony that vanished into a hidden pocket realm centuries ago, still practising real folk-magic. (looks like: human; good at: powers and magic, knowledge)

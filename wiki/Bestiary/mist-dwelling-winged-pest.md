@@ -1,5 +1,9 @@
 # Mist-dwelling winged pest
 
+![Mist-dwelling winged pest](../Images/BE-417-bestiary-mist-dwelling-winged-pest.jpg){.illus}
+
+
+*Catalogue: BE-417*
 *Set: Expansion*
 
 *aka: ______________________________*

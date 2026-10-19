@@ -1,5 +1,9 @@
 # Swamp drake
 
+![Swamp drake](../Images/BE-605-bestiary-swamp-drake.jpg){.illus}
+
+
+*Catalogue: BE-605*
 *Set: Expansion*
 
 *aka: ______________________________*

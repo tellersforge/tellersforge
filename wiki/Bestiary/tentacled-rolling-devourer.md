@@ -1,5 +1,9 @@
 # Tentacled rolling devourer
 
+![Tentacled rolling devourer](../Images/BE-614-bestiary-tentacled-rolling-devourer.jpg){.illus}
+
+
+*Catalogue: BE-614*
 *Set: Expansion*
 
 *aka: ______________________________*

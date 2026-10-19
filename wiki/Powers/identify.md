@@ -1,5 +1,9 @@
 # Identify
 
+![Identify](../Images/PW-135-powers-identify.jpg){.illus}
+
+
+*Catalogue: PW-135*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Nue
 
-![Nue](../Images/bestiary-nue.jpg){.illus}
+![Nue](../Images/BE-442-bestiary-nue.jpg){.illus}
 
+*Catalogue: BE-442*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Hacking
 
+![Hacking](../Images/SK-086-skills-hacking.jpg){.illus}
+
+
+*Catalogue: SK-086*
 *Set: Expansion*
 
 *aka: ______________________________*

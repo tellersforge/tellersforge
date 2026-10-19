@@ -1,5 +1,9 @@
 # Leg chain
 
+![Leg chain](../Images/GR-0592-equipment-leg-chain.jpg){.illus}
+
+
+*Catalogue: GR-0592*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Stench ghoul
 
-![Stench ghoul](../Images/bestiary-stench-ghoul.jpg){.illus}
+![Stench ghoul](../Images/BE-594-bestiary-stench-ghoul.jpg){.illus}
 
+*Catalogue: BE-594*
 *Set: Expansion*
 
 *aka: ______________________________*

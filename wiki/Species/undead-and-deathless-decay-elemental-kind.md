@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Rot-and-plague avatar *(NPC only; NPC-scale)*
 
+![Rot-and-plague avatar](../Images/species-rot-and-plague-avatar.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 END +4 INT +1 WIS +1 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Poisons & Antidotes](../Skills/poisons-and-antidotes.md) +2, [Composure](../Skills/composure.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept

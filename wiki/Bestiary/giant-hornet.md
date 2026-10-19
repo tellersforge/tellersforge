@@ -1,5 +1,9 @@
 # Giant hornet
 
+![Giant hornet](../Images/BE-257-bestiary-giant-hornet.jpg){.illus}
+
+
+*Catalogue: BE-257*
 *Set: Expansion*
 
 *aka: ______________________________*

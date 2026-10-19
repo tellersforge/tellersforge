@@ -1,5 +1,9 @@
 # Portable writing desk
 
+![Portable writing desk](../Images/GR-0746-equipment-portable-writing-desk.jpg){.illus}
+
+
+*Catalogue: GR-0746*
 *Set: Expansion*
 
 *aka: ______________________________*

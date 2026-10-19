@@ -1,5 +1,9 @@
 # Power drill
 
+![Power drill](../Images/GR-0750-equipment-power-drill.jpg){.illus}
+
+
+*Catalogue: GR-0750*
 *Set: Expansion*
 
 *aka: ______________________________*

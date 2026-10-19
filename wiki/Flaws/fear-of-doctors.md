@@ -1,5 +1,8 @@
 # Fear of Doctors
 
+![Fear of Doctors](../Images/flaws-fear-of-doctors.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when healers, surgeons, being treated.

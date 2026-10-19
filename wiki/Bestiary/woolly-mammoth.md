@@ -1,7 +1,8 @@
 # Woolly mammoth
 
-![Woolly mammoth](../Images/bestiary-woolly-mammoth.jpg){.illus}
+![Woolly mammoth](../Images/BE-683-bestiary-woolly-mammoth.jpg){.illus}
 
+*Catalogue: BE-683*
 *Set: Core*
 
 *aka: ______________________________*

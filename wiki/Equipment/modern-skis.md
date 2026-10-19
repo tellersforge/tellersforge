@@ -1,5 +1,9 @@
 # Modern skis
 
+![Modern skis](../Images/GR-0657-equipment-modern-skis.jpg){.illus}
+
+
+*Catalogue: GR-0657*
 *Set: Expansion*
 
 *aka: ______________________________*

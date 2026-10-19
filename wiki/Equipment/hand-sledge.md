@@ -1,5 +1,9 @@
 # Hand sledge
 
+![Hand sledge](../Images/GR-0495-equipment-hand-sledge.jpg){.illus}
+
+
+*Catalogue: GR-0495*
 *Set: Core*
 
 *aka: ______________________________*

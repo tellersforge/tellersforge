@@ -1,5 +1,9 @@
 # Sea-cliff puffbird
 
+![Sea-cliff puffbird](../Images/BE-524-bestiary-sea-cliff-puffbird.jpg){.illus}
+
+
+*Catalogue: BE-524*
 *Set: Expansion*
 
 *aka: ______________________________*

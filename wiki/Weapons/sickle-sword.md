@@ -1,7 +1,8 @@
 # Sickle Sword
 
-![Sickle sword](../Images/weapons-sickle-sword.jpg){.illus}
+![Sickle sword](../Images/GR-0095-weapons-sickle-sword.jpg){.illus}
 
+*Catalogue: GR-0095*
 *Set: Core*
 
 *aka: ______________________________*

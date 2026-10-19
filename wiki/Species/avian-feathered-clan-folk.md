@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Clan-honor feathered folk *(NPC only)*
 
+![Clan-honor feathered folk](../Images/species-clan-honor-feathered-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 WIS +1 PER +2
 - **Skills:** [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Intrigue & Politics](../Skills/intrigue-and-politics.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1

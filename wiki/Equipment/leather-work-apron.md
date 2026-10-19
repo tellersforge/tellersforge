@@ -1,5 +1,9 @@
 # Leather work apron
 
+![Leather work apron](../Images/GR-0590-equipment-leather-work-apron.jpg){.illus}
+
+
+*Catalogue: GR-0590*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Endurance Without Need
 
+![Endurance Without Need](../Images/PW-086-powers-endurance-without-need.jpg){.illus}
+
+
+*Catalogue: PW-086*
 *Set: Expansion*
 
 *aka: ______________________________*

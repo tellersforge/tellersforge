@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 380 Insectoid raider folk *(genres: heavens, hells and other planes)*
 
+![Insectoid raider folk](../Images/species-insectoid-raider-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Red-skinned elf-kin raiders from beyond the world, psychic and deadly on the battlefield. (looks like: elf; good at: powers and magic, fighting)
 - **Attributes:** AGI +2 END −1 INT +1 PER +2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A martial raider people.
 
 ### No. 381 Monastic ascetic folk *(genres: heavens, hells and other planes)*
+
+![Monastic ascetic folk](../Images/species-monastic-ascetic-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pale, disciplined elf-kin who live as psychic monks, mastering their minds through quiet meditation. (looks like: elf; good at: powers and magic, knowledge)

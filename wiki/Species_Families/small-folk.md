@@ -1,5 +1,8 @@
 # Small folk
 
+![Small folk](../Images/species-families-small-folk.jpg){.illus}
+
+
 
 The little peoples of hearth, burrow and hedgerow. Some are sturdy dwarves and inventive gnomes, some are homely hole-dwellers fond of their dinner, and some are household spirits who mend shoes by night. The family also holds one-legged hoppers from old travellers' tales, fierce thumb-sized warriors, scaly trap-setting diggers, bred posthumans, and tiny visitors from far worlds. Being small unites them, and so does being overlooked, which they turn into an art. They slip through gaps, go unnoticed in a crowd and are rarely the first target. Big folk tend to underestimate them, which small folk find both annoying and extremely useful.
 

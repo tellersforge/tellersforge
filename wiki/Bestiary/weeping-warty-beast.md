@@ -1,5 +1,9 @@
 # Weeping warty beast
 
+![Weeping warty beast](../Images/BE-667-bestiary-weeping-warty-beast.jpg){.illus}
+
+
+*Catalogue: BE-667*
 *Set: Core*
 
 *aka: ______________________________*

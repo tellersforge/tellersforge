@@ -1,5 +1,9 @@
 # Acupuncture needles
 
+![Acupuncture needles](../Images/GR-0173-equipment-acupuncture-needles.jpg){.illus}
+
+
+*Catalogue: GR-0173*
 *Set: Core*
 
 *aka: ______________________________*

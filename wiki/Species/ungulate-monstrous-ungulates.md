@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pure-beast unicorn *(beast)*
 
+![Pure-beast unicorn](../Images/species-pure-beast-unicorn.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** STR +1 AGI +1 END +1 INT −3 WIS +2 CHA +3
 - **Skills:** [Running](../Skills/running.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Its horn neutralises poison.
 
 ### Noxious bull-beast *(beast)*
+
+![Noxious bull-beast](../Images/species-noxious-bull-beast.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +3 AGI −2 END +1 INT −3 CHA −2
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Colossal behemoth *(beast; NPC-scale)*
 
+![Colossal behemoth](../Images/species-colossal-behemoth.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** quadruped
 - **Attributes:** STR +10 AGI −6 END +4 INT −3
 - **Skills:** [Running](../Skills/running.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) Foreign Concept
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs only in its immense size and strength.
 
 ### Horned armored arena beast *(beast)*
+
+![Horned armored arena beast](../Images/species-horned-armored-arena-beast.jpg){.illus}
+
 
 - **Size:** huge · **Body:** quadruped+horned
 - **Attributes:** STR +6 AGI −4 END +3 INT −3 COU +2
@@ -62,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Armoured hide.
 
 ### Domesticated ranch beast *(beast)*
+
+![Domesticated ranch beast](../Images/species-domesticated-ranch-beast.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +3 AGI −2 END +1 INT −3 COU −2

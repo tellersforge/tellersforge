@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 701 Kitsune *(genres: fairy tale and folklore)*
 
+![Kitsune](../Images/species-kitsune.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed(shift)
 - **What it's like:** Long-lived fox spirits who shift between fox and human shape, their tails marking how old and powerful they are. (looks like: fox; good at: powers and magic, people and talk)
 - **Attributes:** STR −1 AGI +1 WIS −1 CHA +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### Huli jing (nine-tailed fox) *(NPC only)*
+
+![Huli jing (nine-tailed fox)](../Images/species-huli-jing-nine-tailed-fox.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed(shift)
 - **Attributes:** STR −1 AGI +1 CHA +4

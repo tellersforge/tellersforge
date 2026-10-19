@@ -1,5 +1,8 @@
 # Fear of Spiders
 
+![Fear of Spiders](../Images/flaws-fear-of-spiders.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when spiders, webs.

@@ -1,5 +1,9 @@
 # Rowing & Paddling
 
+![Rowing & Paddling](../Images/SK-167-skills-rowing-and-paddling.jpg){.illus}
+
+
+*Catalogue: SK-167*
 *Set: Expansion*
 
 *aka: ______________________________*

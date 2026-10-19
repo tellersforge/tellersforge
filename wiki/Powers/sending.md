@@ -1,5 +1,9 @@
 # Sending
 
+![Sending](../Images/PW-254-powers-sending.jpg){.illus}
+
+
+*Catalogue: PW-254*
 *Set: Expansion*
 
 *aka: ______________________________*

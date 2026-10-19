@@ -1,5 +1,9 @@
 # Leap
 
+![Leap](../Images/PW-148-powers-leap.jpg){.illus}
+
+
+*Catalogue: PW-148*
 *Set: Core*
 
 *aka: ______________________________*

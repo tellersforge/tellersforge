@@ -1,5 +1,9 @@
 # Wampus cat
 
+![Wampus cat](../Images/BE-659-bestiary-wampus-cat.jpg){.illus}
+
+
+*Catalogue: BE-659*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Headscarf
 
+![Headscarf](../Images/GR-0512-equipment-headscarf.jpg){.illus}
+
+
+*Catalogue: GR-0512*
 *Set: Core*
 
 *aka: ______________________________*

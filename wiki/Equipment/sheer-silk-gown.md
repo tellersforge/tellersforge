@@ -1,5 +1,9 @@
 # Sheer silk gown
 
+![Sheer silk gown](../Images/GR-0844-equipment-sheer-silk-gown.jpg){.illus}
+
+
+*Catalogue: GR-0844*
 *Set: Expansion*
 
 *aka: ______________________________*

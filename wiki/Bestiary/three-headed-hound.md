@@ -1,7 +1,8 @@
 # Three-headed hound
 
-![Three-headed hound](../Images/bestiary-three-headed-hound.jpg){.illus}
+![Three-headed hound](../Images/BE-619-bestiary-three-headed-hound.jpg){.illus}
 
+*Catalogue: BE-619*
 *Set: Core*
 
 *aka: ______________________________*

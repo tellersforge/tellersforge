@@ -1,5 +1,9 @@
 # Counter-Curse
 
+![Counter-Curse](../Images/PW-052-powers-counter-curse.jpg){.illus}
+
+
+*Catalogue: PW-052*
 *Set: Expansion*
 
 *aka: ______________________________*

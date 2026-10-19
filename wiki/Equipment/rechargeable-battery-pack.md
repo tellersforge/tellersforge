@@ -1,5 +1,9 @@
 # Rechargeable battery pack
 
+![Rechargeable battery pack](../Images/GR-0784-equipment-rechargeable-battery-pack.jpg){.illus}
+
+
+*Catalogue: GR-0784*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Rucksack
 
+![Rucksack](../Images/GR-0807-equipment-rucksack.jpg){.illus}
+
+
+*Catalogue: GR-0807*
 *Set: Core*
 
 *aka: ______________________________*

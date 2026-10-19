@@ -1,5 +1,9 @@
 # Heated suit
 
+![Heated suit](../Images/GR-0514-equipment-heated-suit.jpg){.illus}
+
+
+*Catalogue: GR-0514*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Reticulated python
 
+![Reticulated python](../Images/BE-488-bestiary-reticulated-python.jpg){.illus}
+
+
+*Catalogue: BE-488*
 *Set: Core*
 
 *aka: ______________________________*

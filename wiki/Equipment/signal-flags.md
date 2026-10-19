@@ -1,5 +1,9 @@
 # Signal flags
 
+![Signal flags](../Images/GR-0855-equipment-signal-flags.jpg){.illus}
+
+
+*Catalogue: GR-0855*
 *Set: Expansion*
 
 *aka: ______________________________*

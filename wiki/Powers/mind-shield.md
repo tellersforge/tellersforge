@@ -1,5 +1,9 @@
 # Mind Shield
 
+![Mind Shield](../Images/PW-186-powers-mind-shield.jpg){.illus}
+
+
+*Catalogue: PW-186*
 *Set: Expansion*
 
 *aka: ______________________________*

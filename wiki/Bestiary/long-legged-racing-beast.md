@@ -1,5 +1,9 @@
 # Long-legged racing beast
 
+![Long-legged racing beast](../Images/BE-398-bestiary-long-legged-racing-beast.jpg){.illus}
+
+
+*Catalogue: BE-398*
 *Set: Expansion*
 
 *aka: ______________________________*

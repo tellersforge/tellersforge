@@ -1,5 +1,9 @@
 # Purification
 
+![Purification](../Images/PW-234-powers-purification.jpg){.illus}
+
+
+*Catalogue: PW-234*
 *Set: Expansion*
 
 *aka: ______________________________*

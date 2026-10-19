@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Worm guy *(NPC only)*
 
+![Worm guy](../Images/species-worm-guy.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +3 END −1 CHA +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Streetwise](../Skills/streetwise.md) +1, [Running](../Skills/running.md) −2, [Jumping](../Skills/jumping.md) −3, [Riding](../Skills/riding.md) Foreign Concept

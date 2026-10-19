@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 401 Tiger-folk *(genres: beast-folk: fur)*
 
+![Tiger-folk](../Images/species-tiger-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Striped, powerful tiger-folk who hunt alone in the jungle, ferocious in a fight and strong swimmers besides. (looks like: cat; good at: fighting, swimming)
 - **Attributes:** STR +2 AGI −1 WIS +1
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Powerful swimmers, unlike most cats, with striped camouflage.
 
 ### No. 402 Leopard-folk *(genres: beast-folk: fur)*
+
+![Leopard-folk](../Images/species-leopard-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Spotted leopard-folk, superb climbers who stalk alone and can drag prey twice their weight up into the trees. (looks like: cat; good at: climbing, sneaking)
@@ -62,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 403 Snow cat folk *(genres: beast-folk: fur)*
 
+![Snow cat folk](../Images/species-snow-cat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Thick-furred snow cat-folk who balance along mountain cliffs with a long tail, elusive as ghosts in the high cold. (looks like: cat; good at: climbing, sneaking)
 - **Attributes:** STR −1 AGI +2 WIS +1
@@ -74,6 +83,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 404 Cheetah-folk *(genres: beast-folk: fur)*
 
+![Cheetah-folk](../Images/species-cheetah-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Lean, savanna-born cheetah-folk built for blistering short sprints, though they tire fast if the chase runs long. (looks like: cat; good at: speed and agility, wilderness)
 - **Attributes:** STR −2 AGI +3 END −1 WIS +1
@@ -85,6 +97,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Exceptional sprinters with even less stamina than other cats.
 
 ### No. 405 Lynx/bobcat folk *(genres: beast-folk: fur)*
+
+![Lynx/bobcat folk](../Images/species-lynx-bobcat-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Tufted-eared lynx-folk with astonishing hearing, ambushing prey through cold forests on short, quiet paws. (looks like: cat; good at: keen senses, sneaking)
@@ -99,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 406 House-cat folk *(genres: beast-folk: fur; starter)*
 
+![House-cat folk](../Images/species-house-cat-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Quick, curious cat people with sharp reflexes and a proudly independent streak. (looks like: cat; good at: sneaking, climbing, speed and agility)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1
@@ -110,6 +128,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; coat, size and culture go on the lexicon entry.
 
 ### No. 407 Desert cat folk *(genres: beast-folk: fur)*
+
+![Desert cat folk](../Images/species-desert-cat-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Big-eared desert cat-folk who hunt by night, cool-headed in the worst heat and fiercely independent. (looks like: cat; good at: sneaking, wilderness)
@@ -123,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 408 Jungle cat folk *(genres: beast-folk: fur)*
 
+![Jungle cat folk](../Images/species-jungle-cat-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Powerful, rosette-marked jungle cat-folk who swim strongly and ambush prey from the water with a bone-crushing bite. (looks like: cat; good at: swimming, fighting)
 - **Attributes:** STR +2 END −1 WIS +1
@@ -134,6 +158,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Strong swimmers with a skull-crushing bite who ambush from water.
 
 ### No. 409 Black panther/melanistic folk *(genres: beast-folk: fur)*
+
+![Black panther/melanistic folk](../Images/species-black-panther-melanistic-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Dark-coated panther-folk who vanish into the night, solitary hunters with a quiet jungle tribal culture. (looks like: cat; good at: sneaking, fighting)
@@ -147,6 +174,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Saber-tooth folk *(beast)*
 
+![Saber-tooth folk](../Images/species-saber-tooth-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +3 INT −3 WIS +1 CHA −2
 - **Skills:** [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -157,6 +187,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Huge fangs and a powerful forelimb grapple.
 
 ### No. 410 Cougar/puma folk *(genres: beast-folk: fur)*
+
+![Cougar/puma folk](../Images/species-cougar-puma-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Powerful-legged cougar-folk who leap enormous distances, hunting alone across almost any mountain terrain. (looks like: cat; good at: speed and agility, climbing)
@@ -170,6 +203,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Serval-folk *(NPC only)*
 
+![Serval-folk](../Images/species-serval-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -181,6 +217,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Enhanced Senses is hearing.
 
 ### No. 411 Climbing scout cat-folk *(genres: beast-folk: fur)*
+
+![Climbing scout cat-folk](../Images/species-climbing-scout-cat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Curious, sharp-clawed cat-folk scouts who climb anything and see clearly in the dark, some with a knack for small illusions. (looks like: cat; good at: climbing, keen senses)

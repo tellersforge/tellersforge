@@ -1,5 +1,9 @@
 # Camp axe
 
+![Camp axe](../Images/GR-0248-equipment-camp-axe.jpg){.illus}
+
+
+*Catalogue: GR-0248*
 *Set: Expansion*
 
 *aka: ______________________________*

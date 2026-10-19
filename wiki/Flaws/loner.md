@@ -1,5 +1,8 @@
 # Loner
 
+![Loner](../Images/flaws-loner.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when goes off alone, won't cooperate.

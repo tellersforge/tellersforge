@@ -1,5 +1,9 @@
 # Toe rings and anklets
 
+![Toe rings and anklets](../Images/GR-0961-equipment-toe-rings-and-anklets.jpg){.illus}
+
+
+*Catalogue: GR-0961*
 *Set: Expansion*
 
 *aka: ______________________________*

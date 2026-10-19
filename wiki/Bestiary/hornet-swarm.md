@@ -1,5 +1,9 @@
 # Hornet swarm
 
+![Hornet swarm](../Images/BE-348-bestiary-hornet-swarm.jpg){.illus}
+
+
+*Catalogue: BE-348*
 *Set: Core*
 
 *aka: ______________________________*

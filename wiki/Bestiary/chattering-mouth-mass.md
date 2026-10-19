@@ -1,5 +1,9 @@
 # Chattering mouth mass
 
+![Chattering mouth mass](../Images/BE-102-bestiary-chattering-mouth-mass.jpg){.illus}
+
+
+*Catalogue: BE-102*
 *Set: Expansion*
 
 *aka: ______________________________*

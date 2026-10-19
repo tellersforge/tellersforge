@@ -1,5 +1,9 @@
 # Fear
 
+![Fear](../Images/PW-101-powers-fear.jpg){.illus}
+
+
+*Catalogue: PW-101*
 *Set: Core*
 
 *aka: ______________________________*

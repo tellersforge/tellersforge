@@ -1,5 +1,9 @@
 # Radar set
 
+![Radar set](../Images/GR-0772-equipment-radar-set.jpg){.illus}
+
+
+*Catalogue: GR-0772*
 *Set: Expansion*
 
 *aka: ______________________________*

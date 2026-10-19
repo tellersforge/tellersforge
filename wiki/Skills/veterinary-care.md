@@ -1,5 +1,9 @@
 # Veterinary Care
 
+![Veterinary Care](../Images/SK-218-skills-veterinary-care.jpg){.illus}
+
+
+*Catalogue: SK-218*
 *Set: Expansion*
 
 *aka: ______________________________*

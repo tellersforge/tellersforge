@@ -1,5 +1,9 @@
 # Clay tablet map
 
+![Clay tablet map](../Images/GR-0278-equipment-clay-tablet-map.jpg){.illus}
+
+
+*Catalogue: GR-0278*
 *Set: Expansion*
 
 *aka: ______________________________*

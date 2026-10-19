@@ -1,5 +1,9 @@
 # Poison dart frog
 
+![Poison dart frog](../Images/BE-465-bestiary-poison-dart-frog.jpg){.illus}
+
+
+*Catalogue: BE-465*
 *Set: Core*
 
 *aka: ______________________________*

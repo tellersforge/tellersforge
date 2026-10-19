@@ -1,5 +1,9 @@
 # Giant sea turtle
 
+![Giant sea turtle](../Images/BE-277-bestiary-giant-sea-turtle.jpg){.illus}
+
+
+*Catalogue: BE-277*
 *Set: Expansion*
 
 *aka: ______________________________*

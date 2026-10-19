@@ -1,7 +1,8 @@
 # Spell components pouch
 
-![Spell components pouch](../Images/equipment-spell-components-pouch.jpg){.illus}
+![Spell components pouch](../Images/GR-0898-equipment-spell-components-pouch.jpg){.illus}
 
+*Catalogue: GR-0898*
 *Set: Core*
 
 *aka: ______________________________*

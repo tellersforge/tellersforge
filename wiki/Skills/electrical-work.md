@@ -1,5 +1,9 @@
 # Electrical Work
 
+![Electrical Work](../Images/SK-058-skills-electrical-work.jpg){.illus}
+
+
+*Catalogue: SK-058*
 *Set: Expansion*
 
 *aka: ______________________________*

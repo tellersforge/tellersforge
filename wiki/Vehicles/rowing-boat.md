@@ -1,5 +1,9 @@
 # Rowing Boat
 
+![Rowing Boat](../Images/GR-1112-vehicles-rowing-boat.jpg){.illus}
+
+
+*Catalogue: GR-1112*
 *Set: Core*
 
 

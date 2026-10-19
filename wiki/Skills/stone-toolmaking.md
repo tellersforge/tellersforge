@@ -1,5 +1,9 @@
 # Stone Toolmaking
 
+![Stone Toolmaking](../Images/SK-189-skills-stone-toolmaking.jpg){.illus}
+
+
+*Catalogue: SK-189*
 *Set: Expansion*
 
 *aka: ______________________________*

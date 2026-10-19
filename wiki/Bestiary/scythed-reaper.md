@@ -1,7 +1,8 @@
 # Scythed reaper
 
-![Scythed reaper](../Images/bestiary-scythed-reaper.jpg){.illus}
+![Scythed reaper](../Images/BE-523-bestiary-scythed-reaper.jpg){.illus}
 
+*Catalogue: BE-523*
 *Set: Core*
 
 *aka: ______________________________*

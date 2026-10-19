@@ -1,5 +1,8 @@
 # Fear of Masks and Painted Faces
 
+![Fear of Masks and Painted Faces](../Images/flaws-fear-of-masks-and-painted-faces.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when masks, clowns, painted or hidden faces.

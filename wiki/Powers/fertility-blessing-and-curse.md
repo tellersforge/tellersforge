@@ -1,5 +1,9 @@
 # Fertility Blessing & Curse
 
+![Fertility Blessing & Curse](../Images/PW-103-powers-fertility-blessing-and-curse.jpg){.illus}
+
+
+*Catalogue: PW-103*
 *Set: Expansion*
 
 *aka: ______________________________*

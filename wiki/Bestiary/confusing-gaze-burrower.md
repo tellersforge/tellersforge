@@ -1,5 +1,9 @@
 # Confusing-gaze burrower
 
+![Confusing-gaze burrower](../Images/BE-130-bestiary-confusing-gaze-burrower.jpg){.illus}
+
+
+*Catalogue: BE-130*
 *Set: Expansion*
 
 *aka: ______________________________*

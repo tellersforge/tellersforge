@@ -1,5 +1,9 @@
 # Carousing
 
+![Carousing](../Images/SK-030-skills-carousing.jpg){.illus}
+
+
+*Catalogue: SK-030*
 *Set: Expansion*
 
 *aka: ______________________________*

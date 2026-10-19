@@ -1,5 +1,9 @@
 # Flying bloodshot eye
 
+![Flying bloodshot eye](../Images/BE-206-bestiary-flying-bloodshot-eye.jpg){.illus}
+
+
+*Catalogue: BE-206*
 *Set: Expansion*
 
 *aka: ______________________________*

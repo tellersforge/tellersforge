@@ -1,5 +1,9 @@
 # Key impression kit
 
+![Key impression kit](../Images/GR-0573-equipment-key-impression-kit.jpg){.illus}
+
+
+*Catalogue: GR-0573*
 *Set: Expansion*
 
 *aka: ______________________________*

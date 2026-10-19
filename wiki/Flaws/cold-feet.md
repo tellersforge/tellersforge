@@ -1,5 +1,8 @@
 # Cold Feet
 
+![Cold Feet](../Images/flaws-cold-feet.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Conscience and conduct* kind. It fires when backs out of commitments at the last moment.

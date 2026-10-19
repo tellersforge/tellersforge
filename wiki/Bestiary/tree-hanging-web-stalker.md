@@ -1,5 +1,9 @@
 # Tree-hanging web stalker
 
+![Tree-hanging web stalker](../Images/BE-629-bestiary-tree-hanging-web-stalker.jpg){.illus}
+
+
+*Catalogue: BE-629*
 *Set: Expansion*
 
 *aka: ______________________________*

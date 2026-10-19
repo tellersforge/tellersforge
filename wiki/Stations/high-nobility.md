@@ -1,5 +1,8 @@
 # High nobility
 
+![High nobility](../Images/stations-high-nobility.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

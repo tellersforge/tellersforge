@@ -1,5 +1,9 @@
 # Carronade
 
+![Carronade](../Images/GR-0016-weapons-carronade.jpg){.illus}
+
+
+*Catalogue: GR-0016*
 *Set: Expansion*
 
 *aka: ______________________________*

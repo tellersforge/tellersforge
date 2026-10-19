@@ -1,5 +1,9 @@
 # White face paint
 
+![White face paint](../Images/GR-1014-equipment-white-face-paint.jpg){.illus}
+
+
+*Catalogue: GR-1014*
 *Set: Expansion*
 
 *aka: ______________________________*

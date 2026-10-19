@@ -1,5 +1,8 @@
 # Pirate
 
+![Pirate](../Images/professions-pirate.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

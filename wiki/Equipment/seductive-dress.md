@@ -1,5 +1,9 @@
 # Seductive dress
 
+![Seductive dress](../Images/GR-0834-equipment-seductive-dress.jpg){.illus}
+
+
+*Catalogue: GR-0834*
 *Set: Expansion*
 
 *aka: ______________________________*

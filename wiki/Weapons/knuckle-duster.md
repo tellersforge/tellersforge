@@ -1,5 +1,9 @@
 # Knuckle-duster
 
+![Knuckle-duster](../Images/GR-0055-weapons-knuckle-duster.jpg){.illus}
+
+
+*Catalogue: GR-0055*
 *Set: Expansion*
 
 *aka: ______________________________*

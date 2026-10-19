@@ -1,5 +1,9 @@
 # Giant wolf spider
 
+![Giant wolf spider](../Images/BE-292-bestiary-giant-wolf-spider.jpg){.illus}
+
+
+*Catalogue: BE-292*
 *Set: Expansion*
 
 *aka: ______________________________*

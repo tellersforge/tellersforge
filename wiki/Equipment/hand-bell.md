@@ -1,5 +1,9 @@
 # Hand bell
 
+![Hand bell](../Images/GR-0489-equipment-hand-bell.jpg){.illus}
+
+
+*Catalogue: GR-0489*
 *Set: Expansion*
 
 *aka: ______________________________*

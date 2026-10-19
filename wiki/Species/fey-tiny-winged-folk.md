@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 447 Diminutive winged folk *(genres: fairy tale and folklore)*
 
+![Diminutive winged folk](../Images/species-diminutive-winged-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** winged biped
 - **What it's like:** Tiny, quick winged folk, endlessly curious and darting from one interesting thing to the next. (looks like: fairy; good at: flying, speed and agility)
 - **Attributes:** STR −3 AGI +3 END −1 CHA +2

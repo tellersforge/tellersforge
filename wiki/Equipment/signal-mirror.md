@@ -1,5 +1,9 @@
 # Signal mirror
 
+![Signal mirror](../Images/GR-0861-equipment-signal-mirror.jpg){.illus}
+
+
+*Catalogue: GR-0861*
 *Set: Core*
 
 *aka: ______________________________*

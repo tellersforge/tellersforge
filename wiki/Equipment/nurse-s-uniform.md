@@ -1,5 +1,9 @@
 # Nurse's uniform
 
+![Nurse's uniform](../Images/GR-0683-equipment-nurse-s-uniform.jpg){.illus}
+
+
+*Catalogue: GR-0683*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wax golem
 
+![Wax golem](../Images/BE-665-bestiary-wax-golem.jpg){.illus}
+
+
+*Catalogue: BE-665*
 *Set: Expansion*
 
 *aka: ______________________________*

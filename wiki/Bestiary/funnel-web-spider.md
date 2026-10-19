@@ -1,5 +1,9 @@
 # Funnel-web spider
 
+![Funnel-web spider](../Images/BE-227-bestiary-funnel-web-spider.jpg){.illus}
+
+
+*Catalogue: BE-227*
 *Set: Core*
 
 *aka: ______________________________*

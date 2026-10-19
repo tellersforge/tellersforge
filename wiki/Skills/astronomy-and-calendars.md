@@ -1,5 +1,9 @@
 # Astronomy & Calendars
 
+![Astronomy & Calendars](../Images/SK-014-skills-astronomy-and-calendars.jpg){.illus}
+
+
+*Catalogue: SK-014*
 *Set: Expansion*
 
 *aka: ______________________________*

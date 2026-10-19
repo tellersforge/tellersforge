@@ -1,5 +1,9 @@
 # Imaginary Constructs
 
+![Imaginary Constructs](../Images/PW-136-powers-imaginary-constructs.jpg){.illus}
+
+
+*Catalogue: PW-136*
 *Set: Expansion*
 
 *aka: ______________________________*

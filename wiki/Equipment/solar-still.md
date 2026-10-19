@@ -1,5 +1,9 @@
 # Solar still
 
+![Solar still](../Images/GR-0893-equipment-solar-still.jpg){.illus}
+
+
+*Catalogue: GR-0893*
 *Set: Expansion*
 
 *aka: ______________________________*

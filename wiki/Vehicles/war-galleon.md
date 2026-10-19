@@ -1,7 +1,8 @@
 # War Galleon
 
-![War galleon](../Images/vehicles-war-galleon.jpg){.illus}
+![War galleon](../Images/GR-1130-vehicles-war-galleon.jpg){.illus}
 
+*Catalogue: GR-1130*
 *Set: Expansion*
 
 

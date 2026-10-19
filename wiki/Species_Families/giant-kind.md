@@ -1,5 +1,8 @@
 # Giant-kind
 
+![Giant-kind](../Images/species-families-giant-kind.jpg){.illus}
+
+
 
 Humanoids built on a scale that makes everyone else look like a child. The family holds the true giants, lords of hill, frost, fire and storm, along with lumbering trolls that heal almost any wound, cruel and hungry ogres, one-eyed cyclopes at their forges, many-armed titans of the oldest tales, and huge folk born straight from the earth. Their size is their law: they eat cattle, uproot trees for clubs and build halls where a human could stand in a cup. Some are wise and lonely, some dull and savage. Smaller peoples mostly hope they stay in the mountains.
 

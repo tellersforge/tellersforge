@@ -1,5 +1,9 @@
 # Costume jewellery
 
+![Costume jewellery](../Images/GR-0306-equipment-costume-jewellery.jpg){.illus}
+
+
+*Catalogue: GR-0306*
 *Set: Expansion*
 
 *aka: ______________________________*

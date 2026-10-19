@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living flame elemental *(NPC only; NPC-scale)*
 
+![Living flame elemental](../Images/species-living-flame-elemental.jpg){.illus}
+
+
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR +2 END +3 INT −2 WIS +1 CHA −2 COU +2
 - **Skills:** [Weather Sense](../Skills/weather-sense.md) +2, [Arcana](../Skills/arcana.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Insight](../Skills/insight.md) −1, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Element: fire. No hands: held weapons unusable.
 
 ### Living water/ice elemental *(NPC only; NPC-scale)*
+
+![Living water/ice elemental](../Images/species-living-water-ice-elemental.jpg){.illus}
+
 
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR +3 END +3 INT −2 WIS +1 CHA −2
@@ -47,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living stone/earth elemental *(NPC only; NPC-scale)*
 
+![Living stone/earth elemental](../Images/species-living-stone-earth-elemental.jpg){.illus}
+
+
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR +5 AGI −3 END +5 INT −2 WIS +1 CHA −2
 - **Skills:** [Weather Sense](../Skills/weather-sense.md) +2, [Arcana](../Skills/arcana.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Insight](../Skills/insight.md) −1, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -57,6 +66,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Element: earth. No hands: held weapons unusable.
 
 ### Living storm/air elemental *(NPC only; NPC-scale)*
+
+![Living storm/air elemental](../Images/species-living-storm-air-elemental.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR −2 AGI +3 END +3 INT −2 WIS +1 CHA −2
@@ -69,6 +81,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living-metal elemental folk *(beast; NPC-scale)*
 
+![Living-metal elemental folk](../Images/species-living-metal-elemental-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −3 END +6 INT −4 WIS +1 CHA −2
 - **Skills:** [Weather Sense](../Skills/weather-sense.md) +2, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Insight](../Skills/insight.md) −1, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -79,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living-wood elemental folk *(beast; NPC-scale)*
 
+![Living-wood elemental folk](../Images/species-living-wood-elemental-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +4 INT −4 WIS +1 CHA −2
 - **Skills:** [Weather Sense](../Skills/weather-sense.md) +2, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Insight](../Skills/insight.md) −1
@@ -88,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Mindless living wood that slowly regrows limbs.
 
 ### Primal ooze elemental folk *(beast; NPC-scale)*
+
+![Primal ooze elemental folk](../Images/species-primal-ooze-elemental-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR +2 AGI −2 END +5 INT −4 WIS +1 CHA −2

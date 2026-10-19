@@ -1,5 +1,9 @@
 # Electric tattoo machine
 
+![Electric tattoo machine](../Images/GR-0363-equipment-electric-tattoo-machine.jpg){.illus}
+
+
+*Catalogue: GR-0363*
 *Set: Expansion*
 
 *aka: ______________________________*

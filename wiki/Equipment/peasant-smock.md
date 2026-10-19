@@ -1,5 +1,9 @@
 # Peasant smock
 
+![Peasant smock](../Images/GR-0713-equipment-peasant-smock.jpg){.illus}
+
+
+*Catalogue: GR-0713*
 *Set: Expansion*
 
 *aka: ______________________________*

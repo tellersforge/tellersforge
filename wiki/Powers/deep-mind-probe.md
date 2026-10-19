@@ -1,5 +1,9 @@
 # Deep Mind Probe
 
+![Deep Mind Probe](../Images/PW-063-powers-deep-mind-probe.jpg){.illus}
+
+
+*Catalogue: PW-063*
 *Set: Expansion*
 
 *aka: ______________________________*

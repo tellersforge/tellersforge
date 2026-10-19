@@ -1,5 +1,9 @@
 # Fluid bladder
 
+![Fluid bladder](../Images/GR-0424-equipment-fluid-bladder.jpg){.illus}
+
+
+*Catalogue: GR-0424*
 *Set: Expansion*
 
 *aka: ______________________________*

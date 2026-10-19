@@ -1,5 +1,9 @@
 # Giant toad
 
+![Giant toad](../Images/BE-287-bestiary-giant-toad.jpg){.illus}
+
+
+*Catalogue: BE-287*
 *Set: Expansion*
 
 *aka: ______________________________*

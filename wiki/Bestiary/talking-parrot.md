@@ -1,5 +1,9 @@
 # Talking parrot
 
+![Talking parrot](../Images/BE-608-bestiary-talking-parrot.jpg){.illus}
+
+
+*Catalogue: BE-608*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bane
 
+![Bane](../Images/PW-015-powers-bane.jpg){.illus}
+
+
+*Catalogue: PW-015*
 *Set: Expansion*
 
 *aka: ______________________________*

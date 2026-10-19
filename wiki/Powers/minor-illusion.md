@@ -1,5 +1,9 @@
 # Minor Illusion
 
+![Minor Illusion](../Images/PW-189-powers-minor-illusion.jpg){.illus}
+
+
+*Catalogue: PW-189*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

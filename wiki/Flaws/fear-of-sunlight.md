@@ -1,5 +1,8 @@
 # Fear of Sunlight
 
+![Fear of Sunlight](../Images/flaws-fear-of-sunlight.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when bright sun, daylight.

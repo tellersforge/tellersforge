@@ -1,5 +1,9 @@
 # Gravity Control
 
+![Gravity Control](../Images/PW-118-powers-gravity-control.jpg){.illus}
+
+
+*Catalogue: PW-118*
 *Set: Expansion*
 
 *aka: ______________________________*

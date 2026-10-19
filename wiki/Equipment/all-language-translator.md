@@ -1,5 +1,9 @@
-# All-language translator
+# Adaptive Language Translator
 
+![Adaptive Language Translator](../Images/GR-0178-equipment-all-language-translator.jpg){.illus}
+
+
+*Catalogue: GR-0178*
 *Set: Expansion*
 
 *aka: ______________________________*

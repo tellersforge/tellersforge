@@ -1,5 +1,9 @@
 # Pack mule
 
+![Pack mule](../Images/BE-453-bestiary-pack-mule.jpg){.illus}
+
+
+*Catalogue: BE-453*
 *Set: Core*
 
 *aka: ______________________________*

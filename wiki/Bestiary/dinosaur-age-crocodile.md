@@ -1,5 +1,9 @@
 # Dinosaur-age crocodile
 
+![Dinosaur-age crocodile](../Images/BE-151-bestiary-dinosaur-age-crocodile.jpg){.illus}
+
+
+*Catalogue: BE-151*
 *Set: Expansion*
 
 *aka: ______________________________*

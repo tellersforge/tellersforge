@@ -1,5 +1,9 @@
 # Fish-toothed war hound
 
+![Fish-toothed war hound](../Images/BE-199-bestiary-fish-toothed-war-hound.jpg){.illus}
+
+
+*Catalogue: BE-199*
 *Set: Expansion*
 
 *aka: ______________________________*

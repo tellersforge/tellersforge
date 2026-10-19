@@ -1,5 +1,9 @@
 # Language (per language)
 
+![Language (per language)](../Images/SK-107-skills-language-per-language.jpg){.illus}
+
+
+*Catalogue: SK-107*
 *Set: Core · Basic skill: Lore*
 
 *aka: ______________________________*

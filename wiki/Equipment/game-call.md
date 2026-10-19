@@ -1,5 +1,9 @@
 # Game call
 
+![Game call](../Images/GR-0448-equipment-game-call.jpg){.illus}
+
+
+*Catalogue: GR-0448*
 *Set: Core*
 
 *aka: ______________________________*

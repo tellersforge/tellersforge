@@ -1,7 +1,8 @@
 # Data crystal
 
-![Data crystal](../Images/equipment-data-crystal.jpg){.illus}
+![Data crystal](../Images/GR-0320-equipment-data-crystal.jpg){.illus}
 
+*Catalogue: GR-0320*
 *Set: Expansion*
 
 *aka: ______________________________*

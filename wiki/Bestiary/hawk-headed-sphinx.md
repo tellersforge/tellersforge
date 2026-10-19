@@ -1,7 +1,8 @@
 # Hawk-headed sphinx
 
-![Hawk-headed sphinx](../Images/bestiary-hawk-headed-sphinx.jpg){.illus}
+![Hawk-headed sphinx](../Images/BE-329-bestiary-hawk-headed-sphinx.jpg){.illus}
 
+*Catalogue: BE-329*
 *Set: Expansion*
 
 *aka: ______________________________*

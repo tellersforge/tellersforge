@@ -1,5 +1,9 @@
 # Breathing apparatus
 
+![Breathing apparatus](../Images/GR-0227-equipment-breathing-apparatus.jpg){.illus}
+
+
+*Catalogue: GR-0227*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Red fox
 
+![Red fox](../Images/BE-482-bestiary-red-fox.jpg){.illus}
+
+
+*Catalogue: BE-482*
 *Set: Core*
 
 *aka: ______________________________*

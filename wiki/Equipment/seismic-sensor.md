@@ -1,5 +1,9 @@
 # Seismic sensor
 
+![Seismic sensor](../Images/GR-0835-equipment-seismic-sensor.jpg){.illus}
+
+
+*Catalogue: GR-0835*
 *Set: Expansion*
 
 *aka: ______________________________*

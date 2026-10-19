@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Limbed aquatic saboteur alien *(NPC only)*
 
+![Limbed aquatic saboteur alien](../Images/species-limbed-aquatic-saboteur-alien.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3

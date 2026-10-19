@@ -1,5 +1,9 @@
 # Minor Hex
 
+![Minor Hex](../Images/PW-188-powers-minor-hex.jpg){.illus}
+
+
+*Catalogue: PW-188*
 *Set: Expansion*
 
 *aka: ______________________________*

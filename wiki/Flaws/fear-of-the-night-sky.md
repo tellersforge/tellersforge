@@ -1,5 +1,8 @@
 # Fear of the Night Sky
 
+![Fear of the Night Sky](../Images/flaws-fear-of-the-night-sky.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when the moon, stars, the vast night.

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shingouz trader-kind *(NPC only)*
 
+![Shingouz trader-kind](../Images/species-shingouz-trader-kind.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 INT +1 WIS +1 CHA +1 COU −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2

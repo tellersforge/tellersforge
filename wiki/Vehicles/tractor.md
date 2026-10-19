@@ -1,5 +1,9 @@
 # Tractor
 
+![Tractor](../Images/GR-1126-vehicles-tractor.jpg){.illus}
+
+
+*Catalogue: GR-1126*
 *Set: Expansion*
 
 

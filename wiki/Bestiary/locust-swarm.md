@@ -1,5 +1,9 @@
 # Locust swarm
 
+![Locust swarm](../Images/BE-396-bestiary-locust-swarm.jpg){.illus}
+
+
+*Catalogue: BE-396*
 *Set: Core*
 
 *aka: ______________________________*

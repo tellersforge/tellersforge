@@ -1,7 +1,8 @@
 # Hemp rope
 
-![Hemp rope](../Images/equipment-hemp-rope.jpg){.illus}
+![Hemp rope](../Images/GR-0519-equipment-hemp-rope.jpg){.illus}
 
+*Catalogue: GR-0519*
 *Set: Core*
 
 *aka: ______________________________*

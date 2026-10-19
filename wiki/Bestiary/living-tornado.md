@@ -1,7 +1,8 @@
 # Living tornado
 
-![Living tornado](../Images/bestiary-living-tornado.jpg){.illus}
+![Living tornado](../Images/BE-395-bestiary-living-tornado.jpg){.illus}
 
+*Catalogue: BE-395*
 *Set: Expansion*
 
 *aka: ______________________________*

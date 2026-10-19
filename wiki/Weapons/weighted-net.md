@@ -1,5 +1,9 @@
 # Weighted Net
 
+![Weighted Net](../Images/GR-0118-weapons-weighted-net.jpg){.illus}
+
+
+*Catalogue: GR-0118*
 *Set: Expansion*
 
 *aka: ______________________________*

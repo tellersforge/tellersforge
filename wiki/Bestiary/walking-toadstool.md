@@ -1,7 +1,8 @@
 # Walking toadstool
 
-![Walking toadstool](../Images/bestiary-walking-toadstool.jpg){.illus}
+![Walking toadstool](../Images/BE-657-bestiary-walking-toadstool.jpg){.illus}
 
+*Catalogue: BE-657*
 *Set: Expansion*
 
 *aka: ______________________________*

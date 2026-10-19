@@ -1,5 +1,9 @@
 # Super Speed
 
+![Super Speed](../Images/PW-283-powers-super-speed.jpg){.illus}
+
+
+*Catalogue: PW-283*
 *Set: Core*
 
 *aka: ______________________________*

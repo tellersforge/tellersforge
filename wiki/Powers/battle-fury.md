@@ -1,5 +1,9 @@
 # Battle Fury
 
+![Battle Fury](../Images/PW-017-powers-battle-fury.jpg){.illus}
+
+
+*Catalogue: PW-017*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Thigh boots
 
+![Thigh boots](../Images/GR-0955-equipment-thigh-boots.jpg){.illus}
+
+
+*Catalogue: GR-0955*
 *Set: Expansion*
 
 *aka: ______________________________*

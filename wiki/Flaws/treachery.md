@@ -1,5 +1,8 @@
 # Treachery
 
+![Treachery](../Images/flaws-treachery.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when betrays friends when it pays.

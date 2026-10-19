@@ -1,5 +1,9 @@
 # Tundra reindeer
 
+![Tundra reindeer](../Images/BE-633-bestiary-tundra-reindeer.jpg){.illus}
+
+
+*Catalogue: BE-633*
 *Set: Core*
 
 *aka: ______________________________*

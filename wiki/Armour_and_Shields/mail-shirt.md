@@ -1,7 +1,8 @@
 # Mail shirt
 
-![Mail shirt](../Images/armour-mail-shirt.jpg){.illus}
+![Mail shirt](../Images/GR-0149-armour-mail-shirt.jpg){.illus}
 
+*Catalogue: GR-0149*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Revolver
 
-![Revolver](../Images/weapons-revolver.jpg){.illus}
+![Revolver](../Images/GR-0084-weapons-revolver.jpg){.illus}
 
+*Catalogue: GR-0084*
 *Set: Core*
 
 *aka: ______________________________*

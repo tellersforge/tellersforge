@@ -1,5 +1,9 @@
 # Giant eel
 
+![Giant eel](../Images/BE-248-bestiary-giant-eel.jpg){.illus}
+
+
+*Catalogue: BE-248*
 *Set: Expansion*
 
 *aka: ______________________________*

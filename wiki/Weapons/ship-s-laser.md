@@ -1,5 +1,9 @@
 # Ship's Laser
 
+![Ship's Laser](../Images/GR-0091-weapons-ship-s-laser.jpg){.illus}
+
+
+*Catalogue: GR-0091*
 *Set: Expansion*
 
 *aka: ______________________________*

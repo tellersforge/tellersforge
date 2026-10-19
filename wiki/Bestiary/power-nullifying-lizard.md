@@ -1,5 +1,9 @@
 # Power-nullifying lizard
 
+![Power-nullifying lizard](../Images/BE-472-bestiary-power-nullifying-lizard.jpg){.illus}
+
+
+*Catalogue: BE-472*
 *Set: Expansion*
 
 *aka: ______________________________*

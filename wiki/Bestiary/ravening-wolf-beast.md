@@ -1,5 +1,9 @@
 # Ravening wolf-beast
 
+![Ravening wolf-beast](../Images/BE-480-bestiary-ravening-wolf-beast.jpg){.illus}
+
+
+*Catalogue: BE-480*
 *Set: Core*
 
 *aka: ______________________________*

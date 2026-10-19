@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Skinwalker *(NPC only)*
 
+![Skinwalker](../Images/species-skinwalker.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed(shift)
 - **Attributes:** AGI +1 WIS +1 CHA −1 COU +1
 - **Skills:** [Disguise](../Skills/disguise.md) +2, [Acting](../Skills/acting.md) +1, [Deception](../Skills/deception.md) +1, [Mimicry](../Skills/mimicry.md) +1, [Composure](../Skills/composure.md) −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Malevolent and feared; forms are gained by ritual or worn skins.
 
 ### No. 702 Rakshasa *(genres: heavens, hells and other planes, myth and legend)*
+
+![Rakshasa](../Images/species-rakshasa.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed(shift)
 - **What it's like:** Tiger-demon shapeshifters skilled in illusion, sometimes wicked and sometimes far more complicated than that. (looks like: tiger; good at: powers and magic, sneaking)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Naga shapeshifter *(NPC only)*
 
+![Naga shapeshifter](../Images/species-naga-shapeshifter.jpg){.illus}
+
+
 - **Size:** medium · **Body:** serpentine(shift)
 - **Attributes:** AGI +1 WIS +1 CHA +2
 - **Skills:** [Disguise](../Skills/disguise.md) +2, [Swimming](../Skills/swimming.md) +2, [Acting](../Skills/acting.md) +1, [Deception](../Skills/deception.md) +1, [Mimicry](../Skills/mimicry.md) +1, [Composure](../Skills/composure.md) −1
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Puca *(NPC only)*
 
+![Puca](../Images/species-puca.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+other(shift)
 - **Attributes:** AGI +1 WIS −1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +2, [Acting](../Skills/acting.md) +1, [Deception](../Skills/deception.md) +1, [Mimicry](../Skills/mimicry.md) +1, [Composure](../Skills/composure.md) −1
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Shifts between several animal forms rather than one.
 
 ### Aswang *(NPC only)*
+
+![Aswang](../Images/species-aswang.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged(shift)
 - **Attributes:** STR +1 AGI +1 CHA −1
@@ -74,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Flight only in winged form. Weakness to salt and holy things is a flaw.
 
 ### Caribou-guise shapeshifter *(NPC only)*
+
+![Caribou-guise shapeshifter](../Images/species-caribou-guise-shapeshifter.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+other(shift)
 - **Attributes:** AGI +1 WIS +1 CHA +1

@@ -1,5 +1,9 @@
 # Water purification tablets
 
+![Water purification tablets](../Images/GR-1002-equipment-water-purification-tablets.jpg){.illus}
+
+
+*Catalogue: GR-1002*
 *Set: Core*
 
 *aka: ______________________________*

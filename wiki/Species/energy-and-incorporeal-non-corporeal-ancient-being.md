@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hidden-power planetary guardian *(NPC only; NPC-scale)*
 
+![Hidden-power planetary guardian](../Images/species-hidden-power-planetary-guardian.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +5
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Hold stands for its enforced peace.
 
 ### Non-corporeal cosmic scientist *(NPC only; NPC-scale)*
+
+![Non-corporeal cosmic scientist](../Images/species-non-corporeal-cosmic-scientist.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +6 WIS +3
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Visually-lethal non-corporeal mind *(NPC-scale)*
 
+![Visually-lethal non-corporeal mind](../Images/species-visually-lethal-non-corporeal-mind.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Madness is involuntary and strikes only those who see it directly. Telepathy works through a link with one compatible partner.
 
 ### Imprisoning telepathic energy being *(NPC only; NPC-scale)*
+
+![Imprisoning telepathic energy being](../Images/species-imprisoning-telepathic-energy-being.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3 CHA +3
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Possession-capable energy cluster *(NPC only; NPC-scale)*
 
+![Possession-capable energy cluster](../Images/species-possession-capable-energy-cluster.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -73,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Lonely reality-altering widower entity · Cosmic-principle avatar *(NPC only; NPC-scale)*
+
+![Lonely reality-altering widower entity](../Images/species-lonely-reality-altering-widower-entity.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3
@@ -86,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Luminous energy-tether companion *(NPC only; NPC-scale)*
 
+![Luminous energy-tether companion](../Images/species-luminous-energy-tether-companion.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -95,6 +116,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Power Granting is sustaining and empowering one vessel or companion. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Reality-testing psi-field intelligence *(NPC only; NPC-scale)*
+
+![Reality-testing psi-field intelligence](../Images/species-reality-testing-psi-field-intelligence.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3
@@ -106,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wormhole-dwelling non-linear deities *(NPC only; NPC-scale)*
 
+![Wormhole-dwelling non-linear deities](../Images/species-wormhole-dwelling-non-linear-deities.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +6
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -115,6 +142,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Banished fire-based malevolent entities *(NPC only; NPC-scale)*
+
+![Banished fire-based malevolent entities](../Images/species-banished-fire-based-malevolent-entities.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3
@@ -126,6 +156,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Confined pure-energy juvenile being *(NPC only; NPC-scale)*
 
+![Confined pure-energy juvenile being](../Images/species-confined-pure-energy-juvenile-being.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +1
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -135,6 +168,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Elemental Aura is raw energy harming those near it when unsuited; the containment suit is gear.
 
 ### World-summoned annihilation entities *(NPC only; NPC-scale)*
+
+![World-summoned annihilation entities](../Images/species-world-summoned-annihilation-entities.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3
@@ -146,6 +182,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living-cloud energy predator *(NPC only; NPC-scale)*
 
+![Living-cloud energy predator](../Images/species-living-cloud-energy-predator.jpg){.illus}
+
+
 - **Size:** huge · **Body:** incorporeal
 - **Attributes:** STR +1 AGI −4 INT +1 WIS +3
 - **Skills:** [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -155,6 +194,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Memory-erasing pocket-dimension isolationists *(NPC only; NPC-scale)*
+
+![Memory-erasing pocket-dimension isolationists](../Images/species-memory-erasing-pocket-dimension-isolationists.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3

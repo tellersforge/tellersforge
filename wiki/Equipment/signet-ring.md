@@ -1,5 +1,9 @@
 # Signet ring
 
+![Signet ring](../Images/GR-0862-equipment-signet-ring.jpg){.illus}
+
+
+*Catalogue: GR-0862*
 *Set: Core*
 
 *aka: ______________________________*

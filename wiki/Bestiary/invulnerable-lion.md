@@ -1,5 +1,9 @@
 # Invulnerable lion
 
+![Invulnerable lion](../Images/BE-364-bestiary-invulnerable-lion.jpg){.illus}
+
+
+*Catalogue: BE-364*
 *Set: Expansion*
 
 *aka: ______________________________*

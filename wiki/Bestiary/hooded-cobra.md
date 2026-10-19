@@ -1,5 +1,9 @@
 # Hooded cobra
 
+![Hooded cobra](../Images/BE-340-bestiary-hooded-cobra.jpg){.illus}
+
+
+*Catalogue: BE-340*
 *Set: Core*
 
 *aka: ______________________________*

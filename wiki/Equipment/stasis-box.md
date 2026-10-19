@@ -1,5 +1,9 @@
 # Stasis box
 
+![Stasis box](../Images/GR-0909-equipment-stasis-box.jpg){.illus}
+
+
+*Catalogue: GR-0909*
 *Set: Expansion*
 
 *aka: ______________________________*

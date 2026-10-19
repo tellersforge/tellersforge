@@ -1,5 +1,8 @@
 # Gossip
 
+![Gossip](../Images/flaws-gossip.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when can't keep a secret, spreads rumours.

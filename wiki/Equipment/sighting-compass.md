@@ -1,5 +1,9 @@
 # Sighting compass
 
+![Sighting compass](../Images/GR-0852-equipment-sighting-compass.jpg){.illus}
+
+
+*Catalogue: GR-0852*
 *Set: Expansion*
 
 *aka: ______________________________*

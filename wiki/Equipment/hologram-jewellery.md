@@ -1,5 +1,9 @@
 # Hologram jewellery
 
+![Hologram jewellery](../Images/GR-0533-equipment-hologram-jewellery.jpg){.illus}
+
+
+*Catalogue: GR-0533*
 *Set: Expansion*
 
 *aka: ______________________________*

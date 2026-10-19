@@ -1,5 +1,9 @@
 # Exotic Beasts
 
+![Exotic Beasts](../Images/SK-065-skills-exotic-beasts.jpg){.illus}
+
+
+*Catalogue: SK-065*
 *Set: Expansion*
 
 *aka: ______________________________*

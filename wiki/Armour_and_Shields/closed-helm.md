@@ -1,7 +1,8 @@
 # Closed helm
 
-![Closed helm](../Images/armour-closed-helm.jpg){.illus}
+![Closed helm](../Images/GR-0131-armour-closed-helm.jpg){.illus}
 
+*Catalogue: GR-0131*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Fear of Commitment
 
+![Fear of Commitment](../Images/flaws-fear-of-commitment.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when promises, marriage, oaths.

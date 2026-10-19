@@ -1,5 +1,9 @@
 # Antiseptic flask
 
+![Antiseptic flask](../Images/GR-0184-equipment-antiseptic-flask.jpg){.illus}
+
+
+*Catalogue: GR-0184*
 *Set: Expansion*
 
 *aka: ______________________________*

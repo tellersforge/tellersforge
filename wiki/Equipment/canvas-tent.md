@@ -1,7 +1,8 @@
 # Canvas tent
 
-![Canvas tent](../Images/equipment-canvas-tent.jpg){.illus}
+![Canvas tent](../Images/GR-0257-equipment-canvas-tent.jpg){.illus}
 
+*Catalogue: GR-0257*
 *Set: Expansion*
 
 *aka: ______________________________*

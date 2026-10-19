@@ -1,5 +1,9 @@
 # Kick
 
+![Kick](../Images/GR-0054-weapons-kick.jpg){.illus}
+
+
+*Catalogue: GR-0054*
 *Set: Core*
 
 *aka: ______________________________*

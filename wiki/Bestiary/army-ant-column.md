@@ -1,5 +1,9 @@
 # Army ant column
 
+![Army ant column](../Images/BE-028-bestiary-army-ant-column.jpg){.illus}
+
+
+*Catalogue: BE-028*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Lock decoder
 
+![Lock decoder](../Images/GR-0608-equipment-lock-decoder.jpg){.illus}
+
+
+*Catalogue: GR-0608*
 *Set: Expansion*
 
 *aka: ______________________________*

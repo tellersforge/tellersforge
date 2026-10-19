@@ -1,5 +1,9 @@
 # Abada
 
+![Abada](../Images/BE-001-bestiary-abada.jpg){.illus}
+
+
+*Catalogue: BE-001*
 *Set: Expansion*
 
 *aka: ______________________________*

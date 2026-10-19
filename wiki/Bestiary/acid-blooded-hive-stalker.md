@@ -1,7 +1,8 @@
 # Acid-blooded hive stalker
 
-![Acid-blooded hive stalker](../Images/bestiary-acid-blooded-hive-stalker.jpg){.illus}
+![Acid-blooded hive stalker](../Images/BE-004-bestiary-acid-blooded-hive-stalker.jpg){.illus}
 
+*Catalogue: BE-004*
 *Set: Expansion*
 
 *aka: ______________________________*

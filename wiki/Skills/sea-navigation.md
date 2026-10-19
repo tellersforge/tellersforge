@@ -1,5 +1,9 @@
 # Sea Navigation
 
+![Sea Navigation](../Images/SK-172-skills-sea-navigation.jpg){.illus}
+
+
+*Catalogue: SK-172*
 *Set: Expansion*
 
 *aka: ______________________________*

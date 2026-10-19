@@ -1,5 +1,9 @@
 # False beard
 
+![False beard](../Images/GR-0386-equipment-false-beard.jpg){.illus}
+
+
+*Catalogue: GR-0386*
 *Set: Core*
 
 *aka: ______________________________*

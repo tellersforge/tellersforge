@@ -1,7 +1,8 @@
 # Signal horn
 
-![Signal horn](../Images/equipment-signal-horn.jpg){.illus}
+![Signal horn](../Images/GR-0858-equipment-signal-horn.jpg){.illus}
 
+*Catalogue: GR-0858*
 *Set: Core*
 
 *aka: ______________________________*

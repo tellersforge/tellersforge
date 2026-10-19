@@ -1,7 +1,8 @@
 # Four-armed white ape
 
-![Four-armed white ape](../Images/bestiary-four-armed-white-ape.jpg){.illus}
+![Four-armed white ape](../Images/BE-215-bestiary-four-armed-white-ape.jpg){.illus}
 
+*Catalogue: BE-215*
 *Set: Expansion*
 
 *aka: ______________________________*

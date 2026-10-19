@@ -1,5 +1,9 @@
 # Pocket sundial
 
+![Pocket sundial](../Images/GR-0737-equipment-pocket-sundial.jpg){.illus}
+
+
+*Catalogue: GR-0737*
 *Set: Expansion*
 
 *aka: ______________________________*

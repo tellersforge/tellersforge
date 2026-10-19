@@ -1,5 +1,8 @@
 # Slovenliness
 
+![Slovenliness](../Images/flaws-slovenliness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when messy, dirty, bad table manners.

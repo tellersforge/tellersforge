@@ -1,5 +1,9 @@
 # Wooden xylophone
 
+![Wooden xylophone](../Images/GR-1027-equipment-wooden-xylophone.jpg){.illus}
+
+
+*Catalogue: GR-1027*
 *Set: Expansion*
 
 *aka: ______________________________*

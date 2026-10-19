@@ -1,5 +1,9 @@
 # Immersion headset
 
+![Immersion headset](../Images/GR-0553-equipment-immersion-headset.jpg){.illus}
+
+
+*Catalogue: GR-0553*
 *Set: Expansion*
 
 *aka: ______________________________*

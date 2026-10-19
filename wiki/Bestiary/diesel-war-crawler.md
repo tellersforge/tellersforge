@@ -1,5 +1,9 @@
 # Diesel war crawler
 
+![Diesel war crawler](../Images/BE-149-bestiary-diesel-war-crawler.jpg){.illus}
+
+
+*Catalogue: BE-149*
 *Set: Core*
 
 *aka: ______________________________*

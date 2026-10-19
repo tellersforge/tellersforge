@@ -1,5 +1,9 @@
 # Fused corpse mass
 
+![Fused corpse mass](../Images/BE-228-bestiary-fused-corpse-mass.jpg){.illus}
+
+
+*Catalogue: BE-228*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bark canoe
 
+![Bark canoe](../Images/GR-0200-equipment-bark-canoe.jpg){.illus}
+
+
+*Catalogue: GR-0200*
 *Set: Core*
 
 *aka: ______________________________*

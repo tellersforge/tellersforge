@@ -1,5 +1,9 @@
 # Naval Gun
 
+![Naval Gun](../Images/GR-0069-weapons-naval-gun.jpg){.illus}
+
+
+*Catalogue: GR-0069*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Shock Baton
 
-![Shock baton](../Images/weapons-shock-baton.jpg){.illus}
+![Shock baton](../Images/GR-0092-weapons-shock-baton.jpg){.illus}
 
+*Catalogue: GR-0092*
 *Set: Expansion*
 
 *aka: ______________________________*

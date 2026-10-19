@@ -1,5 +1,9 @@
 # Limb Regrowth
 
+![Limb Regrowth](../Images/PW-154-powers-limb-regrowth.jpg){.illus}
+
+
+*Catalogue: PW-154*
 *Set: Expansion*
 
 *aka: ______________________________*

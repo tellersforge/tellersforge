@@ -1,5 +1,8 @@
 # Fear of Being Buried Alive
 
+![Fear of Being Buried Alive](../Images/flaws-fear-of-being-buried-alive.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when graves, collapsed tunnels, coffins.

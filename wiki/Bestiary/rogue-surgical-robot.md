@@ -1,5 +1,9 @@
 # Rogue surgical robot
 
+![Rogue surgical robot](../Images/BE-501-bestiary-rogue-surgical-robot.jpg){.illus}
+
+
+*Catalogue: BE-501*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Oilskin coat
 
+![Oilskin coat](../Images/GR-0689-equipment-oilskin-coat.jpg){.illus}
+
+
+*Catalogue: GR-0689*
 *Set: Expansion*
 
 *aka: ______________________________*

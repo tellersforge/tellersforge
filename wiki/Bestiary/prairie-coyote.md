@@ -1,5 +1,9 @@
 # Prairie coyote
 
+![Prairie coyote](../Images/BE-473-bestiary-prairie-coyote.jpg){.illus}
+
+
+*Catalogue: BE-473*
 *Set: Core*
 
 *aka: ______________________________*

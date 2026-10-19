@@ -1,5 +1,9 @@
 # Heavy work gloves
 
+![Heavy work gloves](../Images/GR-0516-equipment-heavy-work-gloves.jpg){.illus}
+
+
+*Catalogue: GR-0516*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Four-armed ape
 
+![Four-armed ape](../Images/BE-213-bestiary-four-armed-ape.jpg){.illus}
+
+
+*Catalogue: BE-213*
 *Set: Expansion*
 
 *aka: ______________________________*

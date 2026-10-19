@@ -1,5 +1,9 @@
 # Depth Charge
 
+![Depth Charge](../Images/GR-0028-weapons-depth-charge.jpg){.illus}
+
+
+*Catalogue: GR-0028*
 *Set: Expansion*
 
 *aka: ______________________________*

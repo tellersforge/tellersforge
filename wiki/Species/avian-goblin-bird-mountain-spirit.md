@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 219 Warrior tengu *(genres: fairy tale and folklore)*
 
+![Warrior tengu](../Images/species-warrior-tengu.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Proud mountain spirits with a bird-like face, masters of flight and the sword. (looks like: bird; good at: flying, fighting)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2

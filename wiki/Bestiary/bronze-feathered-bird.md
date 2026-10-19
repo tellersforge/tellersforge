@@ -1,5 +1,9 @@
 # Bronze-feathered bird
 
+![Bronze-feathered bird](../Images/BE-074-bestiary-bronze-feathered-bird.jpg){.illus}
+
+
+*Catalogue: BE-074*
 *Set: Expansion*
 
 *aka: ______________________________*

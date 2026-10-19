@@ -1,7 +1,8 @@
 # Spear-Thrower and Dart
 
-![Spear-thrower and dart](../Images/weapons-spear-thrower-and-dart.jpg){.illus}
+![Spear-thrower and dart](../Images/GR-0101-weapons-spear-thrower-and-dart.jpg){.illus}
 
+*Catalogue: GR-0101*
 *Set: Core*
 
 *aka: ______________________________*

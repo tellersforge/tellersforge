@@ -1,5 +1,9 @@
 # Attack Submarine
 
+![Attack Submarine](../Images/GR-1045-vehicles-attack-submarine.jpg){.illus}
+
+
+*Catalogue: GR-1045*
 *Set: Expansion*
 
 

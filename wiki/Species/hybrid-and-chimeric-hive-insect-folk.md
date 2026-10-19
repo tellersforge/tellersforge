@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hybrid hive worker/soldier caste *(NPC only)*
 
+![Hybrid hive worker/soldier caste](../Images/species-hybrid-hive-worker-soldier-caste.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 CHA −2 COU +1
 - **Skills:** [Formation Fighting](../Skills/formation-fighting.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Each worker carries traits of whatever the queen ate: copy those animals' family lines for the individual. NPC only.
 
 ### Hybrid hive king *(NPC only)*
+
+![Hybrid hive king](../Images/species-hybrid-hive-king.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 END +2 INT +3 WIS +2 CHA −2 COU +1

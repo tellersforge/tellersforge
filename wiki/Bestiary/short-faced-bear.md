@@ -1,5 +1,9 @@
 # Short-faced bear
 
+![Short-faced bear](../Images/BE-542-bestiary-short-faced-bear.jpg){.illus}
+
+
+*Catalogue: BE-542*
 *Set: Core*
 
 *aka: ______________________________*

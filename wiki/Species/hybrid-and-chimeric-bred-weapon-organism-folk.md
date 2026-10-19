@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Evolution-hardened juggernaut *(beast; NPC-scale)*
 
+![Evolution-hardened juggernaut](../Images/species-evolution-hardened-juggernaut.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +9 AGI −4 END +5 INT −3 WIS −2 COU +3
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2

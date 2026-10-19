@@ -1,5 +1,9 @@
 # Tripwire alarm
 
+![Tripwire alarm](../Images/GR-0981-equipment-tripwire-alarm.jpg){.illus}
+
+
+*Catalogue: GR-0981*
 *Set: Core*
 
 *aka: ______________________________*

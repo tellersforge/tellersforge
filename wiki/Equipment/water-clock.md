@@ -1,5 +1,9 @@
 # Water clock
 
+![Water clock](../Images/GR-1000-equipment-water-clock.jpg){.illus}
+
+
+*Catalogue: GR-1000*
 *Set: Expansion*
 
 *aka: ______________________________*

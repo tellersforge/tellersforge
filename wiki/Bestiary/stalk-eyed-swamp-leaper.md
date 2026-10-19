@@ -1,5 +1,9 @@
 # Stalk-eyed swamp leaper
 
+![Stalk-eyed swamp leaper](../Images/BE-590-bestiary-stalk-eyed-swamp-leaper.jpg){.illus}
+
+
+*Catalogue: BE-590*
 *Set: Expansion*
 
 *aka: ______________________________*

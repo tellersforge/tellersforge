@@ -1,5 +1,9 @@
 # Metallurgy
 
+![Metallurgy](../Images/SK-131-skills-metallurgy.jpg){.illus}
+
+
+*Catalogue: SK-131*
 *Set: Expansion*
 
 *aka: ______________________________*

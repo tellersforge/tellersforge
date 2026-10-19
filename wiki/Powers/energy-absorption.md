@@ -1,5 +1,9 @@
 # Energy Absorption
 
+![Energy Absorption](../Images/PW-087-powers-energy-absorption.jpg){.illus}
+
+
+*Catalogue: PW-087*
 *Set: Expansion*
 
 *aka: ______________________________*

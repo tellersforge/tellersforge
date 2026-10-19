@@ -1,5 +1,8 @@
 # Fear of Ghosts
 
+![Fear of Ghosts](../Images/flaws-fear-of-ghosts.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when spirits, hauntings, ghostly sightings.

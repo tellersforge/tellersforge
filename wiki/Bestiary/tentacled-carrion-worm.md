@@ -1,5 +1,9 @@
 # Tentacled carrion worm
 
+![Tentacled carrion worm](../Images/BE-613-bestiary-tentacled-carrion-worm.jpg){.illus}
+
+
+*Catalogue: BE-613*
 *Set: Expansion*
 
 *aka: ______________________________*

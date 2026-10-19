@@ -1,5 +1,8 @@
 # Elemental-kind
 
+![Elemental-kind](../Images/species-families-elemental-kind.jpg){.illus}
+
+
 
 Beings of fire, water, earth and air, and the peoples who carry those forces in their blood. Pure elementals are the raw stuff of the world given will: a walking bonfire, a whirlwind with a temper, a hill that stands up. Their descendants look nearly human but not quite: hair that flickers, skin like wet stone, a voice with wind in it. Many are volatile, some ancient, and a few tainted by darker powers. What unites them is that one element runs through their nature and their moods, so a fire-blooded friend burns hot and a stone-blooded one never hurries. Others treat them with the wary respect due to weather.
 

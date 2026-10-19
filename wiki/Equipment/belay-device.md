@@ -1,5 +1,9 @@
 # Belay device
 
+![Belay device](../Images/GR-0208-equipment-belay-device.jpg){.illus}
+
+
+*Catalogue: GR-0208*
 *Set: Expansion*
 
 *aka: ______________________________*

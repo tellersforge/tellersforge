@@ -1,5 +1,9 @@
 # Aerospace Engineering
 
+![Aerospace Engineering](../Images/SK-004-skills-aerospace-engineering.jpg){.illus}
+
+
+*Catalogue: SK-004*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Cave bear
 
+![Cave bear](../Images/BE-093-bestiary-cave-bear.jpg){.illus}
+
+
+*Catalogue: BE-093*
 *Set: Core*
 
 *aka: ______________________________*

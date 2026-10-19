@@ -1,5 +1,8 @@
 # Fear of Being Trapped
 
+![Fear of Being Trapped](../Images/flaws-fear-of-being-trapped.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when locked rooms, cages, being tied up.

@@ -1,5 +1,9 @@
 # Ox Cart
 
+![Ox Cart](../Images/GR-1096-vehicles-ox-cart.jpg){.illus}
+
+
+*Catalogue: GR-1096*
 *Set: Core*
 
 

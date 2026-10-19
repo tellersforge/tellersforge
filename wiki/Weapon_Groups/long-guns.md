@@ -1,5 +1,9 @@
 # Long Guns
 
+![Long Guns](../Images/WG-019-weapon-groups-long-guns.jpg){.illus}
+
+
+*Catalogue: WG-019*
 *Set: Core*
 
 *aka: ______________________________*

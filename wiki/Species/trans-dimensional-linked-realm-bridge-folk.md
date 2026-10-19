@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 781 Realm-bridge weaver folk *(genres: heavens, hells and other planes)*
 
+![Realm-bridge weaver folk](../Images/species-realm-bridge-weaver-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Border folk whose homeland straddles two linked worlds, stepping between them almost without noticing. (looks like: human; good at: powers and magic, people and talk)
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1

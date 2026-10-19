@@ -1,5 +1,9 @@
 # Ceiling tongue snare
 
+![Ceiling tongue snare](../Images/BE-100-bestiary-ceiling-tongue-snare.jpg){.illus}
+
+
+*Catalogue: BE-100*
 *Set: Expansion*
 
 *aka: ______________________________*

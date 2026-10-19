@@ -1,5 +1,9 @@
 # Eurasian lynx
 
+![Eurasian lynx](../Images/BE-176-bestiary-eurasian-lynx.jpg){.illus}
+
+
+*Catalogue: BE-176*
 *Set: Core*
 
 *aka: ______________________________*

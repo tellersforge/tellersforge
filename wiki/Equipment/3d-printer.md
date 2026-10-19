@@ -1,5 +1,9 @@
 # 3d printer
 
+![3d printer](../Images/GR-0169-equipment-3d-printer.jpg){.illus}
+
+
+*Catalogue: GR-0169*
 *Set: Expansion*
 
 *aka: ______________________________*

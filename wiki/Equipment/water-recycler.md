@@ -1,5 +1,9 @@
 # Water recycler
 
+![Water recycler](../Images/GR-1003-equipment-water-recycler.jpg){.illus}
+
+
+*Catalogue: GR-1003*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # African lion
 
+![African lion](../Images/BE-010-bestiary-african-lion.jpg){.illus}
+
+
+*Catalogue: BE-010*
 *Set: Core*
 
 *aka: ______________________________*

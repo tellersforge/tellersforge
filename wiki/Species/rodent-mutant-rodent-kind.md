@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 689 Mutant rodent folk *(genres: after the fall)*
 
+![Mutant rodent folk](../Images/species-mutant-rodent-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Radiation-hardened rodent folk of the wastes, each carrying one unpredictable mutant power. (looks like: rat; good at: toughness, powers and magic)
 - **Attributes:** STR −1 AGI +1 END +1 WIS +1 COU −1

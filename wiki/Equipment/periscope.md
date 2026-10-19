@@ -1,5 +1,9 @@
 # Periscope
 
+![Periscope](../Images/GR-0719-equipment-periscope.jpg){.illus}
+
+
+*Catalogue: GR-0719*
 *Set: Expansion*
 
 *aka: ______________________________*

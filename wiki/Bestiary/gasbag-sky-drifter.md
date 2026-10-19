@@ -1,7 +1,8 @@
 # Gasbag sky drifter
 
-![Gasbag sky drifter](../Images/bestiary-gasbag-sky-drifter.jpg){.illus}
+![Gasbag sky drifter](../Images/BE-230-bestiary-gasbag-sky-drifter.jpg){.illus}
 
+*Catalogue: BE-230*
 *Set: Expansion*
 
 *aka: ______________________________*

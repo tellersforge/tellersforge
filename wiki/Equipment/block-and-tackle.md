@@ -1,5 +1,9 @@
 # Block and tackle
 
+![Block and tackle](../Images/GR-0219-equipment-block-and-tackle.jpg){.illus}
+
+
+*Catalogue: GR-0219*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Island devil-cat
 
+![Island devil-cat](../Images/BE-370-bestiary-island-devil-cat.jpg){.illus}
+
+
+*Catalogue: BE-370*
 *Set: Expansion*
 
 *aka: ______________________________*

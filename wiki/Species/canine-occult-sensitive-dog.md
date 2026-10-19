@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 248 Backyard occult-dog *(genres: animal fable, gothic horror)*
 
+![Backyard occult-dog](../Images/species-backyard-occult-dog.jpg){.illus}
+
+
 - **Size:** small · **Body:** quadruped
 - **What it's like:** Ordinary-looking pet dogs who can see and fight things no one else can. (looks like: dog; good at: powers and magic, keen senses)
 - **Attributes:** STR −2 AGI +2 END +1 INT −2 WIS +1 PER +1 CHA −1 COU +2

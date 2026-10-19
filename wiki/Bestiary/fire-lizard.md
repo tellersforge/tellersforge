@@ -1,5 +1,9 @@
 # Fire lizard
 
+![Fire lizard](../Images/BE-193-bestiary-fire-lizard.jpg){.illus}
+
+
+*Catalogue: BE-193*
 *Set: Expansion*
 
 *aka: ______________________________*

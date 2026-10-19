@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 449 Spore-born fungal warrior *(genres: dark fantasy, space opera: strange aliens)*
 
+![Spore-born fungal warrior](../Images/species-spore-born-fungal-warrior.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A tough, spore-born fungal warrior that grows fresh from spore pods and barely notices pain in a fight. (looks like: mushroom; good at: toughness, fighting)
 - **Attributes:** STR +2 AGI −1 END +2 INT −2 COU +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 450 Small fungal underling *(genres: dark fantasy, space opera: strange aliens)*
 
+![Small fungal underling](../Images/species-small-fungal-underling.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, spore-born fungal folk, weak and easily scared alone but numerous and useful servants of bigger greenskin kin. (looks like: mushroom; good at: sneaking, wilderness)
 - **Attributes:** STR −2 AGI +2 END +2 WIS +1 COU −2
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Weak and cowardly, but sneaky.
 
 ### Fungal livestock beast *(beast)*
+
+![Fungal livestock beast](../Images/species-fungal-livestock-beast.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** STR +1 AGI −1 END +2 INT −3 WIS +1 CHA −2

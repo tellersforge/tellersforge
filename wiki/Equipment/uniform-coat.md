@@ -1,5 +1,9 @@
 # Uniform coat
 
+![Uniform coat](../Images/GR-0986-equipment-uniform-coat.jpg){.illus}
+
+
+*Catalogue: GR-0986*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Asteroid cave slug
 
+![Asteroid cave slug](../Images/BE-030-bestiary-asteroid-cave-slug.jpg){.illus}
+
+
+*Catalogue: BE-030*
 *Set: Expansion*
 
 *aka: ______________________________*

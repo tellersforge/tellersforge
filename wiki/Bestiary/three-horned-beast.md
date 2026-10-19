@@ -1,7 +1,8 @@
 # Three-horned beast
 
-![Three-horned beast](../Images/bestiary-three-horned-beast.jpg){.illus}
+![Three-horned beast](../Images/BE-621-bestiary-three-horned-beast.jpg){.illus}
 
+*Catalogue: BE-621*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Giant pitcher plant
 
+![Giant pitcher plant](../Images/BE-270-bestiary-giant-pitcher-plant.jpg){.illus}
+
+
+*Catalogue: BE-270*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Eagle owl
 
+![Eagle owl](../Images/BE-168-bestiary-eagle-owl.jpg){.illus}
+
+
+*Catalogue: BE-168*
 *Set: Core*
 
 *aka: ______________________________*

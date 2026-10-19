@@ -1,5 +1,9 @@
 # Fire proximity suit
 
+![Fire proximity suit](../Images/GR-0414-equipment-fire-proximity-suit.jpg){.illus}
+
+
+*Catalogue: GR-0414*
 *Set: Expansion*
 
 *aka: ______________________________*

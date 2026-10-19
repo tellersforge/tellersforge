@@ -1,5 +1,9 @@
 # Media Production
 
+![Media Production](../Images/SK-126-skills-media-production.jpg){.illus}
+
+
+*Catalogue: SK-126*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bramble beast
 
+![Bramble beast](../Images/BE-072-bestiary-bramble-beast.jpg){.illus}
+
+
+*Catalogue: BE-072*
 *Set: Expansion*
 
 *aka: ______________________________*

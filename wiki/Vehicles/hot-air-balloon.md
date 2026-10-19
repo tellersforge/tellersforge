@@ -1,7 +1,8 @@
 # Hot-Air Balloon
 
-![Hot-air balloon](../Images/vehicles-hot-air-balloon.jpg){.illus}
+![Hot-air balloon](../Images/GR-1078-vehicles-hot-air-balloon.jpg){.illus}
 
+*Catalogue: GR-1078*
 *Set: Expansion*
 
 

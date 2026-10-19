@@ -1,5 +1,9 @@
 # Marsupial lion
 
+![Marsupial lion](../Images/BE-409-bestiary-marsupial-lion.jpg){.illus}
+
+
+*Catalogue: BE-409*
 *Set: Expansion*
 
 *aka: ______________________________*

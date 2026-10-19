@@ -1,5 +1,9 @@
 # Stone Projectiles
 
+![Stone Projectiles](../Images/PW-277-powers-stone-projectiles.jpg){.illus}
+
+
+*Catalogue: PW-277*
 *Set: Expansion*
 
 *aka: ______________________________*

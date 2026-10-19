@@ -1,5 +1,9 @@
 # Pack llama
 
+![Pack llama](../Images/BE-452-bestiary-pack-llama.jpg){.illus}
+
+
+*Catalogue: BE-452*
 *Set: Core*
 
 *aka: ______________________________*

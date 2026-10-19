@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living-rock historical simulators *(NPC only; NPC-scale)*
 
+![Living-rock historical simulators](../Images/species-living-rock-historical-simulators.jpg){.illus}
+
+
 - **Size:** large · **Body:** other
 - **Attributes:** STR +4 AGI −2 END +2 INT +2 CHA +1
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Disguise](../Skills/disguise.md) +2, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Acting](../Skills/acting.md) +1, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Running](../Skills/running.md) −2, [Stealth](../Skills/stealth.md) −2, [Swimming](../Skills/swimming.md) Foreign Concept

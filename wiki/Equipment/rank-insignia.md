@@ -1,5 +1,9 @@
 # Rank insignia
 
+![Rank insignia](../Images/GR-0779-equipment-rank-insignia.jpg){.illus}
+
+
+*Catalogue: GR-0779*
 *Set: Core*
 
 *aka: ______________________________*

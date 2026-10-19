@@ -1,5 +1,9 @@
 # Folding shovel
 
+![Folding shovel](../Images/GR-0432-equipment-folding-shovel.jpg){.illus}
+
+
+*Catalogue: GR-0432*
 *Set: Expansion*
 
 *aka: ______________________________*

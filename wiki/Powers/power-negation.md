@@ -1,5 +1,9 @@
 # Power Negation
 
+![Power Negation](../Images/PW-229-powers-power-negation.jpg){.illus}
+
+
+*Catalogue: PW-229*
 *Set: Expansion*
 
 *aka: ______________________________*

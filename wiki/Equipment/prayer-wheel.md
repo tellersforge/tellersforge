@@ -1,5 +1,9 @@
 # Prayer wheel
 
+![Prayer wheel](../Images/GR-0756-equipment-prayer-wheel.jpg){.illus}
+
+
+*Catalogue: GR-0756*
 *Set: Expansion*
 
 *aka: ______________________________*

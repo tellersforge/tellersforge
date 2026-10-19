@@ -1,5 +1,9 @@
 # Computer Use
 
+![Computer Use](../Images/SK-040-skills-computer-use.jpg){.illus}
+
+
+*Catalogue: SK-040*
 *Set: Expansion*
 
 *aka: ______________________________*

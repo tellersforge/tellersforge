@@ -1,5 +1,9 @@
 # Hood
 
+![Hood](../Images/GR-0544-equipment-hood.jpg){.illus}
+
+
+*Catalogue: GR-0544*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Yoke
 
+![Yoke](../Images/GR-1040-equipment-yoke.jpg){.illus}
+
+
+*Catalogue: GR-1040*
 *Set: Core*
 
 *aka: ______________________________*

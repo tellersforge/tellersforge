@@ -1,5 +1,9 @@
 # Shipboard jumpsuit
 
+![Shipboard jumpsuit](../Images/GR-0848-equipment-shipboard-jumpsuit.jpg){.illus}
+
+
+*Catalogue: GR-0848*
 *Set: Expansion*
 
 *aka: ______________________________*

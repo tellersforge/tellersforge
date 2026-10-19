@@ -1,5 +1,9 @@
 # Wristwatch
 
+![Wristwatch](../Images/GR-1039-equipment-wristwatch.jpg){.illus}
+
+
+*Catalogue: GR-1039*
 *Set: Core*
 
 *aka: ______________________________*

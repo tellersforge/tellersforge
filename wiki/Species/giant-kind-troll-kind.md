@@ -39,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Stone-skinned mountain trolls *(NPC only)*
 
+![Stone-skinned mountain trolls](../Images/species-stone-skinned-mountain-trolls.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +3 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Survival: Mountain](../Skills/survival-mountain.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -48,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Hardy mountain-dwelling trolls.
 
 ### Subterranean ambush giants *(NPC only)*
+
+![Subterranean ambush giants](../Images/species-subterranean-ambush-giants.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −1
@@ -60,6 +66,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sun-hardy bred giants *(NPC only)*
 
+![Sun-hardy bred giants](../Images/species-sun-hardy-bred-giants.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 COU +1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Formation Fighting](../Skills/formation-fighting.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -70,6 +79,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* No sunlight flaw.
 
 ### Sunlight-vulnerable stone giants · Upland brute giants *(NPC only)*
+
+![Sunlight-vulnerable stone giants](../Images/species-sunlight-vulnerable-stone-giants.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −3
@@ -82,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Brutish mercenary troll *(NPC only)*
 
+![Brutish mercenary troll](../Images/species-brutish-mercenary-troll.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −2
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -90,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 15 · Parry 12 · Dodge 5 · Damage longsword 1d6+2 · Armour 2 · Life 27 · Threat 2 ([Bestiary roles](../bestiary.md))
 
 ### No. 459 Disciplined mining troll *(genres: underworld and wild places)*
+
+![Disciplined mining troll](../Images/species-disciplined-mining-troll.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Stone-grey trolls with tough hides, raised in a disciplined culture that prizes both mining and war. (looks like: giant; good at: strength, making and fixing)
@@ -101,6 +119,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A disciplined warrior and mining people.
 
 ### No. 460 Regenerating cave troll *(genres: fairy tale and folklore, underworld and wild places)*
+
+![Regenerating cave troll](../Images/species-regenerating-cave-troll.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** A hugely strong cave troll that heals from almost any wound in moments, though fire keeps the damage from closing. (looks like: giant; good at: strength, toughness)
@@ -114,6 +135,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 461 Advanced tribal troll empire *(genres: classic fantasy)*
 
+![Advanced tribal troll empire](../Images/species-advanced-tribal-troll-empire.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, tusked, self-healing trolls of a proud old empire, steeped in a rich spiritual and voodoo tradition. (looks like: giant; good at: toughness, powers and magic)
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
@@ -126,6 +150,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 462 Matriarchal cave troll society *(genres: underworld and wild places)*
 
+![Matriarchal cave troll society](../Images/species-matriarchal-cave-troll-society.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tough cave trolls who see in the dark and live in a society led entirely by its women. (looks like: giant; good at: toughness, keen senses)
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
@@ -136,6 +163,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Cave trolls who see in the dark.
 
 ### No. 463 Massive tusked metahuman troll *(genres: near future and cyberpunk)*
+
+![Massive tusked metahuman troll](../Images/species-massive-tusked-metahuman-troll.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** A massive, tusked troll-blooded person, immensely strong and tough, often unfairly judged by others because of it. (looks like: giant; good at: strength, toughness)
@@ -149,6 +179,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 464 Regenerating half-troll *(genres: classic fantasy)*
 
+![Regenerating half-troll](../Images/species-regenerating-half-troll.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** A huge half-troll who heals almost any wound in seconds, though fire or acid can stop the healing cold. (looks like: giant; good at: strength, toughness)
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
@@ -160,6 +193,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Fire or acid halts the regeneration; that weakness is a flaw.
 
 ### Mountain troll (huge variant) *(NPC only)*
+
+![Mountain troll (huge variant)](../Images/species-mountain-troll-huge-variant.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +3 INT −1

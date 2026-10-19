@@ -1,5 +1,9 @@
 # Elephant goad
 
+![Elephant goad](../Images/GR-0369-equipment-elephant-goad.jpg){.illus}
+
+
+*Catalogue: GR-0369*
 *Set: Expansion*
 
 *aka: ______________________________*

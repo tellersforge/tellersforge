@@ -1,5 +1,9 @@
 # Data spike
 
+![Data spike](../Images/GR-0321-equipment-data-spike.jpg){.illus}
+
+
+*Catalogue: GR-0321*
 *Set: Expansion*
 
 *aka: ______________________________*

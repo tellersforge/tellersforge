@@ -1,5 +1,9 @@
 # Soul leech
 
+![Soul leech](../Images/BE-574-bestiary-soul-leech.jpg){.illus}
+
+
+*Catalogue: BE-574*
 *Set: Expansion*
 
 *aka: ______________________________*

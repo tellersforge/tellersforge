@@ -1,5 +1,9 @@
 # Pheromone scent
 
+![Pheromone scent](../Images/GR-0721-equipment-pheromone-scent.jpg){.illus}
+
+
+*Catalogue: GR-0721*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Swim fins
 
+![Swim fins](../Images/GR-0939-equipment-swim-fins.jpg){.illus}
+
+
+*Catalogue: GR-0939*
 *Set: Expansion*
 
 *aka: ______________________________*

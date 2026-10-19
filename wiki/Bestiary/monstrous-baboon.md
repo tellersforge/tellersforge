@@ -1,5 +1,9 @@
 # Monstrous baboon
 
+![Monstrous baboon](../Images/BE-419-bestiary-monstrous-baboon.jpg){.illus}
+
+
+*Catalogue: BE-419*
 *Set: Core*
 
 *aka: ______________________________*

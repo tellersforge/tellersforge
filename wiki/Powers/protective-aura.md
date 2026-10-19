@@ -1,5 +1,9 @@
 # Protective Aura
 
+![Protective Aura](../Images/PW-233-powers-protective-aura.jpg){.illus}
+
+
+*Catalogue: PW-233*
 *Set: Expansion*
 
 *aka: ______________________________*

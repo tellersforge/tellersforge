@@ -1,7 +1,8 @@
 # Island turtle
 
-![Island turtle](../Images/bestiary-island-turtle.jpg){.illus}
+![Island turtle](../Images/BE-371-bestiary-island-turtle.jpg){.illus}
 
+*Catalogue: BE-371*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Floating sky whale
 
-![Floating sky whale](../Images/bestiary-floating-sky-whale.jpg){.illus}
+![Floating sky whale](../Images/BE-205-bestiary-floating-sky-whale.jpg){.illus}
 
+*Catalogue: BE-205*
 *Set: Expansion*
 
 *aka: ______________________________*

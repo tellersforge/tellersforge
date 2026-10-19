@@ -1,5 +1,9 @@
 # Trench worm horror
 
+![Trench worm horror](../Images/BE-632-bestiary-trench-worm-horror.jpg){.illus}
+
+
+*Catalogue: BE-632*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Colony world pioneers
 
+![Colony world pioneers](../Images/cultures-colony-world-pioneers.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

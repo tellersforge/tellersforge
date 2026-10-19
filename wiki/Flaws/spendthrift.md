@@ -1,5 +1,8 @@
 # Spendthrift
 
+![Spendthrift](../Images/flaws-spendthrift.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when spends money as soon as it arrives.

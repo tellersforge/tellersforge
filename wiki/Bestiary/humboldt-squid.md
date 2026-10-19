@@ -1,5 +1,9 @@
 # Humboldt squid
 
+![Humboldt squid](../Images/BE-354-bestiary-humboldt-squid.jpg){.illus}
+
+
+*Catalogue: BE-354*
 *Set: Core*
 
 *aka: ______________________________*

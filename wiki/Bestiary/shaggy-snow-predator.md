@@ -1,7 +1,8 @@
 # Shaggy snow predator
 
-![Shaggy snow predator](../Images/bestiary-shaggy-snow-predator.jpg){.illus}
+![Shaggy snow predator](../Images/BE-538-bestiary-shaggy-snow-predator.jpg){.illus}
 
+*Catalogue: BE-538*
 *Set: Expansion*
 
 *aka: ______________________________*

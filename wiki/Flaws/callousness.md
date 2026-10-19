@@ -1,5 +1,8 @@
 # Callousness
 
+![Callousness](../Images/flaws-callousness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Conscience and conduct* kind. It fires when ignores suffering and leaves the weak behind.

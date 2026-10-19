@@ -1,5 +1,9 @@
 # Draped tunic
 
+![Draped tunic](../Images/GR-0350-equipment-draped-tunic.jpg){.illus}
+
+
+*Catalogue: GR-0350*
 *Set: Expansion*
 
 *aka: ______________________________*

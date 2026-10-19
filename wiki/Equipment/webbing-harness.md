@@ -1,5 +1,9 @@
 # Webbing harness
 
+![Webbing harness](../Images/GR-1008-equipment-webbing-harness.jpg){.illus}
+
+
+*Catalogue: GR-1008*
 *Set: Expansion*
 
 *aka: ______________________________*

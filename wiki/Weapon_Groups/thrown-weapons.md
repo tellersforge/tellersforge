@@ -1,5 +1,9 @@
 # Thrown Weapons
 
+![Thrown Weapons](../Images/WG-028-weapon-groups-thrown-weapons.jpg){.illus}
+
+
+*Catalogue: WG-028*
 *Set: Core*
 
 *aka: ______________________________*

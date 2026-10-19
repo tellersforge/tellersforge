@@ -1,5 +1,9 @@
 # Corpse swarm
 
+![Corpse swarm](../Images/BE-131-bestiary-corpse-swarm.jpg){.illus}
+
+
+*Catalogue: BE-131*
 *Set: Expansion*
 
 *aka: ______________________________*

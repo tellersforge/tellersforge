@@ -1,5 +1,9 @@
 # Giant mutant salamander
 
+![Giant mutant salamander](../Images/BE-267-bestiary-giant-mutant-salamander.jpg){.illus}
+
+
+*Catalogue: BE-267*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Thrusting Spear
 
-![Thrusting spear](../Images/weapons-thrusting-spear.jpg){.illus}
+![Thrusting spear](../Images/GR-0113-weapons-thrusting-spear.jpg){.illus}
 
+*Catalogue: GR-0113*
 *Set: Core*
 
 *aka: ______________________________*

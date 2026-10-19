@@ -1,5 +1,9 @@
 # Dry-cell battery
 
+![Dry-cell battery](../Images/GR-0355-equipment-dry-cell-battery.jpg){.illus}
+
+
+*Catalogue: GR-0355*
 *Set: Expansion*
 
 *aka: ______________________________*

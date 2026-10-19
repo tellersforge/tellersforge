@@ -1,7 +1,8 @@
 # Blood-drinking tree
 
-![Blood-drinking tree](../Images/bestiary-blood-drinking-tree.jpg){.illus}
+![Blood-drinking tree](../Images/BE-056-bestiary-blood-drinking-tree.jpg){.illus}
 
+*Catalogue: BE-056*
 *Set: Expansion*
 
 *aka: ______________________________*

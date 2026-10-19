@@ -1,5 +1,9 @@
 # Wooden toy
 
+![Wooden toy](../Images/GR-1026-equipment-wooden-toy.jpg){.illus}
+
+
+*Catalogue: GR-1026*
 *Set: Core*
 
 *aka: ______________________________*

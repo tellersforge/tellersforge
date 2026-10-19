@@ -1,5 +1,9 @@
 # Fleece layer
 
+![Fleece layer](../Images/GR-0418-equipment-fleece-layer.jpg){.illus}
+
+
+*Catalogue: GR-0418*
 *Set: Expansion*
 
 *aka: ______________________________*

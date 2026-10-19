@@ -1,5 +1,9 @@
 # Spotted leopard
 
+![Spotted leopard](../Images/BE-589-bestiary-spotted-leopard.jpg){.illus}
+
+
+*Catalogue: BE-589*
 *Set: Core*
 
 *aka: ______________________________*

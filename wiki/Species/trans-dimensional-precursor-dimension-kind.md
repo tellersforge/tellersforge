@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pocket-dimension founder deity *(NPC only; NPC-scale)*
 
+![Pocket-dimension founder deity](../Images/species-pocket-dimension-founder-deity.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +4 AGI −4 INT +3 WIS +2 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale.
 
 ### Precursor architect being *(NPC only; NPC-scale)*
+
+![Precursor architect being](../Images/species-precursor-architect-being.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 INT +4 WIS +2 PER +1 CHA −1

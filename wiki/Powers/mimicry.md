@@ -1,5 +1,9 @@
 # Mimicry
 
+![Mimicry](../Images/PW-181-powers-mimicry.jpg){.illus}
+
+
+*Catalogue: PW-181*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Awaken Object
 
+![Awaken Object](../Images/PW-014-powers-awaken-object.jpg){.illus}
+
+
+*Catalogue: PW-014*
 *Set: Expansion*
 
 *aka: ______________________________*

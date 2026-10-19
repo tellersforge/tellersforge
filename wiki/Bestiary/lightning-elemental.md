@@ -1,7 +1,8 @@
 # Lightning elemental
 
-![Lightning elemental](../Images/bestiary-lightning-elemental.jpg){.illus}
+![Lightning elemental](../Images/BE-388-bestiary-lightning-elemental.jpg){.illus}
 
+*Catalogue: BE-388*
 *Set: Expansion*
 
 *aka: ______________________________*

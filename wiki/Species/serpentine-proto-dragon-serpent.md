@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### River-bound imugi *(NPC only)*
 
+![River-bound imugi](../Images/species-river-bound-imugi.jpg){.illus}
+
+
 - **Size:** large · **Body:** serpentine
 - **Attributes:** STR +4 AGI −1 END +1 WIS +2 CHA +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Swimming](../Skills/swimming.md) +2, [Climbing](../Skills/climbing.md) +1, [Hypnotism](../Skills/hypnotism.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Running](../Skills/running.md) −2, [Jumping](../Skills/jumping.md) −3, [Riding](../Skills/riding.md) Foreign Concept

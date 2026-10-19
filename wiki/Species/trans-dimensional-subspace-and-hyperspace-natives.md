@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Interstellar energy-form being *(NPC only)*
 
+![Interstellar energy-form being](../Images/species-interstellar-energy-form-being.jpg){.illus}
+
+
 - **Size:** varies · **Body:** energy
 - **Attributes:** STR −3 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +5, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (very long-lived) is a lexicon detail, not a game number. No hands: held weapons unusable.
 
 ### Dimension-crossing soul harvester *(NPC only; NPC-scale)*
+
+![Dimension-crossing soul harvester](../Images/species-dimension-crossing-soul-harvester.jpg){.illus}
+
 
 - **Size:** varies · **Body:** energy
 - **Attributes:** STR −3 INT +1 WIS +1 PER +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Subspace lattice-dweller *(NPC only)*
 
+![Subspace lattice-dweller](../Images/species-subspace-lattice-dweller.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +5, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fluidic-space bioship organism *(NPC only; NPC-scale)*
 
+![Fluidic-space bioship organism](../Images/species-fluidic-space-bioship-organism.jpg){.illus}
+
+
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +4 AGI −4 END +3 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +5, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -63,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (long-lived) is a lexicon detail, not a game number. No hands: held weapons unusable.
 
 ### Crystalline interspace-dweller *(NPC only)*
+
+![Crystalline interspace-dweller](../Images/species-crystalline-interspace-dweller.jpg){.illus}
+
 
 - **Size:** medium · **Body:** crystalline
 - **Attributes:** AGI −1 END +2 INT +1 WIS +1 PER +1 CHA −1

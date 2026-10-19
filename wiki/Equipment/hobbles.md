@@ -1,5 +1,9 @@
 # Hobbles
 
+![Hobbles](../Images/GR-0531-equipment-hobbles.jpg){.illus}
+
+
+*Catalogue: GR-0531*
 *Set: Expansion*
 
 *aka: ______________________________*

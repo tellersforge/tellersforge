@@ -1,5 +1,9 @@
 # Tattooing & Body Art
 
+![Tattooing & Body Art](../Images/SK-207-skills-tattooing-and-body-art.jpg){.illus}
+
+
+*Catalogue: SK-207*
 *Set: Expansion*
 
 *aka: ______________________________*

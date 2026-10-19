@@ -1,5 +1,9 @@
 # Cleanroom suit
 
+![Cleanroom suit](../Images/GR-0279-equipment-cleanroom-suit.jpg){.illus}
+
+
+*Catalogue: GR-0279*
 *Set: Expansion*
 
 *aka: ______________________________*

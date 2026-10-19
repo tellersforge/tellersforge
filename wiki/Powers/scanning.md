@@ -1,5 +1,9 @@
 # Scanning
 
+![Scanning](../Images/PW-249-powers-scanning.jpg){.illus}
+
+
+*Catalogue: PW-249*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Crested porcupine
 
+![Crested porcupine](../Images/BE-135-bestiary-crested-porcupine.jpg){.illus}
+
+
+*Catalogue: BE-135*
 *Set: Core*
 
 *aka: ______________________________*

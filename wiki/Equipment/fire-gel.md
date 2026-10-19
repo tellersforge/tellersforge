@@ -1,5 +1,9 @@
 # Fire gel
 
+![Fire gel](../Images/GR-0411-equipment-fire-gel.jpg){.illus}
+
+
+*Catalogue: GR-0411*
 *Set: Expansion*
 
 *aka: ______________________________*

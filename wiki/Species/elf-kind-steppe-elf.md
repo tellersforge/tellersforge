@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 390 Steppe-riding elf-kin *(genres: classic fantasy)*
 
+![Steppe-riding elf-kin](../Images/species-steppe-riding-elf-kin.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Nomadic elf-kin of the open steppe, exceptional riders and archers living in tight-knit clans. (looks like: elf; good at: speed and agility, fighting)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2

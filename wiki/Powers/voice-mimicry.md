@@ -1,5 +1,9 @@
 # Voice Mimicry
 
+![Voice Mimicry](../Images/PW-310-powers-voice-mimicry.jpg){.illus}
+
+
+*Catalogue: PW-310*
 *Set: Expansion*
 
 *aka: ______________________________*

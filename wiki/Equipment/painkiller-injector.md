@@ -1,5 +1,9 @@
 # Painkiller injector
 
+![Painkiller injector](../Images/GR-0702-equipment-painkiller-injector.jpg){.illus}
+
+
+*Catalogue: GR-0702*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Henna kit
 
+![Henna kit](../Images/GR-0520-equipment-henna-kit.jpg){.illus}
+
+
+*Catalogue: GR-0520*
 *Set: Core*
 
 *aka: ______________________________*

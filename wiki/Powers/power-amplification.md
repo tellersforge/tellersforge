@@ -1,5 +1,9 @@
 # Power Amplification
 
+![Power Amplification](../Images/PW-225-powers-power-amplification.jpg){.illus}
+
+
+*Catalogue: PW-225*
 *Set: Expansion*
 
 *aka: ______________________________*

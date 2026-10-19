@@ -1,7 +1,8 @@
 # Steam war walker
 
-![Steam war walker](../Images/bestiary-steam-war-walker.jpg){.illus}
+![Steam war walker](../Images/BE-593-bestiary-steam-war-walker.jpg){.illus}
 
+*Catalogue: BE-593*
 *Set: Core*
 
 *aka: ______________________________*

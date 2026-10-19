@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Teddy-bear builder folk *(NPC only)*
 
+![Teddy-bear builder folk](../Images/species-teddy-bear-builder-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1
 - **Skills:**, [Fishing](../Skills/fishing.md) +2, [Construction](../Skills/construction.md) +1, [Foraging](../Skills/foraging.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Acrobatics](../Skills/acrobatics.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Culture line.
 
 ### No. 826 Forest trapper folk *(genres: space opera: beast-like aliens)*
+
+![Forest trapper folk](../Images/species-forest-trapper-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+furred
 - **What it's like:** Small, sharp-eared forest trappers, resourceful with simple traps and gliders. (looks like: bear; good at: keen senses, making and fixing)

@@ -1,5 +1,9 @@
 # Small raptor
 
+![Small raptor](../Images/BE-566-bestiary-small-raptor.jpg){.illus}
+
+
+*Catalogue: BE-566*
 *Set: Expansion*
 
 *aka: ______________________________*

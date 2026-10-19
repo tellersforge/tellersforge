@@ -1,5 +1,9 @@
 # Oath-bound revenant
 
+![Oath-bound revenant](../Images/BE-443-bestiary-oath-bound-revenant.jpg){.illus}
+
+
+*Catalogue: BE-443*
 *Set: Core*
 
 *aka: ______________________________*

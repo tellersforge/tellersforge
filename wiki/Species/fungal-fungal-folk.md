@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 448 Mushroom folk *(genres: underworld and wild places, space opera: strange aliens)*
 
+![Mushroom folk](../Images/species-mushroom-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+capped
 - **What it's like:** Mushroom-capped folk who eat rotting matter, defend themselves with spores, and stay linked underground through a living network. (looks like: mushroom; good at: powers and magic, wilderness)
 - **Attributes:** AGI −2 END +2 WIS +1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mycelial colony-folk *(NPC only)*
 
+![Mycelial colony-folk](../Images/species-mycelial-colony-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** colonial
 - **Attributes:** AGI −5 END +2 INT +1 WIS +4
 - **Skills:** [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +3, [Poisons & Antidotes](../Skills/poisons-and-antidotes.md) +2, [Foraging](../Skills/foraging.md) +1, [Remedies & Pharmacy](../Skills/remedies-and-pharmacy.md) +1, [Fire-Making](../Skills/fire-making.md) −1, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Nature Sense covers everything the network touches. No hands: held weapons unusable.
 
 ### Lichen folk *(NPC only)*
+
+![Lichen folk](../Images/species-lichen-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** amorphous
 - **Attributes:** STR −2 AGI −2 END +5 WIS +1
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Spore-cloud colony being *(NPC only)*
 
+![Spore-cloud colony being](../Images/species-spore-cloud-colony-being.jpg){.illus}
+
+
 - **Size:** small · **Body:** amorphous
 - **Attributes:** STR −3 END +2 WIS +1 CHA −1
 - **Skills:** [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +3, [Poisons & Antidotes](../Skills/poisons-and-antidotes.md) +2, [Foraging](../Skills/foraging.md) +1, [Remedies & Pharmacy](../Skills/remedies-and-pharmacy.md) +1, [Fire-Making](../Skills/fire-making.md) −1, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* No hands: held weapons unusable.
 
 ### Mold/rot horror *(beast)*
+
+![Mold/rot horror](../Images/species-mold-rot-horror.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** AGI −2 END +3 INT −3 WIS −1 CHA −3

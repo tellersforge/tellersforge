@@ -1,5 +1,9 @@
 # Parachuting & Gliding
 
+![Parachuting & Gliding](../Images/SK-146-skills-parachuting-and-gliding.jpg){.illus}
+
+
+*Catalogue: SK-146*
 *Set: Expansion*
 
 *aka: ______________________________*

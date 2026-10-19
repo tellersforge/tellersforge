@@ -1,5 +1,9 @@
 # Draft horse
 
+![Draft horse](../Images/BE-156-bestiary-draft-horse.jpg){.illus}
+
+
+*Catalogue: BE-156*
 *Set: Core*
 
 *aka: ______________________________*

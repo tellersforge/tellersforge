@@ -1,5 +1,9 @@
 # Straw golem
 
+![Straw golem](../Images/BE-601-bestiary-straw-golem.jpg){.illus}
+
+
+*Catalogue: BE-601*
 *Set: Expansion*
 
 *aka: ______________________________*

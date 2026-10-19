@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 217 Crane martial artist folk *(genres: animal fable)*
 
+![Crane martial artist folk](../Images/species-crane-martial-artist-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Elegant crane-folk who fly and fight with a graceful, acrobatic martial art. (looks like: crane; good at: flying, fighting, speed and agility)
 - **Attributes:** STR −2 AGI +3 END −1 WIS +1 PER +2

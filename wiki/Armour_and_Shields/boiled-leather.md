@@ -1,7 +1,8 @@
 # Boiled leather
 
-![Boiled leather armour](../Images/armour-boiled-leather.jpg){.illus}
+![Boiled leather armour](../Images/GR-0125-armour-boiled-leather.jpg){.illus}
 
+*Catalogue: GR-0125*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Planar
 
+![Planar](../Images/species-families-planar.jpg){.illus}
+
+
 
 Beings from the other side of the world: heavens, hells, elemental courts, spirit realms and the cold spaces between. They include winged messengers of light, horned lords of pit and flame, wish-granting genies bound in lamps and rings, guides of the dead, judges who cannot die, and elder gods who barely notice mortals at all. Many are embodiments of an idea, such as law, mercy, hunger or ruin, and act accordingly. They come to the mortal world by summons, bargain or invasion, rarely for long. Mortals pray to them, bargain with them and fear them, and are usually wise to do all three.
 

@@ -1,5 +1,9 @@
 # Leather sandals
 
+![Leather sandals](../Images/GR-0589-equipment-leather-sandals.jpg){.illus}
+
+
+*Catalogue: GR-0589*
 *Set: Core*
 
 *aka: ______________________________*

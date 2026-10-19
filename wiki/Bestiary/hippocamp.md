@@ -1,7 +1,8 @@
 # Hippocamp
 
-![Hippocamp](../Images/bestiary-hippocamp.jpg){.illus}
+![Hippocamp](../Images/BE-336-bestiary-hippocamp.jpg){.illus}
 
+*Catalogue: BE-336*
 *Set: Expansion*
 
 *aka: ______________________________*

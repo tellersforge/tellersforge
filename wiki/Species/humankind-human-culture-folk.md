@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Desert nomad human culture · Steppe nomad human culture · Arctic human culture · Horse-lords of the plains · Pastoral herder culture · Raft-dwelling sea nomads · Desert warrior-society folk · Honor-caste interdimensional empire folk · Post-apocalyptic mutant folk · Stealth assassin ethnic folk · Desert tribal raider folk · Stoic frontier settler folk · Theocratic warrior culture folk · Toxic-spore-adapted forest folk · Techno-priest ruling caste folk · Stone-age island tribe folk · Jungle savanna tribal culture folk *(same numbers as a baseline human: play as one (Species rule 18))*
 
+![Desert nomad human culture](../Images/species-desert-nomad-human-culture.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
@@ -50,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 2 Small woodland human *(fits every genre)*
 
+![Small woodland human](../Images/species-small-woodland-human.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Small forest-dwelling people who track quietly and hunt with poison darts. (looks like: human; good at: sneaking, wilderness)
 - **Attributes:** STR −1 END +1
@@ -58,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 3 Heavy-browed early human *(fits every genre)*
 
+![Heavy-browed early human](../Images/species-heavy-browed-early-human.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sturdy, heavy-browed early humans, stronger than most but slower to learn. (looks like: human; good at: strength, toughness)
 - **Attributes:** STR +1 END +1 INT −2
@@ -65,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; heavier build and lower intellect are attribute matters and the stone-age way of life is handled in the Culture step.
 
 ### Degenerate swamp tribe folk *(NPC only)*
+
+![Degenerate swamp tribe folk](../Images/species-degenerate-swamp-tribe-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 INT −1

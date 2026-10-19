@@ -1,5 +1,9 @@
 # Summon Otherworldly Being
 
+![Summon Otherworldly Being](../Images/PW-281-powers-summon-otherworldly-being.jpg){.illus}
+
+
+*Catalogue: PW-281*
 *Set: Expansion*
 
 *aka: ______________________________*

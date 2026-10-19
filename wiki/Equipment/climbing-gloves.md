@@ -1,5 +1,9 @@
 # Climbing gloves
 
+![Climbing gloves](../Images/GR-0285-equipment-climbing-gloves.jpg){.illus}
+
+
+*Catalogue: GR-0285*
 *Set: Expansion*
 
 *aka: ______________________________*

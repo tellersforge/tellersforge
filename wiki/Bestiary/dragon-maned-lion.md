@@ -1,5 +1,9 @@
 # Dragon-maned lion
 
+![Dragon-maned lion](../Images/BE-159-bestiary-dragon-maned-lion.jpg){.illus}
+
+
+*Catalogue: BE-159*
 *Set: Expansion*
 
 *aka: ______________________________*

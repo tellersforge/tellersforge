@@ -1,5 +1,9 @@
 # Security camera
 
+![Security camera](../Images/GR-0833-equipment-security-camera.jpg){.illus}
+
+
+*Catalogue: GR-0833*
 *Set: Expansion*
 
 *aka: ______________________________*

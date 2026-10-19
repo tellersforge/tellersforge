@@ -1,5 +1,9 @@
 # Potion Brewing
 
+![Potion Brewing](../Images/PW-224-powers-potion-brewing.jpg){.illus}
+
+
+*Catalogue: PW-224*
 *Set: Core*
 
 *aka: ______________________________*

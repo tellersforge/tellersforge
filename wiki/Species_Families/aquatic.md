@@ -1,5 +1,8 @@
 # Aquatic
 
+![Aquatic](../Images/species-families-aquatic.jpg){.illus}
+
+
 
 The peoples of the sea, the lake and the river, whose home covers most of the world and whose borders are drawn in currents. Some are fish-tailed and never touch land. Others have gills and legs and walk out onto the shore when trade or war calls them. Their ranks include walrus-tusked hunters of the ice, gentle water spirits in quiet pools, drowning monsters in the deep, and, among the stars, great whales that swim between worlds. Water shapes all of them: they think in three directions, speak in clicks and songs, and find dry-land folk slow, noisy and oddly flat. Sailors tell stories about them. The aquatic peoples tell stories about sailors, and mostly laugh.
 

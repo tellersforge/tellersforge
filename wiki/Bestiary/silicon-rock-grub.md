@@ -1,5 +1,9 @@
 # Silicon rock grub
 
+![Silicon rock grub](../Images/BE-549-bestiary-silicon-rock-grub.jpg){.illus}
+
+
+*Catalogue: BE-549*
 *Set: Expansion*
 
 *aka: ______________________________*

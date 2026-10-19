@@ -1,5 +1,9 @@
 # Pop-up shelter
 
+![Pop-up shelter](../Images/GR-0743-equipment-pop-up-shelter.jpg){.illus}
+
+
+*Catalogue: GR-0743*
 *Set: Expansion*
 
 *aka: ______________________________*

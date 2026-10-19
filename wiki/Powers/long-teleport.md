@@ -1,5 +1,9 @@
 # Long Teleport
 
+![Long Teleport](../Images/PW-157-powers-long-teleport.jpg){.illus}
+
+
+*Catalogue: PW-157*
 *Set: Expansion*
 
 *aka: ______________________________*

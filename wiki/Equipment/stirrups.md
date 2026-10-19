@@ -1,5 +1,9 @@
 # Stirrups
 
+![Stirrups](../Images/GR-0918-equipment-stirrups.jpg){.illus}
+
+
+*Catalogue: GR-0918*
 *Set: Expansion*
 
 *aka: ______________________________*

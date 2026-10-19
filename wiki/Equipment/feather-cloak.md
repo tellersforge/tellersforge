@@ -1,5 +1,9 @@
 # Feather cloak
 
+![Feather cloak](../Images/GR-0389-equipment-feather-cloak.jpg){.illus}
+
+
+*Catalogue: GR-0389*
 *Set: Expansion*
 
 *aka: ______________________________*

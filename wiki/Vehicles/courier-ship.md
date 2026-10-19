@@ -1,7 +1,8 @@
 # Courier Ship
 
-![Courier ship](../Images/vehicles-courier-ship.jpg){.illus}
+![Courier ship](../Images/GR-1058-vehicles-courier-ship.jpg){.illus}
 
+*Catalogue: GR-1058*
 *Set: Expansion*
 
 

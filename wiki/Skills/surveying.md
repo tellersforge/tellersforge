@@ -1,5 +1,9 @@
 # Surveying
 
+![Surveying](../Images/SK-195-skills-surveying.jpg){.illus}
+
+
+*Catalogue: SK-195*
 *Set: Expansion*
 
 *aka: ______________________________*

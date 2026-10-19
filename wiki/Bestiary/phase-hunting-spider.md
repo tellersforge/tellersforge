@@ -1,5 +1,9 @@
 # Phase-hunting spider
 
+![Phase-hunting spider](../Images/BE-457-bestiary-phase-hunting-spider.jpg){.illus}
+
+
+*Catalogue: BE-457*
 *Set: Expansion*
 
 *aka: ______________________________*

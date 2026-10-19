@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 441 Storm-riding vila *(high-power: Game Master's approval; genres: fairy tale and folklore)*
 
+![Storm-riding vila](../Images/species-storm-riding-vila.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** A beautiful winged spirit who rides the storm, commanding weather and healing hurts, fiercely protective of the forest. (looks like: human with wings; good at: flying, healing)
 - **Attributes:** STR −1 AGI +1 END −1 CHA +2

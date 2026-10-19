@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Animated meteor-rock invader *(NPC only)*
 
+![Animated meteor-rock invader](../Images/species-animated-meteor-rock-invader.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +6 AGI −3 END +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Running](../Skills/running.md) −2, [Stealth](../Skills/stealth.md) −2, [Swimming](../Skills/swimming.md) Foreign Concept

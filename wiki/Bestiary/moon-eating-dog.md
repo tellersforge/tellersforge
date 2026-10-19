@@ -1,5 +1,9 @@
 # Moon-eating dog
 
+![Moon-eating dog](../Images/BE-420-bestiary-moon-eating-dog.jpg){.illus}
+
+
+*Catalogue: BE-420*
 *Set: Expansion*
 
 *aka: ______________________________*

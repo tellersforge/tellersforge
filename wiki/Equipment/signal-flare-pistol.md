@@ -1,5 +1,9 @@
 # Signal flare pistol
 
+![Signal flare pistol](../Images/GR-0856-equipment-signal-flare-pistol.jpg){.illus}
+
+
+*Catalogue: GR-0856*
 *Set: Expansion*
 
 *aka: ______________________________*

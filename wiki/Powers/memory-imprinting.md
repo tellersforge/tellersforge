@@ -1,5 +1,9 @@
 # Memory Imprinting
 
+![Memory Imprinting](../Images/PW-173-powers-memory-imprinting.jpg){.illus}
+
+
+*Catalogue: PW-173*
 *Set: Expansion*
 
 *aka: ______________________________*

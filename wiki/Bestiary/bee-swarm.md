@@ -1,5 +1,9 @@
 # Bee swarm
 
+![Bee swarm](../Images/BE-041-bestiary-bee-swarm.jpg){.illus}
+
+
+*Catalogue: BE-041*
 *Set: Core*
 
 *aka: ______________________________*

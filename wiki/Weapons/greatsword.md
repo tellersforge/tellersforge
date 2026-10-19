@@ -1,7 +1,8 @@
 # Greatsword
 
-![Greatsword](../Images/weapons-greatsword.jpg){.illus}
+![Greatsword](../Images/GR-0043-weapons-greatsword.jpg){.illus}
 
+*Catalogue: GR-0043*
 *Set: Core*
 
 *aka: ______________________________*

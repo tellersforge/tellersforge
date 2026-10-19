@@ -1,5 +1,9 @@
 # Riding horse
 
+![Riding horse](../Images/BE-489-bestiary-riding-horse.jpg){.illus}
+
+
+*Catalogue: BE-489*
 *Set: Core*
 
 *aka: ______________________________*

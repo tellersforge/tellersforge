@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 758 Tiny forest-tribe dwarf *(genres: fairy tale and folklore)*
 
+![Tiny forest-tribe dwarf](../Images/species-tiny-forest-tribe-dwarf.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **What it's like:** Tiny forest folk who grow to full size by eating a special mushroom, skilled at toys and war. (looks like: fairy; good at: making and fixing, fighting)
 - **Attributes:** STR −3 AGI +3 WIS +1 COU +1

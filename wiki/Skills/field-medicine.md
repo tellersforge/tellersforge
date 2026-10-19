@@ -1,5 +1,9 @@
 # Field Medicine
 
+![Field Medicine](../Images/SK-069-skills-field-medicine.jpg){.illus}
+
+
+*Catalogue: SK-069*
 *Set: Expansion*
 
 *aka: ______________________________*

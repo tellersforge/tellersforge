@@ -1,7 +1,8 @@
 # Wraith
 
-![Wraith](../Images/bestiary-wraith.jpg){.illus}
+![Wraith](../Images/BE-688-bestiary-wraith.jpg){.illus}
 
+*Catalogue: BE-688*
 *Set: Expansion*
 
 *aka: ______________________________*

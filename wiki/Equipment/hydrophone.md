@@ -1,5 +1,9 @@
 # Hydrophone
 
+![Hydrophone](../Images/GR-0550-equipment-hydrophone.jpg){.illus}
+
+
+*Catalogue: GR-0550*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Spirit board
 
+![Spirit board](../Images/GR-0900-equipment-spirit-board.jpg){.illus}
+
+
+*Catalogue: GR-0900*
 *Set: Expansion*
 
 *aka: ______________________________*

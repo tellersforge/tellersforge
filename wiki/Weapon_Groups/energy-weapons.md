@@ -1,5 +1,9 @@
 # Energy Weapons
 
+![Energy Weapons](../Images/WG-010-weapon-groups-energy-weapons.jpg){.illus}
+
+
+*Catalogue: WG-010*
 *Set: Core*
 
 *aka: ______________________________*

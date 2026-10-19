@@ -1,5 +1,9 @@
 # Anti-grav carrier
 
+![Anti-grav carrier](../Images/GR-0181-equipment-anti-grav-carrier.jpg){.illus}
+
+
+*Catalogue: GR-0181*
 *Set: Expansion*
 
 *aka: ______________________________*

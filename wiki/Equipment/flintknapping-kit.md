@@ -1,5 +1,9 @@
 # Flintknapping kit
 
+![Flintknapping kit](../Images/GR-0421-equipment-flintknapping-kit.jpg){.illus}
+
+
+*Catalogue: GR-0421*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Beast-headed shock troop *(NPC only)*
 
+![Beast-headed shock troop](../Images/species-beast-headed-shock-troop.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 INT −2 CHA −2 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Scavenging](../Skills/scavenging.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Diplomacy](../Skills/diplomacy.md) −1, [Court Etiquette & Protocol](../Skills/court-etiquette-and-protocol.md) −2, [Etiquette](../Skills/etiquette.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The bite stands for its beast head's weapon (fangs, beak or horns); the GM may rename it.
 
 ### Eyeless shadow captain *(NPC only)*
+
+![Eyeless shadow captain](../Images/species-eyeless-shadow-captain.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI +1 END +1 INT +1 WIS +2 CHA −2 COU +1

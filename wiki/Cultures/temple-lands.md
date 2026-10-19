@@ -1,5 +1,8 @@
 # Temple lands
 
+![Temple lands](../Images/cultures-temple-lands.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

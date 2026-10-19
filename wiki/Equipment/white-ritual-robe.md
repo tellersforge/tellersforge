@@ -1,5 +1,9 @@
 # White ritual robe
 
+![White ritual robe](../Images/GR-1015-equipment-white-ritual-robe.jpg){.illus}
+
+
+*Catalogue: GR-1015*
 *Set: Expansion*
 
 *aka: ______________________________*

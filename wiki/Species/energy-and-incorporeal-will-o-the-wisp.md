@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Marsh will-o-the-wisp *(NPC only)*
 
+![Marsh will-o-the-wisp](../Images/species-marsh-will-o-the-wisp.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** incorporeal
 - **Attributes:** STR −3 AGI +3 INT +1 WIS +2
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Deception](../Skills/deception.md) +1, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept

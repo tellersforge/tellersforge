@@ -1,5 +1,9 @@
 # Long-necked giant
 
+![Long-necked giant](../Images/BE-399-bestiary-long-necked-giant.jpg){.illus}
+
+
+*Catalogue: BE-399*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Diver's sonar
 
+![Diver's sonar](../Images/GR-0336-equipment-diver-s-sonar.jpg){.illus}
+
+
+*Catalogue: GR-0336*
 *Set: Expansion*
 
 *aka: ______________________________*

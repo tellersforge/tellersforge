@@ -1,5 +1,9 @@
 # Ash elemental
 
+![Ash elemental](../Images/BE-029-bestiary-ash-elemental.jpg){.illus}
+
+
+*Catalogue: BE-029*
 *Set: Expansion*
 
 *aka: ______________________________*

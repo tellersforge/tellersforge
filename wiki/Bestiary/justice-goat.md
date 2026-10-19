@@ -1,5 +1,9 @@
 # Justice goat
 
+![Justice goat](../Images/BE-374-bestiary-justice-goat.jpg){.illus}
+
+
+*Catalogue: BE-374*
 *Set: Expansion*
 
 *aka: ______________________________*

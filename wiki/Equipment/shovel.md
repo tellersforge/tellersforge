@@ -1,5 +1,9 @@
 # Shovel
 
+![Shovel](../Images/GR-0850-equipment-shovel.jpg){.illus}
+
+
+*Catalogue: GR-0850*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 526 Ghoul folk *(genres: gothic horror)*
 
+![Ghoul folk](../Images/species-ghoul-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Folk who look entirely human but must eat human flesh, each hiding a deadly weapon grown from their body. (looks like: human; good at: strength, healing)
 - **Attributes:** STR +1 COU +1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Soul-devouring predator folk *(NPC only)*
 
+![Soul-devouring predator folk](../Images/species-soul-devouring-predator-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 CHA −1 COU +2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Blood-demon folk *(NPC only)*
 
+![Blood-demon folk](../Images/species-blood-demon-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** varies
 - **Attributes:** STR +1 AGI +1 END +1 COU +1
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Sunlight and a certain ore destroy them; they must eat humans. Each one's innate art is chosen for the individual. NPC only. Size set to medium: they are transformed humans and keep a human body.
 
 ### Elite blood-demon folk *(NPC only)*
+
+![Elite blood-demon folk](../Images/species-elite-blood-demon-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** varies
 - **Attributes:** STR +1 AGI +2 END +2 INT +1 COU +1

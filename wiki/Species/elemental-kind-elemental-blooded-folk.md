@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 342 Fire-touched planar-blooded folk *(genres: heavens, hells and other planes)*
 
+![Fire-touched planar-blooded folk](../Images/species-fire-touched-planar-blooded-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Warm-blooded folk touched by the elemental plane of fire, radiating heat and burning with passionate temper. (looks like: human; good at: powers and magic, toughness)
 - **Attributes:** END +1 COU +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element: fire.
 
 ### No. 343 Water-touched planar-blooded folk *(genres: heavens, hells and other planes)*
+
+![Water-touched planar-blooded folk](../Images/species-water-touched-planar-blooded-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm, water-touched folk who breathe underwater and swim like fish, tracing their blood to the elemental sea. (looks like: human; good at: swimming, powers and magic)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 344 Earth-touched planar-blooded folk *(genres: heavens, hells and other planes)*
 
+![Earth-touched planar-blooded folk](../Images/species-earth-touched-planar-blooded-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Stubborn, stone-skinned folk touched by the elemental earth, able to glide a little way through solid ground. (looks like: human; good at: toughness, powers and magic)
 - **Attributes:** STR +1 AGI −1 END +2 WIS +1 CHA −1
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element: earth.
 
 ### No. 345 Air-touched planar-blooded folk *(genres: heavens, hells and other planes)*
+
+![Air-touched planar-blooded folk](../Images/species-air-touched-planar-blooded-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Light, flighty folk touched by the elemental air, drifting slowly down from great heights and floating a little in sky-cities. (looks like: human; good at: flying, powers and magic)
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 346 Crystal-touched folk *(genres: space opera: strange aliens)*
 
+![Crystal-touched folk](../Images/species-crystal-touched-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Crystal-skinned folk who shrug off blows, speak slowly and think in the ages of rock. (looks like: rock; good at: toughness, powers and magic)
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1
@@ -78,6 +93,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element: crystal. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### No. 347 Elemental-blooded hybrid folk *(genres: heavens, hells and other planes)*
+
+![Elemental-blooded hybrid folk](../Images/species-elemental-blooded-hybrid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Folk with a touch of elemental blood, marked by flame-bright hair or crystal skin and tied to one element. (looks like: human; good at: powers and magic, toughness)

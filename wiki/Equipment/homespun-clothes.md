@@ -1,5 +1,9 @@
 # Homespun clothes
 
+![Homespun clothes](../Images/GR-0542-equipment-homespun-clothes.jpg){.illus}
+
+
+*Catalogue: GR-0542*
 *Set: Expansion*
 
 *aka: ______________________________*

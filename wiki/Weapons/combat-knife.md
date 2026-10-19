@@ -1,7 +1,8 @@
 # Combat Knife
 
-![Combat knife](../Images/weapons-combat-knife.jpg){.illus}
+![Combat knife](../Images/GR-0019-weapons-combat-knife.jpg){.illus}
 
+*Catalogue: GR-0019*
 *Set: Expansion*
 
 *aka: ______________________________*

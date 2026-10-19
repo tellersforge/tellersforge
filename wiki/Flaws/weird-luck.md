@@ -1,5 +1,8 @@
 # Weird Luck
 
+![Weird Luck](../Images/flaws-weird-luck.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when strange, absurd events happen around them.

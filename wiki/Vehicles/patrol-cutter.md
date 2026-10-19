@@ -1,5 +1,9 @@
 # Patrol Cutter
 
+![Patrol Cutter](../Images/GR-1101-vehicles-patrol-cutter.jpg){.illus}
+
+
+*Catalogue: GR-1101*
 *Set: Expansion*
 
 

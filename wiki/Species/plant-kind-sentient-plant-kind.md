@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sentient plant-being *(NPC only)*
 
+![Sentient plant-being](../Images/species-sentient-plant-being.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR −2 AGI −2 END +2 INT +2 WIS +3
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2

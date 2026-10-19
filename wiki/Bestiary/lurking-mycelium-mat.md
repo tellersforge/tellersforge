@@ -1,5 +1,9 @@
 # Lurking mycelium mat
 
+![Lurking mycelium mat](../Images/BE-403-bestiary-lurking-mycelium-mat.jpg){.illus}
+
+
+*Catalogue: BE-403*
 *Set: Expansion*
 
 *aka: ______________________________*

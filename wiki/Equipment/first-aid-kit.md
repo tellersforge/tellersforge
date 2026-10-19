@@ -1,7 +1,8 @@
 # First aid kit
 
-![First-aid kit](../Images/equipment-first-aid-kit.jpg){.illus}
+![First-aid kit](../Images/GR-0415-equipment-first-aid-kit.jpg){.illus}
 
+*Catalogue: GR-0415*
 *Set: Core*
 
 *aka: ______________________________*

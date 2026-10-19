@@ -1,5 +1,9 @@
 # Swivel Gun
 
+![Swivel Gun](../Images/GR-0109-weapons-swivel-gun.jpg){.illus}
+
+
+*Catalogue: GR-0109*
 *Set: Expansion*
 
 *aka: ______________________________*

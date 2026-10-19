@@ -1,5 +1,9 @@
 # Fighting pocket vole
 
+![Fighting pocket vole](../Images/BE-190-bestiary-fighting-pocket-vole.jpg){.illus}
+
+
+*Catalogue: BE-190*
 *Set: Expansion*
 
 *aka: ______________________________*

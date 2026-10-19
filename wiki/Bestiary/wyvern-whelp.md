@@ -1,5 +1,9 @@
 # Wyvern whelp
 
+![Wyvern whelp](../Images/BE-690-bestiary-wyvern-whelp.jpg){.illus}
+
+
+*Catalogue: BE-690*
 *Set: Expansion*
 
 *aka: ______________________________*

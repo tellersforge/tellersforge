@@ -1,5 +1,9 @@
 # Panpipes
 
+![Panpipes](../Images/GR-0703-equipment-panpipes.jpg){.illus}
+
+
+*Catalogue: GR-0703*
 *Set: Expansion*
 
 *aka: ______________________________*

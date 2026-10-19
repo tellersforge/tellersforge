@@ -1,5 +1,9 @@
 # Reading spectacles
 
+![Reading spectacles](../Images/GR-0782-equipment-reading-spectacles.jpg){.illus}
+
+
+*Catalogue: GR-0782*
 *Set: Expansion*
 
 *aka: ______________________________*

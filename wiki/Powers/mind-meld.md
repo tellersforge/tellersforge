@@ -1,5 +1,9 @@
 # Mind Meld
 
+![Mind Meld](../Images/PW-185-powers-mind-meld.jpg){.illus}
+
+
+*Catalogue: PW-185*
 *Set: Expansion*
 
 *aka: ______________________________*

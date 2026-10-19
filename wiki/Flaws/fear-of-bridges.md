@@ -1,5 +1,8 @@
 # Fear of Bridges
 
+![Fear of Bridges](../Images/flaws-fear-of-bridges.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when bridges, rope crossings, gangplanks.

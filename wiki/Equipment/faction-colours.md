@@ -1,5 +1,9 @@
 # Faction colours
 
+![Faction colours](../Images/GR-0381-equipment-faction-colours.jpg){.illus}
+
+
+*Catalogue: GR-0381*
 *Set: Expansion*
 
 *aka: ______________________________*

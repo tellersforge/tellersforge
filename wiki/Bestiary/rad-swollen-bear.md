@@ -1,5 +1,9 @@
 # Rad-swollen bear
 
+![Rad-swollen bear](../Images/BE-475-bestiary-rad-swollen-bear.jpg){.illus}
+
+
+*Catalogue: BE-475*
 *Set: Expansion*
 
 *aka: ______________________________*

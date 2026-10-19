@@ -1,5 +1,9 @@
 # Fine silk gloves
 
+![Fine silk gloves](../Images/GR-0409-equipment-fine-silk-gloves.jpg){.illus}
+
+
+*Catalogue: GR-0409*
 *Set: Expansion*
 
 *aka: ______________________________*

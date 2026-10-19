@@ -1,5 +1,8 @@
 # Spirit-keeping tribe
 
+![Spirit-keeping tribe](../Images/cultures-spirit-keeping-tribe.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

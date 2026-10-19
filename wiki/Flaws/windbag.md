@@ -1,5 +1,8 @@
 # Windbag
 
+![Windbag](../Images/flaws-windbag.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when talks too long, won't get to the point.

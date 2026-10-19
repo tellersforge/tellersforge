@@ -1,5 +1,9 @@
 # Ear-crawling mind eel
 
+![Ear-crawling mind eel](../Images/BE-169-bestiary-ear-crawling-mind-eel.jpg){.illus}
+
+
+*Catalogue: BE-169*
 *Set: Expansion*
 
 *aka: ______________________________*

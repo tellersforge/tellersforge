@@ -1,7 +1,8 @@
 # Hunter-killer robot
 
-![Hunter-killer robot](../Images/bestiary-hunter-killer-robot.jpg){.illus}
+![Hunter-killer robot](../Images/BE-355-bestiary-hunter-killer-robot.jpg){.illus}
 
+*Catalogue: BE-355*
 *Set: Expansion*
 
 *aka: ______________________________*

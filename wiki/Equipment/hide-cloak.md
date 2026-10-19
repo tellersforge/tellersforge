@@ -1,5 +1,9 @@
 # Hide cloak
 
+![Hide cloak](../Images/GR-0525-equipment-hide-cloak.jpg){.illus}
+
+
+*Catalogue: GR-0525*
 *Set: Expansion*
 
 *aka: ______________________________*

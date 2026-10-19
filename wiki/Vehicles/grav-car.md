@@ -1,7 +1,8 @@
 # Grav Car
 
-![Grav car](../Images/vehicles-grav-car.jpg){.illus}
+![Grav car](../Images/GR-1075-vehicles-grav-car.jpg){.illus}
 
+*Catalogue: GR-1075*
 *Set: Core*
 
 

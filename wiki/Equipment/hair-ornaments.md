@@ -1,5 +1,9 @@
 # Hair ornaments
 
+![Hair ornaments](../Images/GR-0484-equipment-hair-ornaments.jpg){.illus}
+
+
+*Catalogue: GR-0484*
 *Set: Expansion*
 
 *aka: ______________________________*

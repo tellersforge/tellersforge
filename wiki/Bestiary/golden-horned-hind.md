@@ -1,5 +1,9 @@
 # Golden-horned hind
 
+![Golden-horned hind](../Images/BE-300-bestiary-golden-horned-hind.jpg){.illus}
+
+
+*Catalogue: BE-300*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Powered armour
 
-![Powered armour](../Images/armour-powered-armour.jpg){.illus}
+![Powered armour](../Images/GR-0155-armour-powered-armour.jpg){.illus}
 
+*Catalogue: GR-0155*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fractured android/soul-echo *(NPC only)*
 
+![Fractured android/soul-echo](../Images/species-fractured-android-soul-echo.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +1 CHA −1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept

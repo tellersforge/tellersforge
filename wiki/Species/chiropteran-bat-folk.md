@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 258 Fruit bat-folk *(genres: beast-folk: fur)*
 
+![Fruit bat-folk](../Images/species-fruit-bat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** Big-eyed fruit bat-folk who roost in colonies and see keenly by night. (looks like: bat; good at: flying, keen senses)
 - **Attributes:** STR −1 AGI +1 WIS +1 PER +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Big-eyed tropical fruit-eaters who see in the dark and lean less on echolocation.
 
 ### Vampire bat-folk *(NPC only)*
+
+![Vampire bat-folk](../Images/species-vampire-bat-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** winged biped
 - **Attributes:** STR −2 AGI +2 WIS +1 PER +2 CHA −1
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 259 Microbat/echolocation-folk *(genres: beast-folk: fur)*
 
+![Microbat/echolocation-folk](../Images/species-microbat-echolocation-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** winged biped
 - **What it's like:** Small cave-dwelling bat-folk who hunt by echo in total darkness. (looks like: bat; good at: flying, keen senses)
 - **Attributes:** STR −2 AGI +2 WIS +1 PER +2
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 11 · Damage longsword 1d6+1; bite 1d6-1 · Armour 2 · Life 15 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Flying fox-folk *(NPC only)*
+
+![Flying fox-folk](../Images/species-flying-fox-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** winged biped
 - **Attributes:** STR +1 AGI −1 WIS +1 PER +2
@@ -67,6 +79,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 260 Fuzzy bat-eared folk *(genres: space opera: beast-like aliens)*
 
+![Fuzzy bat-eared folk](../Images/species-fuzzy-bat-eared-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+furred
 - **What it's like:** Small, fuzzy nocturnal folk with a huge nose and enormous bat-like ears. (looks like: bat; good at: keen senses, sneaking)
 - **Attributes:** STR −2 AGI +2 WIS +1 PER +2
@@ -78,6 +93,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Wingless: Flight Set 0 as the species note directs.
 
 ### No. 261 Rapid-wing hover folk *(genres: space opera: beast-like aliens)*
+
+![Rapid-wing hover folk](../Images/species-rapid-wing-hover-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+winged
 - **What it's like:** Tiny, shrewd bat-winged traders who hover on rapid wingbeats and never lose their heads. (looks like: bat; good at: flying, people and talk)

@@ -1,5 +1,9 @@
 # Pocket Storage
 
+![Pocket Storage](../Images/PW-218-powers-pocket-storage.jpg){.illus}
+
+
+*Catalogue: PW-218*
 *Set: Expansion*
 
 *aka: ______________________________*

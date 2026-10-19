@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Burrow companion folk *(NPC only)*
 
+![Burrow companion folk](../Images/species-burrow-companion-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** quadruped
 - **Attributes:** STR −3 AGI +3 END +1 INT −3 WIS +1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Service & Hospitality](../Skills/service-and-hospitality.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) Foreign Concept, [Throwing](../Skills/throwing.md) Foreign Concept

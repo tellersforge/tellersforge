@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Liquid-crystal folk *(NPC only)*
 
+![Liquid-crystal folk](../Images/species-liquid-crystal-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** AGI +1 END +1 INT +1 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Signals](../Skills/signals.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Deception](../Skills/deception.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept

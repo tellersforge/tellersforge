@@ -1,5 +1,9 @@
 # Scavenging
 
+![Scavenging](../Images/SK-170-skills-scavenging.jpg){.illus}
+
+
+*Catalogue: SK-170*
 *Set: Expansion*
 
 *aka: ______________________________*

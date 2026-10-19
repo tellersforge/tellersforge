@@ -1,5 +1,9 @@
 # Skeleton archer
 
+![Skeleton archer](../Images/BE-558-bestiary-skeleton-archer.jpg){.illus}
+
+
+*Catalogue: BE-558*
 *Set: Expansion*
 
 *aka: ______________________________*

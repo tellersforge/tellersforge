@@ -1,5 +1,9 @@
 # Mark
 
+![Mark](../Images/PW-169-powers-mark.jpg){.illus}
+
+
+*Catalogue: PW-169*
 *Set: Expansion*
 
 *aka: ______________________________*

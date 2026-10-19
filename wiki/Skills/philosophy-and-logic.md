@@ -1,5 +1,9 @@
 # Philosophy & Logic
 
+![Philosophy & Logic](../Images/SK-148-skills-philosophy-and-logic.jpg){.illus}
+
+
+*Catalogue: SK-148*
 *Set: Expansion*
 
 *aka: ______________________________*

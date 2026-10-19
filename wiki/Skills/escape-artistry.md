@@ -1,5 +1,9 @@
 # Escape Artistry
 
+![Escape Artistry](../Images/SK-062-skills-escape-artistry.jpg){.illus}
+
+
+*Catalogue: SK-062*
 *Set: Core · Basic skill: Thievery*
 
 *aka: ______________________________*

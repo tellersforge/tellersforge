@@ -1,5 +1,9 @@
 # Gnomon stick
 
+![Gnomon stick](../Images/GR-0463-equipment-gnomon-stick.jpg){.illus}
+
+
+*Catalogue: GR-0463*
 *Set: Core*
 
 *aka: ______________________________*

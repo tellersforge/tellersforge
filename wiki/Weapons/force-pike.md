@@ -1,7 +1,8 @@
 # Force Pike
 
-![Force pike](../Images/weapons-force-pike.jpg){.illus}
+![Force pike](../Images/GR-0039-weapons-force-pike.jpg){.illus}
 
+*Catalogue: GR-0039*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Body paint kit
 
+![Body paint kit](../Images/GR-0220-equipment-body-paint-kit.jpg){.illus}
+
+
+*Catalogue: GR-0220*
 *Set: Core*
 
 *aka: ______________________________*

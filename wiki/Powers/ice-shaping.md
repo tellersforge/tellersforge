@@ -1,5 +1,9 @@
 # Ice Shaping
 
+![Ice Shaping](../Images/PW-134-powers-ice-shaping.jpg){.illus}
+
+
+*Catalogue: PW-134*
 *Set: Expansion*
 
 *aka: ______________________________*

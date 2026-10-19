@@ -1,5 +1,9 @@
 # Spinning & Weaving
 
+![Spinning & Weaving](../Images/SK-186-skills-spinning-and-weaving.jpg){.illus}
+
+
+*Catalogue: SK-186*
 *Set: Expansion*
 
 *aka: ______________________________*

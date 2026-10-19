@@ -1,5 +1,9 @@
 # Speak with the Dead
 
+![Speak with the Dead](../Images/PW-269-powers-speak-with-the-dead.jpg){.illus}
+
+
+*Catalogue: PW-269*
 *Set: Expansion*
 
 *aka: ______________________________*

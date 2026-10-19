@@ -1,5 +1,9 @@
 # Stilt-legged canopy grazer
 
+![Stilt-legged canopy grazer](../Images/BE-596-bestiary-stilt-legged-canopy-grazer.jpg){.illus}
+
+
+*Catalogue: BE-596*
 *Set: Expansion*
 
 *aka: ______________________________*

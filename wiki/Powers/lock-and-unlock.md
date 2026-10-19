@@ -1,5 +1,9 @@
 # Lock & Unlock
 
+![Lock & Unlock](../Images/PW-156-powers-lock-and-unlock.jpg){.illus}
+
+
+*Catalogue: PW-156*
 *Set: Expansion*
 
 *aka: ______________________________*

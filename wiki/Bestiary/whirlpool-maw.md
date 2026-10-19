@@ -1,5 +1,9 @@
 # Whirlpool maw
 
+![Whirlpool maw](../Images/BE-668-bestiary-whirlpool-maw.jpg){.illus}
+
+
+*Catalogue: BE-668*
 *Set: Expansion*
 
 *aka: ______________________________*

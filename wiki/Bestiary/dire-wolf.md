@@ -1,7 +1,8 @@
 # Dire wolf
 
-![Dire wolf](../Images/bestiary-dire-wolf.jpg){.illus}
+![Dire wolf](../Images/BE-152-bestiary-dire-wolf.jpg){.illus}
 
+*Catalogue: BE-152*
 *Set: Core*
 
 *aka: ______________________________*

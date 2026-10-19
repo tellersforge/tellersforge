@@ -1,5 +1,9 @@
 # Sailor's slops
 
+![Sailor's slops](../Images/GR-0814-equipment-sailor-s-slops.jpg){.illus}
+
+
+*Catalogue: GR-0814*
 *Set: Expansion*
 
 *aka: ______________________________*

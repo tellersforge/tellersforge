@@ -1,5 +1,9 @@
 # Rope ascenders
 
+![Rope ascenders](../Images/GR-0801-equipment-rope-ascenders.jpg){.illus}
+
+
+*Catalogue: GR-0801*
 *Set: Expansion*
 
 *aka: ______________________________*

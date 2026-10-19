@@ -1,5 +1,9 @@
 # War elephant
 
+![War elephant](../Images/BE-660-bestiary-war-elephant.jpg){.illus}
+
+
+*Catalogue: BE-660*
 *Set: Core*
 
 *aka: ______________________________*

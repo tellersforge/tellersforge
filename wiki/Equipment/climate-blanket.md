@@ -1,5 +1,9 @@
 # Climate blanket
 
+![Climate blanket](../Images/GR-0280-equipment-climate-blanket.jpg){.illus}
+
+
+*Catalogue: GR-0280*
 *Set: Expansion*
 
 *aka: ______________________________*

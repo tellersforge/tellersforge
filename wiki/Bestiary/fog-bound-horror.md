@@ -1,5 +1,9 @@
 # Fog-bound horror
 
+![Fog-bound horror](../Images/BE-211-bestiary-fog-bound-horror.jpg){.illus}
+
+
+*Catalogue: BE-211*
 *Set: Core*
 
 *aka: ______________________________*

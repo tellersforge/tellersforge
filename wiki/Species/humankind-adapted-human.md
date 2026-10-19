@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 33 Desert-adapted water-conserving folk *(genres: space opera: near-humans)*
 
+![Desert-adapted water-conserving folk](../Images/species-desert-adapted-water-conserving-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Desert warriors who conserve every drop of water and track for days without rest. (looks like: human; good at: wilderness, toughness, fighting)
 - **Attributes:** END +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 34 Dragon-touched scaled trader folk *(genres: classic fantasy)*
 
+![Dragon-touched scaled trader folk](../Images/species-dragon-touched-scaled-trader-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Traders whose skin has slowly grown scaly and tough from a toxic river. (looks like: lizard; good at: toughness, keen senses)
 - **Attributes:** none
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A toxic river left them scaled and with altered eyes.
 
 ### No. 35 Void-adapted fleet-nomad folk *(genres: space opera: near-humans)*
+
+![Void-adapted fleet-nomad folk](../Images/species-void-adapted-fleet-nomad-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Wiry deep-space nomads perfectly at home drifting in zero gravity. (looks like: human; good at: speed and agility, wilderness)
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 36 Seasonal ambisexual folk *(genres: space opera: near-humans)*
 
+![Seasonal ambisexual folk](../Images/species-seasonal-ambisexual-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cold-world colonists who change sex only during a brief fertile season. (looks like: human; good at: wilderness, toughness)
 - **Attributes:** none
@@ -60,6 +72,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Cold-world bodies that are sexless most of the month; the cycle changes no number.
 
 ### No. 37 Asteroid-adapted human folk *(genres: space opera: near-humans, near future and cyberpunk)*
+
+![Asteroid-adapted human folk](../Images/species-asteroid-adapted-human-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-limbed, brittle-boned folk raised in microgravity, at home among the asteroids. (looks like: human; good at: speed and agility, knowledge)
@@ -71,6 +86,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 38 Low-gravity colonist folk *(genres: space opera: near-humans, near future and cyberpunk)*
 
+![Low-gravity colonist folk](../Images/species-low-gravity-colonist-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Nimble, militarised colonists shaped by generations under lighter gravity. (looks like: human; good at: speed and agility, fighting)
 - **Attributes:** STR −1 AGI +1
@@ -79,6 +97,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Generations in lower gravity.
 
 ### No. 39 High-gravity-born strongfolk *(genres: space opera: near-humans)*
+
+![High-gravity-born strongfolk](../Images/species-high-gravity-born-strongfolk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Short, immensely strong folk bred on a crushing high-gravity world. (looks like: dwarf; good at: strength, toughness, speed and agility)
@@ -90,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 40 Large coastal seafaring folk *(genres: classic fantasy, sea and sky)*
 
+![Large coastal seafaring folk](../Images/species-large-coastal-seafaring-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, broad, easygoing seafarers who swim strongly and rarely lose their calm. (looks like: human; good at: strength, swimming)
 - **Attributes:** STR +2 AGI −2
@@ -100,6 +124,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 41 Island tribal warrior folk *(genres: classic fantasy)*
 
+![Island tribal warrior folk](../Images/species-island-tribal-warrior-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, tattooed island warriors, powerfully built and proud of their tribe. (looks like: human; good at: strength, fighting)
 - **Attributes:** STR +2 AGI −2
@@ -107,6 +134,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; tall, strong build and a warrior culture are attribute and Culture matters.
 
 ### Narcotic-mutated pilot folk *(NPC only)*
+
+![Narcotic-mutated pilot folk](../Images/species-narcotic-mutated-pilot-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR −1 AGI −3 INT +2 WIS +3
@@ -117,6 +147,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Running is Foreign Concept: the grossly altered body lives floating in a sealed tank (the tank is gear).
 
 ### Pale low-light adapted folk *(NPC only)*
+
+![Pale low-light adapted folk](../Images/species-pale-low-light-adapted-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none

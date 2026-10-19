@@ -1,5 +1,9 @@
 # Hide tunic
 
+![Hide tunic](../Images/GR-0529-equipment-hide-tunic.jpg){.illus}
+
+
+*Catalogue: GR-0529*
 *Set: Expansion*
 
 *aka: ______________________________*

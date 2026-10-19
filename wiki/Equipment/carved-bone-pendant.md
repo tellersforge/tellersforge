@@ -1,5 +1,9 @@
 # Carved bone pendant
 
+![Carved bone pendant](../Images/GR-0264-equipment-carved-bone-pendant.jpg){.illus}
+
+
+*Catalogue: GR-0264*
 *Set: Core*
 
 *aka: ______________________________*

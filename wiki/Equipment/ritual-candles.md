@@ -1,5 +1,9 @@
 # Ritual candles
 
+![Ritual candles](../Images/GR-0794-equipment-ritual-candles.jpg){.illus}
+
+
+*Catalogue: GR-0794*
 *Set: Expansion*
 
 *aka: ______________________________*

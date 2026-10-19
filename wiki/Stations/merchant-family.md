@@ -1,5 +1,8 @@
 # Merchant family
 
+![Merchant family](../Images/stations-merchant-family.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

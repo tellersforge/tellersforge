@@ -1,5 +1,9 @@
 # Lightning beast
 
+![Lightning beast](../Images/BE-387-bestiary-lightning-beast.jpg){.illus}
+
+
+*Catalogue: BE-387*
 *Set: Expansion*
 
 *aka: ______________________________*

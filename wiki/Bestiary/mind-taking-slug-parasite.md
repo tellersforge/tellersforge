@@ -1,5 +1,9 @@
 # Mind-taking slug parasite
 
+![Mind-taking slug parasite](../Images/BE-414-bestiary-mind-taking-slug-parasite.jpg){.illus}
+
+
+*Catalogue: BE-414*
 *Set: Expansion*
 
 *aka: ______________________________*

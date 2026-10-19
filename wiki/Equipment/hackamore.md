@@ -1,5 +1,9 @@
 # Hackamore
 
+![Hackamore](../Images/GR-0482-equipment-hackamore.jpg){.illus}
+
+
+*Catalogue: GR-0482*
 *Set: Expansion*
 
 *aka: ______________________________*

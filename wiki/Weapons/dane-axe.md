@@ -1,7 +1,8 @@
 # Dane Axe
 
-![Dane axe](../Images/weapons-dane-axe.jpg){.illus}
+![Dane axe](../Images/GR-0027-weapons-dane-axe.jpg){.illus}
 
+*Catalogue: GR-0027*
 *Set: Core*
 
 *aka: ______________________________*

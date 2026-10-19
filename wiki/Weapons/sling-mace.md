@@ -1,5 +1,9 @@
 # Sling-Mace
 
+![Sling-Mace](../Images/GR-0096-weapons-sling-mace.jpg){.illus}
+
+
+*Catalogue: GR-0096*
 *Set: Expansion*
 
 *aka: ______________________________*

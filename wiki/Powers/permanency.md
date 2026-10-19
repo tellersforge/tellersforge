@@ -1,5 +1,9 @@
 # Permanency
 
+![Permanency](../Images/PW-209-powers-permanency.jpg){.illus}
+
+
+*Catalogue: PW-209*
 *Set: Expansion*
 
 *aka: ______________________________*

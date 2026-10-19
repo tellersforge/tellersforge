@@ -1,5 +1,9 @@
 # Sealed canister
 
+![Sealed canister](../Images/GR-0830-equipment-sealed-canister.jpg){.illus}
+
+
+*Catalogue: GR-0830*
 *Set: Expansion*
 
 *aka: ______________________________*

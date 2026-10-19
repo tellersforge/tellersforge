@@ -1,7 +1,8 @@
 # Jet Fighter
 
-![Jet fighter](../Images/vehicles-jet-fighter.jpg){.illus}
+![Jet fighter](../Images/GR-1084-vehicles-jet-fighter.jpg){.illus}
 
+*Catalogue: GR-1084*
 *Set: Expansion*
 
 

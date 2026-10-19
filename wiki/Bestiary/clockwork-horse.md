@@ -1,5 +1,9 @@
 # Clockwork horse
 
+![Clockwork horse](../Images/BE-109-bestiary-clockwork-horse.jpg){.illus}
+
+
+*Catalogue: BE-109*
 *Set: Expansion*
 
 *aka: ______________________________*

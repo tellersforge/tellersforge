@@ -1,5 +1,8 @@
 # Over-Emotional
 
+![Over-Emotional](../Images/flaws-over-emotional.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when weeps, gushes or rages openly in company.

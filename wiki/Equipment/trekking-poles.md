@@ -1,5 +1,9 @@
 # Trekking poles
 
+![Trekking poles](../Images/GR-0978-equipment-trekking-poles.jpg){.illus}
+
+
+*Catalogue: GR-0978*
 *Set: Expansion*
 
 *aka: ______________________________*

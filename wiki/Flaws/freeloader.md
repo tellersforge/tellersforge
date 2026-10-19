@@ -1,5 +1,8 @@
 # Freeloader
 
+![Freeloader](../Images/flaws-freeloader.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when lives off others and never pays back.

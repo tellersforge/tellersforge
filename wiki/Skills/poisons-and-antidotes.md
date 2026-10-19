@@ -1,5 +1,9 @@
 # Poisons & Antidotes
 
+![Poisons & Antidotes](../Images/SK-152-skills-poisons-and-antidotes.jpg){.illus}
+
+
+*Catalogue: SK-152*
 *Set: Expansion*
 
 *aka: ______________________________*

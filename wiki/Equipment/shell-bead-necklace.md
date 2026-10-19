@@ -1,5 +1,9 @@
 # Shell bead necklace
 
+![Shell bead necklace](../Images/GR-0846-equipment-shell-bead-necklace.jpg){.illus}
+
+
+*Catalogue: GR-0846*
 *Set: Core*
 
 *aka: ______________________________*

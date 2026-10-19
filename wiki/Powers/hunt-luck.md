@@ -1,5 +1,9 @@
 # Hunt-Luck
 
+![Hunt-Luck](../Images/PW-133-powers-hunt-luck.jpg){.illus}
+
+
+*Catalogue: PW-133*
 *Set: Expansion*
 
 *aka: ______________________________*

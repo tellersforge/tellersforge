@@ -1,5 +1,9 @@
 # Locksmith's pick set
 
+![Locksmith's pick set](../Images/GR-0611-equipment-locksmith-s-pick-set.jpg){.illus}
+
+
+*Catalogue: GR-0611*
 *Set: Expansion*
 
 *aka: ______________________________*

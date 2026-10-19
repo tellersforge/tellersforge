@@ -1,5 +1,9 @@
 # Harp
 
+![Harp](../Images/GR-0506-equipment-harp.jpg){.illus}
+
+
+*Catalogue: GR-0506*
 *Set: Expansion*
 
 *aka: ______________________________*

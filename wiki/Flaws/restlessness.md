@@ -1,5 +1,8 @@
 # Restlessness
 
+![Restlessness](../Images/flaws-restlessness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Habits and body* kind. It fires when can't sit still, wait or keep watch.

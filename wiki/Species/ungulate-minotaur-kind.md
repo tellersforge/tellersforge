@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 804 Seafaring minotaur clan *(genres: beast-folk: fur, sea and sky)*
 
+![Seafaring minotaur clan](../Images/species-seafaring-minotaur-clan.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Bull-headed minotaur seafarers whose warrior clans built a whole naval empire. (looks like: bull; good at: strength, fighting)
 - **Attributes:** STR +5 AGI −2 END +1 INT −1

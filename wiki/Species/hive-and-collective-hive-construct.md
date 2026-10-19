@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Self-replicating undying robot horde *(NPC only; NPC-scale)*
 
+![Self-replicating undying robot horde](../Images/species-self-replicating-undying-robot-horde.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +3 WIS +1 CHA −4 COU +3
 - **Skills:** [Composure](../Skills/composure.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +3, [Logistics](../Skills/logistics.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Signals](../Skills/signals.md) +2, [Insight](../Skills/insight.md) −1, [Storytelling & Conversation](../Skills/storytelling-and-conversation.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Deception](../Skills/deception.md) −2

@@ -1,5 +1,9 @@
 # House cat
 
+![House cat](../Images/BE-349-bestiary-house-cat.jpg){.illus}
+
+
+*Catalogue: BE-349*
 *Set: Core*
 
 *aka: ______________________________*

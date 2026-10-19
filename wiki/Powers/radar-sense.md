@@ -1,5 +1,9 @@
 # Radar Sense
 
+![Radar Sense](../Images/PW-235-powers-radar-sense.jpg){.illus}
+
+
+*Catalogue: PW-235*
 *Set: Expansion*
 
 *aka: ______________________________*

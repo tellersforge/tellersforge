@@ -1,5 +1,9 @@
 # Clay oil lamp
 
+![Clay oil lamp](../Images/GR-0276-equipment-clay-oil-lamp.jpg){.illus}
+
+
+*Catalogue: GR-0276*
 *Set: Expansion*
 
 *aka: ______________________________*

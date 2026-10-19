@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 827 Multi-eyed herder folk *(genres: space opera: beast-like aliens)*
 
+![Multi-eyed herder folk](../Images/species-multi-eyed-herder-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+furred
 - **What it's like:** Gentle, many-eyed white-furred giants who herd their flocks across the frozen wastes. (looks like: bear; good at: keen senses, strength)
 - **Attributes:** STR +4 AGI −2 END +2 INT −1 PER +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Many eyes and a nomadic herding way of life.
 
 ### No. 828 Tusked hunter folk *(genres: space opera: beast-like aliens)*
+
+![Tusked hunter folk](../Images/species-tusked-hunter-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+furred+tusked
 - **What it's like:** Shaggy, tusked hunters from an icy homeworld, expert trackers of anything that moves. (looks like: bear; good at: wilderness, fighting)

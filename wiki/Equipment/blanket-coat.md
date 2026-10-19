@@ -1,5 +1,9 @@
 # Blanket coat
 
+![Blanket coat](../Images/GR-0217-equipment-blanket-coat.jpg){.illus}
+
+
+*Catalogue: GR-0217*
 *Set: Expansion*
 
 *aka: ______________________________*

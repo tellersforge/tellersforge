@@ -1,5 +1,9 @@
 # Monstrous Form
 
+![Monstrous Form](../Images/PW-192-powers-monstrous-form.jpg){.illus}
+
+
+*Catalogue: PW-192*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Giant ant soldier
 
-![Giant ant soldier](../Images/bestiary-giant-ant-soldier.jpg){.illus}
+![Giant ant soldier](../Images/BE-234-bestiary-giant-ant-soldier.jpg){.illus}
 
+*Catalogue: BE-234*
 *Set: Core*
 
 *aka: ______________________________*

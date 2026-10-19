@@ -1,5 +1,9 @@
 # Rope-soled shoes
 
+![Rope-soled shoes](../Images/GR-0804-equipment-rope-soled-shoes.jpg){.illus}
+
+
+*Catalogue: GR-0804*
 *Set: Expansion*
 
 *aka: ______________________________*

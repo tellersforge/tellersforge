@@ -1,5 +1,9 @@
 # Time Stop
 
+![Time Stop](../Images/PW-297-powers-time-stop.jpg){.illus}
+
+
+*Catalogue: PW-297*
 *Set: Expansion*
 
 *aka: ______________________________*

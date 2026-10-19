@@ -1,7 +1,8 @@
 # Whip
 
-![Whip](../Images/weapons-whip.jpg){.illus}
+![Whip](../Images/GR-0119-weapons-whip.jpg){.illus}
 
+*Catalogue: GR-0119*
 *Set: Expansion*
 
 *aka: ______________________________*

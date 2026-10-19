@@ -1,7 +1,8 @@
 # Main Battle Tank
 
-![Main battle tank](../Images/vehicles-main-battle-tank.jpg){.illus}
+![Main battle tank](../Images/GR-1091-vehicles-main-battle-tank.jpg){.illus}
 
+*Catalogue: GR-1091*
 *Set: Expansion*
 
 

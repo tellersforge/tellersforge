@@ -1,5 +1,9 @@
 # Merchant's gown
 
+![Merchant's gown](../Images/GR-0643-equipment-merchant-s-gown.jpg){.illus}
+
+
+*Catalogue: GR-0643*
 *Set: Expansion*
 
 *aka: ______________________________*

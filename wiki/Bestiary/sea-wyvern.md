@@ -1,5 +1,9 @@
 # Sea wyvern
 
+![Sea wyvern](../Images/BE-529-bestiary-sea-wyvern.jpg){.illus}
+
+
+*Catalogue: BE-529*
 *Set: Expansion*
 
 *aka: ______________________________*

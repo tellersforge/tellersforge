@@ -1,5 +1,9 @@
 # Surgery
 
+![Surgery](../Images/SK-194-skills-surgery.jpg){.illus}
+
+
+*Catalogue: SK-194*
 *Set: Expansion*
 
 *aka: ______________________________*

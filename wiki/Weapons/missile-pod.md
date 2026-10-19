@@ -1,5 +1,9 @@
 # Missile Pod
 
+![Missile Pod](../Images/GR-0067-weapons-missile-pod.jpg){.illus}
+
+
+*Catalogue: GR-0067*
 *Set: Expansion*
 
 *aka: ______________________________*

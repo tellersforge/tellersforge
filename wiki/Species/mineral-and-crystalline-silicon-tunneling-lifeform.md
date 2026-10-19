@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Acid-secreting rock-burrower *(NPC only)*
 
+![Acid-secreting rock-burrower](../Images/species-acid-secreting-rock-burrower.jpg){.illus}
+
+
 - **Size:** large · **Body:** other
 - **Attributes:** STR +4 AGI −3 END +4
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Running](../Skills/running.md) −2, [Stealth](../Skills/stealth.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Swimming](../Skills/swimming.md) Foreign Concept

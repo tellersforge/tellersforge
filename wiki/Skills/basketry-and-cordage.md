@@ -1,5 +1,9 @@
 # Basketry & Cordage
 
+![Basketry & Cordage](../Images/SK-016-skills-basketry-and-cordage.jpg){.illus}
+
+
+*Catalogue: SK-016*
 *Set: Expansion*
 
 *aka: ______________________________*

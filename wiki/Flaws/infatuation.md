@@ -1,5 +1,8 @@
 # Infatuation
 
+![Infatuation](../Images/flaws-infatuation.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when falls for attractive people too easily and acts foolishly.

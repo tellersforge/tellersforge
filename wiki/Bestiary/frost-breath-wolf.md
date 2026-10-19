@@ -1,5 +1,9 @@
 # Frost-breath wolf
 
+![Frost-breath wolf](../Images/BE-220-bestiary-frost-breath-wolf.jpg){.illus}
+
+
+*Catalogue: BE-220*
 *Set: Expansion*
 
 *aka: ______________________________*

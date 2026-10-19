@@ -1,5 +1,9 @@
 # Talisman Making
 
+![Talisman Making](../Images/PW-289-powers-talisman-making.jpg){.illus}
+
+
+*Catalogue: PW-289*
 *Set: Expansion*
 
 *aka: ______________________________*

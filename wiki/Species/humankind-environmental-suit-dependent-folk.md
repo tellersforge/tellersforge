@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 74 Environmental-suit-dependent folk *(genres: space opera: near-humans)*
 
+![Environmental-suit-dependent folk](../Images/species-environmental-suit-dependent-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, nimble travellers who need a sealed suit to survive away from home. (looks like: alien; good at: speed and agility, knowledge)
 - **Attributes:** STR −2 AGI +2

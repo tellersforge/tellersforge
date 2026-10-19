@@ -1,5 +1,9 @@
 # Vision-enhancing visor
 
+![Vision-enhancing visor](../Images/GR-0991-equipment-vision-enhancing-visor.jpg){.illus}
+
+
+*Catalogue: GR-0991*
 *Set: Expansion*
 
 *aka: ______________________________*

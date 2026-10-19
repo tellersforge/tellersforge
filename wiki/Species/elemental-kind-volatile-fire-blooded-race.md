@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 351 Rage-fueled fire-being *(genres: space opera: strange aliens)*
 
+![Rage-fueled fire-being](../Images/species-rage-fueled-fire-being.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A hot-tempered humanoid whose blood burns like fire, hurling flame and shrugging off scorching heat when their rage is up. (looks like: fire; good at: powers and magic, toughness)
 - **Attributes:** STR +1 END +1 CHA −1 COU +1

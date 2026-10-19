@@ -1,5 +1,9 @@
 # Blood-hungry vapour
 
+![Blood-hungry vapour](../Images/BE-057-bestiary-blood-hungry-vapour.jpg){.illus}
+
+
+*Catalogue: BE-057*
 *Set: Expansion*
 
 *aka: ______________________________*

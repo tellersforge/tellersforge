@@ -1,5 +1,8 @@
 # Stubbornness
 
+![Stubbornness](../Images/flaws-stubbornness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when won't back down or change course.

@@ -1,5 +1,9 @@
 # Leaf-and-grass cloak
 
+![Leaf-and-grass cloak](../Images/GR-0584-equipment-leaf-and-grass-cloak.jpg){.illus}
+
+
+*Catalogue: GR-0584*
 *Set: Expansion*
 
 *aka: ______________________________*

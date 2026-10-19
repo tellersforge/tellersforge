@@ -1,5 +1,8 @@
 # Fear of the Dark
 
+![Fear of the Dark](../Images/flaws-fear-of-the-dark.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when darkness, night without light.

@@ -1,5 +1,9 @@
 # Gaze-hating tall stalker
 
+![Gaze-hating tall stalker](../Images/BE-231-bestiary-gaze-hating-tall-stalker.jpg){.illus}
+
+
+*Catalogue: BE-231*
 *Set: Expansion*
 
 *aka: ______________________________*

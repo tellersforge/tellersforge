@@ -1,5 +1,9 @@
 # Searching
 
+![Searching](../Images/SK-173-skills-searching.jpg){.illus}
+
+
+*Catalogue: SK-173*
 *Set: Core · Basic skill: Investigation*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Backwards shadow-goat
 
+![Backwards shadow-goat](../Images/BE-034-bestiary-backwards-shadow-goat.jpg){.illus}
+
+
+*Catalogue: BE-034*
 *Set: Core*
 
 *aka: ______________________________*

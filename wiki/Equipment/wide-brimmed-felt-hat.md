@@ -1,5 +1,9 @@
 # Wide-brimmed felt hat
 
+![Wide-brimmed felt hat](../Images/GR-1016-equipment-wide-brimmed-felt-hat.jpg){.illus}
+
+
+*Catalogue: GR-1016*
 *Set: Expansion*
 
 *aka: ______________________________*

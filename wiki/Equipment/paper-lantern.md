@@ -1,5 +1,9 @@
 # Paper lantern
 
+![Paper lantern](../Images/GR-0704-equipment-paper-lantern.jpg){.illus}
+
+
+*Catalogue: GR-0704*
 *Set: Expansion*
 
 *aka: ______________________________*

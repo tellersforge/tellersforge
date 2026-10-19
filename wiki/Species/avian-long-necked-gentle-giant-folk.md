@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 218 Long-necked gentle giant folk *(genres: space opera: beast-like aliens)*
 
+![Long-necked gentle giant folk](../Images/species-long-necked-gentle-giant-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **What it's like:** Tall, long-necked, unhurried giants with a bird-like head. (looks like: bird; good at: strength, keen senses)
 - **Attributes:** STR +1 WIS +1 PER +2

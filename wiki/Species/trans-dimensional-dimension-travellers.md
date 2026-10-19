@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Folded-space refugee *(NPC only)*
 
+![Folded-space refugee](../Images/species-folded-space-refugee.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Second Sight covers seam perception and works only under rare conditions.
 
 ### Dimension-hopping cryptic wanderer *(NPC only)*
+
+![Dimension-hopping cryptic wanderer](../Images/species-dimension-hopping-cryptic-wanderer.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +2 WIS +1 PER +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 762 Planar-touched wanderer *(genres: heavens, hells and other planes)*
 
+![Planar-touched wanderer](../Images/species-planar-touched-wanderer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Wanderers native to another plane entirely, marked with strange, otherworldly features and a touch of planar magic. (looks like: elf; good at: powers and magic, knowledge)
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Etherealness stands in for its minor planar-themed magic; the GM may swap it for another minor planar power at the same value.
 
 ### No. 763 Sliding traveller · No. 764 Reality-hopping adventurer · Multiverse council delegate *(genres: multiverse and time)*
+
+![Sliding traveller](../Images/species-sliding-traveller.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Travellers who slide between countless parallel Earths, piling up knowledge of them all, until they get stranded. (looks like: human; good at: knowledge, powers and magic)

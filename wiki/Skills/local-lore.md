@@ -1,5 +1,9 @@
 # Local Lore
 
+![Local Lore](../Images/SK-117-skills-local-lore.jpg){.illus}
+
+
+*Catalogue: SK-117*
 *Set: Core · Basic skill: Lore*
 
 *aka: ______________________________*

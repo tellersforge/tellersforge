@@ -1,7 +1,8 @@
 # Planetary Rover
 
-![Planetary rover](../Images/vehicles-planetary-rover.jpg){.illus}
+![Planetary rover](../Images/GR-1102-vehicles-planetary-rover.jpg){.illus}
 
+*Catalogue: GR-1102*
 *Set: Expansion*
 
 

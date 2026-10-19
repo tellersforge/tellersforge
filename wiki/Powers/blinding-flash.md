@@ -1,5 +1,9 @@
 # Blinding Flash
 
+![Blinding Flash](../Images/PW-026-powers-blinding-flash.jpg){.illus}
+
+
+*Catalogue: PW-026*
 *Set: Expansion*
 
 *aka: ______________________________*

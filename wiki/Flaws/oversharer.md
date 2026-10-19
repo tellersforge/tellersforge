@@ -1,5 +1,8 @@
 # Oversharer
 
+![Oversharer](../Images/flaws-oversharer.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when tells strangers far too much.

@@ -1,5 +1,9 @@
 # Fire Control
 
+![Fire Control](../Images/PW-105-powers-fire-control.jpg){.illus}
+
+
+*Catalogue: PW-105*
 *Set: Core*
 
 *aka: ______________________________*

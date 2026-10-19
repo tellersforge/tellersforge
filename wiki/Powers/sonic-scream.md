@@ -1,5 +1,9 @@
 # Sonic Scream
 
+![Sonic Scream](../Images/PW-265-powers-sonic-scream.jpg){.illus}
+
+
+*Catalogue: PW-265*
 *Set: Expansion*
 
 *aka: ______________________________*

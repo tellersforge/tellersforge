@@ -1,5 +1,9 @@
 # Salt pork
 
+![Salt pork](../Images/GR-0815-equipment-salt-pork.jpg){.illus}
+
+
+*Catalogue: GR-0815*
 *Set: Expansion*
 
 *aka: ______________________________*

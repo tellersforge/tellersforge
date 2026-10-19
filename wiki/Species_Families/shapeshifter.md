@@ -1,5 +1,8 @@
 # Shapeshifter
 
+![Shapeshifter](../Images/species-families-shapeshifter.jpg){.illus}
+
+
 
 Beings for whom a body is a coat that can be changed. Some change against their will, cursed to become wolves or bears when the moon rises. Others change with a skin, a feather cloak or a ritual, and a few simply decide to look like someone else and do. The family holds sly fox and badger spirits, sealskin brides, dragons in human dress, perfect mimics who replace the people they copy, and patient observers from other worlds who blend into a crowd. They share one secret burden: nobody quite trusts a face that can change. Most learn to keep their true shape to themselves.
 

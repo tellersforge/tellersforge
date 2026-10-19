@@ -1,5 +1,8 @@
 # Fear of Cats
 
+![Fear of Cats](../Images/flaws-fear-of-cats.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when cats, great cats.

@@ -1,5 +1,8 @@
 # Simian
 
+![Simian](../Images/species-families-simian.jpg){.illus}
+
+
 
 Apes and monkeys, and the peoples descended from them. Long arms, clever hands, expressive faces and loud voices run through the family. Monkey folk are quick, curious and fond of mischief, living in noisy troops among the trees. Great ape folk are strong, thoughtful and deeply attached to their kin. The family also holds shaggy wild giants glimpsed at the forest's edge, brutish mutant warriors, uplifted apes, tinkering ape-kind from other worlds, and ape scholars ruling what was left after a great fall. Humans often see a mirror in them. The simians are not always flattered by the comparison.
 

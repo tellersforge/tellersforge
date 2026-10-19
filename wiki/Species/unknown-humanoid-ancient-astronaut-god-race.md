@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Technologically-godlike ancient astronaut *(NPC only)*
 
+![Technologically-godlike ancient astronaut](../Images/species-technologically-godlike-ancient-astronaut.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +2
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))

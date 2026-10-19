@@ -1,7 +1,8 @@
 # Motorcycle
 
-![Motorcycle](../Images/vehicles-motorcycle.jpg){.illus}
+![Motorcycle](../Images/GR-1093-vehicles-motorcycle.jpg){.illus}
 
+*Catalogue: GR-1093*
 *Set: Core*
 
 

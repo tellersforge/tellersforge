@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Underworld boundary-dwelling spirit folk *(NPC only)*
 
+![Underworld boundary-dwelling spirit folk](../Images/species-underworld-boundary-dwelling-spirit-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR −1 AGI +1 END −1 WIS +1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept

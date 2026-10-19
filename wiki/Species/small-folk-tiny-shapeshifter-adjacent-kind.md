@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tiny shapeshifter-adjacent native *(NPC only)*
 
+![Tiny shapeshifter-adjacent native](../Images/species-tiny-shapeshifter-adjacent-native.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 WIS +1 CHA +1 COU −2
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Cooking](../Skills/cooking.md) +1, [Service & Hospitality](../Skills/service-and-hospitality.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Throwing](../Skills/throwing.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2

@@ -1,5 +1,9 @@
 # Hazmat hood
 
+![Hazmat hood](../Images/GR-0508-equipment-hazmat-hood.jpg){.illus}
+
+
+*Catalogue: GR-0508*
 *Set: Expansion*
 
 *aka: ______________________________*

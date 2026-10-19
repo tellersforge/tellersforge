@@ -1,5 +1,9 @@
 # Attack drone
 
+![Attack drone](../Images/BE-032-bestiary-attack-drone.jpg){.illus}
+
+
+*Catalogue: BE-032*
 *Set: Expansion*
 
 *aka: ______________________________*

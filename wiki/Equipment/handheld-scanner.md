@@ -1,7 +1,8 @@
 # Handheld scanner
 
-![Handheld scanner](../Images/equipment-handheld-scanner.jpg){.illus}
+![Handheld scanner](../Images/GR-0499-equipment-handheld-scanner.jpg){.illus}
 
+*Catalogue: GR-0499*
 *Set: Expansion*
 
 *aka: ______________________________*

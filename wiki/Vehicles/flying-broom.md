@@ -1,7 +1,8 @@
 # Flying Broom
 
-![Flying broom](../Images/vehicles-flying-broom.jpg){.illus}
+![Flying broom](../Images/GR-1070-vehicles-flying-broom.jpg){.illus}
 
+*Catalogue: GR-1070*
 *Set: Expansion*
 
 

@@ -1,5 +1,8 @@
 # Amphibian
 
+![Amphibian](../Images/species-families-amphibian.jpg){.illus}
+
+
 
 Folk of the wet margins, born in water and never quite leaving it. Frogs, toads, newts and salamanders lend them smooth, damp skin, wide mouths, long tongues and eyes set high on the head. Many hatch from spawn and pass through a tadpole youth before they walk. They breathe through their skin as much as their lungs, which makes them keen judges of clean water and miserable in dry heat. Their peoples range from cheerful marsh villagers and reclusive temple-keepers to old, cold, patient races who were ancient before anyone else learned to speak. Others tend to find them slippery in both senses, and are often surprised by how far a frog-folk can jump, and how well it remembers.
 

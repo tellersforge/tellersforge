@@ -1,5 +1,9 @@
 # Mechanical calculator
 
+![Mechanical calculator](../Images/GR-0637-equipment-mechanical-calculator.jpg){.illus}
+
+
+*Catalogue: GR-0637*
 *Set: Expansion*
 
 *aka: ______________________________*

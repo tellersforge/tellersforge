@@ -1,5 +1,9 @@
 # Sky bull
 
+![Sky bull](../Images/BE-559-bestiary-sky-bull.jpg){.illus}
+
+
+*Catalogue: BE-559*
 *Set: Expansion*
 
 *aka: ______________________________*

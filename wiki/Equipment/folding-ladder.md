@@ -1,5 +1,9 @@
 # Folding ladder
 
+![Folding ladder](../Images/GR-0430-equipment-folding-ladder.jpg){.illus}
+
+
+*Catalogue: GR-0430*
 *Set: Expansion*
 
 *aka: ______________________________*

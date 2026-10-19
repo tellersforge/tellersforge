@@ -1,5 +1,8 @@
 # Know-It-All
 
+![Know-It-All](../Images/flaws-know-it-all.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when corrects everyone, can't admit ignorance.

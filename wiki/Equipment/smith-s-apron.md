@@ -1,5 +1,9 @@
 # Smith's apron
 
+![Smith's apron](../Images/GR-0883-equipment-smith-s-apron.jpg){.illus}
+
+
+*Catalogue: GR-0883*
 *Set: Core*
 
 *aka: ______________________________*

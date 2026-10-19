@@ -1,5 +1,9 @@
 # Sand drake
 
+![Sand drake](../Images/BE-514-bestiary-sand-drake.jpg){.illus}
+
+
+*Catalogue: BE-514*
 *Set: Expansion*
 
 *aka: ______________________________*

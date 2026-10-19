@@ -1,5 +1,9 @@
 # Uncatchable fox
 
+![Uncatchable fox](../Images/BE-643-bestiary-uncatchable-fox.jpg){.illus}
+
+
+*Catalogue: BE-643*
 *Set: Expansion*
 
 *aka: ______________________________*

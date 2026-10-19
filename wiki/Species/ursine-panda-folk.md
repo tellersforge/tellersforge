@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 825 Panda-folk *(genres: beast-folk: fur)*
 
+![Panda-folk](../Images/species-panda-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Calm, bamboo-loving panda folk with an extra thumb, ranging from gentle herbalists to surprisingly agile fighters. (looks like: panda; good at: strength, knowledge)
 - **Attributes:** STR +2 AGI −2 END +2 INT −1 WIS +1

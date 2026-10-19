@@ -1,5 +1,9 @@
 # Widow spider
 
+![Widow spider](../Images/BE-669-bestiary-widow-spider.jpg){.illus}
+
+
+*Catalogue: BE-669*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Travel Through a Medium
 
+![Travel Through a Medium](../Images/PW-304-powers-travel-through-a-medium.jpg){.illus}
+
+
+*Catalogue: PW-304*
 *Set: Expansion*
 
 *aka: ______________________________*

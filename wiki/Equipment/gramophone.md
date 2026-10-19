@@ -1,5 +1,9 @@
 # Gramophone
 
+![Gramophone](../Images/GR-0468-equipment-gramophone.jpg){.illus}
+
+
+*Catalogue: GR-0468*
 *Set: Expansion*
 
 *aka: ______________________________*

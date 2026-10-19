@@ -1,5 +1,8 @@
 # Complainer
 
+![Complainer](../Images/flaws-complainer.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when grumbles and whines about everything.

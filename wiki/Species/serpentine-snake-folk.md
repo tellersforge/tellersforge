@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 692 Viper-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Viper-folk](../Images/species-viper-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** serpentine
 - **What it's like:** Coiled viper-folk who strike fast with a potent venomous bite, sensing warm bodies in the dark. (looks like: snake; good at: fighting, keen senses)
 - **Attributes:** AGI +2 END −1 CHA +1
@@ -50,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Night & Spectrum Sight is heat sight. The limbless martial-artist lines are Profession. The limbless lines have no hands: held weapons unusable.
 
 ### No. 693 Python/constrictor-folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Python/constrictor-folk](../Images/species-python-constrictor-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** serpentine
 - **What it's like:** Massive, muscular snake-folk who crush rather than bite, and can go a long time between meals. (looks like: snake; good at: strength, fighting)
@@ -64,6 +70,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sea snake-folk *(NPC only)*
 
+![Sea snake-folk](../Images/species-sea-snake-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** aquatic+serpentine
 - **Attributes:** AGI +1 CHA +1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Hypnotism](../Skills/hypnotism.md) +1, [Running](../Skills/running.md) −2, [Jumping](../Skills/jumping.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -74,6 +83,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Paddle-tailed reef swimmers with potent venom; they must surface to breathe.
 
 ### Rattlesnake-folk *(NPC only)*
+
+![Rattlesnake-folk](../Images/species-rattlesnake-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** serpentine
 - **Attributes:** AGI +1 END −1 CHA +1
@@ -87,6 +99,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Giant serpent-folk *(beast)*
 
+![Giant serpent-folk](../Images/species-giant-serpent-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** serpentine
 - **Attributes:** STR +7 AGI −3 END +2 INT −3 CHA +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Hypnotism](../Skills/hypnotism.md) +1, [Running](../Skills/running.md) −2, [Jumping](../Skills/jumping.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -97,6 +112,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Monster serpent with crushing coils or heavier venom.
 
 ### Fire snake spirit *(NPC only)*
+
+![Fire snake spirit](../Images/species-fire-snake-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** serpentine
 - **Attributes:** AGI +1 END −1 WIS +2 CHA +1 COU +1
@@ -109,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is fire. No hands: held weapons unusable.
 
 ### Ancient serpent empire folk *(NPC only)*
+
+![Ancient serpent empire folk](../Images/species-ancient-serpent-empire-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END −1 INT +2 CHA +1

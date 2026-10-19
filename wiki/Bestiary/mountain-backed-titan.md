@@ -1,5 +1,9 @@
 # Mountain-backed titan
 
+![Mountain-backed titan](../Images/BE-423-bestiary-mountain-backed-titan.jpg){.illus}
+
+
+*Catalogue: BE-423*
 *Set: Expansion*
 
 *aka: ______________________________*

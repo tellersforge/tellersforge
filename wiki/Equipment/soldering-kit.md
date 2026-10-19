@@ -1,5 +1,9 @@
 # Soldering kit
 
+![Soldering kit](../Images/GR-0894-equipment-soldering-kit.jpg){.illus}
+
+
+*Catalogue: GR-0894*
 *Set: Expansion*
 
 *aka: ______________________________*

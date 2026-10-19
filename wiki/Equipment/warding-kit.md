@@ -1,5 +1,9 @@
 # Warding kit
 
+![Warding kit](../Images/GR-0999-equipment-warding-kit.jpg){.illus}
+
+
+*Catalogue: GR-0999*
 *Set: Expansion*
 
 *aka: ______________________________*

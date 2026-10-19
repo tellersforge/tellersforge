@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 427 Clan warrior wildcat folk *(genres: animal fable)*
 
+![Clan warrior wildcat folk](../Images/species-clan-warrior-wildcat-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** quadruped
 - **What it's like:** Wild cat-folk who fight in strict warrior Clans, following an honour code, with leaders said to have nine lives. (looks like: cat; good at: fighting, wilderness)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 15 · Parry — · Dodge 11 · Damage claws 1d4; bite 1d6-1 · Armour 0 · Life 12 · Threat minor ([Bestiary roles](../bestiary.md))
 
 ### Pampered companion wildcat folk *(NPC only)*
+
+![Pampered companion wildcat folk](../Images/species-pampered-companion-wildcat-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** quadruped
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 COU −1

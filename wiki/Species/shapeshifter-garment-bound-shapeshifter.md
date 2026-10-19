@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Selkie *(NPC only)*
 
+![Selkie](../Images/species-selkie.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+finned(shift)
 - **Attributes:** AGI +1 END +1 WIS −1 CHA +1
 - **Skills:** [Acting](../Skills/acting.md) +1, [Deception](../Skills/deception.md) +1, [Mimicry](../Skills/mimicry.md) +1, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +1, [Swimming](../Skills/swimming.md) +1, [Composure](../Skills/composure.md) −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Animal Form is the seal, through the sealskin.
 
 ### Swan maiden *(NPC only)*
+
+![Swan maiden](../Images/species-swan-maiden.jpg){.illus}
+
 
 - **Size:** medium · **Body:** winged biped(shift)
 - **Attributes:** AGI +1 WIS −1 CHA +2

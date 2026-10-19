@@ -1,5 +1,9 @@
 # Folk Magic ✦
 
+![Folk Magic ✦](../Images/SK-074-skills-folk-magic.jpg){.illus}
+
+
+*Catalogue: SK-074*
 *Set: Expansion*
 
 *aka: ______________________________*

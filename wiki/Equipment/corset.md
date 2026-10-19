@@ -1,5 +1,9 @@
 # Corset
 
+![Corset](../Images/GR-0303-equipment-corset.jpg){.illus}
+
+
+*Catalogue: GR-0303*
 *Set: Expansion*
 
 *aka: ______________________________*

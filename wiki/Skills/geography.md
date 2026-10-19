@@ -1,5 +1,9 @@
 # Geography
 
+![Geography](../Images/SK-081-skills-geography.jpg){.illus}
+
+
+*Catalogue: SK-081*
 *Set: Core · Basic skill: Lore*
 
 *aka: ______________________________*

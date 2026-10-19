@@ -1,5 +1,9 @@
 # Fire piston
 
+![Fire piston](../Images/GR-0412-equipment-fire-piston.jpg){.illus}
+
+
+*Catalogue: GR-0412*
 *Set: Expansion*
 
 *aka: ______________________________*

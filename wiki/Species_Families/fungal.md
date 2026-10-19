@@ -1,5 +1,8 @@
 # Fungal
 
+![Fungal](../Images/species-families-fungal.jpg){.illus}
+
+
 
 Mushroom, lichen and mould-folk, grown rather than born. They rise from damp soil and rotting wood, spread through hidden threads under the ground, and speak to each other by scent and spore. Many share their thoughts across that web, so a whole grove of them may know what one has seen. Some are quiet cave gardeners and patient healers who turn decay into new life. Others are violent spore-born warriors who sprout from the battlefield dead and live for the next fight. All of them thrive in the dark and the wet. Other peoples are unsure whether to befriend them, eat them or burn them.
 

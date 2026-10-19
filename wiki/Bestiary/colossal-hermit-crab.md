@@ -1,5 +1,9 @@
 # Colossal hermit crab
 
+![Colossal hermit crab](../Images/BE-118-bestiary-colossal-hermit-crab.jpg){.illus}
+
+
+*Catalogue: BE-118*
 *Set: Expansion*
 
 *aka: ______________________________*

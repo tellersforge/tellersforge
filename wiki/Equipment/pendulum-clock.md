@@ -1,5 +1,9 @@
 # Pendulum clock
 
+![Pendulum clock](../Images/GR-0716-equipment-pendulum-clock.jpg){.illus}
+
+
+*Catalogue: GR-0716*
 *Set: Expansion*
 
 *aka: ______________________________*

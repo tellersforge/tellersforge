@@ -1,5 +1,9 @@
 # Kindle & Quench
 
+![Kindle & Quench](../Images/PW-143-powers-kindle-and-quench.jpg){.illus}
+
+
+*Catalogue: PW-143*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Animal Senses Link
 
+![Animal Senses Link](../Images/PW-006-powers-animal-senses-link.jpg){.illus}
+
+
+*Catalogue: PW-006*
 *Set: Expansion*
 
 *aka: ______________________________*

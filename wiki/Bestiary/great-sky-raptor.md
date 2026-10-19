@@ -1,7 +1,8 @@
 # Great sky raptor
 
-![Great sky raptor](../Images/bestiary-great-sky-raptor.jpg){.illus}
+![Great sky raptor](../Images/BE-310-bestiary-great-sky-raptor.jpg){.illus}
 
+*Catalogue: BE-310*
 *Set: Expansion*
 
 *aka: ______________________________*

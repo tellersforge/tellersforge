@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Radiant firebird (non-sentient) *(beast)*
 
+![Radiant firebird (non-sentient)](../Images/species-radiant-firebird-non-sentient.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 INT −3 WIS +1 PER +2 CHA +2
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2

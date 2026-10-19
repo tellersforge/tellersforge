@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tiny pilot-being *(NPC only)*
 
+![Tiny pilot-being](../Images/species-tiny-pilot-being.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 INT +2
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 13 · Damage longsword 1d6+1 · Armour 2 · Life 13 · Threat 1 ([Bestiary roles](../bestiary.md))

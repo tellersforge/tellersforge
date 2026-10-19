@@ -1,5 +1,9 @@
 # Low-cut bodice gown
 
+![Low-cut bodice gown](../Images/GR-0618-equipment-low-cut-bodice-gown.jpg){.illus}
+
+
+*Catalogue: GR-0618*
 *Set: Expansion*
 
 *aka: ______________________________*

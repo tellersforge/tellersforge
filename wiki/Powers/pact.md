@@ -1,5 +1,9 @@
 # Pact
 
+![Pact](../Images/PW-204-powers-pact.jpg){.illus}
+
+
+*Catalogue: PW-204*
 *Set: Expansion*
 
 *aka: ______________________________*

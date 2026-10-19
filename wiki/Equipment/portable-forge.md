@@ -1,5 +1,9 @@
 # Portable forge
 
+![Portable forge](../Images/GR-0745-equipment-portable-forge.jpg){.illus}
+
+
+*Catalogue: GR-0745*
 *Set: Expansion*
 
 *aka: ______________________________*

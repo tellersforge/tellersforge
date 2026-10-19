@@ -1,5 +1,9 @@
 # Gravity boots
 
+![Gravity boots](../Images/GR-0472-equipment-gravity-boots.jpg){.illus}
+
+
+*Catalogue: GR-0472*
 *Set: Expansion*
 
 *aka: ______________________________*

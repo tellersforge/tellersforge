@@ -1,5 +1,9 @@
 # Mutant wasteland scorpion
 
+![Mutant wasteland scorpion](../Images/BE-435-bestiary-mutant-wasteland-scorpion.jpg){.illus}
+
+
+*Catalogue: BE-435*
 *Set: Expansion*
 
 *aka: ______________________________*

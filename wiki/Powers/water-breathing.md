@@ -1,5 +1,9 @@
 # Water Breathing
 
+![Water Breathing](../Images/PW-315-powers-water-breathing.jpg){.illus}
+
+
+*Catalogue: PW-315*
 *Set: Core*
 
 *aka: ______________________________*

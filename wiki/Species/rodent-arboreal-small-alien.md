@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 690 Squirrel-like glider *(genres: space opera: beast-like aliens)*
 
+![Squirrel-like glider](../Images/species-squirrel-like-glider.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small, bushy-tailed alien gliders who leap from height and ride the air on outstretched skin. (looks like: squirrel; good at: flying, climbing)
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1

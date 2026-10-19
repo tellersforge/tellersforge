@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 672 Riverine lizard trader folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Riverine lizard trader folk](../Images/species-riverine-lizard-trader-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Gregarious river-lizard traders and storytellers, as much at home in the water as on the bank. (looks like: lizard; good at: swimming, people and talk)
 - **Attributes:** STR +1 END +1

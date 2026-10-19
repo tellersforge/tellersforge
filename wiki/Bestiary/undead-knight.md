@@ -1,5 +1,9 @@
 # Undead knight
 
+![Undead knight](../Images/BE-644-bestiary-undead-knight.jpg){.illus}
+
+
+*Catalogue: BE-644*
 *Set: Expansion*
 
 *aka: ______________________________*

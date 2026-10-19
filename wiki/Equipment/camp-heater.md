@@ -1,5 +1,9 @@
 # Camp heater
 
+![Camp heater](../Images/GR-0252-equipment-camp-heater.jpg){.illus}
+
+
+*Catalogue: GR-0252*
 *Set: Expansion*
 
 *aka: ______________________________*

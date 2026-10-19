@@ -1,5 +1,9 @@
 # Strongbox
 
+![Strongbox](../Images/GR-0930-equipment-strongbox.jpg){.illus}
+
+
+*Catalogue: GR-0930*
 *Set: Expansion*
 
 *aka: ______________________________*

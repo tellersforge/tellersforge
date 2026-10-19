@@ -1,7 +1,8 @@
 # Halberd
 
-![Halberd](../Images/weapons-halberd.jpg){.illus}
+![Halberd](../Images/GR-0045-weapons-halberd.jpg){.illus}
 
+*Catalogue: GR-0045*
 *Set: Core*
 
 *aka: ______________________________*

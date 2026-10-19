@@ -1,7 +1,8 @@
 # Bolt-Action Rifle
 
-![Bolt-action rifle](../Images/weapons-bolt-action-rifle.jpg){.illus}
+![Bolt-action rifle](../Images/GR-0011-weapons-bolt-action-rifle.jpg){.illus}
 
+*Catalogue: GR-0011*
 *Set: Core*
 
 *aka: ______________________________*

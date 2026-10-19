@@ -1,5 +1,8 @@
 # People-Pleaser
 
+![People-Pleaser](../Images/flaws-people-pleaser.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when can't say no, agrees to everything.

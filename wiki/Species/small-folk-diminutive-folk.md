@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 753 Stout mage-hermit *(genres: classic fantasy)*
 
+![Stout mage-hermit](../Images/species-stout-mage-hermit.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Round, big-eyed hermit mages who prefer solitude and summoning magic to company. (looks like: gnome; good at: powers and magic, knowledge)
 - **Attributes:** STR −2 AGI +2 INT +1 WIS +2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Summon Creature is affinity.
 
 ### No. 754 Round diminutive folk *(genres: classic fantasy)*
+
+![Round diminutive folk](../Images/species-round-diminutive-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Very short, big-eyed folk, quick and agile, who barely ever fall ill. (looks like: gnome; good at: speed and agility, toughness)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 755 Twin-tailed diminutive spellcaster *(genres: classic fantasy)*
 
+![Twin-tailed diminutive spellcaster](../Images/species-twin-tailed-diminutive-spellcaster.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Very small spellcasters with childlike looks, adult minds, and a gift for magic that comes early and burns out fast. (looks like: fairy; good at: powers and magic, knowledge)
 - **Attributes:** STR −2 AGI +2 END −1 INT +1 WIS +1
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 756 Furred small folk *(genres: classic fantasy)*
 
+![Furred small folk](../Images/species-furred-small-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, furred, pointy-eared folk who've learned to survive almost anything their disaster-prone homeland throws at them. (looks like: gnome; good at: toughness, wilderness)
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1
@@ -61,6 +73,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Hardy survivors from a disaster-prone homeland who sense trouble coming.
 
 ### No. 757 Frost small folk *(genres: fairy tale and folklore)*
+
+![Frost small folk](../Images/species-frost-small-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Cold-loving, mischievous small folk with a natural gift for ice magic. (looks like: fairy; good at: powers and magic, wilderness)
@@ -72,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Llama-herding small folk *(NPC only)*
 
+![Llama-herding small folk](../Images/species-llama-herding-small-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 COU −1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Cooking](../Skills/cooking.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Service & Hospitality](../Skills/service-and-hospitality.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Survival: Mountain](../Skills/survival-mountain.md) +1, [Throwing](../Skills/throwing.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -79,6 +97,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Mountain herders.
 
 ### Pale cave-dwelling small folk *(NPC only)*
+
+![Pale cave-dwelling small folk](../Images/species-pale-cave-dwelling-small-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −3 AGI +2 WIS +1 CHA −1 COU −2

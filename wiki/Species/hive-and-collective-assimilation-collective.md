@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Central-node collective voice *(NPC only; NPC-scale)*
 
+![Central-node collective voice](../Images/species-central-node-collective-voice.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1 INT +2 WIS +1 CHA −1 COU +3
 - **Skills:** [Composure](../Skills/composure.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +3, [Leadership](../Skills/leadership.md) +2, [Logistics](../Skills/logistics.md) +2, [Signals](../Skills/signals.md) +2, [Insight](../Skills/insight.md) −1, [Deception](../Skills/deception.md) −2

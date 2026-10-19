@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Deathless dread-plane walker *(NPC only; NPC-scale)*
 
+![Deathless dread-plane walker](../Images/species-deathless-dread-plane-walker.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −1 END +1 INT +1 WIS +1 PER +1 CHA −1 COU +2
 - **Skills:** [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Ageing & Youth works as ageing only, by gaze. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### No. 780 Umbral shade-folk *(genres: heavens, hells and other planes, gothic horror)*
+
+![Umbral shade-folk](../Images/species-umbral-shade-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pale, colour-drained shade-folk from a dimension of endless gloom, uncomfortable in bright light. (looks like: shadow; good at: sneaking, powers and magic)

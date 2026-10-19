@@ -1,5 +1,9 @@
 # Far Seeing (Clairvoyance)
 
+![Far Seeing (Clairvoyance)](../Images/PW-098-powers-far-seeing-clairvoyance.jpg){.illus}
+
+
+*Catalogue: PW-098*
 *Set: Expansion*
 
 *aka: ______________________________*

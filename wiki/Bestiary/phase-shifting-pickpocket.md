@@ -1,5 +1,9 @@
 # Phase-shifting pickpocket
 
+![Phase-shifting pickpocket](../Images/BE-459-bestiary-phase-shifting-pickpocket.jpg){.illus}
+
+
+*Catalogue: BE-459*
 *Set: Expansion*
 
 *aka: ______________________________*

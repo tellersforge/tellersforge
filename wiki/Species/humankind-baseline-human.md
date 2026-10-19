@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 1 Baseline human *(fits every genre; starter)*
 
+![Baseline human](../Images/species-baseline-human.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary people: adaptable, found everywhere, and good at learning anything. (looks like: human; good at: knowledge, people and talk)
 - **Attributes:** none

@@ -1,5 +1,8 @@
 # Elf-kind
 
+![Elf-kind](../Images/species-families-elf-kind.jpg){.illus}
+
+
 
 Tall, graceful, long-lived and quite aware of it. The elves have sharp ears, sharp eyes and memories that stretch across centuries, which makes them patient, proud and difficult to impress. Almost every land has its own branch. There are woodland archers, high courts of old magic, pale folk of the underdark, sea wanderers, desert nomads, winter hunters, star-voyaging exiles, and bitter lineages twisted by something they should not have touched. They quarrel with each other more than with anyone else. Shorter-lived peoples find them beautiful, useful and exhausting, and elves in turn find everyone else charming and in a great hurry.
 

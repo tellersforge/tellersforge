@@ -1,7 +1,8 @@
 # Sea Steed
 
-![Sea steed](../Images/vehicles-sea-steed.jpg){.illus}
+![Sea steed](../Images/GR-1115-vehicles-sea-steed.jpg){.illus}
 
+*Catalogue: GR-1115*
 *Set: Expansion*
 
 

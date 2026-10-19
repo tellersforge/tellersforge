@@ -1,5 +1,9 @@
 # Sea bag
 
+![Sea bag](../Images/GR-0827-equipment-sea-bag.jpg){.illus}
+
+
+*Catalogue: GR-0827*
 *Set: Expansion*
 
 *aka: ______________________________*

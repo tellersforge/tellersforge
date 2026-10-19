@@ -1,5 +1,8 @@
 # Fear of Sickness
 
+![Fear of Sickness](../Images/flaws-fear-of-sickness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when illness, catching sickness, sick people.

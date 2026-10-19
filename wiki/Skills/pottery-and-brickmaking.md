@@ -1,5 +1,9 @@
 # Pottery & Brickmaking
 
+![Pottery & Brickmaking](../Images/SK-153-skills-pottery-and-brickmaking.jpg){.illus}
+
+
+*Catalogue: SK-153*
 *Set: Expansion*
 
 *aka: ______________________________*

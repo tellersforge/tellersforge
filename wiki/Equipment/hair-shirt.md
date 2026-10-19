@@ -1,5 +1,9 @@
 # Hair shirt
 
+![Hair shirt](../Images/GR-0486-equipment-hair-shirt.jpg){.illus}
+
+
+*Catalogue: GR-0486*
 *Set: Expansion*
 
 *aka: ______________________________*

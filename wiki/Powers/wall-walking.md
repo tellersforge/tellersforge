@@ -1,5 +1,9 @@
 # Wall Walking
 
+![Wall Walking](../Images/PW-312-powers-wall-walking.jpg){.illus}
+
+
+*Catalogue: PW-312*
 *Set: Expansion*
 
 *aka: ______________________________*

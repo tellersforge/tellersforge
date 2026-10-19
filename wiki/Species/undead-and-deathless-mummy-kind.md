@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient sorcerer-mummy *(NPC only; NPC-scale)*
 
+![Ancient sorcerer-mummy](../Images/species-ancient-sorcerer-mummy.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 INT +3 WIS +1 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Arcana](../Skills/arcana.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cursed disease-touch mummy *(NPC only)*
 
+![Cursed disease-touch mummy](../Images/species-cursed-disease-touch-mummy.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Disease works by touch.
 
 ### No. 793 Immortality-obsessed preserved folk *(genres: space opera: strange aliens)*
+
+![Immortality-obsessed preserved folk](../Images/species-immortality-obsessed-preserved-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Mummified, endlessly calm folk obsessed with immortality and honouring their ancestors. (looks like: mummy; good at: toughness, knowledge)

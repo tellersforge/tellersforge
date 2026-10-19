@@ -1,5 +1,9 @@
 # Dream Walking
 
+![Dream Walking](../Images/PW-076-powers-dream-walking.jpg){.illus}
+
+
+*Catalogue: PW-076*
 *Set: Expansion*
 
 *aka: ______________________________*

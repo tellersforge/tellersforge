@@ -1,5 +1,9 @@
 # Felt yurt kit
 
+![Felt yurt kit](../Images/GR-0395-equipment-felt-yurt-kit.jpg){.illus}
+
+
+*Catalogue: GR-0395*
 *Set: Expansion*
 
 *aka: ______________________________*

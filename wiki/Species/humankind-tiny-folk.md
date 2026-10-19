@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 59 Tiny folk *(genres: fairy tale and folklore)*
 
+![Tiny folk](../Images/species-tiny-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **What it's like:** People just a few inches tall, quick-fingered and nimble in their own tiny world. (looks like: human; good at: speed and agility, making and fixing)
 - **Attributes:** STR −3 AGI +3

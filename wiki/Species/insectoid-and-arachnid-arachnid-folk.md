@@ -39,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 539 Scorpion-folk *(genres: myth and legend, beast-folk: scales, feathers and shells)*
 
+![Scorpion-folk](../Images/species-scorpion-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **What it's like:** Scorpion-tailed folk with a human upper body and a venomous sting, tough desert dwellers who often guard sacred gateways. (looks like: scorpion; good at: fighting, toughness)
 - **Attributes:** STR +1 END +2 WIS +1 PER +1 CHA −2
@@ -50,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Scorpion-bodied desert guards with pincers and a venomous tail.
 
 ### Tick/mite-folk *(NPC only)*
+
+![Tick/mite-folk](../Images/species-tick-mite-folk.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −2 AGI +3 END +2 WIS +1 PER +1 CHA −2
@@ -63,6 +69,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tarantula-folk *(NPC only)*
 
+![Tarantula-folk](../Images/species-tarantula-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** octoped/hexapod+biped
 - **Attributes:** STR +3 AGI −2 END +2 WIS +1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Hunting](../Skills/hunting.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Traps](../Skills/traps.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -75,6 +84,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Harvestman-folk *(NPC only)*
 
+![Harvestman-folk](../Images/species-harvestman-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 AGI +1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Hunting](../Skills/hunting.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -85,6 +97,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Set 0 removes the species' snaring and venom affinity. NPC only.
 
 ### Uplifted spider civilization folk *(NPC only)*
+
+![Uplifted spider civilization folk](../Images/species-uplifted-spider-civilization-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 END +2 INT +1 WIS +1 PER +1 CHA −2
@@ -98,6 +113,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Predatory shapeshifting spider folk *(NPC only)*
 
+![Predatory shapeshifting spider folk](../Images/species-predatory-shapeshifting-spider-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+other
 - **Attributes:** STR +1 END +2 WIS +1 PER +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Hunting](../Skills/hunting.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Traps](../Skills/traps.md) +1, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -109,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Self-Alteration is limited to its one human guise. NPC only.
 
 ### Monstrous cave spider folk *(NPC only)*
+
+![Monstrous cave spider folk](../Images/species-monstrous-cave-spider-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+other
 - **Attributes:** STR +4 AGI −2 END +2 INT −2 WIS +1 PER +1 CHA −2
@@ -122,6 +143,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 540 Trickster spider folk *(genres: fairy tale and folklore, myth and legend)*
 
+![Trickster spider folk](../Images/species-trickster-spider-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+other
 - **What it's like:** A cunning spider-being famed as a trickster and keeper of stories and wisdom. (looks like: spider; good at: people and talk, climbing)
 - **Attributes:** END +2 INT +1 WIS +1 PER +1 CHA −1
@@ -134,6 +158,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cursed spider matriarch folk *(NPC only)*
 
+![Cursed spider matriarch folk](../Images/species-cursed-spider-matriarch-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 AGI +1 END +2 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Hunting](../Skills/hunting.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Traps](../Skills/traps.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -145,6 +172,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Night & Spectrum Sight kept from their elf-kind and underground origin. NPC only.
 
 ### No. 541 Shapeshifting spider-kin folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Shapeshifting spider-kin folk](../Images/species-shapeshifting-spider-kin-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Patient spider-kin who shift between human and spider shape, spinning webs and waiting out their prey. (looks like: spider; good at: sneaking, climbing)
@@ -159,6 +189,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient spider hive civilization folk *(NPC only)*
 
+![Ancient spider hive civilization folk](../Images/species-ancient-spider-hive-civilization-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** insectoid
 - **Attributes:** STR +1 END +2 INT +2 WIS +1 PER +1 CHA −3
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Composure](../Skills/composure.md) +1, [Hunting](../Skills/hunting.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Traps](../Skills/traps.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -170,6 +203,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Spider-bodied bounty hunter folk *(NPC only)*
+
+![Spider-bodied bounty hunter folk](../Images/species-spider-bodied-bounty-hunter-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** centauroid
 - **Attributes:** STR +3 AGI −1 END +2 WIS +1 PER +1 CHA −2

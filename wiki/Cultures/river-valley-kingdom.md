@@ -1,5 +1,8 @@
 # River-valley kingdom
 
+![River-valley kingdom](../Images/cultures-river-valley-kingdom.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

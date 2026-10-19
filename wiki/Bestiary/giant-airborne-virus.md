@@ -1,5 +1,9 @@
 # Giant airborne virus
 
+![Giant airborne virus](../Images/BE-233-bestiary-giant-airborne-virus.jpg){.illus}
+
+
+*Catalogue: BE-233*
 *Set: Expansion*
 
 *aka: ______________________________*

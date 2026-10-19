@@ -1,5 +1,9 @@
 # Burning glass
 
+![Burning glass](../Images/GR-0240-equipment-burning-glass.jpg){.illus}
+
+
+*Catalogue: GR-0240*
 *Set: Expansion*
 
 *aka: ______________________________*

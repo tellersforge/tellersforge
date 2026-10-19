@@ -1,5 +1,9 @@
 # Attribute Boost
 
+![Attribute Boost](../Images/PW-011-powers-attribute-boost.jpg){.illus}
+
+
+*Catalogue: PW-011*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Howdah
 
+![Howdah](../Images/GR-0548-equipment-howdah.jpg){.illus}
+
+
+*Catalogue: GR-0548*
 *Set: Expansion*
 
 *aka: ______________________________*

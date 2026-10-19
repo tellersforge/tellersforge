@@ -1,7 +1,8 @@
 # Burrowing land-shark
 
-![Burrowing land-shark](../Images/bestiary-burrowing-land-shark.jpg){.illus}
+![Burrowing land-shark](../Images/BE-084-bestiary-burrowing-land-shark.jpg){.illus}
 
+*Catalogue: BE-084*
 *Set: Expansion*
 
 *aka: ______________________________*

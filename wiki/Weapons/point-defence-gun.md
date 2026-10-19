@@ -1,5 +1,9 @@
 # Point-Defence Gun
 
+![Point-Defence Gun](../Images/GR-0078-weapons-point-defence-gun.jpg){.illus}
+
+
+*Catalogue: GR-0078*
 *Set: Expansion*
 
 *aka: ______________________________*

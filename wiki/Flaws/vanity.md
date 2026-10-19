@@ -1,5 +1,8 @@
 # Vanity
 
+![Vanity](../Images/flaws-vanity.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when fusses over looks; can't resist a mirror or fine clothes.

@@ -1,5 +1,8 @@
 # Brawler
 
+![Brawler](../Images/flaws-brawler.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when picks fights for the fun of it.

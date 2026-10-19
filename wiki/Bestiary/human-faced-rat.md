@@ -1,5 +1,9 @@
 # Human-faced rat
 
+![Human-faced rat](../Images/BE-353-bestiary-human-faced-rat.jpg){.illus}
+
+
+*Catalogue: BE-353*
 *Set: Expansion*
 
 *aka: ______________________________*

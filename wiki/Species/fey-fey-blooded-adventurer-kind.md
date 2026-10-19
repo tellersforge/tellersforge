@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 444 Shapeshifting fey-blooded folk *(genres: fairy tale and folklore)*
 
+![Shapeshifting fey-blooded folk](../Images/species-shapeshifting-fey-blooded-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Fey-blooded folk of mysterious parentage, able to shift their looks a little and read others' feelings easily. (looks like: human; good at: powers and magic, people and talk)
 - **Attributes:** STR −1 AGI +1 END −1 CHA +2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Change their looks at will and read others' feelings.
 
 ### No. 445 Fey-blooded adventurer folk *(genres: fairy tale and folklore)*
+
+![Fey-blooded adventurer folk](../Images/species-fey-blooded-adventurer-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, long-lived fey-blooded adventurers with a knack for minor illusions and charm, and a famously fickle mood. (looks like: elf; good at: powers and magic, people and talk)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Long lifespan goes on the lexicon entry.
 
 ### No. 446 Moth-winged whimsical folk *(genres: fairy tale and folklore, beast-folk: scales, feathers and shells)*
+
+![Moth-winged whimsical folk](../Images/species-moth-winged-whimsical-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** winged biped
 - **What it's like:** Small, whimsical moth-winged folk who flutter about lamps and candles, unable to resist the pull of the light. (looks like: fairy; good at: flying, sneaking)

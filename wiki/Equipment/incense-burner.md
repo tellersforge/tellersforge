@@ -1,5 +1,9 @@
 # Incense burner
 
+![Incense burner](../Images/GR-0554-equipment-incense-burner.jpg){.illus}
+
+
+*Catalogue: GR-0554*
 *Set: Expansion*
 
 *aka: ______________________________*

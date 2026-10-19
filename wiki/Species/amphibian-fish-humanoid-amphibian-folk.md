@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 166 Nonviolent fish-humanoid folk *(genres: space opera: beast-like aliens)*
 
+![Nonviolent fish-humanoid folk](../Images/species-nonviolent-fish-humanoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+aquatic
 - **What it's like:** Peaceful, philosophical fish-folk who breathe both air and water. (looks like: fish; good at: swimming, people and talk)
 - **Attributes:** AGI +1 END +1 WIS +1 CHA −1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fish-faced amphibious delegate *(NPC only)*
 
+![Fish-faced amphibious delegate](../Images/species-fish-faced-amphibious-delegate.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1 CHA −1 COU −2
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) −1, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Nervous and easily panicked.
 
 ### No. 167 Telepathic ichthyo-sapien *(genres: sea and sky, super-powered: mutants and the enhanced)*
+
+![Telepathic ichthyo-sapien](../Images/species-telepathic-ichthyo-sapien.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+aquatic
 - **What it's like:** Ancient, blue-grey fish-folk who read minds as naturally as they swim. (looks like: fish; good at: swimming, powers and magic)
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 168 Fish-faced flight-ace pilot *(genres: space opera: beast-like aliens)*
+
+![Fish-faced flight-ace pilot](../Images/species-fish-faced-flight-ace-pilot.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm, honour-bound fish-folk famed as brilliant pilots and strategists. (looks like: fish; good at: swimming, speed and agility, knowledge)

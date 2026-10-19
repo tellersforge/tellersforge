@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Militarized ape-clansman *(NPC only)*
 
+![Militarized ape-clansman](../Images/species-militarized-ape-clansman.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 AGI +1 WIS −1 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Acrobatics](../Skills/acrobatics.md) +1, [Balance](../Skills/balance.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2

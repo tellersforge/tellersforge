@@ -1,7 +1,8 @@
 # Food synthesiser
 
-![Food synthesiser](../Images/equipment-food-synthesiser.jpg){.illus}
+![Food synthesiser](../Images/GR-0435-equipment-food-synthesiser.jpg){.illus}
 
+*Catalogue: GR-0435*
 *Set: Expansion*
 
 *aka: ______________________________*

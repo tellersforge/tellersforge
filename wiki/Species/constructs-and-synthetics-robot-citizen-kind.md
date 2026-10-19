@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient robotic precursor automaton *(NPC only)*
 
+![Ancient robotic precursor automaton](../Images/species-ancient-robotic-precursor-automaton.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +4 WIS −1 CHA −1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Mechanical Engineering](../Skills/mechanical-engineering.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Cooking](../Skills/cooking.md) −1, [Insight](../Skills/insight.md) −1, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 302 Sentient robot citizen · Rogue retro-futurist robot *(genres: robots and synthetics)*
 
+![Sentient robot citizen](../Images/species-sentient-robot-citizen.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A fully thinking, feeling robot citizen with all the flaws of anyone else, just running on oil instead of food. (looks like: robot; good at: toughness, knowledge)
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −1
@@ -54,6 +60,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 19 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Robotic crewman *(NPC only)*
+
+![Robotic crewman](../Images/species-robotic-crewman.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +2 INT −1 WIS −1 CHA −1
@@ -65,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Small sentient shipboard robot *(NPC only)*
 
+![Small sentient shipboard robot](../Images/species-small-sentient-shipboard-robot.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +3 END +2 WIS −1 CHA −1 COU −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Mechanics](../Skills/mechanics.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Cooking](../Skills/cooking.md) −1, [Insight](../Skills/insight.md) −1, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -74,6 +86,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 303 Autonomous mechanical being *(genres: robots and synthetics; starter)*
 
+![Autonomous mechanical being](../Images/species-autonomous-mechanical-being.jpg){.illus}
+
+
 - **Size:** varies · **Body:** biped
 - **What it's like:** A thinking robot that never tires, never eats, and learns as it goes. (looks like: robot; good at: strength, toughness, making and fixing)
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −1
@@ -82,6 +97,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 19 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 304 Post-apocalyptic sentient android *(genres: after the fall, robots and synthetics)*
+
+![Post-apocalyptic sentient android](../Images/species-post-apocalyptic-sentient-android.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A wasteland android immune to radiation and able to repair itself, haunted by memories of a world before the war. (looks like: robot; good at: toughness, knowledge)
@@ -93,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is radiation. Healing Factor is slow self-repair.
 
 ### Mass-produced servant robot *(NPC only)*
+
+![Mass-produced servant robot](../Images/species-mass-produced-servant-robot.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −1

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 514 Ram-horned winged folk *(genres: space opera: near-humans, sea and sky)*
 
+![Ram-horned winged folk](../Images/species-ram-horned-winged-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Ram-horned, feather-winged folk at war with a rival antlered people, both sides steeped in magic. (looks like: human with wings; good at: flying, powers and magic)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Feather-winged fliers with a magic-using culture.
 
 ### No. 515 Antlered winged folk *(genres: space opera: near-humans, sea and sky)*
+
+![Antlered winged folk](../Images/species-antlered-winged-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Antler-horned sorcerer-folk, some with insect-like wings, locked in an old rivalry with a ram-horned people. (looks like: human with wings; good at: powers and magic, flying)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Flight stays affinity: only individuals with wings fly.
 
 ### No. 516 Fire-blooded winged folk *(genres: sea and sky)*
+
+![Fire-blooded winged folk](../Images/species-fire-blooded-winged-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** A near-vanished, black-winged people whose bodies can burst into flame, immensely strong and long feared and hunted for it. (looks like: human with wings; good at: powers and magic, strength)

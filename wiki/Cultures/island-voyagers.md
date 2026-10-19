@@ -1,5 +1,8 @@
 # Island voyagers
 
+![Island voyagers](../Images/cultures-island-voyagers.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

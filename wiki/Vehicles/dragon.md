@@ -1,7 +1,8 @@
 # Dragon
 
-![Dragon](../Images/vehicles-dragon.jpg){.illus}
+![Dragon](../Images/GR-1063-vehicles-dragon.jpg){.illus}
 
+*Catalogue: GR-1063*
 *Set: Expansion*
 
 

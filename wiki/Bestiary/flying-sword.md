@@ -1,5 +1,9 @@
 # Flying sword
 
+![Flying sword](../Images/BE-210-bestiary-flying-sword.jpg){.illus}
+
+
+*Catalogue: BE-210*
 *Set: Expansion*
 
 *aka: ______________________________*

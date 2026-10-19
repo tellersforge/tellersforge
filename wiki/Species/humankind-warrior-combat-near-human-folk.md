@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 85 Elite unarmed combat folk *(genres: space opera: near-humans)*
 
+![Elite unarmed combat folk](../Images/species-elite-unarmed-combat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pale, lightning-fast masters of unarmed combat. (looks like: human; good at: fighting, speed and agility)
 - **Attributes:** AGI +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Secretive warrior folk · Engineered scholar-duelist folk *(same numbers as a baseline human: play as one (Species rule 18))*
 
+![Secretive warrior folk](../Images/species-secretive-warrior-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
@@ -41,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Engineered scholar-duelist folk:* Same as its species; scholarship and duelling are culture and Profession.
 
 ### Alchemically-corrupted warrior folk *(NPC only)*
+
+![Alchemically-corrupted warrior folk](../Images/species-alchemically-corrupted-warrior-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 INT −2
@@ -51,6 +60,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Size is an attribute matter; short lives are a flaw.
 
 ### Biotech extragalactic warrior-caste folk *(NPC only)*
+
+![Biotech extragalactic warrior-caste folk](../Images/species-biotech-extragalactic-warrior-caste-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +1 COU +2

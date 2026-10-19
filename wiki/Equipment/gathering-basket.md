@@ -1,5 +1,9 @@
 # Gathering basket
 
+![Gathering basket](../Images/GR-0452-equipment-gathering-basket.jpg){.illus}
+
+
+*Catalogue: GR-0452*
 *Set: Core*
 
 *aka: ______________________________*

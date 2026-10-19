@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 60 Mono-gender strongman folk *(genres: space opera: near-humans)*
 
+![Mono-gender strongman folk](../Images/species-mono-gender-strongman-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Towering, immensely strong people, all of one and the same gender. (looks like: human; good at: strength, toughness)
 - **Attributes:** STR +3 AGI −2
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; great strength and size are attribute matters and the single-sex culture is Culture.
 
 ### No. 61 Mono-gender ageless blue folk *(genres: space opera: near-humans)*
+
+![Mono-gender ageless blue folk](../Images/species-mono-gender-ageless-blue-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Blue-skinned, ageless folk who push and pull with the mind and share thoughts by touch. (looks like: human; good at: powers and magic, people and talk)

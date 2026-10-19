@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 169 Surface-clan amphibious folk *(genres: space opera: beast-like aliens)*
 
+![Surface-clan amphibious folk](../Images/species-surface-clan-amphibious-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Rubbery, big-eared amphibians who look clumsy but adapt to anything. (looks like: frog; good at: swimming, wilderness)
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 9 · Damage longsword 1d6+2 · Armour 2 · Life 18 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 170 Deep-water reclusive amphibious folk *(genres: space opera: beast-like aliens)*
+
+![Deep-water reclusive amphibious folk](../Images/species-deep-water-reclusive-amphibious-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Reclusive deep-water kin of the surface amphibians, keeping mostly to themselves. (looks like: frog; good at: swimming, sneaking)
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Insularity is handled in the Culture step.
 
 ### Amphibious trader-diplomat race *(NPC only)*
+
+![Amphibious trader-diplomat race](../Images/species-amphibious-trader-diplomat-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1

@@ -1,5 +1,9 @@
 # Memory Training
 
+![Memory Training](../Images/SK-129-skills-memory-training.jpg){.illus}
+
+
+*Catalogue: SK-129*
 *Set: Expansion*
 
 *aka: ______________________________*

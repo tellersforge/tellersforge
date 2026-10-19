@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### World-shaping angelic spirit *(NPC only; NPC-scale)*
 
+![World-shaping angelic spirit](../Images/species-world-shaping-angelic-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END −1 INT +3 WIS +3 CHA +4
 - **Skills:** [Religion & Theology](../Skills/religion-and-theology.md) +3, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Deception](../Skills/deception.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Incarnate faith-spirit angel *(NPC only)*
+
+![Incarnate faith-spirit angel](../Images/species-incarnate-faith-spirit-angel.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+winged
 - **Attributes:** STR +2 AGI −2 END −1 WIS +1 CHA +4 COU +2
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Dual-aspect ordered spirit *(NPC only)*
 
+![Dual-aspect ordered spirit](../Images/species-dual-aspect-ordered-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** END −1 WIS +1 CHA +2
 - **Skills:** [Religion & Theology](../Skills/religion-and-theology.md) +3, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Deception](../Skills/deception.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -65,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A winged spirit of order with little combat power.
 
 ### No. 587 Masked kachina spirit *(genres: myth and legend)*
+
+![Masked kachina spirit](../Images/species-masked-kachina-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Masked ancestor-spirits who step between people and the divine, blessing those who hold the right ceremony. (looks like: ghost; good at: powers and magic, people and talk)
@@ -76,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 588 War-choosing valkyrie *(high-power: Game Master's approval; genres: myth and legend)*
 
+![War-choosing valkyrie](../Images/species-war-choosing-valkyrie.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Winged warrior-women of the divine who choose who falls in battle and fly the honoured dead to the next world. (looks like: human with wings; good at: flying, fighting)
 - **Attributes:** STR +1 END −1 WIS +1 CHA +2
@@ -86,6 +101,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### No. 589 Deva (radiant celestial) *(genres: heavens, hells and other planes, myth and legend)*
+
+![Deva (radiant celestial)](../Images/species-deva-radiant-celestial.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Glowing, kindly celestial beings, immensely long-lived and able to strike with pure light. (looks like: angel; good at: powers and magic, people and talk)

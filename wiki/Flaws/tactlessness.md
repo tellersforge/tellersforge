@@ -1,5 +1,8 @@
 # Tactlessness
 
+![Tactlessness](../Images/flaws-tactlessness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when blunt to the point of hurting people.

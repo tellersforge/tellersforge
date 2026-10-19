@@ -1,5 +1,8 @@
 # Hybrid and chimeric
 
+![Hybrid and chimeric](../Images/species-families-hybrid-and-chimeric.jpg){.illus}
+
+
 
 Creatures made of more than one thing. Some come from old myths: a lion's body with a goat's head, a winged bull, a woman with a serpent's tail. Others were twisted by curse, rot or mutation, deliberately bred in a laboratory or a wizard's pit, stitched together from the dead, or grown as weapons. The family also holds uplifted animals given speech, crossbreeds of two peoples, and hosts who share their flesh with a passenger. What unites them is that nothing about them was meant to fit, and yet they live. Others stare, and hybrids learn early to stare back.
 

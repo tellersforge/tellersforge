@@ -1,5 +1,9 @@
 # Shadow Shaping
 
+![Shadow Shaping](../Images/PW-255-powers-shadow-shaping.jpg){.illus}
+
+
+*Catalogue: PW-255*
 *Set: Expansion*
 
 *aka: ______________________________*

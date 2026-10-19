@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 734 Deep gnome folk *(genres: underworld and wild places, classic fantasy)*
 
+![Deep gnome folk](../Images/species-deep-gnome-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small underground folk who vanish against stone and shrug off mind-tricks in the dark. (looks like: gnome; good at: sneaking, keen senses)
 - **Attributes:** STR −2 AGI +2 END +1 INT +1 WIS +1 CHA −1
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 735 Dungeon-delving craft folk *(genres: classic fantasy)*
 
+![Dungeon-delving craft folk](../Images/species-dungeon-delving-craft-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Short, sturdy dungeon-delving folk, practical crafters who aren't squeamish about eating what they kill. (looks like: dwarf; good at: making and fixing, toughness)
 - **Attributes:** STR −2 AGI +2 END +1 INT +1 WIS +1
@@ -54,6 +60,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Dungeon-delvers who live off the monsters they kill.
 
 ### No. 736 Tunnel-digging craft folk *(genres: classic fantasy)*
+
+![Tunnel-digging craft folk](../Images/species-tunnel-digging-craft-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Stocky tunnelling folk, expert tinkerers who live happily alongside dwarves. (looks like: gnome; good at: making and fixing, wilderness)
@@ -64,6 +73,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 737 Arcane-tech scholar gnome *(genres: classic fantasy)*
 
+![Arcane-tech scholar gnome](../Images/species-arcane-tech-scholar-gnome.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Inventive gnome scholars who blend magic and machinery in their academies and clans. (looks like: gnome; good at: making and fixing, knowledge)
 - **Attributes:** STR −2 AGI +2 END −1 INT +2 WIS +1
@@ -73,6 +85,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 738 Magitech genius gnome *(genres: classic fantasy)*
 
+![Magitech genius gnome](../Images/species-magitech-genius-gnome.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Short, proud gnome geniuses who invent dazzling magic-powered machines. (looks like: gnome; good at: making and fixing, powers and magic)
 - **Attributes:** STR −2 AGI +2 INT +3 CHA −1
@@ -81,6 +96,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Proud magitech inventors.
 
 ### No. 739 Earth elemental spirit gnome *(genres: heavens, hells and other planes, underworld and wild places)*
+
+![Earth elemental spirit gnome](../Images/species-earth-elemental-spirit-gnome.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Earth-spirit gnomes who move through solid stone and soil as easily as walking through air. (looks like: gnome; good at: powers and magic, sneaking)
@@ -93,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 740 Tiny borrowing folk *(genres: fairy tale and folklore)*
 
+![Tiny borrowing folk](../Images/species-tiny-borrowing-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **What it's like:** Tiny folk, only a few inches tall, who live hidden in human homes and solve problems together as a community. (looks like: tiny person; good at: sneaking, making and fixing)
 - **Attributes:** STR −3 AGI +3 END −1 INT +1 WIS +1
@@ -101,6 +122,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Inch-high folk who live hidden in human homes on what they borrow; the size is an attribute.
 
 ### Scavenger wasteland gnome *(NPC only)*
+
+![Scavenger wasteland gnome](../Images/species-scavenger-wasteland-gnome.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1

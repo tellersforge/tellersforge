@@ -1,5 +1,9 @@
 # Great dragon-worm
 
+![Great dragon-worm](../Images/BE-306-bestiary-great-dragon-worm.jpg){.illus}
+
+
+*Catalogue: BE-306*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 265 Artificial-brain humanoid *(genres: robots and synthetics)*
 
+![Artificial-brain humanoid](../Images/species-artificial-brain-humanoid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Fully artificial folk with a brilliant mechanical brain and superhuman strength. (looks like: robot; good at: strength, knowledge, toughness)
 - **Attributes:** STR +2 END +2 INT +2 WIS −1 CHA −2
@@ -47,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Refined golden synthetic being *(NPC only)*
 
+![Refined golden synthetic being](../Images/species-refined-golden-synthetic-being.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +3 WIS −1 CHA −1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -55,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Can interface directly with vast ancient machinery.
 
 ### No. 266 Living construct folk *(genres: classic fantasy)*
+
+![Living construct folk](../Images/species-living-construct-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** War-built living constructs who never sicken, tire, or need to eat or sleep. (looks like: golem; good at: strength, toughness)
@@ -66,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 267 Simple automaton companion *(genres: robots and synthetics)*
 
+![Simple automaton companion](../Images/species-simple-automaton-companion.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, quirky companion-automatons who can fix themselves and never need to eat. (looks like: robot; good at: making and fixing, toughness)
 - **Attributes:** STR −1 AGI +2 END +1 INT +1 WIS −1 CHA −1 COU −1
@@ -75,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A small automaton that tinkers to repair itself.
 
 ### No. 268 Synthetic humanlike being *(genres: robots and synthetics)*
+
+![Synthetic humanlike being](../Images/species-synthetic-humanlike-being.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Synthetic people, nearly human but for the odd unsettling gap in behaviour. (looks like: android; good at: toughness, knowledge)
@@ -86,6 +101,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Engineered remote-piloted humanoid folk *(NPC only)*
 
+![Engineered remote-piloted humanoid folk](../Images/species-engineered-remote-piloted-humanoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -93,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Grown flesh, not machine: it eats, rests and can be poisoned like any living body.
 
 ### No. 269 Synthetic humanoid · No. 275 Autonomous adventuring automaton · No. 276 Unidentified construct wanderer · No. 277 Robotic laborer race *(genres: robots and synthetics; starter)*
+
+![Synthetic humanoid](../Images/species-synthetic-humanoid.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A human-shaped machine person, stronger than flesh and curious about feelings. (looks like: android; good at: strength, toughness, making and fixing)
@@ -103,6 +124,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note (Synthetic humanoid):* Advanced models pass as organic; that goes on the lexicon entry.
 
 ### No. 270 Humanoid combat exoframe *(genres: robots and synthetics)*
+
+![Humanoid combat exoframe](../Images/species-humanoid-combat-exoframe.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A human mind housed in an armoured combat frame, tough and hard to keep down. (looks like: robot; good at: strength, toughness, fighting)
@@ -115,6 +139,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 271 Living-metal robotic species *(genres: robots and synthetics)*
 
+![Living-metal robotic species](../Images/species-living-metal-robotic-species.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Fully mechanical beings devoted purely to logic and the pursuit of knowledge. (looks like: robot; good at: knowledge, toughness)
 - **Attributes:** STR +1 END +2 INT +2 WIS −1 CHA −2
@@ -124,6 +151,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A wholly mechanical people whose way of life is the pursuit of pure logic.
 
 ### No. 272 Artificial titan-core life *(genres: classic fantasy)*
+
+![Artificial titan-core life](../Images/species-artificial-titan-core-life.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived artificial folk born fully grown, each with an elemental gift. (looks like: golem; good at: toughness, powers and magic)
@@ -136,6 +166,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 273 Artificial soul-puppet *(genres: dark fantasy)*
 
+![Artificial soul-puppet](../Images/species-artificial-soul-puppet.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Empty artificial vessels grown to house a transplanted soul, uneasy about their own origin. (looks like: doll; good at: toughness, knowledge)
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −1
@@ -146,6 +179,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Degrades without its soul (a flaw).
 
 ### No. 274 Surgically-altered patchwork folk *(genres: gothic horror)*
+
+![Surgically-altered patchwork folk](../Images/species-surgically-altered-patchwork-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tragic patchwork folk stitched from mismatched parts, tough in some places, weak in others. (looks like: monster; good at: toughness, making and fixing)
@@ -158,6 +194,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 278 Uploaded-mind synthetic shell *(genres: robots and synthetics)*
 
+![Uploaded-mind synthetic shell](../Images/species-uploaded-mind-synthetic-shell.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A human mind saved into an unbreakable metal body that never ages, sickens or forgets who it was. (looks like: robot; good at: toughness, knowledge)
 - **Attributes:** STR +1 END +2 INT +1 CHA −1
@@ -169,6 +208,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hyper-intelligent synthetic host *(NPC only; NPC-scale)*
 
+![Hyper-intelligent synthetic host](../Images/species-hyper-intelligent-synthetic-host.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +4 WIS −1 CHA −1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -178,6 +220,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### No. 279 Density-shifting synthetic *(high-power: Game Master's approval; genres: super-powered: mutants and the enhanced)*
+
+![Density-shifting synthetic](../Images/species-density-shifting-synthetic.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A shape-shifting machine who turns ghostly to slip through walls, turns stone-heavy, or blasts foes with solar fire. (looks like: robot; good at: powers and magic, toughness, fighting)
@@ -189,6 +234,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Decoy duplicate android *(beast)*
 
+![Decoy duplicate android](../Images/species-decoy-duplicate-android.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 WIS −2 CHA −1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -198,6 +246,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Power-mimicking combat android *(beast; NPC-scale)*
 
+![Power-mimicking combat android](../Images/species-power-mimicking-combat-android.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +2 END +2 INT +1 WIS −1 CHA −3
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -206,6 +257,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Scans and copies the powers and fighting styles of those it meets.
 
 ### No. 280 Energy-core combat android *(genres: robots and synthetics)*
+
+![Energy-core combat android](../Images/species-energy-core-combat-android.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A combat-built android with an engine for a heart, fighting on long after flesh-and-blood soldiers would drop. (looks like: robot; good at: fighting, toughness, strength)

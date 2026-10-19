@@ -1,5 +1,8 @@
 # Fear of Deep Water
 
+![Fear of Deep Water](../Images/flaws-fear-of-deep-water.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when the open sea, dark depths, what lies beneath.

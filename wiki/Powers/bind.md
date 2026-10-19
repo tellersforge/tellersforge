@@ -1,5 +1,9 @@
 # Bind
 
+![Bind](../Images/PW-023-powers-bind.jpg){.illus}
+
+
+*Catalogue: PW-023*
 *Set: Expansion*
 
 *aka: ______________________________*

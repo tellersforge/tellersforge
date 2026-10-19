@@ -1,5 +1,9 @@
 # Animal crate
 
+![Animal crate](../Images/GR-0179-equipment-animal-crate.jpg){.illus}
+
+
+*Catalogue: GR-0179*
 *Set: Expansion*
 
 *aka: ______________________________*

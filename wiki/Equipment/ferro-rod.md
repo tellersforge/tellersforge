@@ -1,5 +1,9 @@
 # Ferro rod
 
+![Ferro rod](../Images/GR-0397-equipment-ferro-rod.jpg){.illus}
+
+
+*Catalogue: GR-0397*
 *Set: Expansion*
 
 *aka: ______________________________*

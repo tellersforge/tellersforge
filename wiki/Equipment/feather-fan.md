@@ -1,5 +1,9 @@
 # Feather fan
 
+![Feather fan](../Images/GR-0390-equipment-feather-fan.jpg){.illus}
+
+
+*Catalogue: GR-0390*
 *Set: Core*
 
 *aka: ______________________________*

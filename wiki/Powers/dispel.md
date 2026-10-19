@@ -1,5 +1,9 @@
 # Dispel
 
+![Dispel](../Images/PW-074-powers-dispel.jpg){.illus}
+
+
+*Catalogue: PW-074*
 *Set: Core*
 
 *aka: ______________________________*

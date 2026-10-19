@@ -1,5 +1,9 @@
 # Water Walking
 
+![Water Walking](../Images/PW-318-powers-water-walking.jpg){.illus}
+
+
+*Catalogue: PW-318*
 *Set: Expansion*
 
 *aka: ______________________________*

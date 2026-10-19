@@ -1,5 +1,9 @@
 # Battle Rifle
 
+![Battle Rifle](../Images/GR-0006-weapons-battle-rifle.jpg){.illus}
+
+
+*Catalogue: GR-0006*
 *Set: Expansion*
 
 *aka: ______________________________*

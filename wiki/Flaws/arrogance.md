@@ -1,5 +1,8 @@
 # Arrogance
 
+![Arrogance](../Images/flaws-arrogance.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when looks down on others; won't take help or advice.

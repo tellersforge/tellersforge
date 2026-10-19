@@ -1,7 +1,8 @@
 # Two-headed wasteland cow
 
-![Two-headed wasteland cow](../Images/bestiary-two-headed-wasteland-cow.jpg){.illus}
+![Two-headed wasteland cow](../Images/BE-641-bestiary-two-headed-wasteland-cow.jpg){.illus}
 
+*Catalogue: BE-641*
 *Set: Expansion*
 
 *aka: ______________________________*

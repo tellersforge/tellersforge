@@ -1,5 +1,9 @@
 # Hobnailed sandals
 
+![Hobnailed sandals](../Images/GR-0532-equipment-hobnailed-sandals.jpg){.illus}
+
+
+*Catalogue: GR-0532*
 *Set: Expansion*
 
 *aka: ______________________________*

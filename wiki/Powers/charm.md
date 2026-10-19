@@ -1,5 +1,9 @@
 # Charm
 
+![Charm](../Images/PW-036-powers-charm.jpg){.illus}
+
+
+*Catalogue: PW-036*
 *Set: Core*
 
 *aka: ______________________________*

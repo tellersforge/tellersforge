@@ -1,5 +1,9 @@
 # Gut rain parka
 
+![Gut rain parka](../Images/GR-0481-equipment-gut-rain-parka.jpg){.illus}
+
+
+*Catalogue: GR-0481*
 *Set: Expansion*
 
 *aka: ______________________________*

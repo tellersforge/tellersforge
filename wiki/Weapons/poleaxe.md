@@ -1,7 +1,8 @@
 # Poleaxe
 
-![Poleaxe](../Images/weapons-poleaxe.jpg){.illus}
+![Poleaxe](../Images/GR-0079-weapons-poleaxe.jpg){.illus}
 
+*Catalogue: GR-0079*
 *Set: Expansion*
 
 *aka: ______________________________*

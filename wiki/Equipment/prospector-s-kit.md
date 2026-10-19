@@ -1,5 +1,9 @@
 # Prospector's kit
 
+![Prospector's kit](../Images/GR-0763-equipment-prospector-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0763*
 *Set: Expansion*
 
 *aka: ______________________________*

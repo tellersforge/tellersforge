@@ -1,7 +1,8 @@
 # Colossal ape
 
-![Colossal ape](../Images/bestiary-colossal-ape.jpg){.illus}
+![Colossal ape](../Images/BE-115-bestiary-colossal-ape.jpg){.illus}
 
+*Catalogue: BE-115*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Body-copying pod
 
+![Body-copying pod](../Images/BE-061-bestiary-body-copying-pod.jpg){.illus}
+
+
+*Catalogue: BE-061*
 *Set: Expansion*
 
 *aka: ______________________________*

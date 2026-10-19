@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Stoic bird-philosopher folk *(NPC only)*
 
+![Stoic bird-philosopher folk](../Images/species-stoic-bird-philosopher-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END −1 WIS +2 PER +2
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Composure](../Skills/composure.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Philosophy & Logic](../Skills/philosophy-and-logic.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2

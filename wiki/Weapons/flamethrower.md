@@ -1,7 +1,8 @@
 # Flamethrower
 
-![Flamethrower](../Images/weapons-flamethrower.jpg){.illus}
+![Flamethrower](../Images/GR-0035-weapons-flamethrower.jpg){.illus}
 
+*Catalogue: GR-0035*
 *Set: Expansion*
 
 *aka: ______________________________*

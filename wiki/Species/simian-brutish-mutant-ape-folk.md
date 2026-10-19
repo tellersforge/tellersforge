@@ -24,12 +24,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Brutish ape mutant folk *(NPC only)*
 
+![Brutish ape mutant folk](../Images/species-brutish-ape-mutant-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +3 AGI +1 INT −3 WIS −1 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Acrobatics](../Skills/acrobatics.md) +1, [Balance](../Skills/balance.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 15 · Parry 12 · Dodge 9 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 2 ([Bestiary roles](../bestiary.md))
 
 ### Feral beast-man folk *(NPC only)*
+
+![Feral beast-man folk](../Images/species-feral-beast-man-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +3 AGI +1 INT −3 COU +1

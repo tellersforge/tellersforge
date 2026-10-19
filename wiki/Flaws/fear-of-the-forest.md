@@ -1,5 +1,8 @@
 # Fear of the Forest
 
+![Fear of the Forest](../Images/flaws-fear-of-the-forest.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when deep woods, being lost among trees.

@@ -1,5 +1,9 @@
 # Fortification & Siegecraft
 
+![Fortification & Siegecraft](../Images/SK-079-skills-fortification-and-siegecraft.jpg){.illus}
+
+
+*Catalogue: SK-079*
 *Set: Expansion*
 
 *aka: ______________________________*

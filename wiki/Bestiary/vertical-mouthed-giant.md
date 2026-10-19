@@ -1,5 +1,9 @@
 # Vertical-mouthed giant
 
+![Vertical-mouthed giant](../Images/BE-651-bestiary-vertical-mouthed-giant.jpg){.illus}
+
+
+*Catalogue: BE-651*
 *Set: Expansion*
 
 *aka: ______________________________*

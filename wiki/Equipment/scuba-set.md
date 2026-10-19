@@ -1,7 +1,8 @@
 # Scuba set
 
-![Scuba set](../Images/equipment-scuba-set.jpg){.illus}
+![Scuba set](../Images/GR-0826-equipment-scuba-set.jpg){.illus}
 
+*Catalogue: GR-0826*
 *Set: Expansion*
 
 *aka: ______________________________*

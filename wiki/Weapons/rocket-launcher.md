@@ -1,7 +1,8 @@
 # Rocket Launcher
 
-![Rocket launcher](../Images/weapons-rocket-launcher.jpg){.illus}
+![Rocket launcher](../Images/GR-0085-weapons-rocket-launcher.jpg){.illus}
 
+*Catalogue: GR-0085*
 *Set: Expansion*
 
 *aka: ______________________________*

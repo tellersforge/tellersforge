@@ -1,5 +1,9 @@
 # Tormented soul mass
 
+![Tormented soul mass](../Images/BE-627-bestiary-tormented-soul-mass.jpg){.illus}
+
+
+*Catalogue: BE-627*
 *Set: Expansion*
 
 *aka: ______________________________*

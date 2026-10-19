@@ -1,7 +1,8 @@
 # Environment suit
 
-![Environment suit](../Images/equipment-environment-suit.jpg){.illus}
+![Environment suit](../Images/GR-0376-equipment-environment-suit.jpg){.illus}
 
+*Catalogue: GR-0376*
 *Set: Expansion*
 
 *aka: ______________________________*

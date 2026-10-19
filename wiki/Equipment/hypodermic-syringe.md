@@ -1,5 +1,9 @@
 # Hypodermic syringe
 
+![Hypodermic syringe](../Images/GR-0551-equipment-hypodermic-syringe.jpg){.illus}
+
+
+*Catalogue: GR-0551*
 *Set: Expansion*
 
 *aka: ______________________________*

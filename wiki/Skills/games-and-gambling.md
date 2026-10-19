@@ -1,5 +1,9 @@
 # Games & Gambling
 
+![Games & Gambling](../Images/SK-080-skills-games-and-gambling.jpg){.illus}
+
+
+*Catalogue: SK-080*
 *Set: Core*
 
 *aka: ______________________________*

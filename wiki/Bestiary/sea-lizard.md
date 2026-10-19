@@ -1,5 +1,9 @@
 # Sea lizard
 
+![Sea lizard](../Images/BE-526-bestiary-sea-lizard.jpg){.illus}
+
+
+*Catalogue: BE-526*
 *Set: Expansion*
 
 *aka: ______________________________*

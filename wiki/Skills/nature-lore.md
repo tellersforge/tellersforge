@@ -1,5 +1,9 @@
 # Nature Lore
 
+![Nature Lore](../Images/SK-141-skills-nature-lore.jpg){.illus}
+
+
+*Catalogue: SK-141*
 *Set: Core · Basic skill: Lore*
 
 *aka: ______________________________*

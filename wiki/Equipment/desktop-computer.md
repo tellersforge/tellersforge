@@ -1,5 +1,9 @@
 # Desktop computer
 
+![Desktop computer](../Images/GR-0327-equipment-desktop-computer.jpg){.illus}
+
+
+*Catalogue: GR-0327*
 *Set: Expansion*
 
 *aka: ______________________________*

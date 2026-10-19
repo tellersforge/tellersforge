@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 171 Small robed reclusive folk *(genres: space opera: beast-like aliens)*
 
+![Small robed reclusive folk](../Images/species-small-robed-reclusive-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, robed temple-keepers who fish skilfully and keep to themselves. (looks like: frog; good at: swimming, sneaking)
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Fishing and temple-keeping are handled in the Culture step, per the species note.
 
 ### Peaceful hidden-cove dweller *(NPC only)*
+
+![Peaceful hidden-cove dweller](../Images/species-peaceful-hidden-cove-dweller.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1 CHA −1

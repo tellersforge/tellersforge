@@ -1,7 +1,8 @@
 # Fungal zombie
 
-![Fungal zombie](../Images/bestiary-fungal-zombie.jpg){.illus}
+![Fungal zombie](../Images/BE-226-bestiary-fungal-zombie.jpg){.illus}
 
+*Catalogue: BE-226*
 *Set: Expansion*
 
 *aka: ______________________________*

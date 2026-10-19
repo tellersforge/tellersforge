@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Plant-hybrid priest *(NPC only)*
 
+![Plant-hybrid priest](../Images/species-plant-hybrid-priest.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1 WIS +2
 - **Skills:** [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Camouflage](../Skills/camouflage.md) +1, [Running](../Skills/running.md) −1, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2

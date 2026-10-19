@@ -1,7 +1,8 @@
 # Personal energy shield
 
-![Personal energy shield](../Images/armour-personal-energy-shield.jpg){.illus}
+![Personal energy shield](../Images/GR-0154-armour-personal-energy-shield.jpg){.illus}
 
+*Catalogue: GR-0154*
 *Set: Core*
 
 *aka: ______________________________*

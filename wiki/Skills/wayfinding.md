@@ -1,5 +1,9 @@
 # Wayfinding
 
+![Wayfinding](../Images/SK-219-skills-wayfinding.jpg){.illus}
+
+
+*Catalogue: SK-219*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Giant tick
 
+![Giant tick](../Images/BE-286-bestiary-giant-tick.jpg){.illus}
+
+
+*Catalogue: BE-286*
 *Set: Expansion*
 
 *aka: ______________________________*

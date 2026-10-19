@@ -1,5 +1,9 @@
 # Duck-billed dinosaur
 
+![Duck-billed dinosaur](../Images/BE-165-bestiary-duck-billed-dinosaur.jpg){.illus}
+
+
+*Catalogue: BE-165*
 *Set: Expansion*
 
 *aka: ______________________________*

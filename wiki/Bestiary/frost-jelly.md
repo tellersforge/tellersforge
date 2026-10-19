@@ -1,5 +1,9 @@
 # Frost jelly
 
+![Frost jelly](../Images/BE-221-bestiary-frost-jelly.jpg){.illus}
+
+
+*Catalogue: BE-221*
 *Set: Expansion*
 
 *aka: ______________________________*

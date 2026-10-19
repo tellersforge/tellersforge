@@ -1,5 +1,9 @@
 # Wrap skirt
 
+![Wrap skirt](../Images/GR-1035-equipment-wrap-skirt.jpg){.illus}
+
+
+*Catalogue: GR-1035*
 *Set: Expansion*
 
 *aka: ______________________________*

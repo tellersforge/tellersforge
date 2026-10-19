@@ -1,5 +1,9 @@
 # Lip plug
 
+![Lip plug](../Images/GR-0605-equipment-lip-plug.jpg){.illus}
+
+
+*Catalogue: GR-0605*
 *Set: Core*
 
 *aka: ______________________________*

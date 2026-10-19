@@ -1,5 +1,9 @@
 # Seven-headed horse
 
+![Seven-headed horse](../Images/BE-533-bestiary-seven-headed-horse.jpg){.illus}
+
+
+*Catalogue: BE-533*
 *Set: Expansion*
 
 *aka: ______________________________*

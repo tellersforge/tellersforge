@@ -1,5 +1,9 @@
 # Fate-Weaving
 
+![Fate-Weaving](../Images/PW-100-powers-fate-weaving.jpg){.illus}
+
+
+*Catalogue: PW-100*
 *Set: Expansion*
 
 *aka: ______________________________*

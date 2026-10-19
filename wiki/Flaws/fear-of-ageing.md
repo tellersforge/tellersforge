@@ -1,5 +1,8 @@
 # Fear of Ageing
 
+![Fear of Ageing](../Images/flaws-fear-of-ageing.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when growing old, signs of age.

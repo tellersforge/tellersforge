@@ -1,5 +1,9 @@
 # Mind Healing
 
+![Mind Healing](../Images/SK-135-skills-mind-healing.jpg){.illus}
+
+
+*Catalogue: SK-135*
 *Set: Expansion*
 
 *aka: ______________________________*

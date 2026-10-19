@@ -1,5 +1,9 @@
 # Large theropod
 
+![Large theropod](../Images/BE-379-bestiary-large-theropod.jpg){.illus}
+
+
+*Catalogue: BE-379*
 *Set: Expansion*
 
 *aka: ______________________________*

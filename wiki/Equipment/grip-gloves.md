@@ -1,5 +1,9 @@
 # Grip gloves
 
+![Grip gloves](../Images/GR-0476-equipment-grip-gloves.jpg){.illus}
+
+
+*Catalogue: GR-0476*
 *Set: Expansion*
 
 *aka: ______________________________*

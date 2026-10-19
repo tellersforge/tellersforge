@@ -1,7 +1,8 @@
 # Early Tank
 
-![Early tank](../Images/vehicles-early-tank.jpg){.illus}
+![Early tank](../Images/GR-1067-vehicles-early-tank.jpg){.illus}
 
+*Catalogue: GR-1067*
 *Set: Expansion*
 
 

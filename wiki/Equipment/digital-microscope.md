@@ -1,5 +1,9 @@
 # Digital microscope
 
+![Digital microscope](../Images/GR-0332-equipment-digital-microscope.jpg){.illus}
+
+
+*Catalogue: GR-0332*
 *Set: Expansion*
 
 *aka: ______________________________*

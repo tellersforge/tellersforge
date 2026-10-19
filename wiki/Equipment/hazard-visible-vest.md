@@ -1,5 +1,9 @@
 # Hazard-visible vest
 
+![Hazard-visible vest](../Images/GR-0507-equipment-hazard-visible-vest.jpg){.illus}
+
+
+*Catalogue: GR-0507*
 *Set: Expansion*
 
 *aka: ______________________________*

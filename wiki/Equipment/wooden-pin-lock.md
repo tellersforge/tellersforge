@@ -1,5 +1,9 @@
 # Wooden pin lock
 
+![Wooden pin lock](../Images/GR-1024-equipment-wooden-pin-lock.jpg){.illus}
+
+
+*Catalogue: GR-1024*
 *Set: Expansion*
 
 *aka: ______________________________*

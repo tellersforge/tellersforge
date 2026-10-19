@@ -1,5 +1,8 @@
 # Night Owl
 
+![Night Owl](../Images/flaws-night-owl.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when sluggish and grumpy by day (or the reverse: useless after dark).

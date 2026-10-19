@@ -1,5 +1,9 @@
 # Disintegrate
 
+![Disintegrate](../Images/PW-073-powers-disintegrate.jpg){.illus}
+
+
+*Catalogue: PW-073*
 *Set: Expansion*
 
 *aka: ______________________________*

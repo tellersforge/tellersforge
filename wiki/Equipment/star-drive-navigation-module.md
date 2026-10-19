@@ -1,5 +1,9 @@
 # Star-drive navigation module
 
+![Star-drive navigation module](../Images/GR-0906-equipment-star-drive-navigation-module.jpg){.illus}
+
+
+*Catalogue: GR-0906*
 *Set: Expansion*
 
 *aka: ______________________________*

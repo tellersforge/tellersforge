@@ -1,5 +1,9 @@
 # Northern wolverine
 
+![Northern wolverine](../Images/BE-441-bestiary-northern-wolverine.jpg){.illus}
+
+
+*Catalogue: BE-441*
 *Set: Core*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 600 Domain-bound mountain-realm deity *(genres: super-powered: cosmic and mythic, myth and legend)*
 
+![Domain-bound mountain-realm deity](../Images/species-domain-bound-mountain-realm-deity.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Immortal, god-like beings each tied to one domain of power, capricious and impossible to forget a grudge. (looks like: god; good at: powers and magic, strength)
 - **Attributes:** STR +3 AGI −2 WIS +1 CHA +1

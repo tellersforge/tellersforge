@@ -1,5 +1,9 @@
 # Jeweller's loupe
 
+![Jeweller's loupe](../Images/GR-0571-equipment-jeweller-s-loupe.jpg){.illus}
+
+
+*Catalogue: GR-0571*
 *Set: Expansion*
 
 *aka: ______________________________*

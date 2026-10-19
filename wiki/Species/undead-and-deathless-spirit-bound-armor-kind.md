@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 795 Incorporeal armor-bound noble *(genres: dark fantasy)*
 
+![Incorporeal armor-bound noble](../Images/species-incorporeal-armor-bound-noble.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal
 - **What it's like:** Bodiless nobles whose will alone animates a suit of enchanted armour, scholarly warriors who've lived for centuries. (looks like: knight; good at: knowledge, fighting)
 - **Attributes:** STR +1 AGI −2 END +2 CHA −2 COU +2

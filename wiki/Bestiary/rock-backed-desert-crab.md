@@ -1,5 +1,9 @@
 # Rock-backed desert crab
 
+![Rock-backed desert crab](../Images/BE-498-bestiary-rock-backed-desert-crab.jpg){.illus}
+
+
+*Catalogue: BE-498*
 *Set: Expansion*
 
 *aka: ______________________________*

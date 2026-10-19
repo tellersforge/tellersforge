@@ -1,5 +1,8 @@
 # Overconfidence
 
+![Overconfidence](../Images/flaws-overconfidence.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when underestimates danger and enemies.

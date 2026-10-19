@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Half-awakened grove folk *(beast)*
 
+![Half-awakened grove folk](../Images/species-half-awakened-grove-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −3 END +2 INT −3 WIS +2 CHA −2
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Composure](../Skills/composure.md) +1, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2, [Running](../Skills/running.md) −3
@@ -48,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Lost tree-shepherd mates *(NPC only)*
 
+![Lost tree-shepherd mates](../Images/species-lost-tree-shepherd-mates.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +6 AGI −4 END +2 WIS +2
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Composure](../Skills/composure.md) +1, [Farming](../Skills/farming.md) +1, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2, [Running](../Skills/running.md) −3
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Like the treant-folk, but tenders of orchards and gardens rather than wild forest.
 
 ### Elemental forest god *(NPC only; NPC-scale)*
+
+![Elemental forest god](../Images/species-elemental-forest-god.jpg){.illus}
+
 
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +9 AGI −4 END +5 INT +2 WIS +5 CHA +2
@@ -68,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### No. 607 Sentient treefolk empire *(genres: underworld and wild places)*
+
+![Sentient treefolk empire](../Images/species-sentient-treefolk-empire.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Ancient, slow-moving tree people who talk to each other through their roots and stand like a wall in a fight. (looks like: tree; good at: toughness, wilderness)

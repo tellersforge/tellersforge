@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Carapace-shifting singer folk *(NPC only)*
 
+![Carapace-shifting singer folk](../Images/species-carapace-shifting-singer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 PER +1 CHA −1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Singing](../Skills/singing.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Docile carapace laborer folk *(NPC only)*
 
+![Docile carapace laborer folk](../Images/species-docile-carapace-laborer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 INT −2 WIS −1 PER +1 CHA −2 COU −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -59,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The dulled, docile mind is an attribute and role matter. NPC only.
 
 ### Methane-breathing trader folk *(NPC only)*
+
+![Methane-breathing trader folk](../Images/species-methane-breathing-trader-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 PER +1 CHA −2
@@ -72,6 +81,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Scarab-headed artisan folk *(NPC only)*
 
+![Scarab-headed artisan folk](../Images/species-scarab-headed-artisan-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 END +2 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Sculpture](../Skills/sculpture.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -84,6 +96,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living-ship spider-insect precursor folk *(NPC only; NPC-scale)*
 
+![Living-ship spider-insect precursor folk](../Images/species-living-ship-spider-insect-precursor-folk.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +7 AGI −6 END +5 INT +3 WIS +3 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Running](../Skills/running.md) Foreign Concept
@@ -95,6 +110,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number. No hands: held weapons unusable. Size set to gigantic: its true form is a living starship.
 
 ### No. 544 Mandibled hunter folk *(genres: space opera: strange aliens)*
+
+![Mandibled hunter folk](../Images/species-mandibled-hunter-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Mandibled big-game hunters bound by a strict honour code, armed with cloaking and plasma technology far beyond most worlds. (looks like: insect; good at: fighting, sneaking)
@@ -109,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Disguised giant cockroach folk *(NPC only)*
 
+![Disguised giant cockroach folk](../Images/species-disguised-giant-cockroach-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +3 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Disguise](../Skills/disguise.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -121,6 +142,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bureaucratic enforcer insectoid folk *(NPC only)*
 
+![Bureaucratic enforcer insectoid folk](../Images/species-bureaucratic-enforcer-insectoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Administration](../Skills/administration.md) +1, [Law](../Skills/law.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -132,6 +156,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### No. 545 Vacuum-hardy mathematician folk *(genres: space opera: strange aliens)*
+
+![Vacuum-hardy mathematician folk](../Images/species-vacuum-hardy-mathematician-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Skeletal, exoskeleton-framed folk who can survive brief exposure to open vacuum and have a natural gift for mathematics. (looks like: insect; good at: knowledge, toughness)
@@ -146,6 +173,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 546 Heat-resistant volcanic folk *(genres: space opera: strange aliens)*
 
+![Heat-resistant volcanic folk](../Images/species-heat-resistant-volcanic-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tough insectoid folk native to a volcanic world, entirely unbothered by heat that would kill most anyone else. (looks like: insect; good at: toughness, wilderness)
 - **Attributes:** STR +1 END +2 PER +1 CHA −2
@@ -159,6 +189,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Organic-tech hive engineer folk *(NPC only)*
 
+![Organic-tech hive engineer folk](../Images/species-organic-tech-hive-engineer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 END +2 INT +1 PER +1 CHA −3
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Biotechnology](../Skills/biotechnology.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -170,6 +203,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only. Extra arms make a shield or second weapon easy to use.
 
 ### No. 547 Pacifist medic insectoid folk *(genres: space opera: strange aliens)*
+
+![Pacifist medic insectoid folk](../Images/species-pacifist-medic-insectoid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Peaceable insectoid folk devoted to healing, gifted bio-medical practitioners who avoid violence on principle. (looks like: insect; good at: healing, toughness)
@@ -183,6 +219,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 548 Proboscis assassin folk *(genres: space opera: near-humans)*
 
+![Proboscis assassin folk](../Images/species-proboscis-assassin-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Insectoid assassins hiding a life-draining proboscis in their cheeks, masters of stealth and close combat. (looks like: insect; good at: sneaking, fighting)
 - **Attributes:** STR +1 AGI +1 END +2 PER +1 CHA −2
@@ -195,6 +234,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Reshaped insectoid faction folk · No. 551 Generic arthropoid civilization folk *(NPC only)*
 
+![Reshaped insectoid faction folk](../Images/species-reshaped-insectoid-faction-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -205,6 +247,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note (Reshaped insectoid faction folk):* NPC only.
 
 ### Resonant-language insectoid folk *(NPC only)*
+
+![Resonant-language insectoid folk](../Images/species-resonant-language-insectoid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 PER +1 CHA −2
@@ -218,6 +263,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Armored overseer insectoid folk *(NPC only)*
 
+![Armored overseer insectoid folk](../Images/species-armored-overseer-insectoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Deception](../Skills/deception.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -229,6 +277,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Their armour and deceiving technology are gear. NPC only.
 
 ### No. 549 Caste-bound precursor insectoid folk *(genres: space opera: strange aliens)*
+
+![Caste-bound precursor insectoid folk](../Images/species-caste-bound-precursor-insectoid-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small insectoid folk of an ancient precursor civilisation, born into a fixed caste and gifted with quiet psychic power. (looks like: insect; good at: powers and magic, toughness)
@@ -242,6 +293,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 550 Telepathic refugee insectoid folk *(genres: space opera: strange aliens)*
 
+![Telepathic refugee insectoid folk](../Images/species-telepathic-refugee-insectoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm, chitin-bodied refugee folk who share a limited telepathy across their whole community. (looks like: insect; good at: powers and magic, toughness)
 - **Attributes:** STR +1 END +2 WIS +1 PER +1 CHA −2
@@ -253,6 +307,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Calm, collective folk with limited hive telepathy.
 
 ### Outlaw hunter caste *(NPC only)*
+
+![Outlaw hunter caste](../Images/species-outlaw-hunter-caste.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +4 AGI −1 END +2 PER +1 CHA −2 COU +1
@@ -266,6 +323,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 552 Stinger-limbed bee alien *(genres: space opera: strange aliens)*
 
+![Stinger-limbed bee alien](../Images/species-stinger-limbed-bee-alien.jpg){.illus}
+
+
 - **Size:** small · **Body:** winged biped
 - **What it's like:** A winged, buzzing bee-alien with a stinger limb and huge compound eyes, part of a hive yet its own person. (looks like: bee; good at: flying, keen senses)
 - **Attributes:** STR −1 AGI +2 END +2 PER +2 CHA −2
@@ -277,6 +337,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Small winged bee-aliens with a stinger-tipped limb and compound eyes.
 
 ### No. 553 Winged insectoid auxiliary *(genres: space opera: strange aliens)*
+
+![Winged insectoid auxiliary](../Images/species-winged-insectoid-auxiliary.jpg){.illus}
+
 
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** Wasp-like winged insectoid soldiers serving a larger empire, weak in a brawl but deadly with support weapons. (looks like: wasp; good at: flying, fighting)
@@ -290,6 +353,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Regenerating burrower alien *(NPC only)*
 
+![Regenerating burrower alien](../Images/species-regenerating-burrower-alien.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +3 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -301,6 +367,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Nondetection covers psychic detection only; their burrowing can also pass through other planes. NPC only.
 
 ### Hive-caste diplomat folk *(NPC only)*
+
+![Hive-caste diplomat folk](../Images/species-hive-caste-diplomat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 PER +1
@@ -314,6 +383,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Moth-adapted trader folk *(NPC only)*
 
+![Moth-adapted trader folk](../Images/species-moth-adapted-trader-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR +1 END +1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +1, [Trading & Business](../Skills/trading-and-business.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -325,6 +397,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Chittering scavenger folk *(NPC only)*
+
+![Chittering scavenger folk](../Images/species-chittering-scavenger-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +2 WIS +1 PER +1 CHA −2
@@ -338,6 +413,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cybernetic insectoid shapeshifter *(NPC only)*
 
+![Cybernetic insectoid shapeshifter](../Images/species-cybernetic-insectoid-shapeshifter.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -350,6 +428,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Multi-limbed trader-slaver folk *(NPC only)*
 
+![Multi-limbed trader-slaver folk](../Images/species-multi-limbed-trader-slaver-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 END +2 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Trading & Business](../Skills/trading-and-business.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -361,6 +442,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only. Extra arms make a shield or second weapon easy to use.
 
 ### No. 554 Martial-honor insectoid folk *(genres: multiverse and time, space opera: strange aliens)*
+
+![Martial-honor insectoid folk](../Images/species-martial-honor-insectoid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Heavily armoured insectoid folk from a hidden world, bound by a strict warrior honour code, though outsiders call them monsters. (looks like: insect; good at: toughness, fighting)

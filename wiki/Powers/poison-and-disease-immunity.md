@@ -1,5 +1,9 @@
 # Poison & Disease Immunity
 
+![Poison & Disease Immunity](../Images/PW-219-powers-poison-and-disease-immunity.jpg){.illus}
+
+
+*Catalogue: PW-219*
 *Set: Expansion*
 
 *aka: ______________________________*

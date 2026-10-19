@@ -1,5 +1,9 @@
 # Dim-witted dread beast
 
+![Dim-witted dread beast](../Images/BE-150-bestiary-dim-witted-dread-beast.jpg){.illus}
+
+
+*Catalogue: BE-150*
 *Set: Expansion*
 
 *aka: ______________________________*

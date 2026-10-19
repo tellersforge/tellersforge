@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Formless consuming spirit *(NPC only)*
 
+![Formless consuming spirit](../Images/species-formless-consuming-spirit.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** STR −3 INT +1
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Power Theft works only by consuming.
 
 ### Crossing spirit-world entity *(NPC only)*
+
+![Crossing spirit-world entity](../Images/species-crossing-spirit-world-entity.jpg){.illus}
+
 
 - **Size:** varies · **Body:** other
 - **Attributes:** STR −3 INT +1 WIS +2

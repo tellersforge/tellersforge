@@ -1,5 +1,9 @@
 # Short Companion Blade
 
+![Short Companion Blade](../Images/GR-0093-weapons-short-companion-blade.jpg){.illus}
+
+
+*Catalogue: GR-0093*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Mountain clans
 
+![Mountain clans](../Images/cultures-mountain-clans.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Burning brand
 
+![Burning brand](../Images/GR-0015-weapons-burning-brand.jpg){.illus}
+
+
+*Catalogue: GR-0015*
 *Set: Expansion*
 
 *aka: ______________________________*

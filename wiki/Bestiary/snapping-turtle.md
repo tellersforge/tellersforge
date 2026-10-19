@@ -1,5 +1,9 @@
 # Snapping turtle
 
+![Snapping turtle](../Images/BE-571-bestiary-snapping-turtle.jpg){.illus}
+
+
+*Catalogue: BE-571*
 *Set: Core*
 
 *aka: ______________________________*

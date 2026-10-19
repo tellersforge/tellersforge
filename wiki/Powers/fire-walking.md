@@ -1,5 +1,9 @@
 # Fire Walking
 
+![Fire Walking](../Images/PW-106-powers-fire-walking.jpg){.illus}
+
+
+*Catalogue: PW-106*
 *Set: Expansion*
 
 *aka: ______________________________*

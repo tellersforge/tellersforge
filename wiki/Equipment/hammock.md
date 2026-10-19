@@ -1,5 +1,9 @@
 # Hammock
 
+![Hammock](../Images/GR-0488-equipment-hammock.jpg){.illus}
+
+
+*Catalogue: GR-0488*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Blue-ringed octopus
 
+![Blue-ringed octopus](../Images/BE-060-bestiary-blue-ringed-octopus.jpg){.illus}
+
+
+*Catalogue: BE-060*
 *Set: Core*
 
 *aka: ______________________________*

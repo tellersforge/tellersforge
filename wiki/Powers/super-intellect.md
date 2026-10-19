@@ -1,5 +1,9 @@
 # Super Intellect
 
+![Super Intellect](../Images/PW-282-powers-super-intellect.jpg){.illus}
+
+
+*Catalogue: PW-282*
 *Set: Expansion*
 
 *aka: ______________________________*

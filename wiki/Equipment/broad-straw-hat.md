@@ -1,5 +1,9 @@
 # Broad straw hat
 
+![Broad straw hat](../Images/GR-0233-equipment-broad-straw-hat.jpg){.illus}
+
+
+*Catalogue: GR-0233*
 *Set: Expansion*
 
 *aka: ______________________________*

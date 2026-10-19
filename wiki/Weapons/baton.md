@@ -1,5 +1,9 @@
 # Baton
 
+![Baton](../Images/GR-0005-weapons-baton.jpg){.illus}
+
+
+*Catalogue: GR-0005*
 *Set: Expansion*
 
 *aka: ______________________________*

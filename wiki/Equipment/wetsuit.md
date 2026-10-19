@@ -1,5 +1,9 @@
 # Wetsuit
 
+![Wetsuit](../Images/GR-1012-equipment-wetsuit.jpg){.illus}
+
+
+*Catalogue: GR-1012*
 *Set: Expansion*
 
 *aka: ______________________________*

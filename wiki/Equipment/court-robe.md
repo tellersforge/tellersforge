@@ -1,5 +1,9 @@
 # Court robe
 
+![Court robe](../Images/GR-0308-equipment-court-robe.jpg){.illus}
+
+
+*Catalogue: GR-0308*
 *Set: Expansion*
 
 *aka: ______________________________*

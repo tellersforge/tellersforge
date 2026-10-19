@@ -1,5 +1,9 @@
 # Forked-tail jackal
 
+![Forked-tail jackal](../Images/BE-212-bestiary-forked-tail-jackal.jpg){.illus}
+
+
+*Catalogue: BE-212*
 *Set: Core*
 
 *aka: ______________________________*

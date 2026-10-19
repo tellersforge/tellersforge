@@ -1,5 +1,9 @@
 # Giant dragonfly
 
+![Giant dragonfly](../Images/BE-246-bestiary-giant-dragonfly.jpg){.illus}
+
+
+*Catalogue: BE-246*
 *Set: Expansion*
 
 *aka: ______________________________*

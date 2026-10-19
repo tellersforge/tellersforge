@@ -1,5 +1,9 @@
 # Floating compass
 
+![Floating compass](../Images/GR-0423-equipment-floating-compass.jpg){.illus}
+
+
+*Catalogue: GR-0423*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Fear of the Infinite
 
+![Fear of the Infinite](../Images/flaws-fear-of-the-infinite.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when endless space, eternity, things with no end.

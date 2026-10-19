@@ -1,7 +1,8 @@
 # Diving helmet
 
-![Diving helmet](../Images/equipment-diving-helmet.jpg){.illus}
+![Diving helmet](../Images/GR-0340-equipment-diving-helmet.jpg){.illus}
 
+*Catalogue: GR-0340*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wide sash
 
+![Wide sash](../Images/GR-1017-equipment-wide-sash.jpg){.illus}
+
+
+*Catalogue: GR-1017*
 *Set: Expansion*
 
 *aka: ______________________________*

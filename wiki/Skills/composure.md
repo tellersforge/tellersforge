@@ -1,5 +1,9 @@
 # Composure
 
+![Composure](../Images/SK-039-skills-composure.jpg){.illus}
+
+
+*Catalogue: SK-039*
 *Set: Core · Basic skill: Insight*
 
 *aka: ______________________________*

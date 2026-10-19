@@ -1,5 +1,8 @@
 # Flatterer
 
+![Flatterer](../Images/flaws-flatterer.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when sucks up to powerful people and tells them what they want to hear.

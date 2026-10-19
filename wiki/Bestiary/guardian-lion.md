@@ -1,5 +1,9 @@
 # Guardian lion
 
+![Guardian lion](../Images/BE-323-bestiary-guardian-lion.jpg){.illus}
+
+
+*Catalogue: BE-323*
 *Set: Core*
 
 *aka: ______________________________*

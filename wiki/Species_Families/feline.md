@@ -1,5 +1,8 @@
 # Feline
 
+![Feline](../Images/species-families-feline.jpg){.illus}
+
+
 
 Cats, great and small, and the peoples descended from them. The family runs from lithe house-cat breeds to maned lion clans, spotted hunters and armoured warrior empires that conquer worlds. Soft feet, sharp claws, night eyes and a fine sense of balance run through them all, and so does a talent for doing exactly as they please. They can be lazy for hours and deadly for a moment. The family also holds cat spirits of fairy tale, telepathic companions and cats that can see ghosts. Other peoples find them charming and slightly insulting, as if always being judged, which they are.
 

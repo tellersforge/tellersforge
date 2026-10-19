@@ -1,5 +1,9 @@
 # Caregiving
 
+![Caregiving](../Images/SK-028-skills-caregiving.jpg){.illus}
+
+
+*Catalogue: SK-028*
 *Set: Core · Basic skill: Healing*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Asymmetric Longbow
 
-![Asymmetric longbow](../Images/weapons-asymmetric-longbow.jpg){.illus}
+![Asymmetric longbow](../Images/GR-0003-weapons-asymmetric-longbow.jpg){.illus}
 
+*Catalogue: GR-0003*
 *Set: Expansion*
 
 *aka: ______________________________*

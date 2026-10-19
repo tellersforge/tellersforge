@@ -1,5 +1,9 @@
 # Zombifying claw bug
 
+![Zombifying claw bug](../Images/BE-696-bestiary-zombifying-claw-bug.jpg){.illus}
+
+
+*Catalogue: BE-696*
 *Set: Expansion*
 
 *aka: ______________________________*

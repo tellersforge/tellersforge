@@ -1,5 +1,9 @@
 # Carpenter's tools
 
+![Carpenter's tools](../Images/GR-0259-equipment-carpenter-s-tools.jpg){.illus}
+
+
+*Catalogue: GR-0259*
 *Set: Core*
 
 *aka: ______________________________*

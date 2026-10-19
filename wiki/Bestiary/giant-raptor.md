@@ -1,5 +1,9 @@
 # Giant raptor
 
+![Giant raptor](../Images/BE-272-bestiary-giant-raptor.jpg){.illus}
+
+
+*Catalogue: BE-272*
 *Set: Expansion*
 
 *aka: ______________________________*

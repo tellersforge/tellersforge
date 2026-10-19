@@ -1,5 +1,9 @@
 # Saddlebags
 
+![Saddlebags](../Images/GR-0811-equipment-saddlebags.jpg){.illus}
+
+
+*Catalogue: GR-0811*
 *Set: Core*
 
 *aka: ______________________________*

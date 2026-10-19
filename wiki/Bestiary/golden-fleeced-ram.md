@@ -1,5 +1,9 @@
 # Golden-fleeced ram
 
+![Golden-fleeced ram](../Images/BE-299-bestiary-golden-fleeced-ram.jpg){.illus}
+
+
+*Catalogue: BE-299*
 *Set: Expansion*
 
 *aka: ______________________________*

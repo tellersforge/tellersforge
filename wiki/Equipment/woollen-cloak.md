@@ -1,5 +1,9 @@
 # Woollen cloak
 
+![Woollen cloak](../Images/GR-1032-equipment-woollen-cloak.jpg){.illus}
+
+
+*Catalogue: GR-1032*
 *Set: Core*
 
 *aka: ______________________________*

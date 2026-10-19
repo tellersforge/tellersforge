@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forest tikbalang *(NPC only)*
 
+![Forest tikbalang](../Images/species-forest-tikbalang.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 WIS +1
 - **Skills:** [Running](../Skills/running.md) +3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Formation Fighting](../Skills/formation-fighting.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Jumping](../Skills/jumping.md) +1, [Acrobatics](../Skills/acrobatics.md) −1, [Climbing](../Skills/climbing.md) −1, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept

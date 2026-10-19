@@ -1,5 +1,8 @@
 # Jungle temple cities
 
+![Jungle temple cities](../Images/cultures-jungle-temple-cities.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

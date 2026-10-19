@@ -1,5 +1,9 @@
 # Stone lamp
 
+![Stone lamp](../Images/GR-0923-equipment-stone-lamp.jpg){.illus}
+
+
+*Catalogue: GR-0923*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Message
 
+![Message](../Images/PW-179-powers-message.jpg){.illus}
+
+
+*Catalogue: PW-179*
 *Set: Core*
 
 *aka: ______________________________*

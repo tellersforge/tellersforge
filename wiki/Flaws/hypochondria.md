@@ -1,5 +1,8 @@
 # Hypochondria
 
+![Hypochondria](../Images/flaws-hypochondria.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Habits and body* kind. It fires when sure they're ill; worries about every ache.

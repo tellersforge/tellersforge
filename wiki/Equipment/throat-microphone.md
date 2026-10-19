@@ -1,5 +1,9 @@
 # Throat microphone
 
+![Throat microphone](../Images/GR-0956-equipment-throat-microphone.jpg){.illus}
+
+
+*Catalogue: GR-0956*
 *Set: Expansion*
 
 *aka: ______________________________*

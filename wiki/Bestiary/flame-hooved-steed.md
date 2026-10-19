@@ -1,5 +1,9 @@
 # Flame-hooved steed
 
+![Flame-hooved steed](../Images/BE-200-bestiary-flame-hooved-steed.jpg){.illus}
+
+
+*Catalogue: BE-200*
 *Set: Core*
 
 *aka: ______________________________*

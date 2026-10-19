@@ -1,5 +1,9 @@
 # Butcher's kit
 
+![Butcher's kit](../Images/GR-0242-equipment-butcher-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0242*
 *Set: Core*
 
 *aka: ______________________________*

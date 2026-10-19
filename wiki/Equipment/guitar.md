@@ -1,5 +1,9 @@
 # Guitar
 
+![Guitar](../Images/GR-0479-equipment-guitar.jpg){.illus}
+
+
+*Catalogue: GR-0479*
 *Set: Expansion*
 
 *aka: ______________________________*

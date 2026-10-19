@@ -1,5 +1,9 @@
 # Field combat uniform
 
+![Field combat uniform](../Images/GR-0400-equipment-field-combat-uniform.jpg){.illus}
+
+
+*Catalogue: GR-0400*
 *Set: Expansion*
 
 *aka: ______________________________*

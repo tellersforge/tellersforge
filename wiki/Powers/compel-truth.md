@@ -1,5 +1,9 @@
 # Compel Truth
 
+![Compel Truth](../Images/PW-044-powers-compel-truth.jpg){.illus}
+
+
+*Catalogue: PW-044*
 *Set: Expansion*
 
 *aka: ______________________________*

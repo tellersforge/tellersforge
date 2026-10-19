@@ -1,5 +1,9 @@
 # Clockwork songbird
 
+![Clockwork songbird](../Images/BE-112-bestiary-clockwork-songbird.jpg){.illus}
+
+
+*Catalogue: BE-112*
 *Set: Expansion*
 
 *aka: ______________________________*

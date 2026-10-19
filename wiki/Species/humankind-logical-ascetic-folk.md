@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 66 Warrior-empire offshoot folk *(genres: space opera: near-humans)*
 
+![Warrior-empire offshoot folk](../Images/species-warrior-empire-offshoot-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cunning, aggressive warrior-kin, tough and resistant to having their minds read. (looks like: alien; good at: fighting, toughness, powers and magic)
 - **Attributes:** STR +1 END +1
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* They lack the touch telepathy of their ascetic kin; the species' Telepathy affinity stays.
 
 ### No. 67 Subterranean warrior caste folk *(genres: space opera: near-humans)*
+
+![Subterranean warrior caste folk](../Images/species-subterranean-warrior-caste-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pale underground soldiers with sharp night eyes and minds shut tight against intrusion. (looks like: alien; good at: keen senses, toughness, powers and magic)

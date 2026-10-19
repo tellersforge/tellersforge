@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Energy-draining pteranodon-man *(NPC only)*
 
+![Energy-draining pteranodon-man](../Images/species-energy-draining-pteranodon-man.jpg){.illus}
+
+
 - **Size:** large · **Body:** winged biped
 - **Attributes:** STR +4 AGI −1 INT −1 WIS −1 CHA −1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Composure](../Skills/composure.md) +1, [Creature & Occult Lore](../Skills/creature-and-occult-lore.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2

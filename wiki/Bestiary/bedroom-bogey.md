@@ -1,5 +1,9 @@
 # Bedroom bogey
 
+![Bedroom bogey](../Images/BE-040-bestiary-bedroom-bogey.jpg){.illus}
+
+
+*Catalogue: BE-040*
 *Set: Core*
 
 *aka: ______________________________*

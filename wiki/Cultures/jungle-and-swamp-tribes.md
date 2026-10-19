@@ -1,5 +1,8 @@
 # Jungle and swamp tribes
 
+![Jungle and swamp tribes](../Images/cultures-jungle-and-swamp-tribes.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Labourer
 
+![Labourer](../Images/professions-labourer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

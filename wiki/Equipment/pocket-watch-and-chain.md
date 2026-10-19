@@ -1,5 +1,9 @@
 # Pocket watch and chain
 
+![Pocket watch and chain](../Images/GR-0738-equipment-pocket-watch-and-chain.jpg){.illus}
+
+
+*Catalogue: GR-0738*
 *Set: Expansion*
 
 *aka: ______________________________*

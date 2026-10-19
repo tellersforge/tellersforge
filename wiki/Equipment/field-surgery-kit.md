@@ -1,5 +1,9 @@
 # Field surgery kit
 
+![Field surgery kit](../Images/GR-0406-equipment-field-surgery-kit.jpg){.illus}
+
+
+*Catalogue: GR-0406*
 *Set: Expansion*
 
 *aka: ______________________________*

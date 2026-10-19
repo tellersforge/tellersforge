@@ -1,5 +1,9 @@
 # Hold or throw
 
+![Hold or throw](../Images/GR-0053-weapons-hold-or-throw.jpg){.illus}
+
+
+*Catalogue: GR-0053*
 *Set: Expansion*
 
 *aka: ______________________________*

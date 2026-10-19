@@ -1,5 +1,9 @@
 # Haunted household object
 
+![Haunted household object](../Images/BE-328-bestiary-haunted-household-object.jpg){.illus}
+
+
+*Catalogue: BE-328*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Flying fox
 
+![Flying fox](../Images/BE-208-bestiary-flying-fox.jpg){.illus}
+
+
+*Catalogue: BE-208*
 *Set: Core*
 
 *aka: ______________________________*

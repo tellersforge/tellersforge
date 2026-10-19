@@ -1,5 +1,9 @@
 # Strategy
 
+![Strategy](../Images/SK-192-skills-strategy.jpg){.illus}
+
+
+*Catalogue: SK-192*
 *Set: Expansion*
 
 *aka: ______________________________*

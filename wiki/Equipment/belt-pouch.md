@@ -1,5 +1,9 @@
 # Belt pouch
 
+![Belt pouch](../Images/GR-0210-equipment-belt-pouch.jpg){.illus}
+
+
+*Catalogue: GR-0210*
 *Set: Core*
 
 *aka: ______________________________*

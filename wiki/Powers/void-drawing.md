@@ -1,5 +1,9 @@
 # Void Drawing
 
+![Void Drawing](../Images/PW-311-powers-void-drawing.jpg){.illus}
+
+
+*Catalogue: PW-311*
 *Set: Expansion*
 
 *aka: ______________________________*

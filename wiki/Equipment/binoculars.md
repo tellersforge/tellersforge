@@ -1,5 +1,9 @@
 # Binoculars
 
+![Binoculars](../Images/GR-0212-equipment-binoculars.jpg){.illus}
+
+
+*Catalogue: GR-0212*
 *Set: Expansion*
 
 *aka: ______________________________*

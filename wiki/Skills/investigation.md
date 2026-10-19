@@ -1,5 +1,9 @@
 # Investigation
 
+![Investigation](../Images/SK-102-skills-investigation.jpg){.illus}
+
+
+*Catalogue: SK-102*
 *Set: Core · Basic skill: Investigation*
 
 *aka: ______________________________*

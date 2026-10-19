@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 412 Modern feline citizen *(genres: animal fable)*
 
+![Modern feline citizen](../Images/species-modern-feline-citizen.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** An ordinary cat-folk citizen, upright and civilised, holding down a job and a life like anyone else in the city. (looks like: cat; good at: sneaking, climbing)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1

@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 329 Small hardy dwarf folk · No. 336 Casteless outcast dwarf folk *(genres: classic fantasy)*
 
+![Small hardy dwarf folk](../Images/species-small-hardy-dwarf-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Stocky, gruff dwarves who make fine smiths, fighters or handymen, fiercely loyal to their own but wary of strangers. (looks like: dwarf; good at: making and fixing, fighting)
 - **Attributes:** STR −2 AGI +1 END +2 CHA −1 COU +1
@@ -47,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Casteless outcast dwarf folk:* Same as its species; surface exile is homeland and culture.
 
 ### No. 330 Deep dwarf folk *(genres: underworld and wild places, classic fantasy)*
+
+![Deep dwarf folk](../Images/species-deep-dwarf-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Grim underground dwarves who see in the dark, resist mind-magic, can grow giant-sized, and turn to stone in sunlight. (looks like: dwarf; good at: making and fixing, toughness)
@@ -59,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 331 Desert dwarf folk *(genres: dark fantasy)*
 
+![Desert dwarf folk](../Images/species-desert-dwarf-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Desert-dwelling dwarves at home in the worst heat, with a taste for psychic and mind-bending traditions. (looks like: dwarf; good at: wilderness, making and fixing)
 - **Attributes:** AGI −1 END +2 CHA −1 COU +1
@@ -69,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element is heat. The psionic-leaning culture is a Culture matter.
 
 ### No. 332 Arctic clan dwarf folk *(genres: classic fantasy)*
+
+![Arctic clan dwarf folk](../Images/species-arctic-clan-dwarf-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cold-hardy dwarf clans of the frozen north, keeping mostly to themselves and their own frost-proof halls. (looks like: dwarf; good at: wilderness, toughness)
@@ -81,6 +93,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 333 Slayer cult dwarf folk *(genres: classic fantasy)*
 
+![Slayer cult dwarf folk](../Images/species-slayer-cult-dwarf-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tattooed dwarf warriors with wild orange crests, seeking a glorious death in battle above all else. (looks like: dwarf; good at: fighting, toughness)
 - **Attributes:** AGI −1 END +2 CHA −1 COU +1
@@ -91,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Culture lines, inseparable from this people.
 
 ### No. 334 Hill/wild dwarf folk *(genres: classic fantasy)*
+
+![Hill/wild dwarf folk](../Images/species-hill-wild-dwarf-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Rugged hill dwarves who ride the storms and tame great flying beasts, fierce raiders far from their kin's forges. (looks like: dwarf; good at: fighting, wilderness)
@@ -103,6 +121,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 335 Dark/subterranean dwarf folk *(genres: classic fantasy)*
 
+![Dark/subterranean dwarf folk](../Images/species-dark-subterranean-dwarf-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Dark dwarves of fire and shadow, isolated and elemental-worshipping, with a reputation for treachery. (looks like: dwarf; good at: making and fixing, powers and magic)
 - **Attributes:** STR −2 AGI +1 END +2 CHA −1 COU +1
@@ -113,6 +134,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is fire. Shadow Shaping is affinity only.
 
 ### No. 337 Void-league dwarf folk *(genres: space opera: near-humans)*
+
+![Void-league dwarf folk](../Images/species-void-league-dwarf-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Cybernetic dwarves who fly between the stars, honouring ancestor-machines while keeping their old miners' toughness. (looks like: robot; good at: making and fixing, toughness)
@@ -125,6 +149,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 338 Shifted metahuman dwarf folk *(genres: near future and cyberpunk)*
 
+![Shifted metahuman dwarf folk](../Images/species-shifted-metahuman-dwarf-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tough, mutated dwarf-kin immune to poisons and able to see the heat of living things in the dark. (looks like: dwarf; good at: toughness, keen senses)
 - **Attributes:** AGI −1 END +2 CHA −1 COU +1
@@ -136,6 +163,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Stone-carving trader alien *(NPC only)*
 
+![Stone-carving trader alien](../Images/species-stone-carving-trader-alien.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 CHA −1 COU +1
 - **Skills:** [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +3, [Mining & Quarrying](../Skills/mining-and-quarrying.md) +2, [Stonemasonry](../Skills/stonemasonry.md) +2, [Trading & Business](../Skills/trading-and-business.md) +1, [Riding](../Skills/riding.md) −1, [Running](../Skills/running.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -145,6 +175,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Culture line.
 
 ### No. 339 Dark industrial dwarf-folk *(genres: dark fantasy)*
+
+![Dark industrial dwarf-folk](../Images/species-dark-industrial-dwarf-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Bearded, brutal dwarf-smiths who serve dark gods and build fearsome war-engines, each ritually branded to their trade. (looks like: dwarf; good at: making and fixing, fighting)
@@ -157,6 +190,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 340 Guild-clan artisan dwarf *(genres: classic fantasy)*
 
+![Guild-clan artisan dwarf](../Images/species-guild-clan-artisan-dwarf.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Proud, meticulous dwarves of a craft guild, famous for their gemcutting, metalwork or mining, generation after generation. (looks like: dwarf; good at: making and fixing, knowledge)
 - **Attributes:** AGI −1 END +2 CHA −1 COU +1
@@ -167,6 +203,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Choice line: the clan may move this to Metallurgy or Mining & Quarrying instead.
 
 ### Feral unclanned dwarf *(NPC only)*
+
+![Feral unclanned dwarf](../Images/species-feral-unclanned-dwarf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 CHA −1 COU +1

@@ -1,7 +1,8 @@
 # Double-Barrel Shotgun
 
-![Double-barrel shotgun](../Images/weapons-double-barrel-shotgun.jpg){.illus}
+![Double-barrel shotgun](../Images/GR-0029-weapons-double-barrel-shotgun.jpg){.illus}
 
+*Catalogue: GR-0029*
 *Set: Expansion*
 
 *aka: ______________________________*

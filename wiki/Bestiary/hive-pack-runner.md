@@ -1,5 +1,9 @@
 # Hive pack runner
 
+![Hive pack runner](../Images/BE-337-bestiary-hive-pack-runner.jpg){.illus}
+
+
+*Catalogue: BE-337*
 *Set: Expansion*
 
 *aka: ______________________________*

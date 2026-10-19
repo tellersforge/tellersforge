@@ -1,5 +1,9 @@
 # Common raccoon
 
+![Common raccoon](../Images/BE-128-bestiary-common-raccoon.jpg){.illus}
+
+
+*Catalogue: BE-128*
 *Set: Core*
 
 *aka: ______________________________*

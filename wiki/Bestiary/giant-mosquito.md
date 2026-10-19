@@ -1,5 +1,9 @@
 # Giant mosquito
 
+![Giant mosquito](../Images/BE-266-bestiary-giant-mosquito.jpg){.illus}
+
+
+*Catalogue: BE-266*
 *Set: Expansion*
 
 *aka: ______________________________*

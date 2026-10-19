@@ -1,5 +1,9 @@
 # Plant & Place Speech
 
+![Plant & Place Speech](../Images/PW-214-powers-plant-and-place-speech.jpg){.illus}
+
+
+*Catalogue: PW-214*
 *Set: Expansion*
 
 *aka: ______________________________*

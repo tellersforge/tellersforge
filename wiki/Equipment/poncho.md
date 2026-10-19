@@ -1,5 +1,9 @@
 # Poncho
 
+![Poncho](../Images/GR-0742-equipment-poncho.jpg){.illus}
+
+
+*Catalogue: GR-0742*
 *Set: Expansion*
 
 *aka: ______________________________*

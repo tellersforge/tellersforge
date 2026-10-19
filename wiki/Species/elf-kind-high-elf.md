@@ -35,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 361 Sea-loving high folk *(genres: classic fantasy, sea and sky)*
 
+![Sea-loving high folk](../Images/species-sea-loving-high-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Immortal seafaring elves, master shipwrights and beautiful singers who never tire of the sea and shore. (looks like: elf; good at: swimming, people and talk)
 - **Attributes:** STR −1 AGI +2 END −1 INT +1 WIS +1 PER +2
@@ -44,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Shipwrights and mariners whose way of life is bound to the sea and shore.
 
 ### No. 362 Unfallen light-folk *(genres: classic fantasy)*
+
+![Unfallen light-folk](../Images/species-unfallen-light-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Radiant, immortal elves who once saw a legendary holy light, skilled crafters and singers untouched by cold or disease. (looks like: elf; good at: making and fixing, people and talk)
@@ -56,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 363 Noble silver-forest folk *(genres: classic fantasy)*
 
+![Noble silver-forest folk](../Images/species-noble-silver-forest-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Graceful, long-lived elves of proud noble houses, steeped in nature magic and famed as keen archers. (looks like: elf; good at: powers and magic, fighting)
 - **Attributes:** STR −1 AGI +2 END −1 INT +1 WIS +1 PER +2
@@ -65,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A forest people with a strong nature-magic tradition.
 
 ### No. 364 Near-immortal mage folk *(genres: classic fantasy)*
+
+![Near-immortal mage folk](../Images/species-near-immortal-mage-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Near-immortal elf mages who age at a crawl and wield powerful arcane magic, growing distant from short-lived folk. (looks like: elf; good at: powers and magic, knowledge)

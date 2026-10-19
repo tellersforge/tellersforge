@@ -1,5 +1,9 @@
 # Crown
 
+![Crown](../Images/GR-0313-equipment-crown.jpg){.illus}
+
+
+*Catalogue: GR-0313*
 *Set: Core*
 
 *aka: ______________________________*

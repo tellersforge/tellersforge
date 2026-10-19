@@ -1,5 +1,9 @@
 # Many-tusked elephant
 
+![Many-tusked elephant](../Images/BE-408-bestiary-many-tusked-elephant.jpg){.illus}
+
+
+*Catalogue: BE-408*
 *Set: Expansion*
 
 *aka: ______________________________*

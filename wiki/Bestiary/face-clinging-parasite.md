@@ -1,5 +1,9 @@
 # Face-clinging parasite
 
+![Face-clinging parasite](../Images/BE-178-bestiary-face-clinging-parasite.jpg){.illus}
+
+
+*Catalogue: BE-178*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Helicopter
 
+![Helicopter](../Images/GR-1076-vehicles-helicopter.jpg){.illus}
+
+
+*Catalogue: GR-1076*
 *Set: Core*
 
 

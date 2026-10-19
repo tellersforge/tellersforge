@@ -1,5 +1,9 @@
 # Etiquette
 
+![Etiquette](../Images/SK-063-skills-etiquette.jpg){.illus}
+
+
+*Catalogue: SK-063*
 *Set: Core · Basic skill: Persuasion*
 
 *aka: ______________________________*

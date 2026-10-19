@@ -1,5 +1,9 @@
 # Wooden barrel
 
+![Wooden barrel](../Images/GR-1021-equipment-wooden-barrel.jpg){.illus}
+
+
+*Catalogue: GR-1021*
 *Set: Expansion*
 
 *aka: ______________________________*

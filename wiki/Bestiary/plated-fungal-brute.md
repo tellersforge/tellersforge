@@ -1,5 +1,9 @@
 # Plated fungal brute
 
+![Plated fungal brute](../Images/BE-463-bestiary-plated-fungal-brute.jpg){.illus}
+
+
+*Catalogue: BE-463*
 *Set: Expansion*
 
 *aka: ______________________________*

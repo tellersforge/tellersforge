@@ -1,5 +1,9 @@
 # Faceless thin man
 
+![Faceless thin man](../Images/BE-182-bestiary-faceless-thin-man.jpg){.illus}
+
+
+*Catalogue: BE-182*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Hulking zombie brute
 
+![Hulking zombie brute](../Images/BE-351-bestiary-hulking-zombie-brute.jpg){.illus}
+
+
+*Catalogue: BE-351*
 *Set: Core*
 
 *aka: ______________________________*

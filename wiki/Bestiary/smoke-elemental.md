@@ -1,5 +1,9 @@
 # Smoke elemental
 
+![Smoke elemental](../Images/BE-568-bestiary-smoke-elemental.jpg){.illus}
+
+
+*Catalogue: BE-568*
 *Set: Expansion*
 
 *aka: ______________________________*

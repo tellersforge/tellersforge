@@ -1,5 +1,9 @@
 # Pacific octopus
 
+![Pacific octopus](../Images/BE-451-bestiary-pacific-octopus.jpg){.illus}
+
+
+*Catalogue: BE-451*
 *Set: Core*
 
 *aka: ______________________________*

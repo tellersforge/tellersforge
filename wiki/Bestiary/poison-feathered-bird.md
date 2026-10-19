@@ -1,5 +1,9 @@
 # Poison-feathered bird
 
+![Poison-feathered bird](../Images/BE-466-bestiary-poison-feathered-bird.jpg){.illus}
+
+
+*Catalogue: BE-466*
 *Set: Core*
 
 *aka: ______________________________*

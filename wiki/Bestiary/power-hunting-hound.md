@@ -1,5 +1,9 @@
 # Power-hunting hound
 
+![Power-hunting hound](../Images/BE-471-bestiary-power-hunting-hound.jpg){.illus}
+
+
+*Catalogue: BE-471*
 *Set: Expansion*
 
 *aka: ______________________________*

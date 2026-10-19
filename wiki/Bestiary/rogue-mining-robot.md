@@ -1,5 +1,9 @@
 # Rogue mining robot
 
+![Rogue mining robot](../Images/BE-500-bestiary-rogue-mining-robot.jpg){.illus}
+
+
+*Catalogue: BE-500*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Miner's lamp
 
+![Miner's lamp](../Images/GR-0653-equipment-miner-s-lamp.jpg){.illus}
+
+
+*Catalogue: GR-0653*
 *Set: Expansion*
 
 *aka: ______________________________*

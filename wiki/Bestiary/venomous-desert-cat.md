@@ -1,5 +1,9 @@
 # Venomous desert cat
 
+![Venomous desert cat](../Images/BE-650-bestiary-venomous-desert-cat.jpg){.illus}
+
+
+*Catalogue: BE-650*
 *Set: Expansion*
 
 *aka: ______________________________*

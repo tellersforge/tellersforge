@@ -1,5 +1,9 @@
 # Gourd rattle
 
+![Gourd rattle](../Images/GR-0467-equipment-gourd-rattle.jpg){.illus}
+
+
+*Catalogue: GR-0467*
 *Set: Expansion*
 
 *aka: ______________________________*

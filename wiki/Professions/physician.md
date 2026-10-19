@@ -1,5 +1,8 @@
 # Physician
 
+![Physician](../Images/professions-physician.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

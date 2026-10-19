@@ -1,7 +1,8 @@
 # Steam Ironclad
 
-![Steam ironclad](../Images/vehicles-steam-ironclad.jpg){.illus}
+![Steam ironclad](../Images/GR-1124-vehicles-steam-ironclad.jpg){.illus}
 
+*Catalogue: GR-1124*
 *Set: Expansion*
 
 

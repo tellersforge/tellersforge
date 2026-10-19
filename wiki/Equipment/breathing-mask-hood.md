@@ -1,5 +1,9 @@
 # Breathing-mask hood
 
+![Breathing-mask hood](../Images/GR-0228-equipment-breathing-mask-hood.jpg){.illus}
+
+
+*Catalogue: GR-0228*
 *Set: Expansion*
 
 *aka: ______________________________*

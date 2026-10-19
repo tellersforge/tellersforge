@@ -1,5 +1,9 @@
 # Handwritten book
 
+![Handwritten book](../Images/GR-0501-equipment-handwritten-book.jpg){.illus}
+
+
+*Catalogue: GR-0501*
 *Set: Expansion*
 
 *aka: ______________________________*

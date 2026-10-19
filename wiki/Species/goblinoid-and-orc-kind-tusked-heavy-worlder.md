@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 483 Brawny tusked engineer *(genres: space opera: near-humans)*
 
+![Brawny tusked engineer](../Images/species-brawny-tusked-engineer.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Squat, immensely strong tusked engineers bred for heavy gravity, tenacious in a fight and gifted at building things. (looks like: orc; good at: strength, making and fixing)
 - **Attributes:** STR +5 AGI −2 END +1 CHA −1 COU +1

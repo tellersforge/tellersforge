@@ -1,7 +1,8 @@
 # Longship
 
-![Longship](../Images/vehicles-longship.jpg){.illus}
+![Longship](../Images/GR-1089-vehicles-longship.jpg){.illus}
 
+*Catalogue: GR-1089*
 *Set: Core*
 
 

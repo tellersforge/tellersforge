@@ -1,5 +1,9 @@
 # Glutton beast
 
+![Glutton beast](../Images/BE-296-bestiary-glutton-beast.jpg){.illus}
+
+
+*Catalogue: BE-296*
 *Set: Core*
 
 *aka: ______________________________*

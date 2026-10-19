@@ -1,5 +1,8 @@
 # Miser
 
+![Miser](../Images/flaws-miser.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when won't spend or share, even when it matters.

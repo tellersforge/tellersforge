@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 680 Frontier guard mouse-folk *(genres: animal fable)*
 
+![Frontier guard mouse-folk](../Images/species-frontier-guard-mouse-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped+tailed
 - **What it's like:** Tiny, cloaked mouse-folk guards who face down much bigger predators with small blades and big courage. (looks like: mouse; good at: sneaking, fighting)
 - **Attributes:** STR −3 AGI +3 END +1 WIS +1 PER +1 COU +1
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Blade skill belongs to the weapon-group pass.
 
 ### No. 681 Peaceable abbey mouse-folk *(genres: animal fable)*
+
+![Peaceable abbey mouse-folk](../Images/species-peaceable-abbey-mouse-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small, peaceable mouse-folk farmers and cooks who can still fight hard if truly pushed. (looks like: mouse; good at: sneaking, keen senses)
@@ -58,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 683 Squirrel-folk *(genres: animal fable)*
 
+![Squirrel-folk](../Images/species-squirrel-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Bushy-tailed squirrel folk, superb climbers and jumpers who never stop hoarding food. (looks like: squirrel; good at: climbing, speed and agility)
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 PER +1 COU −1
@@ -69,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Squirrel-folk forest dwellers *(NPC only)*
 
+![Squirrel-folk forest dwellers](../Images/species-squirrel-folk-forest-dwellers.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 PER +1 COU −1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Escape Artistry](../Skills/escape-artistry.md) +1, [Jumping](../Skills/jumping.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -78,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Treetop climbers of the forest.
 
 ### Flying squirrel-folk *(NPC only)*
+
+![Flying squirrel-folk](../Images/species-flying-squirrel-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 PER +1 COU −1

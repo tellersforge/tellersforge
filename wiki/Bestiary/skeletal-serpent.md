@@ -1,5 +1,9 @@
 # Skeletal serpent
 
+![Skeletal serpent](../Images/BE-557-bestiary-skeletal-serpent.jpg){.illus}
+
+
+*Catalogue: BE-557*
 *Set: Expansion*
 
 *aka: ______________________________*

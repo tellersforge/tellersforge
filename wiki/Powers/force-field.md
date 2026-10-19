@@ -1,7 +1,8 @@
 # Force Field
 
-![Force field](../Images/powers-force-field.jpg){.illus}
+![Force field](../Images/PW-111-powers-force-field.jpg){.illus}
 
+*Catalogue: PW-111*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

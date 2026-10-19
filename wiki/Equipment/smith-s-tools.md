@@ -1,7 +1,8 @@
 # Smith's tools
 
-![Smith's tools](../Images/equipment-smith-s-tools.jpg){.illus}
+![Smith's tools](../Images/GR-0884-equipment-smith-s-tools.jpg){.illus}
 
+*Catalogue: GR-0884*
 *Set: Expansion*
 
 *aka: ______________________________*

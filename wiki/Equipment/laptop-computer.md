@@ -1,7 +1,8 @@
 # Laptop computer
 
-![Laptop computer](../Images/equipment-laptop-computer.jpg){.illus}
+![Laptop computer](../Images/GR-0581-equipment-laptop-computer.jpg){.illus}
 
+*Catalogue: GR-0581*
 *Set: Expansion*
 
 *aka: ______________________________*

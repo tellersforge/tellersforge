@@ -1,5 +1,9 @@
 # Giant hornless rhino
 
+![Giant hornless rhino](../Images/BE-258-bestiary-giant-hornless-rhino.jpg){.illus}
+
+
+*Catalogue: BE-258*
 *Set: Expansion*
 
 *aka: ______________________________*

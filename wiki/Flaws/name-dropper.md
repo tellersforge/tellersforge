@@ -1,5 +1,8 @@
 # Name-Dropper
 
+![Name-Dropper](../Images/flaws-name-dropper.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when keeps mentioning the important people they know.

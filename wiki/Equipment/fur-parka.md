@@ -1,5 +1,9 @@
 # Fur parka
 
+![Fur parka](../Images/GR-0447-equipment-fur-parka.jpg){.illus}
+
+
+*Catalogue: GR-0447*
 *Set: Core*
 
 *aka: ______________________________*

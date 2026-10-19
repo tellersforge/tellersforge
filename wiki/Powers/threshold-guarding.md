@@ -1,5 +1,9 @@
 # Threshold Guarding
 
+![Threshold Guarding](../Images/PW-296-powers-threshold-guarding.jpg){.illus}
+
+
+*Catalogue: PW-296*
 *Set: Expansion*
 
 *aka: ______________________________*

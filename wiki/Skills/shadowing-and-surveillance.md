@@ -1,5 +1,9 @@
 # Shadowing & Surveillance
 
+![Shadowing & Surveillance](../Images/SK-176-skills-shadowing-and-surveillance.jpg){.illus}
+
+
+*Catalogue: SK-176*
 *Set: Expansion*
 
 *aka: ______________________________*

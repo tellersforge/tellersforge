@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 371 Desert survivor folk *(genres: dark fantasy)*
 
+![Desert survivor folk](../Images/species-desert-survivor-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Wild, heat-hardy elves of the deep desert with a natural gift for psychic power. (looks like: elf; good at: wilderness, powers and magic)
 - **Attributes:** STR −1 AGI +2 WIS +1 PER +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Telepathy is affinity only (psionic aptitude).
 
 ### No. 372 Desert high folk *(genres: classic fantasy)*
+
+![Desert high folk](../Images/species-desert-high-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Aristocratic desert elves with a long arcane tradition, unbothered by the worst of the heat. (looks like: elf; good at: powers and magic, wilderness)

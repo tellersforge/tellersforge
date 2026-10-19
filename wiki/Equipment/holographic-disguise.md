@@ -1,5 +1,9 @@
 # Holographic disguise
 
+![Holographic disguise](../Images/GR-0536-equipment-holographic-disguise.jpg){.illus}
+
+
+*Catalogue: GR-0536*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Sling
 
-![Sling](../Images/weapons-sling.jpg){.illus}
+![Sling](../Images/GR-0097-weapons-sling.jpg){.illus}
 
+*Catalogue: GR-0097*
 *Set: Core*
 
 *aka: ______________________________*

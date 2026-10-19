@@ -1,5 +1,9 @@
 # Voice-mimicking tiger
 
+![Voice-mimicking tiger](../Images/BE-653-bestiary-voice-mimicking-tiger.jpg){.illus}
+
+
+*Catalogue: BE-653*
 *Set: Core*
 
 *aka: ______________________________*

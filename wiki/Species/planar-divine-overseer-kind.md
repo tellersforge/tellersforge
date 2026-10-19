@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Universe-overseeing deity *(NPC only; NPC-scale)*
 
+![Universe-overseeing deity](../Images/species-universe-overseeing-deity.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 AGI +2 END −1 WIS +3 CHA +1
 - **Skills:** [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2

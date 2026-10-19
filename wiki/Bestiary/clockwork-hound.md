@@ -1,5 +1,9 @@
 # Clockwork hound
 
+![Clockwork hound](../Images/BE-110-bestiary-clockwork-hound.jpg){.illus}
+
+
+*Catalogue: BE-110*
 *Set: Expansion*
 
 *aka: ______________________________*

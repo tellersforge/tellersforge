@@ -1,7 +1,8 @@
 # Teleport beacon
 
-![Teleport beacon](../Images/equipment-teleport-beacon.jpg){.illus}
+![Teleport beacon](../Images/GR-0951-equipment-teleport-beacon.jpg){.illus}
 
+*Catalogue: GR-0951*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Fickleness
 
+![Fickleness](../Images/flaws-fickleness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when changes sides and plans on a whim.

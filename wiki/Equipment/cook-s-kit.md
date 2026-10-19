@@ -1,5 +1,9 @@
 # Cook's kit
 
+![Cook's kit](../Images/GR-0297-equipment-cook-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0297*
 *Set: Expansion*
 
 *aka: ______________________________*

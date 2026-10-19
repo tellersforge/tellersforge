@@ -1,5 +1,9 @@
 # Zombie hound
 
+![Zombie hound](../Images/BE-694-bestiary-zombie-hound.jpg){.illus}
+
+
+*Catalogue: BE-694*
 *Set: Core*
 
 *aka: ______________________________*

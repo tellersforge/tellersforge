@@ -1,5 +1,9 @@
 # Bilocation
 
+![Bilocation](../Images/PW-022-powers-bilocation.jpg){.illus}
+
+
+*Catalogue: PW-022*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Household spirit folk *(NPC only)*
 
+![Household spirit folk](../Images/species-household-spirit-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END −1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Service & Hospitality](../Skills/service-and-hospitality.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Stealth](../Skills/stealth.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bound household servant folk *(NPC only)*
 
+![Bound household servant folk](../Images/species-bound-household-servant-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END −1
 - **Skills:** [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Service & Hospitality](../Skills/service-and-hospitality.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Stealth](../Skills/stealth.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Short Teleport stands in for their wandless magic.
 
 ### Household dragon spirit *(NPC only)*
+
+![Household dragon spirit](../Images/species-household-dragon-spirit.jpg){.illus}
+
 
 - **Size:** small · **Body:** serpentine+winged
 - **Attributes:** STR −2 AGI +2 END −1 CHA +2

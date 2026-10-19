@@ -1,5 +1,9 @@
 # Surveyor's instruments
 
+![Surveyor's instruments](../Images/GR-0936-equipment-surveyor-s-instruments.jpg){.illus}
+
+
+*Catalogue: GR-0936*
 *Set: Expansion*
 
 *aka: ______________________________*

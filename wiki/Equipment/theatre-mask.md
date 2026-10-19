@@ -1,5 +1,9 @@
 # Theatre mask
 
+![Theatre mask](../Images/GR-0952-equipment-theatre-mask.jpg){.illus}
+
+
+*Catalogue: GR-0952*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Giant Eagle
 
-![Giant eagle](../Images/vehicles-giant-eagle.jpg){.illus}
+![Giant eagle](../Images/GR-1074-vehicles-giant-eagle.jpg){.illus}
 
+*Catalogue: GR-1074*
 *Set: Expansion*
 
 

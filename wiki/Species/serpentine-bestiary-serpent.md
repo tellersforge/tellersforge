@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forward-backward amphisbaena *(beast)*
 
+![Forward-backward amphisbaena](../Images/species-forward-backward-amphisbaena.jpg){.illus}
+
+
 - **Size:** small · **Body:** serpentine
 - **Attributes:** STR −2 AGI +2 END −1 INT −3 WIS +1 PER +1 CHA +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Hypnotism](../Skills/hypnotism.md) +1, [Running](../Skills/running.md) −2, [Jumping](../Skills/jumping.md) −3, [Riding](../Skills/riding.md) Foreign Concept

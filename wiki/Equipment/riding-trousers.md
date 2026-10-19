@@ -1,5 +1,9 @@
 # Riding trousers
 
+![Riding trousers](../Images/GR-0792-equipment-riding-trousers.jpg){.illus}
+
+
+*Catalogue: GR-0792*
 *Set: Expansion*
 
 *aka: ______________________________*

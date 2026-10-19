@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 799 Bull/cattle-folk *(genres: beast-folk: fur)*
 
+![Bull/cattle-folk](../Images/species-bull-cattle-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Powerful, horned bull folk with a shamanic plains culture and a charge that flattens almost anything. (looks like: cow; good at: strength, fighting)
 - **Attributes:** STR +4 AGI −2 END +1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 5 · Damage horns 2d6; longsword 1d6+5 · Armour 2 · Life 22 · Threat 2 ([Bestiary roles](../bestiary.md))
 
 ### No. 800 Docile cattle-folk farmer *(genres: beast-folk: fur)*
+
+![Docile cattle-folk farmer](../Images/species-docile-cattle-folk-farmer.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Strong, gentle cattle folk far more interested in farming than fighting. (looks like: cow; good at: strength, wilderness)
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 801 Highland cattle-folk *(genres: beast-folk: fur)*
 
+![Highland cattle-folk](../Images/species-highland-cattle-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Shaggy, horned highland cattle folk from fierce, fiercely independent mountain clans. (looks like: cow; good at: strength, wilderness)
 - **Attributes:** STR +4 AGI −2 END +1 COU +1
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Primitive bovine-folk *(NPC only)*
 
+![Primitive bovine-folk](../Images/species-primitive-bovine-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 INT −1 COU +1
 - **Skills:**, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Running](../Skills/running.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2
@@ -61,6 +73,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* More feral than its descendants, living in warbands.
 
 ### No. 802 Bison/buffalo-folk *(genres: beast-folk: fur)*
+
+![Bison/buffalo-folk](../Images/species-bison-buffalo-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Massive, shaggy bison folk who move in great herds and charge like a landslide. (looks like: buffalo; good at: strength, toughness)
@@ -72,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Musk ox-folk *(NPC only)*
 
+![Musk ox-folk](../Images/species-musk-ox-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +4 AGI −2 END +2
 - **Skills:**, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Survival: Arctic](../Skills/survival-arctic.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Formation Fighting](../Skills/formation-fighting.md) +1, [Running](../Skills/running.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2
@@ -82,6 +100,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is cold. NPC.
 
 ### Bovine-featured diplomat *(NPC only)*
+
+![Bovine-featured diplomat](../Images/species-bovine-featured-diplomat.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +1 CHA +1

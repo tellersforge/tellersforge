@@ -1,7 +1,8 @@
 # Kite or heater shield
 
-![Kite and heater shields](../Images/armour-kite-or-heater-shield.jpg){.illus}
+![Kite and heater shields](../Images/GR-0143-armour-kite-or-heater-shield.jpg){.illus}
 
+*Catalogue: GR-0143*
 *Set: Core*
 
 *aka: ______________________________*

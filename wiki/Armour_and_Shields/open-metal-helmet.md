@@ -1,7 +1,8 @@
 # Open metal helmet
 
-![Open metal helmet](../Images/armour-open-metal-helmet.jpg){.illus}
+![Open metal helmet](../Images/GR-0152-armour-open-metal-helmet.jpg){.illus}
 
+*Catalogue: GR-0152*
 *Set: Core*
 
 *aka: ______________________________*

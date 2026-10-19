@@ -1,5 +1,9 @@
 # Horned mountain-beast
 
+![Horned mountain-beast](../Images/BE-345-bestiary-horned-mountain-beast.jpg){.illus}
+
+
+*Catalogue: BE-345*
 *Set: Expansion*
 
 *aka: ______________________________*

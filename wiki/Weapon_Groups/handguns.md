@@ -1,5 +1,9 @@
 # Handguns
 
+![Handguns](../Images/WG-014-weapon-groups-handguns.jpg){.illus}
+
+
+*Catalogue: WG-014*
 *Set: Core*
 
 *aka: ______________________________*

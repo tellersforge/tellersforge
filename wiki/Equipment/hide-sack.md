@@ -1,5 +1,9 @@
 # Hide sack
 
+![Hide sack](../Images/GR-0527-equipment-hide-sack.jpg){.illus}
+
+
+*Catalogue: GR-0527*
 *Set: Core*
 
 *aka: ______________________________*

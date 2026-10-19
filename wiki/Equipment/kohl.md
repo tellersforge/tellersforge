@@ -1,5 +1,9 @@
 # Kohl
 
+![Kohl](../Images/GR-0579-equipment-kohl.jpg){.illus}
+
+
+*Catalogue: GR-0579*
 *Set: Core*
 
 *aka: ______________________________*

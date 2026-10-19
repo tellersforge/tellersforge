@@ -1,5 +1,9 @@
 # Ear spools
 
+![Ear spools](../Images/GR-0358-equipment-ear-spools.jpg){.illus}
+
+
+*Catalogue: GR-0358*
 *Set: Core*
 
 *aka: ______________________________*

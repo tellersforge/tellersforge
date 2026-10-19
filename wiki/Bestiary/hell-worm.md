@@ -1,5 +1,9 @@
 # Hell worm
 
+![Hell worm](../Images/BE-333-bestiary-hell-worm.jpg){.illus}
+
+
+*Catalogue: BE-333*
 *Set: Expansion*
 
 *aka: ______________________________*

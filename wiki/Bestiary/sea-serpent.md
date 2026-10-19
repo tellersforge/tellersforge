@@ -1,7 +1,8 @@
 # Sea serpent
 
-![Sea serpent](../Images/bestiary-sea-serpent.jpg){.illus}
+![Sea serpent](../Images/BE-527-bestiary-sea-serpent.jpg){.illus}
 
+*Catalogue: BE-527*
 *Set: Expansion*
 
 *aka: ______________________________*

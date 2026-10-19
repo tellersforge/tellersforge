@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 507 Amphibian-blend engineered folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Amphibian-blend engineered folk](../Images/species-amphibian-blend-engineered-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** An engineered amphibian-folk blended from several aquatic species, adaptable enough to fit easily into almost any society. (looks like: frog; good at: swimming, people and talk)
 - **Attributes:** AGI +1 END +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Swimming, Diving and Water Breathing follow the Amphibian family. Etiquette Mod+1 cancels the family's penalty.
 
 ### No. 508 Steel-blooded construct-flesh hybrid folk *(genres: classic fantasy)*
+
+![Steel-blooded construct-flesh hybrid folk](../Images/species-steel-blooded-construct-flesh-hybrid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A hybrid of flesh and metal built for raw strength, fiercely loyal to the guild that shaped them. (looks like: robot; good at: strength, toughness)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Genetically-composite unknown-origin folk *(NPC only)*
 
+![Genetically-composite unknown-origin folk](../Images/species-genetically-composite-unknown-origin-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Its blend matches no single parent family. NPC only.
 
 ### No. 509 Genetic experiment (uplifted chimera) *(genres: space opera: beast-like aliens)*
+
+![Genetic experiment (uplifted chimera)](../Images/species-genetic-experiment-uplifted-chimera.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** A small, illegally engineered chimera stitched from many creatures, astonishingly tough for its size, able to find a new purpose. (looks like: monster; good at: toughness, sneaking)
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A small engineered creature far tougher than its size suggests.
 
 ### No. 510 Uplifted small mammal *(genres: uplifted animals)*
+
+![Uplifted small mammal](../Images/species-uplifted-small-mammal.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** A small mammal uplifted to human intelligence and speech through gene-work and cybernetics, understandably bitter about how it was made. (looks like: small animal; good at: sneaking, climbing)
@@ -77,6 +92,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Rapidly-mutating feral hybrid *(NPC only)*
 
+![Rapidly-mutating feral hybrid](../Images/species-rapidly-mutating-feral-hybrid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1 INT −2 COU +1
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -86,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Its short life belongs to the lifespan entry. NPC only.
 
 ### Monstrous terror-beast *(beast)*
+
+![Monstrous terror-beast](../Images/species-monstrous-terror-beast.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped+tailed
 - **Attributes:** STR +7 AGI −4 END +3 INT −2
@@ -97,6 +118,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 511 Nanite-augmented folk *(genres: super-powered: mutants and the enhanced)*
 
+![Nanite-augmented folk](../Images/species-nanite-augmented-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary-looking folk whose bloodstream teems with tiny machines, healing them fast and boosting their strength, save at one frequency. (looks like: human; good at: toughness, making and fixing)
 - **Attributes:** none
@@ -106,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The nanites are gear, so their regeneration and strength are not listed here. Disguise Set 0 cancels the family's penalty.
 
 ### No. 512 Cyborg warrior dynasty *(genres: near future and cyberpunk)*
+
+![Cyborg warrior dynasty](../Images/species-cyborg-warrior-dynasty.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A warrior dynasty rebuilt generation after generation with mechanical parts, each heir more machine and deadlier in a fight. (looks like: robot; good at: fighting, toughness)
@@ -117,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Genetically unstable mutate *(NPC only)*
 
+![Genetically unstable mutate](../Images/species-genetically-unstable-mutate.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** none
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -126,6 +156,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The innate power many of them have is chosen for the individual. NPC only. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### Bio-engineered shock-troop *(beast)*
+
+![Bio-engineered shock-troop](../Images/species-bio-engineered-shock-troop.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** STR +1 AGI +2 INT −2

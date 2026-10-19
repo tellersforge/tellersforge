@@ -1,5 +1,8 @@
 # Trans-dimensional
 
+![Trans-dimensional](../Images/species-families-trans-dimensional.jpg){.illus}
+
+
 
 Beings from somewhere that is not quite here. Their homes are pocket realms folded inside a cupboard, parallel worlds a hair's breadth away, dream-countries, the spaces between the stars, and the corridors of time itself. Some are flat beings who see only length and width. Others are vast shapes whose shadows are all a normal eye can hold. The family holds travellers, exiles, predators, rift creatures, reality-auditors and counterparts of people you already know. They obey rules that do not quite match ours, and ours often do not bind them. Those who meet one usually come away uncertain which way is up.
 

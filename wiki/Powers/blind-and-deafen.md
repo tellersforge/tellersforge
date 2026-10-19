@@ -1,5 +1,9 @@
 # Blind & Deafen
 
+![Blind & Deafen](../Images/PW-025-powers-blind-and-deafen.jpg){.illus}
+
+
+*Catalogue: PW-025*
 *Set: Expansion*
 
 *aka: ______________________________*

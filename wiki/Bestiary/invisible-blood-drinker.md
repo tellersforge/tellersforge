@@ -1,5 +1,9 @@
 # Invisible blood-drinker
 
+![Invisible blood-drinker](../Images/BE-362-bestiary-invisible-blood-drinker.jpg){.illus}
+
+
+*Catalogue: BE-362*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Nondetection
 
+![Nondetection](../Images/PW-199-powers-nondetection.jpg){.illus}
+
+
+*Catalogue: PW-199*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wet-cell battery
 
+![Wet-cell battery](../Images/GR-1011-equipment-wet-cell-battery.jpg){.illus}
+
+
+*Catalogue: GR-1011*
 *Set: Expansion*
 
 *aka: ______________________________*

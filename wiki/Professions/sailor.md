@@ -1,5 +1,8 @@
 # Sailor
 
+![Sailor](../Images/professions-sailor.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

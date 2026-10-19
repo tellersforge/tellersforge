@@ -1,5 +1,9 @@
 # Giant slug
 
+![Giant slug](../Images/BE-280-bestiary-giant-slug.jpg){.illus}
+
+
+*Catalogue: BE-280*
 *Set: Expansion*
 
 *aka: ______________________________*

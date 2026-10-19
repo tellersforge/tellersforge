@@ -1,5 +1,9 @@
 # African elephant
 
+![African elephant](../Images/BE-009-bestiary-african-elephant.jpg){.illus}
+
+
+*Catalogue: BE-009*
 *Set: Core*
 
 *aka: ______________________________*

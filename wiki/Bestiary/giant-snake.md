@@ -1,5 +1,9 @@
 # Giant snake
 
+![Giant snake](../Images/BE-281-bestiary-giant-snake.jpg){.illus}
+
+
+*Catalogue: BE-281*
 *Set: Expansion*
 
 *aka: ______________________________*

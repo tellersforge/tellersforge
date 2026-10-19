@@ -1,5 +1,9 @@
 # Emotion Control
 
+![Emotion Control](../Images/PW-085-powers-emotion-control.jpg){.illus}
+
+
+*Catalogue: PW-085*
 *Set: Expansion*
 
 *aka: ______________________________*

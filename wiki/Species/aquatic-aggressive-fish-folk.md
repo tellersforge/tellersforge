@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 190 Deep sea predator folk *(genres: sea and sky)*
 
+![Deep sea predator folk](../Images/species-deep-sea-predator-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sharp-toothed deep-sea raiders who see perfectly in dark water. (looks like: fish; good at: swimming, fighting, keen senses)
 - **Attributes:** STR +1 END +2 INT −1 CHA −2 COU +1
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 191 Amphibious superhuman fish-folk *(genres: sea and sky)*
 
+![Amphibious superhuman fish-folk](../Images/species-amphibious-superhuman-fish-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Long-persecuted fish-folk with vastly superhuman strength, in the water or out of it. (looks like: fish; good at: swimming, strength, fighting)
 - **Attributes:** STR +5 AGI −2 END +2 INT −1 CHA −2 COU +1
@@ -47,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Strength itself is set in the attribute step. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 192 Bottom-dweller cave fish-folk *(genres: underworld and wild places)*
+
+![Bottom-dweller cave fish-folk](../Images/species-bottom-dweller-cave-fish-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Slippery cave-dwelling fish-folk who worship ancient deep gods and weaken on dry land. (looks like: fish; good at: swimming, fighting)

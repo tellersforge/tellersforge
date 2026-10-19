@@ -1,5 +1,9 @@
 # Arm ring
 
+![Arm ring](../Images/GR-0187-equipment-arm-ring.jpg){.illus}
+
+
+*Catalogue: GR-0187*
 *Set: Core*
 
 *aka: ______________________________*

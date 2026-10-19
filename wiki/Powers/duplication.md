@@ -1,5 +1,9 @@
 # Duplication
 
+![Duplication](../Images/PW-079-powers-duplication.jpg){.illus}
+
+
+*Catalogue: PW-079*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Snake-haired gorgon *(NPC only)*
 
+![Snake-haired gorgon](../Images/species-snake-haired-gorgon.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END −1 CHA +2 COU +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Hypnotism](../Skills/hypnotism.md) +1, [Intimidation](../Skills/intimidation.md) +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Legs Mod Running and Jumping back, per the species note. Petrification works by gaze. Legs, not coils: the family's constriction bonus is undone. The hair snakes bite too.
 
 ### Serpent-legged lamia *(NPC only)*
+
+![Serpent-legged lamia](../Images/species-serpent-legged-lamia.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END −1 INT +1 CHA +2

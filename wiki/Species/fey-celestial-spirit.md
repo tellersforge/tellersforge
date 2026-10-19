@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 439 Heavenly apsara *(genres: myth and legend, heavens, hells and other planes)*
 
+![Heavenly apsara](../Images/species-heavenly-apsara.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A celestial dancing spirit of a heavenly court, shapeshifting and irresistibly charming, sent to test the wisest ascetics. (looks like: human; good at: people and talk, powers and magic)
 - **Attributes:** STR −1 AGI +1 END −1 CHA +3
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Celestial dancers who shapeshift.
 
 ### No. 440 Garden peri *(genres: myth and legend)*
+
+![Garden peri](../Images/species-garden-peri.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** A beautiful winged fey fallen from grace, seeking redemption by quietly guiding and protecting mortals. (looks like: human with wings; good at: flying, people and talk)

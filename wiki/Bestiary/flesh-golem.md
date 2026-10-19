@@ -1,7 +1,8 @@
 # Flesh golem
 
-![Flesh golem](../Images/bestiary-flesh-golem.jpg){.illus}
+![Flesh golem](../Images/BE-203-bestiary-flesh-golem.jpg){.illus}
 
+*Catalogue: BE-203*
 *Set: Expansion*
 
 *aka: ______________________________*

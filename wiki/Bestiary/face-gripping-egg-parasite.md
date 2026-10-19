@@ -1,7 +1,8 @@
 # Face-gripping egg parasite
 
-![Face-gripping egg parasite](../Images/bestiary-face-gripping-egg-parasite.jpg){.illus}
+![Face-gripping egg parasite](../Images/BE-179-bestiary-face-gripping-egg-parasite.jpg){.illus}
 
+*Catalogue: BE-179*
 *Set: Expansion*
 
 *aka: ______________________________*

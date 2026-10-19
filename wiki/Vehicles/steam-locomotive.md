@@ -1,7 +1,8 @@
 # Steam Locomotive
 
-![Steam locomotive](../Images/vehicles-steam-locomotive.jpg){.illus}
+![Steam locomotive](../Images/GR-1125-vehicles-steam-locomotive.jpg){.illus}
 
+*Catalogue: GR-1125*
 *Set: Expansion*
 
 

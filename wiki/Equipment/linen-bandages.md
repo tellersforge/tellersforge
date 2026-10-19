@@ -1,5 +1,9 @@
 # Linen bandages
 
+![Linen bandages](../Images/GR-0601-equipment-linen-bandages.jpg){.illus}
+
+
+*Catalogue: GR-0601*
 *Set: Core*
 
 *aka: ______________________________*

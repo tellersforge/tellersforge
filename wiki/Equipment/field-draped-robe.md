@@ -1,5 +1,9 @@
 # Field-draped robe
 
+![Field-draped robe](../Images/GR-0401-equipment-field-draped-robe.jpg){.illus}
+
+
+*Catalogue: GR-0401*
 *Set: Expansion*
 
 *aka: ______________________________*

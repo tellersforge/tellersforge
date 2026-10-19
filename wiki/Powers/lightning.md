@@ -1,5 +1,9 @@
 # Lightning
 
+![Lightning](../Images/PW-153-powers-lightning.jpg){.illus}
+
+
+*Catalogue: PW-153*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 443 Giant-kin forest fey *(genres: classic fantasy)*
 
+![Giant-kin forest fey](../Images/species-giant-kin-forest-fey.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** A gentle, long-lived giant of the forest, wielding nature magic and vanishing into the trees at will. (looks like: tree; good at: powers and magic, wilderness)
 - **Attributes:** STR +2 AGI −2 CHA +2

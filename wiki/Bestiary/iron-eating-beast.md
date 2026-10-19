@@ -1,5 +1,9 @@
 # Iron-eating beast
 
+![Iron-eating beast](../Images/BE-365-bestiary-iron-eating-beast.jpg){.illus}
+
+
+*Catalogue: BE-365*
 *Set: Expansion*
 
 *aka: ______________________________*

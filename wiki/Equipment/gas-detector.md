@@ -1,5 +1,9 @@
 # Gas detector
 
+![Gas detector](../Images/GR-0450-equipment-gas-detector.jpg){.illus}
+
+
+*Catalogue: GR-0450*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Brood-mother eye orb
 
+![Brood-mother eye orb](../Images/BE-075-bestiary-brood-mother-eye-orb.jpg){.illus}
+
+
+*Catalogue: BE-075*
 *Set: Expansion*
 
 *aka: ______________________________*

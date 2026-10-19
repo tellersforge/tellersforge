@@ -1,5 +1,9 @@
 # Folding kayak
 
+![Folding kayak](../Images/GR-0429-equipment-folding-kayak.jpg){.illus}
+
+
+*Catalogue: GR-0429*
 *Set: Expansion*
 
 *aka: ______________________________*

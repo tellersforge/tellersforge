@@ -1,5 +1,9 @@
 # Pump Shotgun
 
+![Pump Shotgun](../Images/GR-0080-weapons-pump-shotgun.jpg){.illus}
+
+
+*Catalogue: GR-0080*
 *Set: Expansion*
 
 *aka: ______________________________*

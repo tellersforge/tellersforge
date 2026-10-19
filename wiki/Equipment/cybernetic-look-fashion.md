@@ -1,5 +1,9 @@
 # Cybernetic-look fashion
 
+![Cybernetic-look fashion](../Images/GR-0317-equipment-cybernetic-look-fashion.jpg){.illus}
+
+
+*Catalogue: GR-0317*
 *Set: Expansion*
 
 *aka: ______________________________*

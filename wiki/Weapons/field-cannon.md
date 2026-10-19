@@ -1,7 +1,8 @@
 # Field Cannon
 
-![Field cannon](../Images/weapons-field-cannon.jpg){.illus}
+![Field cannon](../Images/GR-0032-weapons-field-cannon.jpg){.illus}
 
+*Catalogue: GR-0032*
 *Set: Expansion*
 
 *aka: ______________________________*

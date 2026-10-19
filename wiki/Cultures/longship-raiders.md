@@ -1,5 +1,8 @@
 # Longship raiders
 
+![Longship raiders](../Images/cultures-longship-raiders.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

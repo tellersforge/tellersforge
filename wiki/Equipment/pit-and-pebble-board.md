@@ -1,5 +1,9 @@
 # Pit-and-pebble board
 
+![Pit-and-pebble board](../Images/GR-0726-equipment-pit-and-pebble-board.jpg){.illus}
+
+
+*Catalogue: GR-0726*
 *Set: Expansion*
 
 *aka: ______________________________*

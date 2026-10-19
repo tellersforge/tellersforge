@@ -1,5 +1,9 @@
 # Holy water flask
 
+![Holy water flask](../Images/GR-0541-equipment-holy-water-flask.jpg){.illus}
+
+
+*Catalogue: GR-0541*
 *Set: Expansion*
 
 *aka: ______________________________*

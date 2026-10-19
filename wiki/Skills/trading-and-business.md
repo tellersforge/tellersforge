@@ -1,5 +1,9 @@
 # Trading & Business
 
+![Trading & Business](../Images/SK-212-skills-trading-and-business.jpg){.illus}
+
+
+*Catalogue: SK-212*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Steam elemental
 
+![Steam elemental](../Images/BE-592-bestiary-steam-elemental.jpg){.illus}
+
+
+*Catalogue: BE-592*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Hacking deck
 
+![Hacking deck](../Images/GR-0483-equipment-hacking-deck.jpg){.illus}
+
+
+*Catalogue: GR-0483*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Lock bypass kit
 
+![Lock bypass kit](../Images/GR-0607-equipment-lock-bypass-kit.jpg){.illus}
+
+
+*Catalogue: GR-0607*
 *Set: Expansion*
 
 *aka: ______________________________*

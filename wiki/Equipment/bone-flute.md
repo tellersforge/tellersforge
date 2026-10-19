@@ -1,5 +1,9 @@
 # Bone flute
 
+![Bone flute](../Images/GR-0222-equipment-bone-flute.jpg){.illus}
+
+
+*Catalogue: GR-0222*
 *Set: Core*
 
 *aka: ______________________________*

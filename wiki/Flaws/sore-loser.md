@@ -1,5 +1,8 @@
 # Sore Loser
 
+![Sore Loser](../Images/flaws-sore-loser.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when can't accept losing, and makes things worse.

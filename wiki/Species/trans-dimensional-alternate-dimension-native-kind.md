@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Negative-zone insectoid royal *(NPC only)*
 
+![Negative-zone insectoid royal](../Images/species-negative-zone-insectoid-royal.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Negative-zone insectoid drone *(NPC only)*
 
+![Negative-zone insectoid drone](../Images/species-negative-zone-insectoid-drone.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Composure](../Skills/composure.md) +1, [Formation Fighting](../Skills/formation-fighting.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Negative-zone brute warrior *(NPC only)*
 
+![Negative-zone brute warrior](../Images/species-negative-zone-brute-warrior.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Composure](../Skills/composure.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A tusked warrior people of immense strength and durability.
 
 ### No. 772 Micro-realm homeworld native · No. 773 Micro-realm kingdom native · Micro-realm dominion native *(genres: multiverse and time)*
+
+![Micro-realm homeworld native](../Images/species-micro-realm-homeworld-native.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Human-like folk from a subatomic-scale homeworld, ordinary among their own tiny kind. (looks like: human; good at: knowledge, wilderness)
@@ -67,6 +79,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Micro-realm energy-drainer *(NPC only)*
 
+![Micro-realm energy-drainer](../Images/species-micro-realm-energy-drainer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -76,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Touch only.
 
 ### Dark-dimension denizen · Crimson-cosmos denizen · Otherworld denizen *(NPC only)*
+
+![Dark-dimension denizen](../Images/species-dark-dimension-denizen.jpg){.illus}
+
 
 - **Size:** varies · **Body:** varies
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
@@ -88,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Darkforce-dimension shadow being *(NPC only)*
 
+![Darkforce-dimension shadow being](../Images/species-darkforce-dimension-shadow-being.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR −2 AGI +2 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -97,6 +118,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Hostility to light is a flaw. No hands: held weapons unusable.
 
 ### Mindscape dweller *(NPC only)*
+
+![Mindscape dweller](../Images/species-mindscape-dweller.jpg){.illus}
+
 
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** STR −3 INT +1 WIS +1 PER +1 CHA −1

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Kodama tree spirit *(NPC only)*
 
+![Kodama tree spirit](../Images/species-kodama-tree-spirit.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 END −1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Nature Lore](../Skills/nature-lore.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; tiny size is a size-class matter.
 
 ### No. 435 Tree-bonded fey *(genres: fairy tale and folklore, myth and legend)*
+
+![Tree-bonded fey](../Images/species-tree-bonded-fey.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A charming fey spirit bound for life to a single tree, wielding gentle nature magic. (looks like: tree; good at: powers and magic, people and talk)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wood spirit/spriggan *(NPC only)*
 
+![Wood spirit/spriggan](../Images/species-wood-spirit-spriggan.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END +1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Camouflage](../Skills/camouflage.md) +1, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Nature Lore](../Skills/nature-lore.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Growing only when enraged.
 
 ### Eternal child forest guardian *(NPC only)*
+
+![Eternal child forest guardian](../Images/species-eternal-child-forest-guardian.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END −1 CHA +2
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Deer-spirit forest guardian *(NPC only)*
 
+![Deer-spirit forest guardian](../Images/species-deer-spirit-forest-guardian.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +1 END −1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Nature Lore](../Skills/nature-lore.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -74,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forest guardian spirit *(NPC only)*
 
+![Forest guardian spirit](../Images/species-forest-guardian-spirit.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END −1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Nature Lore](../Skills/nature-lore.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -82,6 +100,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Guards its forest and leads trespassers astray.
 
 ### No. 436 Hidden civilized forest folk *(genres: fairy tale and folklore)*
+
+![Hidden civilized forest folk](../Images/species-hidden-civilized-forest-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pale, refined fey folk who live a whole hidden society alongside humans in the forest, almost never glimpsed. (looks like: elf; good at: sneaking, people and talk)
@@ -93,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### One-legged mountain sprite *(NPC only)*
 
+![One-legged mountain sprite](../Images/species-one-legged-mountain-sprite.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END −1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Survival: Mountain](../Skills/survival-mountain.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Nature Lore](../Skills/nature-lore.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Running](../Skills/running.md) −2, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -103,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 437 Tiny culture-hero nature spirit *(genres: fairy tale and folklore)*
 
+![Tiny culture-hero nature spirit](../Images/species-tiny-culture-hero-nature-spirit.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped+winged
 - **What it's like:** A tiny, kindly forest spirit remembered for teaching humans the secrets of fire and magic. (looks like: fairy; good at: powers and magic, flying)
 - **Attributes:** STR −3 AGI +3 END −1 INT +1 CHA +2
@@ -112,6 +139,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Tiny winged spirit who first taught fire.
 
 ### No. 438 Nature-wealth guardian spirit *(genres: myth and legend)*
+
+![Nature-wealth guardian spirit](../Images/species-nature-wealth-guardian-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A guardian spirit of the wild woods and hidden treasure, usually kindly but capable of being dangerously alluring. (looks like: tree; good at: powers and magic, wilderness)

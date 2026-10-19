@@ -1,5 +1,9 @@
 # Signal fire kit
 
+![Signal fire kit](../Images/GR-0854-equipment-signal-fire-kit.jpg){.illus}
+
+
+*Catalogue: GR-0854*
 *Set: Core*
 
 *aka: ______________________________*

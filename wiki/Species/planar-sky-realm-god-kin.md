@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 602 Elder sky-realm deity *(genres: super-powered: cosmic and mythic, myth and legend)*
 
+![Elder sky-realm deity](../Images/species-elder-sky-realm-deity.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Ancient sky-dwelling beings worshipped as gods, wielding magic that looks like advanced technology. (looks like: god; good at: strength, powers and magic)
 - **Attributes:** STR +3 AGI −2 WIS +1 CHA +1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 5 · Damage longsword 2d6 · Armour 2 · Life 25 · Threat 2 ([Bestiary roles](../bestiary.md))
 
 ### No. 603 Fertility sky-realm deity *(genres: super-powered: cosmic and mythic, myth and legend)*
+
+![Fertility sky-realm deity](../Images/species-fertility-sky-realm-deity.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Fertility gods of their own sky-realm, old rivals-turned-allies of a neighbouring pantheon, gifted at seeing what's to come. (looks like: god; good at: powers and magic, strength)

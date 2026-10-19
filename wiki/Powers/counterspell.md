@@ -1,5 +1,9 @@
 # Counterspell
 
+![Counterspell](../Images/PW-053-powers-counterspell.jpg){.illus}
+
+
+*Catalogue: PW-053*
 *Set: Core*
 
 *aka: ______________________________*

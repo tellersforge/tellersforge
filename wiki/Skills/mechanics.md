@@ -1,5 +1,9 @@
 # Mechanics
 
+![Mechanics](../Images/SK-125-skills-mechanics.jpg){.illus}
+
+
+*Catalogue: SK-125*
 *Set: Expansion*
 
 *aka: ______________________________*

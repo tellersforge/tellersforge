@@ -1,5 +1,9 @@
 # Hologram recorder
 
+![Hologram recorder](../Images/GR-0534-equipment-hologram-recorder.jpg){.illus}
+
+
+*Catalogue: GR-0534*
 *Set: Expansion*
 
 *aka: ______________________________*

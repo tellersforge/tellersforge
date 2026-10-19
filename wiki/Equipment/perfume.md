@@ -1,5 +1,9 @@
 # Perfume
 
+![Perfume](../Images/GR-0717-equipment-perfume.jpg){.illus}
+
+
+*Catalogue: GR-0717*
 *Set: Expansion*
 
 *aka: ______________________________*

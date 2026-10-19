@@ -1,5 +1,9 @@
 # Density & Weight
 
+![Density & Weight](../Images/PW-065-powers-density-and-weight.jpg){.illus}
+
+
+*Catalogue: PW-065*
 *Set: Expansion*
 
 *aka: ______________________________*

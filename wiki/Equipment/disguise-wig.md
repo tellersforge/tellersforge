@@ -1,5 +1,9 @@
 # Disguise wig
 
+![Disguise wig](../Images/GR-0334-equipment-disguise-wig.jpg){.illus}
+
+
+*Catalogue: GR-0334*
 *Set: Expansion*
 
 *aka: ______________________________*

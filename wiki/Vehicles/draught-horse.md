@@ -1,5 +1,9 @@
 # Draught Horse
 
+![Draught Horse](../Images/GR-1064-vehicles-draught-horse.jpg){.illus}
+
+
+*Catalogue: GR-1064*
 *Set: Core*
 
 

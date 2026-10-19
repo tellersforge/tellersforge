@@ -1,7 +1,8 @@
 # Troop Lander
 
-![Troop lander](../Images/vehicles-troop-lander.jpg){.illus}
+![Troop lander](../Images/GR-1127-vehicles-troop-lander.jpg){.illus}
 
+*Catalogue: GR-1127*
 *Set: Expansion*
 
 

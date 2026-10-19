@@ -1,7 +1,8 @@
 # Possessed scarecrow
 
-![Possessed scarecrow](../Images/bestiary-possessed-scarecrow.jpg){.illus}
+![Possessed scarecrow](../Images/BE-470-bestiary-possessed-scarecrow.jpg){.illus}
 
+*Catalogue: BE-470*
 *Set: Core*
 
 *aka: ______________________________*

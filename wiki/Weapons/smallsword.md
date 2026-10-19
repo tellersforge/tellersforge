@@ -1,5 +1,9 @@
 # Smallsword
 
+![Smallsword](../Images/GR-0098-weapons-smallsword.jpg){.illus}
+
+
+*Catalogue: GR-0098*
 *Set: Expansion*
 
 *aka: ______________________________*

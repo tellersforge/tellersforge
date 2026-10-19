@@ -1,5 +1,9 @@
 # Cable and adapter kit
 
+![Cable and adapter kit](../Images/GR-0243-equipment-cable-and-adapter-kit.jpg){.illus}
+
+
+*Catalogue: GR-0243*
 *Set: Expansion*
 
 *aka: ______________________________*

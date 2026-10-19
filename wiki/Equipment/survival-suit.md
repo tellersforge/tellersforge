@@ -1,5 +1,9 @@
 # Survival suit
 
+![Survival suit](../Images/GR-0938-equipment-survival-suit.jpg){.illus}
+
+
+*Catalogue: GR-0938*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Sentimentality
 
+![Sentimentality](../Images/flaws-sentimentality.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when holds on to people, places and keepsakes even when it costs them.

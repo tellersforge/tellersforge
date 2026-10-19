@@ -1,5 +1,9 @@
 # Strangler vine
 
+![Strangler vine](../Images/BE-600-bestiary-strangler-vine.jpg){.illus}
+
+
+*Catalogue: BE-600*
 *Set: Expansion*
 
 *aka: ______________________________*

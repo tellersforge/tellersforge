@@ -1,5 +1,9 @@
 # Bearskin cloak
 
+![Bearskin cloak](../Images/GR-0205-equipment-bearskin-cloak.jpg){.illus}
+
+
+*Catalogue: GR-0205*
 *Set: Core*
 
 *aka: ______________________________*

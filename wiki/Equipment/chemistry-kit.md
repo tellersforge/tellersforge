@@ -1,5 +1,9 @@
 # Chemistry kit
 
+![Chemistry kit](../Images/GR-0271-equipment-chemistry-kit.jpg){.illus}
+
+
+*Catalogue: GR-0271*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 373 Coastal/sea folk *(genres: sea and sky)*
 
+![Coastal/sea folk](../Images/species-coastal-sea-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sea-loving elves who swim and hold their breath for ages, some turning to sea magic and others to amphibious piracy. (looks like: elf; good at: swimming, powers and magic)
 - **Attributes:** STR −1 AGI +2 WIS +1 PER +2

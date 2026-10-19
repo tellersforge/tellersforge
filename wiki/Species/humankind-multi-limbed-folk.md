@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 72 Four-armed folk *(genres: space opera: strange aliens)*
 
+![Four-armed folk](../Images/species-four-armed-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Calm, four-armed people, twice as many hands for building and climbing. (looks like: alien; good at: strength, making and fixing, climbing)
 - **Attributes:** STR +2 AGI −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The three-limbed variant has the same numbers.
 
 ### No. 73 Desert nomad multi-limbed folk *(genres: space opera: strange aliens)*
+
+![Desert nomad multi-limbed folk](../Images/species-desert-nomad-multi-limbed-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Disciplined four-armed desert nomads, skilled with tools and used to the heat. (looks like: alien; good at: making and fixing, wilderness, climbing)

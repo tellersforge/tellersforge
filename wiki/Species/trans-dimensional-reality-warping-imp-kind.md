@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 774 Mischievous fifth-dimensional prankster *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
 
+![Mischievous fifth-dimensional prankster](../Images/species-mischievous-fifth-dimensional-prankster.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, cartoonish tricksters from a fifth dimension where just thinking something can make it real. (looks like: imp; good at: powers and magic, sneaking)
 - **Attributes:** STR −2 AGI +2 INT +1 PER +1 CHA −1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 775 Rival fifth-dimensional rulemaker *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
 
+![Rival fifth-dimensional rulemaker](../Images/species-rival-fifth-dimensional-rulemaker.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Rival fifth-dimensional imps, just as reality-bending as their more famous cousins but bound by their own strict rules. (looks like: imp; good at: powers and magic, people and talk)
 - **Attributes:** STR −2 AGI +2 INT +1 PER +1 CHA −1
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Reality Warping ends under its own banishment rules (a flaw). Lifespan (very long-lived) is a lexicon detail, not a game number. High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### Limbo teleporting imp *(NPC only)*
+
+![Limbo teleporting imp](../Images/species-limbo-teleporting-imp.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 INT +1 PER +1 CHA −1

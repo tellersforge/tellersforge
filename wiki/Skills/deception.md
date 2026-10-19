@@ -1,5 +1,9 @@
 # Deception
 
+![Deception](../Images/SK-050-skills-deception.jpg){.illus}
+
+
+*Catalogue: SK-050*
 *Set: Core · Basic skill: Deception*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Create & Destroy Water
 
+![Create & Destroy Water](../Images/PW-055-powers-create-and-destroy-water.jpg){.illus}
+
+
+*Catalogue: PW-055*
 *Set: Expansion*
 
 *aka: ______________________________*

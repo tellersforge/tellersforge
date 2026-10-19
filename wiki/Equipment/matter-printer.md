@@ -1,7 +1,8 @@
 # Matter printer
 
-![Matter printer](../Images/equipment-matter-printer.jpg){.illus}
+![Matter printer](../Images/GR-0634-equipment-matter-printer.jpg){.illus}
 
+*Catalogue: GR-0634*
 *Set: Expansion*
 
 *aka: ______________________________*

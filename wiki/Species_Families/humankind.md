@@ -1,5 +1,8 @@
 # Humankind
 
+![Humankind](../Images/species-families-humankind.jpg){.illus}
+
+
 
 The yardstick every other people is measured against, usually without being asked. Humans are soft-skinned, short-lived and endlessly adaptable: they farm frozen steppes and baking deserts, sail to islands no one else wanted, and eventually climb into the sky. The family also takes in everyone close enough to pass in a crowd. Some were altered by their own hand, with implants, bred bloodlines or strange gifts of the mind. Others simply grew up under another sun and came out blue, ridged, antennaed or oddly calm. What unites them is the shape of the thing: two arms, two legs, a face that can lie and laugh, and a habit of assuming they are the heroes of every story.
 

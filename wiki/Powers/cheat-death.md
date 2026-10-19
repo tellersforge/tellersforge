@@ -1,5 +1,9 @@
 # Cheat Death
 
+![Cheat Death](../Images/PW-037-powers-cheat-death.jpg){.illus}
+
+
+*Catalogue: PW-037*
 *Set: Expansion*
 
 *aka: ______________________________*

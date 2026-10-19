@@ -1,5 +1,9 @@
 # Blacksmithing
 
+![Blacksmithing](../Images/SK-019-skills-blacksmithing.jpg){.illus}
+
+
+*Catalogue: SK-019*
 *Set: Expansion*
 
 *aka: ______________________________*

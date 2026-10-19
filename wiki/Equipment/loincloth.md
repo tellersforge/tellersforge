@@ -1,5 +1,9 @@
 # Loincloth
 
+![Loincloth](../Images/GR-0614-equipment-loincloth.jpg){.illus}
+
+
+*Catalogue: GR-0614*
 *Set: Expansion*
 
 *aka: ______________________________*

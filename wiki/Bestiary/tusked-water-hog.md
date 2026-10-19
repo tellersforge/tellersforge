@@ -1,5 +1,9 @@
 # Tusked water-hog
 
+![Tusked water-hog](../Images/BE-637-bestiary-tusked-water-hog.jpg){.illus}
+
+
+*Catalogue: BE-637*
 *Set: Expansion*
 
 *aka: ______________________________*

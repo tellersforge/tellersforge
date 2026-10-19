@@ -1,5 +1,9 @@
 # Radiant Smite
 
+![Radiant Smite](../Images/PW-236-powers-radiant-smite.jpg){.illus}
+
+
+*Catalogue: PW-236*
 *Set: Expansion*
 
 *aka: ______________________________*

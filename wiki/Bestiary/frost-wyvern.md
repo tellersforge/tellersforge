@@ -1,7 +1,8 @@
 # Frost wyvern
 
-![Frost wyvern](../Images/bestiary-frost-wyvern.jpg){.illus}
+![Frost wyvern](../Images/BE-224-bestiary-frost-wyvern.jpg){.illus}
 
+*Catalogue: BE-224*
 *Set: Expansion*
 
 *aka: ______________________________*

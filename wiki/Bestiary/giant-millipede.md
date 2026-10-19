@@ -1,5 +1,9 @@
 # Giant millipede
 
+![Giant millipede](../Images/BE-263-bestiary-giant-millipede.jpg){.illus}
+
+
+*Catalogue: BE-263*
 *Set: Expansion*
 
 *aka: ______________________________*

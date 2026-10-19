@@ -1,5 +1,9 @@
 # Island whale
 
+![Island whale](../Images/BE-372-bestiary-island-whale.jpg){.illus}
+
+
+*Catalogue: BE-372*
 *Set: Expansion*
 
 *aka: ______________________________*

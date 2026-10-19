@@ -1,5 +1,9 @@
 # River guardian-lizard
 
+![River guardian-lizard](../Images/BE-492-bestiary-river-guardian-lizard.jpg){.illus}
+
+
+*Catalogue: BE-492*
 *Set: Expansion*
 
 *aka: ______________________________*

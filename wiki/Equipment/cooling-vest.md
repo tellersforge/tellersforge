@@ -1,5 +1,9 @@
 # Cooling vest
 
+![Cooling vest](../Images/GR-0300-equipment-cooling-vest.jpg){.illus}
+
+
+*Catalogue: GR-0300*
 *Set: Expansion*
 
 *aka: ______________________________*

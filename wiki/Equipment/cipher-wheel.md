@@ -1,5 +1,9 @@
 # Cipher wheel
 
+![Cipher wheel](../Images/GR-0273-equipment-cipher-wheel.jpg){.illus}
+
+
+*Catalogue: GR-0273*
 *Set: Expansion*
 
 *aka: ______________________________*

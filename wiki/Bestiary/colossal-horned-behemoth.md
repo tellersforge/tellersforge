@@ -1,5 +1,9 @@
 # Colossal horned behemoth
 
+![Colossal horned behemoth](../Images/BE-119-bestiary-colossal-horned-behemoth.jpg){.illus}
+
+
+*Catalogue: BE-119*
 *Set: Expansion*
 
 *aka: ______________________________*

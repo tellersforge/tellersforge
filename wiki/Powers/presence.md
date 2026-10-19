@@ -1,5 +1,9 @@
 # Presence
 
+![Presence](../Images/PW-232-powers-presence.jpg){.illus}
+
+
+*Catalogue: PW-232*
 *Set: Expansion*
 
 *aka: ______________________________*

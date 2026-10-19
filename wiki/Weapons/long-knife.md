@@ -1,5 +1,9 @@
 # Long Knife
 
+![Long Knife](../Images/GR-0062-weapons-long-knife.jpg){.illus}
+
+
+*Catalogue: GR-0062*
 *Set: Core*
 
 *aka: ______________________________*

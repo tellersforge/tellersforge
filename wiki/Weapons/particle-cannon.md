@@ -1,5 +1,9 @@
 # Particle Cannon
 
+![Particle Cannon](../Images/GR-0073-weapons-particle-cannon.jpg){.illus}
+
+
+*Catalogue: GR-0073*
 *Set: Expansion*
 
 *aka: ______________________________*

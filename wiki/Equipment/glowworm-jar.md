@@ -1,5 +1,9 @@
 # Glowworm jar
 
+![Glowworm jar](../Images/GR-0462-equipment-glowworm-jar.jpg){.illus}
+
+
+*Catalogue: GR-0462*
 *Set: Core*
 
 *aka: ______________________________*

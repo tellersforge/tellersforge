@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Many-armed giant *(NPC only; NPC-scale)*
 
+![Many-armed giant](../Images/species-many-armed-giant.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** biped+multi-limbed
 - **Attributes:** STR +9 AGI −6 END +2 INT −1 WIS +1 PER +3 COU +2
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Throwing](../Skills/throwing.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept

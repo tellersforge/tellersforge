@@ -1,5 +1,8 @@
 # Ungulate
 
+![Ungulate](../Images/species-families-ungulate.jpg){.illus}
+
+
 
 Hooved folk and beasts: goats, sheep, cattle, deer, pigs, antelope, camels, tapirs and their many cousins. They are herd peoples at heart, happiest among their own, alert to danger and ready to run or to lower their horns. The family holds stubborn goat-folk of the crags, steady cattle farmers, graceful deer of the forest, bull-headed labyrinth warriors, gentle beasts of burden and hooved monsters of the wild. Many are diplomats and traders, used to getting along with others. Predator peoples see them as prey at their peril, since a charging bull or a butting ram changes minds very quickly.
 

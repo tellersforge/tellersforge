@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 687 Playful burrow-dwelling folk *(genres: fairy tale and folklore, underworld and wild places)*
 
+![Playful burrow-dwelling folk](../Images/species-playful-burrow-dwelling-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, furry burrow-dwellers with a playful, communal culture, easy neighbours to tiny builders and giants alike. (looks like: mouse; good at: sneaking, wilderness)
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 CHA +1 COU −1

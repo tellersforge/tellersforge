@@ -1,7 +1,8 @@
 # Barrier projector
 
-![Barrier projector](../Images/equipment-barrier-projector.jpg){.illus}
+![Barrier projector](../Images/GR-0202-equipment-barrier-projector.jpg){.illus}
 
+*Catalogue: GR-0202*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Braggart
 
+![Braggart](../Images/flaws-braggart.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when brags, exaggerates, tells tall tales about themselves.

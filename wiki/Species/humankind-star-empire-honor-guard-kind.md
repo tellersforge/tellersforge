@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Heavy-world native *(NPC only; NPC-scale)*
 
+![Heavy-world native](../Images/species-heavy-world-native.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +3
 - **Skills:** [High-Gravity Conditioning](../Skills/high-gravity-conditioning.md) +3

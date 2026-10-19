@@ -1,5 +1,9 @@
 # Scent lure
 
+![Scent lure](../Images/GR-0821-equipment-scent-lure.jpg){.illus}
+
+
+*Catalogue: GR-0821*
 *Set: Core*
 
 *aka: ______________________________*

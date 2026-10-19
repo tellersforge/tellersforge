@@ -1,5 +1,9 @@
 # Electrician's kit
 
+![Electrician's kit](../Images/GR-0364-equipment-electrician-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0364*
 *Set: Expansion*
 
 *aka: ______________________________*

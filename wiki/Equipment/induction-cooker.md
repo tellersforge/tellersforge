@@ -1,5 +1,9 @@
 # Induction cooker
 
+![Induction cooker](../Images/GR-0556-equipment-induction-cooker.jpg){.illus}
+
+
+*Catalogue: GR-0556*
 *Set: Expansion*
 
 *aka: ______________________________*

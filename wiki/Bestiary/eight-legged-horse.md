@@ -1,7 +1,8 @@
 # Eight-legged horse
 
-![Eight-legged horse](../Images/bestiary-eight-legged-horse.jpg){.illus}
+![Eight-legged horse](../Images/BE-170-bestiary-eight-legged-horse.jpg){.illus}
 
+*Catalogue: BE-170*
 *Set: Expansion*
 
 *aka: ______________________________*

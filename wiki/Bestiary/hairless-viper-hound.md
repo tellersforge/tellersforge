@@ -1,5 +1,9 @@
 # Hairless viper hound
 
+![Hairless viper hound](../Images/BE-324-bestiary-hairless-viper-hound.jpg){.illus}
+
+
+*Catalogue: BE-324*
 *Set: Expansion*
 
 *aka: ______________________________*

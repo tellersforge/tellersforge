@@ -1,5 +1,8 @@
 # Short Temper
 
+![Short Temper](../Images/flaws-short-temper.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when flies into a rage when provoked.

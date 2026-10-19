@@ -1,5 +1,9 @@
 # Yali
 
+![Yali](../Images/BE-691-bestiary-yali.jpg){.illus}
+
+
+*Catalogue: BE-691*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 226 Noir-city avian citizen *(genres: animal fable)*
 
+![Noir-city avian citizen](../Images/species-noir-city-avian-citizen.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sharp-suited bird-folk lawyers and officials working the city's shadier corners. (looks like: bird; good at: people and talk, keen senses)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2

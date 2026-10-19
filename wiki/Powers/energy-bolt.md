@@ -1,5 +1,9 @@
 # Energy Bolt
 
+![Energy Bolt](../Images/PW-088-powers-energy-bolt.jpg){.illus}
+
+
+*Catalogue: PW-088*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

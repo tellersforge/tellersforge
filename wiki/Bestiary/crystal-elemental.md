@@ -1,7 +1,8 @@
 # Crystal elemental
 
-![Crystal elemental](../Images/bestiary-crystal-elemental.jpg){.illus}
+![Crystal elemental](../Images/BE-137-bestiary-crystal-elemental.jpg){.illus}
 
+*Catalogue: BE-137*
 *Set: Expansion*
 
 *aka: ______________________________*

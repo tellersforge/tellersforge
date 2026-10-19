@@ -1,5 +1,9 @@
 # Printed book
 
+![Printed book](../Images/GR-0761-equipment-printed-book.jpg){.illus}
+
+
+*Catalogue: GR-0761*
 *Set: Expansion*
 
 *aka: ______________________________*

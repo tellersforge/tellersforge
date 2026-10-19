@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 352 Elemental dragon-blood scion *(genres: classic fantasy)*
 
+![Elemental dragon-blood scion](../Images/species-elemental-dragon-blood-scion.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A young scion of elemental dragon blood commanding fire, water, earth, air or wood for a great empire. (looks like: human with scales; good at: powers and magic, fighting)
 - **Attributes:** STR +1 END +1 WIS +1

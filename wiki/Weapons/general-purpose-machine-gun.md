@@ -1,7 +1,8 @@
 # General-Purpose Machine Gun
 
-![General-purpose machine gun](../Images/weapons-general-purpose-machine-gun.jpg){.illus}
+![General-purpose machine gun](../Images/GR-0042-weapons-general-purpose-machine-gun.jpg){.illus}
 
+*Catalogue: GR-0042*
 *Set: Expansion*
 
 *aka: ______________________________*

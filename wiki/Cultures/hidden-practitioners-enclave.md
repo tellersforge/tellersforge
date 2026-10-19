@@ -1,5 +1,8 @@
 # Hidden practitioners' enclave
 
+![Hidden practitioners' enclave](../Images/cultures-hidden-practitioners-enclave.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

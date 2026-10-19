@@ -1,7 +1,8 @@
 # Grey wolf
 
-![Grey wolf](../Images/bestiary-grey-wolf.jpg){.illus}
+![Grey wolf](../Images/BE-319-bestiary-grey-wolf.jpg){.illus}
 
+*Catalogue: BE-319*
 *Set: Core*
 
 *aka: ______________________________*

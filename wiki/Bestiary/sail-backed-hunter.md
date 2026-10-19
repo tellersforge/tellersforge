@@ -1,5 +1,9 @@
 # Sail-backed hunter
 
+![Sail-backed hunter](../Images/BE-511-bestiary-sail-backed-hunter.jpg){.illus}
+
+
+*Catalogue: BE-511*
 *Set: Expansion*
 
 *aka: ______________________________*

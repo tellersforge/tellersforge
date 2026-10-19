@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Body-melding shapeshifter folk *(NPC only)*
 
+![Body-melding shapeshifter folk](../Images/species-body-melding-shapeshifter-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** AGI +1 INT +2 WIS +1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +4, [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Body-snatching alien impersonators *(NPC only)*
 
+![Body-snatching alien impersonators](../Images/species-body-snatching-alien-impersonators.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** AGI +1 INT +1 WIS −1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +4, [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Duplication requires consuming or replacing the original.
 
 ### Template-mimic shapeshifter folk · No. 704 Refugee mimic shapeshifter folk · No. 705 Mimic folk (true-form mottled) · Impersonating shapeshifter · No. 710 Silver-grey protean shapeshifter *(NPC only)*
+
+![Template-mimic shapeshifter folk](../Images/species-template-mimic-shapeshifter-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 INT +1 WIS −1 CHA +1
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Compressed skin-suit mimic folk *(NPC only)*
 
+![Compressed skin-suit mimic folk](../Images/species-compressed-skin-suit-mimic-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 INT +1 WIS −1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +4, [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -63,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Grey infiltrator folk *(NPC only)*
 
+![Grey infiltrator folk](../Images/species-grey-infiltrator-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 INT +1 WIS −1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +4, [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1
@@ -72,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Self-Alteration covers its one human disguise-form. NPC.
 
 ### No. 706 Great-link liquid metamorph *(genres: space opera: strange aliens)*
+
+![Great-link liquid metamorph](../Images/species-great-link-liquid-metamorph.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** A golden liquid that can reshape into any solid form with enough concentration, and heals by turning liquid again. (looks like: liquid metal; good at: powers and magic, sneaking)
@@ -84,6 +102,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Augmented-cellular infiltrator culture *(NPC only)*
 
+![Augmented-cellular infiltrator culture](../Images/species-augmented-cellular-infiltrator-culture.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +2 INT +1 WIS −1 CHA +1
 - **Skills:** [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Disguise](../Skills/disguise.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -93,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The engineering is heritable and part of the body, not gear. NPC.
 
 ### No. 707 Minor face-changing folk *(genres: fairy tale and folklore)*
+
+![Minor face-changing folk](../Images/species-minor-face-changing-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Quiet shapeshifters who can only change face and voice, but can read a person's memories with a touch. (looks like: human; good at: powers and magic, sneaking)
@@ -105,6 +129,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Doppelganger infiltrator *(NPC only)*
 
+![Doppelganger infiltrator](../Images/species-doppelganger-infiltrator.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 INT +1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +4, [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -113,6 +140,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A perfect mimic that also skims surface thoughts.
 
 ### No. 708 Deceptive form-changing spy race *(genres: space opera: near-humans)*
+
+![Deceptive form-changing spy race](../Images/species-deceptive-form-changing-spy-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Secretive shapeshifters who perfectly copy anyone's appearance, prized and feared as spies. (looks like: human; good at: sneaking, people and talk)
@@ -124,6 +154,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Parasitic host-replacing mimic *(NPC only)*
 
+![Parasitic host-replacing mimic](../Images/species-parasitic-host-replacing-mimic.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous+biped
 - **Attributes:** STR −2 AGI +1 END −1 INT +1 WIS −1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +4, [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -132,6 +165,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Its true form is a soft, wormlike mass.
 
 ### No. 709 Human-host head parasite *(genres: space opera: strange aliens)*
+
+![Human-host head parasite](../Images/species-human-host-head-parasite.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Shapeshifters that quietly take over a human host, able to twist their own bodies into blade-like weapons. (looks like: human; good at: fighting, sneaking)
@@ -144,6 +180,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 711 Liquid-metal weapon-shaper *(genres: space opera: strange aliens)*
 
+![Liquid-metal weapon-shaper](../Images/species-liquid-metal-weapon-shaper.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Loyal, easy-going shapeshifters who can mould their own liquid-metal body into tools or weapons. (looks like: robot; good at: making and fixing, fighting)
 - **Attributes:** AGI +1 INT +1 WIS −1 CHA +1
@@ -155,6 +194,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living clay shapeshifter *(NPC only)*
 
+![Living clay shapeshifter](../Images/species-living-clay-shapeshifter.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR +2 AGI +1 END +2 WIS −1 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +4, [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -164,6 +206,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Vulnerable to heat, drying and some chemicals (a flaw). NPC.
 
 ### Empowered agent shapeshifter *(NPC only)*
+
+![Empowered agent shapeshifter](../Images/species-empowered-agent-shapeshifter.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 AGI +1 END +2 INT +1 WIS −1 CHA +1
@@ -175,6 +220,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Warrior caste shapeshifter *(NPC only)*
 
+![Warrior caste shapeshifter](../Images/species-warrior-caste-shapeshifter.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 END +2 INT +1 WIS −1
 - **Skills:** [Mimicry](../Skills/mimicry.md) +3, [Acting](../Skills/acting.md) +2, [Disguise](../Skills/disguise.md) +2, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1
@@ -183,6 +231,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Bred for war: tougher but clumsier at disguise.
 
 ### Sorcerer-shapeshifter infiltrator *(NPC only)*
+
+![Sorcerer-shapeshifter infiltrator](../Images/species-sorcerer-shapeshifter-infiltrator.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 INT +2 CHA +1
@@ -193,6 +244,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Curse stands in for their dark sorcery. Weakness to one neutralising weapon is a flaw. NPC.
 
 ### Dimension-displaced doppelganger *(NPC only)*
+
+![Dimension-displaced doppelganger](../Images/species-dimension-displaced-doppelganger.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END −2 INT +1 WIS −1 CHA +1

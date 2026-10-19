@@ -1,5 +1,9 @@
 # Executioner's hood
 
+![Executioner's hood](../Images/GR-0378-equipment-executioner-s-hood.jpg){.illus}
+
+
+*Catalogue: GR-0378*
 *Set: Expansion*
 
 *aka: ______________________________*

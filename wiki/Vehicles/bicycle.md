@@ -1,5 +1,9 @@
 # Bicycle
 
+![Bicycle](../Images/GR-1047-vehicles-bicycle.jpg){.illus}
+
+
+*Catalogue: GR-1047*
 *Set: Core*
 
 

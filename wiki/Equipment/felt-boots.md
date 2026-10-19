@@ -1,5 +1,9 @@
 # Felt boots
 
+![Felt boots](../Images/GR-0393-equipment-felt-boots.jpg){.illus}
+
+
+*Catalogue: GR-0393*
 *Set: Expansion*
 
 *aka: ______________________________*

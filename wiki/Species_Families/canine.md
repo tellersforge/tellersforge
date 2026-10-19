@@ -1,5 +1,8 @@
 # Canine
 
+![Canine](../Images/species-families-canine.jpg){.illus}
+
+
 
 Dogs, wolves, foxes, jackals and hyenas, and every people descended from them. The family is built around the nose and the pack. A canine folk smells a lie, a stranger or yesterday's rain, and feels most at home in a group that knows its order. Some are loyal to a fault, some sly as an old fox, and some laugh at the dying. Alongside the anthro breed-lines the family holds wild hounds with no speech at all, fox spirits who wear human faces, dog-headed tribes from traveller's tales, and humans who become wolves under the moon. Others trust them as guards and fear them as hunters, often in the same breath.
 

@@ -1,5 +1,9 @@
 # Silence field
 
+![Silence field](../Images/GR-0863-equipment-silence-field.jpg){.illus}
+
+
+*Catalogue: GR-0863*
 *Set: Expansion*
 
 *aka: ______________________________*

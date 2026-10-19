@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 816 Tapir-headed herder folk *(genres: beast-folk: fur)*
 
+![Tapir-headed herder folk](../Images/species-tapir-headed-herder-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tapir-headed herder folk from a world where they do the herding, of humans. (looks like: tapir; good at: strength, wilderness)
 - **Attributes:** STR +1 AGI −1 END +2

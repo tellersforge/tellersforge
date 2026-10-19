@@ -1,5 +1,9 @@
 # Bottlenose dolphin
 
+![Bottlenose dolphin](../Images/BE-068-bestiary-bottlenose-dolphin.jpg){.illus}
+
+
+*Catalogue: BE-068*
 *Set: Core*
 
 *aka: ______________________________*

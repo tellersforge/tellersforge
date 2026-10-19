@@ -1,5 +1,9 @@
 # Surcoat
 
+![Surcoat](../Images/GR-0934-equipment-surcoat.jpg){.illus}
+
+
+*Catalogue: GR-0934*
 *Set: Expansion*
 
 *aka: ______________________________*

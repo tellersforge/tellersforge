@@ -1,5 +1,9 @@
 # Snowshoes
 
+![Snowshoes](../Images/GR-0892-equipment-snowshoes.jpg){.illus}
+
+
+*Catalogue: GR-0892*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Plaster cast kit
 
+![Plaster cast kit](../Images/GR-0732-equipment-plaster-cast-kit.jpg){.illus}
+
+
+*Catalogue: GR-0732*
 *Set: Expansion*
 
 *aka: ______________________________*

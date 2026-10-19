@@ -1,5 +1,9 @@
 # Clay tablet and stylus
 
+![Clay tablet and stylus](../Images/GR-0277-equipment-clay-tablet-and-stylus.jpg){.illus}
+
+
+*Catalogue: GR-0277*
 *Set: Expansion*
 
 *aka: ______________________________*

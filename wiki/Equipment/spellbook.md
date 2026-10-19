@@ -1,7 +1,8 @@
 # Spellbook
 
-![Spellbook](../Images/equipment-spellbook.jpg){.illus}
+![Spellbook](../Images/GR-0899-equipment-spellbook.jpg){.illus}
 
+*Catalogue: GR-0899*
 *Set: Core*
 
 *aka: ______________________________*

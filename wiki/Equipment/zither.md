@@ -1,5 +1,9 @@
 # Zither
 
+![Zither](../Images/GR-1041-equipment-zither.jpg){.illus}
+
+
+*Catalogue: GR-1041*
 *Set: Expansion*
 
 *aka: ______________________________*

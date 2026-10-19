@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 307 Living-metal war-robot *(genres: robots and synthetics)*
 
+![Living-metal war-robot](../Images/species-living-metal-war-robot.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A robot made of living metal that flows and repairs itself, all but impossible to kill, unpredictable in temperament. (looks like: robot; good at: toughness, making and fixing)
 - **Attributes:** STR +2 AGI +1 END +2 WIS −2 CHA −3 COU +1
@@ -47,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mass mutant-hunter robot *(beast)*
 
+![Mass mutant-hunter robot](../Images/species-mass-mutant-hunter-robot.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +8 AGI −4 END +2 CHA −3 COU +1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -55,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A flying hunter-killer built to detect one target population.
 
 ### Ancient robotic guardian sentry *(beast)*
+
+![Ancient robotic guardian sentry](../Images/species-ancient-robotic-guardian-sentry.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +8 AGI −4 END +5 WIS −1 CHA −3 COU +1
@@ -66,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hive-controlled combat drone *(beast)*
 
+![Hive-controlled combat drone](../Images/species-hive-controlled-combat-drone.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 WIS −1 CHA −3 COU +1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -74,6 +86,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species: an expendable armoured body run by a hostile hive AI.
 
 ### Arena-bred cyborg gladiator *(NPC only)*
+
+![Arena-bred cyborg gladiator](../Images/species-arena-bred-cyborg-gladiator.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +6 AGI −2 END +2 WIS −1 CHA −3 COU +1
@@ -85,6 +100,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 308 Developing-emotion super-soldier robot *(genres: robots and synthetics, super-powered: mutants and the enhanced)*
 
+![Developing-emotion super-soldier robot](../Images/species-developing-emotion-super-soldier-robot.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A military super-soldier robot built with weapons and superhuman strength, slowly learning to feel and judge for itself. (looks like: robot; good at: strength, fighting)
 - **Attributes:** STR +3 END +2 WIS −1 CHA −3 COU +1
@@ -95,6 +113,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Obsolete peacekeeper enforcer *(beast)*
 
+![Obsolete peacekeeper enforcer](../Images/species-obsolete-peacekeeper-enforcer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 WIS −3 CHA −3 COU +1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -103,6 +124,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species: an armoured former law-enforcement android.
 
 ### Aerial enforcer drone *(beast)*
+
+![Aerial enforcer drone](../Images/species-aerial-enforcer-drone.jpg){.illus}
+
 
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR +2 AGI +2 END +2 INT −2 CHA −3 COU +1

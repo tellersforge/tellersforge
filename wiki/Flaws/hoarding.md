@@ -1,5 +1,8 @@
 # Hoarding
 
+![Hoarding](../Images/flaws-hoarding.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when can't leave anything behind, overloads, won't sell.

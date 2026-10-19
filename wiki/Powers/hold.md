@@ -1,5 +1,9 @@
 # Hold
 
+![Hold](../Images/PW-130-powers-hold.jpg){.illus}
+
+
+*Catalogue: PW-130*
 *Set: Expansion*
 
 *aka: ______________________________*

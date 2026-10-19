@@ -1,5 +1,9 @@
 # Piranha shoal
 
+![Piranha shoal](../Images/BE-461-bestiary-piranha-shoal.jpg){.illus}
+
+
+*Catalogue: BE-461*
 *Set: Core*
 
 *aka: ______________________________*

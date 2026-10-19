@@ -1,5 +1,8 @@
 # Fear of Needles and Blades
 
+![Fear of Needles and Blades](../Images/flaws-fear-of-needles-and-blades.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when needles, knives, sharp points.

@@ -1,5 +1,9 @@
 # Artillery & Siege Engines
 
+![Artillery & Siege Engines](../Images/WG-001-weapon-groups-artillery-and-siege-engines.jpg){.illus}
+
+
+*Catalogue: WG-001*
 *Set: Expansion*
 
 *aka: ______________________________*

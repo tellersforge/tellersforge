@@ -1,7 +1,8 @@
 # Gill mask
 
-![Gill mask](../Images/equipment-gill-mask.jpg){.illus}
+![Gill mask](../Images/GR-0457-equipment-gill-mask.jpg){.illus}
 
+*Catalogue: GR-0457*
 *Set: Expansion*
 
 *aka: ______________________________*

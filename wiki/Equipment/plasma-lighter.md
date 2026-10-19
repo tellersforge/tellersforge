@@ -1,5 +1,9 @@
 # Plasma lighter
 
+![Plasma lighter](../Images/GR-0731-equipment-plasma-lighter.jpg){.illus}
+
+
+*Catalogue: GR-0731*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Swamp dragon-snake
 
+![Swamp dragon-snake](../Images/BE-604-bestiary-swamp-dragon-snake.jpg){.illus}
+
+
+*Catalogue: BE-604*
 *Set: Expansion*
 
 *aka: ______________________________*

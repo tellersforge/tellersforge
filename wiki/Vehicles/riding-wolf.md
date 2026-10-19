@@ -1,7 +1,8 @@
 # Riding Wolf
 
-![Riding wolf](../Images/vehicles-riding-wolf.jpg){.illus}
+![Riding wolf](../Images/GR-1109-vehicles-riding-wolf.jpg){.illus}
 
+*Catalogue: GR-1109*
 *Set: Expansion*
 
 

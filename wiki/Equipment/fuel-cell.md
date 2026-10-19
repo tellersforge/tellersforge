@@ -1,5 +1,9 @@
 # Fuel cell
 
+![Fuel cell](../Images/GR-0442-equipment-fuel-cell.jpg){.illus}
+
+
+*Catalogue: GR-0442*
 *Set: Expansion*
 
 *aka: ______________________________*

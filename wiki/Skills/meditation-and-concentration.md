@@ -1,5 +1,9 @@
 # Meditation & Concentration
 
+![Meditation & Concentration](../Images/SK-128-skills-meditation-and-concentration.jpg){.illus}
+
+
+*Catalogue: SK-128*
 *Set: Expansion*
 
 *aka: ______________________________*

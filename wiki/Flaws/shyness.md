@@ -1,5 +1,8 @@
 # Shyness
 
+![Shyness](../Images/flaws-shyness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when tongue-tied, avoids attention.

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Geometric lawful construct outsider *(NPC only)*
 
+![Geometric lawful construct outsider](../Images/species-geometric-lawful-construct-outsider.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **Attributes:** END −1 CHA −1
 - **Skills:** [Formation Fighting](../Skills/formation-fighting.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Law](../Skills/law.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A geometric order-construct of rigid hierarchy and hive-like obedience.
 
 ### Chaotic frog-like outsider *(NPC only)*
+
+![Chaotic frog-like outsider](../Images/species-chaotic-frog-like-outsider.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 END +1 INT −1 WIS −1 CHA +1
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Disease is its spore infection.
 
 ### Cosmic horror aberration *(NPC only; NPC-scale)*
+
+![Cosmic horror aberration](../Images/species-cosmic-horror-aberration.jpg){.illus}
+
 
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +4 AGI −4 END +1 WIS +1 CHA +1
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 595 Neutral multiversal wanderer *(genres: heavens, hells and other planes)*
 
+![Neutral multiversal wanderer](../Images/species-neutral-multiversal-wanderer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm wanderers between worlds, tuned to the planes and devoted to their own philosophies. (looks like: human; good at: powers and magic, knowledge)
 - **Attributes:** END −1 WIS +1 CHA +1
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Planar natives attuned to travel, with a philosophical faction culture.
 
 ### No. 596 Dusk-born shadow ancestry *(genres: heavens, hells and other planes)*
+
+![Dusk-born shadow ancestry](../Images/species-dusk-born-shadow-ancestry.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Shadow-touched folk with night eyes who can step briefly into darkness to vanish and reappear elsewhere. (looks like: shadow; good at: sneaking, keen senses)
@@ -75,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is necrotic energy.
 
 ### Life-draining created minion *(NPC only)*
+
+![Life-draining created minion](../Images/species-life-draining-created-minion.jpg){.illus}
+
 
 - **Size:** varies · **Body:** varies
 - **Attributes:** END −1 INT −2 WIS +1 CHA +1

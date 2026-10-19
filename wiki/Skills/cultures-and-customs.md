@@ -1,5 +1,9 @@
 # Cultures & Customs
 
+![Cultures & Customs](../Images/SK-047-skills-cultures-and-customs.jpg){.illus}
+
+
+*Catalogue: SK-047*
 *Set: Core · Basic skill: Lore*
 
 *aka: ______________________________*

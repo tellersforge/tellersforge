@@ -1,5 +1,8 @@
 # Core world
 
+![Core world](../Images/cultures-core-world.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

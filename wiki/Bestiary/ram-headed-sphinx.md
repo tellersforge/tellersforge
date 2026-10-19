@@ -1,5 +1,9 @@
 # Ram-headed sphinx
 
+![Ram-headed sphinx](../Images/BE-478-bestiary-ram-headed-sphinx.jpg){.illus}
+
+
+*Catalogue: BE-478*
 *Set: Expansion*
 
 *aka: ______________________________*

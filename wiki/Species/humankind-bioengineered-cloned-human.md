@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 42 Bio-engineered clone-maker folk *(genres: space opera: near-humans)*
 
+![Bio-engineered clone-maker folk](../Images/species-bio-engineered-clone-maker-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Quick, secretive clone-makers who grow bodies of their own in sealed tanks. (looks like: human; good at: speed and agility, making and fixing)
 - **Attributes:** STR −2 AGI +2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* A shapeshifting servant caste would use the shapeshifting human lines.
 
 ### No. 43 Incubator warrior folk *(genres: space opera: near-humans)*
+
+![Incubator warrior folk](../Images/species-incubator-warrior-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Warrior-bred folk carrying a symbiotic pouch that keeps them strong and fast to heal. (looks like: human; good at: strength, toughness, healing)
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Both depend on carrying a larva; without it or a substitute drug they sicken.
 
 ### Strange bio-engineered wanderer folk · Degraded clone-soldier folk · Corporate-augmented human folk · Extinct human precursor empire folk · Adapted engineered variant folk *(same numbers as a baseline human: play as one (Species rule 18))*
+
+![Strange bio-engineered wanderer folk](../Images/species-strange-bio-engineered-wanderer-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 44 Void-touched operative folk *(genres: near future and cyberpunk, space opera: near-humans)*
 
+![Void-touched operative folk](../Images/species-void-touched-operative-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Near-immortal operatives who wear ancient armour and react in the blink of an eye. (looks like: human; good at: speed and agility, powers and magic)
 - **Attributes:** none
@@ -66,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 45 Cloned law-officer folk *(genres: near future and cyberpunk)*
 
+![Cloned law-officer folk](../Images/species-cloned-law-officer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Peak-conditioned clone officers, bred and trained fast for law and order. (looks like: human; good at: strength, fighting)
 - **Attributes:** STR +1 END +1
@@ -73,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; peak conditioning is bred and trained, which is attributes and Profession.
 
 ### No. 46 Toxic-warzone infantry folk *(genres: near future and cyberpunk)*
+
+![Toxic-warzone infantry folk](../Images/species-toxic-warzone-infantry-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Battle-bred soldiers who breathe poisoned air without a mask and never fall sick. (looks like: human; good at: toughness, fighting)
@@ -83,6 +101,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The biochip that keeps a dead soldier's mind is gear.
 
 ### Patchwork constructed folk *(NPC only)*
+
+![Patchwork constructed folk](../Images/species-patchwork-constructed-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +1 CHA −2

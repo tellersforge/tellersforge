@@ -1,5 +1,9 @@
 # Wooden Club
 
+![Wooden Club](../Images/GR-0120-weapons-wooden-club.jpg){.illus}
+
+
+*Catalogue: GR-0120*
 *Set: Core*
 
 *aka: ______________________________*

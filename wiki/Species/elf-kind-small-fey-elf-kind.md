@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 389 Winged fey-elf folk *(genres: fairy tale and folklore)*
 
+![Winged fey-elf folk](../Images/species-winged-fey-elf-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+winged
 - **What it's like:** Small winged elf-folk who share dreams and feelings between each other, long hunted by a far more powerful rival race. (looks like: elf; good at: flying, powers and magic)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +2 PER +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Mind Meld is by touch (dream-sharing). Flight only for winged individuals, and is short and gliding.
 
 ### Tiny winged sprite-elf *(NPC only)*
+
+![Tiny winged sprite-elf](../Images/species-tiny-winged-sprite-elf.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped+winged
 - **Attributes:** STR −3 AGI +3 END −1 WIS +2 PER +2

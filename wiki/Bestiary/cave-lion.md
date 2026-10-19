@@ -1,5 +1,9 @@
 # Cave lion
 
+![Cave lion](../Images/BE-096-bestiary-cave-lion.jpg){.illus}
+
+
+*Catalogue: BE-096*
 *Set: Core*
 
 *aka: ______________________________*

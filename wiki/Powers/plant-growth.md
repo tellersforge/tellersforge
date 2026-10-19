@@ -1,5 +1,9 @@
 # Plant Growth
 
+![Plant Growth](../Images/PW-216-powers-plant-growth.jpg){.illus}
+
+
+*Catalogue: PW-216*
 *Set: Expansion*
 
 *aka: ______________________________*

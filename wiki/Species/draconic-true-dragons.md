@@ -39,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Malevolent elemental dragons *(NPC only)*
 
+![Malevolent elemental dragons](../Images/species-malevolent-elemental-dragons.jpg){.illus}
+
+
 - **Size:** huge · **Body:** winged biped
 - **Attributes:** STR +8 AGI −4 END +3 INT +3 WIS −1 CHA +2 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Appraisal](../Skills/appraisal.md) +2, [Composure](../Skills/composure.md) +1, [Creature & Occult Lore](../Skills/creature-and-occult-lore.md) +1, [Deception](../Skills/deception.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2
@@ -50,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Fire Blast stands for the breath; swap for Cold Blast, Lightning or Acid & Corrosion to match the element.
 
 ### Benevolent elemental dragons *(NPC only)*
+
+![Benevolent elemental dragons](../Images/species-benevolent-elemental-dragons.jpg){.illus}
+
 
 - **Size:** huge · **Body:** winged biped
 - **Attributes:** STR +8 AGI −4 END +3 INT +2 WIS +2 CHA +2 COU +1
@@ -63,6 +69,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 318 Eastern weather dragon-folk *(genres: myth and legend)*
 
+![Eastern weather dragon-folk](../Images/species-eastern-weather-dragon-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** serpentine+winged
 - **What it's like:** Long, whiskered serpent-dragons who fly without wings and command the weather and rivers, wise and kindly when shown respect. (looks like: dragon; good at: powers and magic, flying)
 - **Attributes:** STR +5 AGI −4 INT +2 WIS +1 COU +1
@@ -74,6 +83,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Wingless river dragons who rule weather and water; no breath.
 
 ### Ancient sage dragon-folk *(NPC only)*
+
+![Ancient sage dragon-folk](../Images/species-ancient-sage-dragon-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** serpentine
 - **Attributes:** STR +4 AGI −2 END +1 INT +4 WIS +2 COU +1
@@ -87,6 +99,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 319 Bio-engineered rider-bonded dragons *(high-power: Game Master's approval; genres: pulp planets and lost worlds)*
 
+![Bio-engineered rider-bonded dragons](../Images/species-bio-engineered-rider-bonded-dragons.jpg){.illus}
+
+
 - **Size:** huge · **Body:** winged biped
 - **What it's like:** A huge bonded dragon that breathes fire for the one rider it's linked to for life, and blinks short distances. (looks like: dragon; good at: flying, fighting, powers and magic)
 - **Attributes:** STR +6 AGI −4 END +1 WIS −1 COU +1
@@ -99,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Mind Link is with its one rider; Fire Blast needs a meal of fire-stone first. High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### Memory-keeping cocoon dragons *(NPC only)*
+
+![Memory-keeping cocoon dragons](../Images/species-memory-keeping-cocoon-dragons.jpg){.illus}
+
 
 - **Size:** huge · **Body:** winged biped
 - **Attributes:** STR +6 AGI −4 END +1 INT +4 WIS −1 CHA −1 COU +2

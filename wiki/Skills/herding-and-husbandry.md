@@ -1,5 +1,9 @@
 # Herding & Husbandry
 
+![Herding & Husbandry](../Images/SK-091-skills-herding-and-husbandry.jpg){.illus}
+
+
+*Catalogue: SK-091*
 *Set: Expansion*
 
 *aka: ______________________________*

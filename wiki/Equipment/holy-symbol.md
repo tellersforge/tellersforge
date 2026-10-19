@@ -1,7 +1,8 @@
 # Holy symbol
 
-![Holy symbol](../Images/equipment-holy-symbol.jpg){.illus}
+![Holy symbol](../Images/GR-0540-equipment-holy-symbol.jpg){.illus}
 
+*Catalogue: GR-0540*
 *Set: Core*
 
 *aka: ______________________________*

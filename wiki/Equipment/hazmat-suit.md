@@ -1,7 +1,8 @@
 # Hazmat suit
 
-![Hazmat suit](../Images/equipment-hazmat-suit.jpg){.illus}
+![Hazmat suit](../Images/GR-0509-equipment-hazmat-suit.jpg){.illus}
 
+*Catalogue: GR-0509*
 *Set: Expansion*
 
 *aka: ______________________________*

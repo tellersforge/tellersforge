@@ -1,5 +1,9 @@
 # Guild badge
 
+![Guild badge](../Images/GR-0478-equipment-guild-badge.jpg){.illus}
+
+
+*Catalogue: GR-0478*
 *Set: Expansion*
 
 *aka: ______________________________*

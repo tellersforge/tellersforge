@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 684 Beaver-folk *(genres: animal fable)*
 
+![Beaver-folk](../Images/species-beaver-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Industrious beaver folk who gnaw, dam and build better than almost anyone, and swim just as well. (looks like: beaver; good at: making and fixing, swimming)
 - **Attributes:** AGI +1 END +1 WIS +1 COU −1
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Capybara-folk *(NPC only)*
 
+![Capybara-folk](../Images/species-capybara-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped/biped
 - **Attributes:** STR −1 AGI +1 END +1 WIS +1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Swimming](../Skills/swimming.md) +2, [Climbing](../Skills/climbing.md) +1, [Composure](../Skills/composure.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Semi-aquatic and famously calm.
 
 ### No. 685 Porcupine-folk *(genres: beast-folk: fur)*
+
+![Porcupine-folk](../Images/species-porcupine-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Slow-moving, spiky porcupine folk who fire off barbed quills at anyone who gets too close. (looks like: porcupine; good at: fighting, toughness)
@@ -58,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Chinchilla-folk *(NPC only)*
 
+![Chinchilla-folk](../Images/species-chinchilla-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 COU −1
 - **Skills:** [Jumping](../Skills/jumping.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Mountain](../Skills/survival-mountain.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -67,6 +79,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An excellent jumper from the mountains.
 
 ### Hamster-folk *(NPC only)*
+
+![Hamster-folk](../Images/species-hamster-folk.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped+tailed
 - **Attributes:** STR −3 AGI +3 END +1 WIS +1 COU −1
@@ -78,6 +93,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Guinea pig-folk *(NPC only)*
 
+![Guinea pig-folk](../Images/species-guinea-pig-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 COU −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -87,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Social, vocal and domestic; nothing that changes a line.
 
 ### Chipmunk-folk *(NPC only)*
+
+![Chipmunk-folk](../Images/species-chipmunk-folk.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped+tailed
 - **Attributes:** STR −3 AGI +3 END +1 WIS +1 COU −1
@@ -98,6 +119,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Groundhog/marmot-folk *(NPC only)*
 
+![Groundhog/marmot-folk](../Images/species-groundhog-marmot-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END +2 WIS +1 COU −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -108,6 +132,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Naked mole-rat-folk *(NPC only)*
 
+![Naked mole-rat-folk](../Images/species-naked-mole-rat-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+hairless
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 COU −1
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -117,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Underground colony folk who shrug off pain and thin air.
 
 ### No. 686 Mole-kin digger folk *(genres: animal fable, underworld and wild places)*
+
+![Mole-kin digger folk](../Images/species-mole-kin-digger-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Nearly blind mole-folk who dig fast tunnels and find their way entirely by smell and touch. (looks like: mole; good at: keen senses, sneaking)

@@ -1,5 +1,9 @@
 # Patrol Boat
 
+![Patrol Boat](../Images/GR-1100-vehicles-patrol-boat.jpg){.illus}
+
+
+*Catalogue: GR-1100*
 *Set: Expansion*
 
 

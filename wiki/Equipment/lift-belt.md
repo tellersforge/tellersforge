@@ -1,7 +1,8 @@
 # Lift belt
 
-![Lift belt](../Images/equipment-lift-belt.jpg){.illus}
+![Lift belt](../Images/GR-0598-equipment-lift-belt.jpg){.illus}
 
+*Catalogue: GR-0598*
 *Set: Expansion*
 
 *aka: ______________________________*

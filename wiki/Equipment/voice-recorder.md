@@ -1,5 +1,9 @@
 # Voice recorder
 
+![Voice recorder](../Images/GR-0992-equipment-voice-recorder.jpg){.illus}
+
+
+*Catalogue: GR-0992*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Beaded lizard
 
+![Beaded lizard](../Images/BE-036-bestiary-beaded-lizard.jpg){.illus}
+
+
+*Catalogue: BE-036*
 *Set: Core*
 
 *aka: ______________________________*

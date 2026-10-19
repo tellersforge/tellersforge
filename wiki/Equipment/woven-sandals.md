@@ -1,5 +1,9 @@
 # Woven sandals
 
+![Woven sandals](../Images/GR-1034-equipment-woven-sandals.jpg){.illus}
+
+
+*Catalogue: GR-1034*
 *Set: Expansion*
 
 *aka: ______________________________*

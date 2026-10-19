@@ -1,5 +1,8 @@
 # Fear of Dolls and Statues
 
+![Fear of Dolls and Statues](../Images/flaws-fear-of-dolls-and-statues.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when dolls, puppets, statues, mannequins.

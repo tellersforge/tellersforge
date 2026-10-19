@@ -1,5 +1,9 @@
 # Folding fan
 
+![Folding fan](../Images/GR-0427-equipment-folding-fan.jpg){.illus}
+
+
+*Catalogue: GR-0427*
 *Set: Expansion*
 
 *aka: ______________________________*

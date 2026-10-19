@@ -1,5 +1,9 @@
 # Skeletal hound
 
+![Skeletal hound](../Images/BE-556-bestiary-skeletal-hound.jpg){.illus}
+
+
+*Catalogue: BE-556*
 *Set: Expansion*
 
 *aka: ______________________________*

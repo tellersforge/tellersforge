@@ -1,5 +1,9 @@
 # Cure
 
+![Cure](../Images/PW-057-powers-cure.jpg){.illus}
+
+
+*Catalogue: PW-057*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Loose trousers
 
+![Loose trousers](../Images/GR-0617-equipment-loose-trousers.jpg){.illus}
+
+
+*Catalogue: GR-0617*
 *Set: Expansion*
 
 *aka: ______________________________*

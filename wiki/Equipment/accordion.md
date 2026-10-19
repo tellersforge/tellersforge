@@ -1,5 +1,9 @@
 # Accordion
 
+![Accordion](../Images/GR-0171-equipment-accordion.jpg){.illus}
+
+
+*Catalogue: GR-0171*
 *Set: Expansion*
 
 *aka: ______________________________*

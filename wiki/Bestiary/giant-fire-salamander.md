@@ -1,5 +1,9 @@
 # Giant fire salamander
 
+![Giant fire salamander](../Images/BE-253-bestiary-giant-fire-salamander.jpg){.illus}
+
+
+*Catalogue: BE-253*
 *Set: Expansion*
 
 *aka: ______________________________*

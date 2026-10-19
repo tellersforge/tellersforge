@@ -1,5 +1,8 @@
 # Farming villages
 
+![Farming villages](../Images/cultures-farming-villages.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

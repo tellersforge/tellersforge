@@ -1,5 +1,9 @@
 # Diamondback rattlesnake
 
+![Diamondback rattlesnake](../Images/BE-148-bestiary-diamondback-rattlesnake.jpg){.illus}
+
+
+*Catalogue: BE-148*
 *Set: Core*
 
 *aka: ______________________________*

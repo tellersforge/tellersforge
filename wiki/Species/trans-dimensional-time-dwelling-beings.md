@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 771 Time-unstuck wanderer *(genres: multiverse and time)*
 
+![Time-unstuck wanderer](../Images/species-time-unstuck-wanderer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Folk who live every moment of their life out of order at once, calmly unbothered by death. (looks like: human; good at: powers and magic, knowledge)
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Four-dimensional zoo-keeper *(NPC only; NPC-scale)*
 
+![Four-dimensional zoo-keeper](../Images/species-four-dimensional-zoo-keeper.jpg){.illus}
+
+
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +4 AGI −4 INT +3 WIS +3 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Temporal void-devourer *(NPC only; NPC-scale)*
 
+![Temporal void-devourer](../Images/species-temporal-void-devourer.jpg){.illus}
+
+
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +4 AGI −4 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Pocket Realm is its time-fold. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Converted paradox-child *(NPC only)*
+
+![Converted paradox-child](../Images/species-converted-paradox-child.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 INT +1 WIS +1 PER +1 CHA −1

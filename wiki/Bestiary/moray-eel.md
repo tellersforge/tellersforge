@@ -1,5 +1,9 @@
 # Moray eel
 
+![Moray eel](../Images/BE-421-bestiary-moray-eel.jpg){.illus}
+
+
+*Catalogue: BE-421*
 *Set: Core*
 
 *aka: ______________________________*

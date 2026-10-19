@@ -1,5 +1,9 @@
 # Fencing Blades
 
+![Fencing Blades](../Images/WG-011-weapon-groups-fencing-blades.jpg){.illus}
+
+
+*Catalogue: WG-011*
 *Set: Expansion*
 
 *aka: ______________________________*

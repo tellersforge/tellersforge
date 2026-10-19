@@ -1,5 +1,9 @@
 # Power Theft
 
+![Power Theft](../Images/PW-231-powers-power-theft.jpg){.illus}
+
+
+*Catalogue: PW-231*
 *Set: Expansion*
 
 *aka: ______________________________*

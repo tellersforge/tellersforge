@@ -1,7 +1,8 @@
 # Iron golem
 
-![Iron golem](../Images/bestiary-iron-golem.jpg){.illus}
+![Iron golem](../Images/BE-366-bestiary-iron-golem.jpg){.illus}
 
+*Catalogue: BE-366*
 *Set: Expansion*
 
 *aka: ______________________________*

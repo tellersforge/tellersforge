@@ -1,5 +1,9 @@
 # Battleship
 
+![Battleship](../Images/GR-1046-vehicles-battleship.jpg){.illus}
+
+
+*Catalogue: GR-1046*
 *Set: Expansion*
 
 

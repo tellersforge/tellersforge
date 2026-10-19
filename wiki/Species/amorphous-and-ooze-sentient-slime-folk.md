@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 139 Self-aware gel-bodied folk *(genres: underworld and wild places)*
 
+![Self-aware gel-bodied folk](../Images/species-self-aware-gel-bodied-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Translucent, gentle gel-bodied folk who squeeze through any gap and shrug off blows. (looks like: jelly; good at: sneaking, toughness, swimming)
 - **Attributes:** AGI +1 END +2 CHA −2
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shifting anomaly entity *(NPC only)*
 
+![Shifting anomaly entity](../Images/species-shifting-anomaly-entity.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** AGI +1 END +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Mimicry](../Skills/mimicry.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Talks by imitating what it meets.
 
 ### No. 140 Lumpy-bodied ooze person *(genres: fairy tale and folklore)*
+
+![Lumpy-bodied ooze person](../Images/species-lumpy-bodied-ooze-person.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Dramatic purple ooze-folk from another dimension who stretch their lumpy limbs at will. (looks like: slime; good at: sneaking, toughness)
@@ -58,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 141 Confection folk *(genres: fairy tale and folklore)*
 
+![Confection folk](../Images/species-confection-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cheerful people made of living sweets, fragile but full of fun. (looks like: candy; good at: sneaking, speed and agility)
 - **Attributes:** AGI +1 END −1
@@ -67,6 +79,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* A solid candy body cannot engulf or slam.
 
 ### Iconic slime monster *(NPC only)*
+
+![Iconic slime monster](../Images/species-iconic-slime-monster.jpg){.illus}
+
 
 - **Size:** small · **Body:** amorphous
 - **Attributes:** STR −2 AGI +2 END +2 INT −2 CHA −2
@@ -79,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Dust spirit *(NPC only)*
 
+![Dust spirit](../Images/species-dust-spirit.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +3 INT −2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -87,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC. Harmless. No hands: held weapons unusable.
 
 ### No. 142 Power-absorbing slime folk *(genres: underworld and wild places)*
+
+![Power-absorbing slime folk](../Images/species-power-absorbing-slime-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Nearly unkillable slime that steals and copies the powers of anyone it beats. (looks like: slime; good at: toughness, powers and magic, fighting)

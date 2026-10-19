@@ -1,5 +1,9 @@
 # Survival: Ruins & Wasteland
 
+![Survival: Ruins & Wasteland](../Images/SK-204-skills-survival-ruins-and-wasteland.jpg){.illus}
+
+
+*Catalogue: SK-204*
 *Set: Expansion*
 
 *aka: ______________________________*

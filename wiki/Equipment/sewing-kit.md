@@ -1,5 +1,9 @@
 # Sewing kit
 
+![Sewing kit](../Images/GR-0839-equipment-sewing-kit.jpg){.illus}
+
+
+*Catalogue: GR-0839*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Signal lamp
 
+![Signal lamp](../Images/GR-0860-equipment-signal-lamp.jpg){.illus}
+
+
+*Catalogue: GR-0860*
 *Set: Expansion*
 
 *aka: ______________________________*

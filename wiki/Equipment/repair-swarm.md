@@ -1,5 +1,9 @@
 # Repair swarm
 
+![Repair swarm](../Images/GR-0788-equipment-repair-swarm.jpg){.illus}
+
+
+*Catalogue: GR-0788*
 *Set: Expansion*
 
 *aka: ______________________________*

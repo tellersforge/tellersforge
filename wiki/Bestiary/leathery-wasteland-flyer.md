@@ -1,5 +1,9 @@
 # Leathery wasteland flyer
 
+![Leathery wasteland flyer](../Images/BE-383-bestiary-leathery-wasteland-flyer.jpg){.illus}
+
+
+*Catalogue: BE-383*
 *Set: Expansion*
 
 *aka: ______________________________*

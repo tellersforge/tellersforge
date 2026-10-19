@@ -1,5 +1,9 @@
 # Snout-tentacled toad-thing
 
+![Snout-tentacled toad-thing](../Images/BE-572-bestiary-snout-tentacled-toad-thing.jpg){.illus}
+
+
+*Catalogue: BE-572*
 *Set: Expansion*
 
 *aka: ______________________________*

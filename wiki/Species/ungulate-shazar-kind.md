@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Horned nomad ungulate-folk *(NPC only)*
 
+![Horned nomad ungulate-folk](../Images/species-horned-nomad-ungulate-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −1 END +2
 - **Skills:** [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Running](../Skills/running.md) +2, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2

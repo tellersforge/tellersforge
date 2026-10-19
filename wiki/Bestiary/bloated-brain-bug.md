@@ -1,5 +1,9 @@
 # Bloated brain bug
 
+![Bloated brain bug](../Images/BE-053-bestiary-bloated-brain-bug.jpg){.illus}
+
+
+*Catalogue: BE-053*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Loudmouth
 
+![Loudmouth](../Images/flaws-loudmouth.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when blurts out secrets and plans.

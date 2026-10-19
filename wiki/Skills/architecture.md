@@ -1,5 +1,9 @@
 # Architecture
 
+![Architecture](../Images/SK-012-skills-architecture.jpg){.illus}
+
+
+*Catalogue: SK-012*
 *Set: Expansion*
 
 *aka: ______________________________*

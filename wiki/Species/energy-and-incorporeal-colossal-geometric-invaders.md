@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Colossal geometric invader *(NPC only; NPC-scale)*
 
+![Colossal geometric invader](../Images/species-colossal-geometric-invader.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +6 AGI −6 END +2 INT +1 WIS +2 CHA −2
 - **Skills:** [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3

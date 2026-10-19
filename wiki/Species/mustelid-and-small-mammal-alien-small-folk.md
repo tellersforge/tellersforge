@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient guardian folk *(NPC only; NPC-scale)*
 
+![Ancient guardian folk](../Images/species-ancient-guardian-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 INT +3 WIS +3 CHA +1 COU +3
 - **Skills:** [Composure](../Skills/composure.md) +2, [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Deception](../Skills/deception.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Swimming](../Skills/swimming.md) +1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2

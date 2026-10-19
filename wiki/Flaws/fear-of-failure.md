@@ -1,5 +1,8 @@
 # Fear of Failure
 
+![Fear of Failure](../Images/flaws-fear-of-failure.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when trying and failing, being tested.

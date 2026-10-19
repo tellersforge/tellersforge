@@ -1,5 +1,9 @@
 # Turning Blades
 
+![Turning Blades](../Images/PW-308-powers-turning-blades.jpg){.illus}
+
+
+*Catalogue: PW-308*
 *Set: Expansion*
 
 *aka: ______________________________*

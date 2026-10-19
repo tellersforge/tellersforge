@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Starving wendigo *(NPC only)*
 
+![Starving wendigo](../Images/species-starving-wendigo.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +6 AGI −3 END +2 WIS +1 CHA −3 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Hunting](../Skills/hunting.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Survival: Arctic](../Skills/survival-arctic.md) +2, [Composure](../Skills/composure.md) +1, [Tracking](../Skills/tracking.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept

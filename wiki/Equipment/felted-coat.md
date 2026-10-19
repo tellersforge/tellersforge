@@ -1,5 +1,9 @@
 # Felted coat
 
+![Felted coat](../Images/GR-0396-equipment-felted-coat.jpg){.illus}
+
+
+*Catalogue: GR-0396*
 *Set: Expansion*
 
 *aka: ______________________________*

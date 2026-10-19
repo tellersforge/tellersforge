@@ -1,5 +1,9 @@
 # Survival: Jungle & Swamp
 
+![Survival: Jungle & Swamp](../Images/SK-201-skills-survival-jungle-and-swamp.jpg){.illus}
+
+
+*Catalogue: SK-201*
 *Set: Expansion*
 
 *aka: ______________________________*

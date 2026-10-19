@@ -1,7 +1,8 @@
 # Stasis pod
 
-![Stasis pod](../Images/equipment-stasis-pod.jpg){.illus}
+![Stasis pod](../Images/GR-0911-equipment-stasis-pod.jpg){.illus}
 
+*Catalogue: GR-0911*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Life Bestowal
 
+![Life Bestowal](../Images/PW-150-powers-life-bestowal.jpg){.illus}
+
+
+*Catalogue: PW-150*
 *Set: Expansion*
 
 *aka: ______________________________*

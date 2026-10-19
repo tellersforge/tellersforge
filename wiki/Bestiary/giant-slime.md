@@ -1,5 +1,9 @@
 # Giant slime
 
+![Giant slime](../Images/BE-279-bestiary-giant-slime.jpg){.illus}
+
+
+*Catalogue: BE-279*
 *Set: Expansion*
 
 *aka: ______________________________*

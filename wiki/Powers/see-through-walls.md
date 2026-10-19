@@ -1,5 +1,9 @@
 # See Through Walls
 
+![See Through Walls](../Images/PW-252-powers-see-through-walls.jpg){.illus}
+
+
+*Catalogue: PW-252*
 *Set: Core*
 
 *aka: ______________________________*

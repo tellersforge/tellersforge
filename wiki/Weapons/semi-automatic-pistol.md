@@ -1,7 +1,8 @@
 # Semi-Automatic Pistol
 
-![Semi-automatic pistol](../Images/weapons-semi-automatic-pistol.jpg){.illus}
+![Semi-automatic pistol](../Images/GR-0089-weapons-semi-automatic-pistol.jpg){.illus}
 
+*Catalogue: GR-0089*
 *Set: Core*
 
 *aka: ______________________________*

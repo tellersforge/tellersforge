@@ -1,5 +1,9 @@
 # Blessed plate
 
+![Blessed plate](../Images/GR-0124-armour-blessed-plate.jpg){.illus}
+
+
+*Catalogue: GR-0124*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Shared Soul
 
+![Shared Soul](../Images/PW-257-powers-shared-soul.jpg){.illus}
+
+
+*Catalogue: PW-257*
 *Set: Expansion*
 
 *aka: ______________________________*

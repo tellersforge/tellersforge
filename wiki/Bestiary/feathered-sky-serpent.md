@@ -1,7 +1,8 @@
 # Feathered sky serpent
 
-![Feathered sky serpent](../Images/bestiary-feathered-sky-serpent.jpg){.illus}
+![Feathered sky serpent](../Images/BE-186-bestiary-feathered-sky-serpent.jpg){.illus}
 
+*Catalogue: BE-186*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Flying Carpet
 
-![Flying carpet](../Images/vehicles-flying-carpet.jpg){.illus}
+![Flying carpet](../Images/GR-1071-vehicles-flying-carpet.jpg){.illus}
 
+*Catalogue: GR-1071*
 *Set: Expansion*
 
 

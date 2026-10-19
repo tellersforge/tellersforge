@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Household ancestor shade *(NPC only)*
 
+![Household ancestor shade](../Images/species-household-ancestor-shade.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal
 - **Attributes:** STR −3 AGI −1 END +2 WIS +1 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Neglected, it haunts instead (Bane at the Game Master's call). No hands: held weapons unusable.
 
 ### Wandering unresolved ghost *(NPC only)*
+
+![Wandering unresolved ghost](../Images/species-wandering-unresolved-ghost.jpg){.illus}
+
 
 - **Size:** medium · **Body:** incorporeal
 - **Attributes:** STR −3 AGI −1 END +2 WIS +1 CHA −2 COU +2
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Possessing dybbuk spirit *(NPC only)*
 
+![Possessing dybbuk spirit](../Images/species-possessing-dybbuk-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal
 - **Attributes:** STR −3 AGI −1 END +2 WIS +1 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* No hands: held weapons unusable.
 
 ### Corpse-possessing tree spirit *(NPC only)*
+
+![Corpse-possessing tree spirit](../Images/species-corpse-possessing-tree-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 INT +1 WIS +1 CHA −2 COU +2
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Flesh-eating violent-death ghost *(NPC only)*
 
+![Flesh-eating violent-death ghost](../Images/species-flesh-eating-violent-death-ghost.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −1 END +2 WIS +1 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -74,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Insatiable hungry ghost *(NPC only)*
 
+![Insatiable hungry ghost](../Images/species-insatiable-hungry-ghost.jpg){.illus}
+
+
 - **Size:** varies · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -82,6 +100,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs only in its bloated belly, pinhole throat and endless hunger (lexicon matter).
 
 ### Death-omen double spirit *(NPC only)*
+
+![Death-omen double spirit](../Images/species-death-omen-double-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** incorporeal
 - **Attributes:** STR −3 AGI −1 END +2 WIS +1 CHA −2 COU +2
@@ -93,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Vengeful drowned spirit *(NPC only)*
 
+![Vengeful drowned spirit](../Images/species-vengeful-drowned-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Swimming](../Skills/swimming.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -101,6 +125,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A drowned woman's spirit of rivers and lakes who lures men with song and beauty.
 
 ### Afterlife warrior spirit *(NPC only)*
+
+![Afterlife warrior spirit](../Images/species-afterlife-warrior-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 AGI −1 END +2 WIS +1 CHA −2 COU +3
@@ -111,6 +138,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carousing Set 1 overrides the family's Foreign Concept: these dead feast.
 
 ### Corrupted soul-devouring spirit *(NPC only)*
+
+![Corrupted soul-devouring spirit](../Images/species-corrupted-soul-devouring-spirit.jpg){.illus}
+
 
 - **Size:** varies · **Body:** varies
 - **Attributes:** STR +1 AGI −1 END +2 WIS +1 CHA −4 COU +2

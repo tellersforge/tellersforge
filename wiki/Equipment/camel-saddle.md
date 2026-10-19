@@ -1,5 +1,9 @@
 # Camel saddle
 
+![Camel saddle](../Images/GR-0245-equipment-camel-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0245*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 481 Small reptilian-goblinoid pack folk *(genres: classic fantasy)*
 
+![Small reptilian-goblinoid pack folk](../Images/species-small-reptilian-goblinoid-pack-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, fragile, reptile-like goblinoids who hunt in packs, lay clever traps, and live in tribal tunnels. (looks like: lizard; good at: sneaking, making and fixing)
 - **Attributes:** STR −2 AGI +2 END −1 CHA −1 COU +1

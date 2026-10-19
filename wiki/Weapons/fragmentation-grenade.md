@@ -1,7 +1,8 @@
 # Fragmentation Grenade
 
-![Fragmentation grenade](../Images/weapons-fragmentation-grenade.jpg){.illus}
+![Fragmentation grenade](../Images/GR-0040-weapons-fragmentation-grenade.jpg){.illus}
 
+*Catalogue: GR-0040*
 *Set: Core*
 
 *aka: ______________________________*

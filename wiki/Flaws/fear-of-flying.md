@@ -1,5 +1,8 @@
 # Fear of Flying
 
+![Fear of Flying](../Images/flaws-fear-of-flying.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when aircraft, flying mounts, airships, levitation.

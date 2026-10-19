@@ -1,5 +1,9 @@
 # Smart wrist unit
 
+![Smart wrist unit](../Images/GR-0881-equipment-smart-wrist-unit.jpg){.illus}
+
+
+*Catalogue: GR-0881*
 *Set: Expansion*
 
 *aka: ______________________________*

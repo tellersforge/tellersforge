@@ -1,5 +1,9 @@
 # Tourniquet
 
+![Tourniquet](../Images/GR-0967-equipment-tourniquet.jpg){.illus}
+
+
+*Catalogue: GR-0967*
 *Set: Expansion*
 
 *aka: ______________________________*

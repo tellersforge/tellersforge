@@ -1,5 +1,9 @@
 # Six-legged pack lizard
 
+![Six-legged pack lizard](../Images/BE-553-bestiary-six-legged-pack-lizard.jpg){.illus}
+
+
+*Catalogue: BE-553*
 *Set: Expansion*
 
 *aka: ______________________________*

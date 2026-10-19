@@ -1,5 +1,9 @@
 # Camouflage fatigues
 
+![Camouflage fatigues](../Images/GR-0247-equipment-camouflage-fatigues.jpg){.illus}
+
+
+*Catalogue: GR-0247*
 *Set: Expansion*
 
 *aka: ______________________________*

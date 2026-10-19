@@ -1,5 +1,9 @@
 # Spirit drum
 
+![Spirit drum](../Images/GR-0901-equipment-spirit-drum.jpg){.illus}
+
+
+*Catalogue: GR-0901*
 *Set: Expansion*
 
 *aka: ______________________________*

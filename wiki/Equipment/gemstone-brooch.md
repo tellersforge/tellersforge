@@ -1,5 +1,9 @@
 # Gemstone brooch
 
+![Gemstone brooch](../Images/GR-0454-equipment-gemstone-brooch.jpg){.illus}
+
+
+*Catalogue: GR-0454*
 *Set: Expansion*
 
 *aka: ______________________________*

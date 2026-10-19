@@ -1,5 +1,9 @@
 # Staves
 
+![Staves](../Images/WG-026-weapon-groups-staves.jpg){.illus}
+
+
+*Catalogue: WG-026*
 *Set: Core*
 
 *aka: ______________________________*

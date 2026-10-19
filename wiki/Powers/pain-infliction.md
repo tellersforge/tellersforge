@@ -1,5 +1,9 @@
 # Pain Infliction
 
+![Pain Infliction](../Images/PW-205-powers-pain-infliction.jpg){.illus}
+
+
+*Catalogue: PW-205*
 *Set: Expansion*
 
 *aka: ______________________________*

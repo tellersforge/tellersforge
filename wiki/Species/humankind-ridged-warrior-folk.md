@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hulking gladiatorial slaver folk *(NPC only)*
 
+![Hulking gladiatorial slaver folk](../Images/species-hulking-gladiatorial-slaver-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 INT −2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Intimidation](../Skills/intimidation.md) +1

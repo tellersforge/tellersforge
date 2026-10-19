@@ -1,5 +1,9 @@
 # Pointed shoes
 
+![Pointed shoes](../Images/GR-0740-equipment-pointed-shoes.jpg){.illus}
+
+
+*Catalogue: GR-0740*
 *Set: Expansion*
 
 *aka: ______________________________*

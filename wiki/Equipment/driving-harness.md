@@ -1,5 +1,9 @@
 # Driving harness
 
+![Driving harness](../Images/GR-0353-equipment-driving-harness.jpg){.illus}
+
+
+*Catalogue: GR-0353*
 *Set: Core*
 
 *aka: ______________________________*

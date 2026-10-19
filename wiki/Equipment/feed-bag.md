@@ -1,5 +1,9 @@
 # Feed bag
 
+![Feed bag](../Images/GR-0392-equipment-feed-bag.jpg){.illus}
+
+
+*Catalogue: GR-0392*
 *Set: Core*
 
 *aka: ______________________________*

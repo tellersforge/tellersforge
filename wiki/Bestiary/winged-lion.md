@@ -1,5 +1,9 @@
 # Winged lion
 
+![Winged lion](../Images/BE-679-bestiary-winged-lion.jpg){.illus}
+
+
+*Catalogue: BE-679*
 *Set: Core*
 
 *aka: ______________________________*

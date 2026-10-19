@@ -1,5 +1,8 @@
 # Scholar
 
+![Scholar](../Images/professions-scholar.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

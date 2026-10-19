@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 143 Living-water folk *(genres: heavens, hells and other planes)*
 
+![Living-water folk](../Images/species-living-water-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Living water given shape by will, flowing through cracks and dousing any fire. (looks like: water; good at: swimming, toughness, healing)
 - **Attributes:** AGI +1 END +2 CHA −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 9 · Damage longsword 1d6+2; slam 1d6+2 · Armour 2 · Life 19 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Tidal ocean-mind folk *(NPC only)*
+
+![Tidal ocean-mind folk](../Images/species-tidal-ocean-mind-folk.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** amorphous
 - **Attributes:** STR +6 AGI −6 END +2 INT +3 WIS +3 CHA −2
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC. No hands: held weapons unusable. Size set to gigantic: it is a whole living ocean.
 
 ### No. 144 Rain-cloud spirit folk *(genres: fairy tale and folklore, sea and sky)*
+
+![Rain-cloud spirit folk](../Images/species-rain-cloud-spirit-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Whimsical spirits that condense from storm clouds into a drizzling humanoid shape. (looks like: cloud; good at: swimming, wilderness, healing)

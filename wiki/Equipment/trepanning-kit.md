@@ -1,5 +1,9 @@
 # Trepanning kit
 
+![Trepanning kit](../Images/GR-0980-equipment-trepanning-kit.jpg){.illus}
+
+
+*Catalogue: GR-0980*
 *Set: Core*
 
 *aka: ______________________________*

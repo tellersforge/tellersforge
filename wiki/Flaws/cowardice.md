@@ -1,5 +1,8 @@
 # Cowardice
 
+![Cowardice](../Images/flaws-cowardice.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when any real danger (general fear, not one trigger).

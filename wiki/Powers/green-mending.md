@@ -1,5 +1,9 @@
 # Green Mending
 
+![Green Mending](../Images/PW-119-powers-green-mending.jpg){.illus}
+
+
+*Catalogue: PW-119*
 *Set: Expansion*
 
 *aka: ______________________________*

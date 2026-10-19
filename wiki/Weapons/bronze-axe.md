@@ -1,7 +1,8 @@
 # Bronze Axe
 
-![Bronze axe](../Images/weapons-bronze-axe.jpg){.illus}
+![Bronze axe](../Images/GR-0014-weapons-bronze-axe.jpg){.illus}
 
+*Catalogue: GR-0014*
 *Set: Core*
 
 *aka: ______________________________*

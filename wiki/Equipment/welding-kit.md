@@ -1,5 +1,9 @@
 # Welding kit
 
+![Welding kit](../Images/GR-1010-equipment-welding-kit.jpg){.illus}
+
+
+*Catalogue: GR-1010*
 *Set: Expansion*
 
 *aka: ______________________________*

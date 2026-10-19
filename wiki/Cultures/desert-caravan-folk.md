@@ -1,5 +1,8 @@
 # Desert caravan folk
 
+![Desert caravan folk](../Images/cultures-desert-caravan-folk.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

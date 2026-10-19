@@ -1,5 +1,9 @@
 # Self-Alteration
 
+![Self-Alteration](../Images/PW-253-powers-self-alteration.jpg){.illus}
+
+
+*Catalogue: PW-253*
 *Set: Expansion*
 
 *aka: ______________________________*

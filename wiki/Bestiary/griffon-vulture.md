@@ -1,5 +1,9 @@
 # Griffon vulture
 
+![Griffon vulture](../Images/BE-320-bestiary-griffon-vulture.jpg){.illus}
+
+
+*Catalogue: BE-320*
 *Set: Core*
 
 *aka: ______________________________*

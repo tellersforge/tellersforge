@@ -1,5 +1,9 @@
 # Possession
 
+![Possession](../Images/PW-222-powers-possession.jpg){.illus}
+
+
+*Catalogue: PW-222*
 *Set: Expansion*
 
 *aka: ______________________________*

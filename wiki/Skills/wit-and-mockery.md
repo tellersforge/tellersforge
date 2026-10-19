@@ -1,5 +1,9 @@
 # Wit & Mockery
 
+![Wit & Mockery](../Images/SK-222-skills-wit-and-mockery.jpg){.illus}
+
+
+*Catalogue: SK-222*
 *Set: Expansion*
 
 *aka: ______________________________*

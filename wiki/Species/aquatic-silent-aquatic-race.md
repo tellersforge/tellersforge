@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Telepathic silent aquatic minor race *(NPC only)*
 
+![Telepathic silent aquatic minor race](../Images/species-telepathic-silent-aquatic-minor-race.jpg){.illus}
+
+
 - **Size:** medium · **Body:** aquatic
 - **Attributes:** END +2 WIS +1 CHA −1 COU −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3

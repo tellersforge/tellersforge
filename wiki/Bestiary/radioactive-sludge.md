@@ -1,5 +1,9 @@
 # Radioactive sludge
 
+![Radioactive sludge](../Images/BE-477-bestiary-radioactive-sludge.jpg){.illus}
+
+
+*Catalogue: BE-477*
 *Set: Expansion*
 
 *aka: ______________________________*

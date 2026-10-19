@@ -1,5 +1,9 @@
 # Guardian lion statue
 
+![Guardian lion statue](../Images/BE-322-bestiary-guardian-lion-statue.jpg){.illus}
+
+
+*Catalogue: BE-322*
 *Set: Core*
 
 *aka: ______________________________*

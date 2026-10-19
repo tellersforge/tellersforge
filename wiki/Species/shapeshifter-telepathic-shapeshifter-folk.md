@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 717 Peaceful green telepath *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
 
+![Peaceful green telepath](../Images/species-peaceful-green-telepath.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Gentle, meditative green telepaths who can turn invisible or intangible at will, nearly wiped out by disaster. (looks like: alien; good at: powers and magic, sneaking)
 - **Attributes:** AGI +1 WIS +1 CHA +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (long-lived) is a lexicon detail, not a game number. High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### Warlike white telepath *(NPC only)*
+
+![Warlike white telepath](../Images/species-warlike-white-telepath.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 WIS +1 COU +1

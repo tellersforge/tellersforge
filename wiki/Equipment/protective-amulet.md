@@ -1,5 +1,9 @@
 # Protective amulet
 
+![Protective amulet](../Images/GR-0764-equipment-protective-amulet.jpg){.illus}
+
+
+*Catalogue: GR-0764*
 *Set: Core*
 
 *aka: ______________________________*

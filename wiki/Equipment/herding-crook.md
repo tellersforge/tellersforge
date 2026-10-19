@@ -1,5 +1,9 @@
 # Herding crook
 
+![Herding crook](../Images/GR-0523-equipment-herding-crook.jpg){.illus}
+
+
+*Catalogue: GR-0523*
 *Set: Expansion*
 
 *aka: ______________________________*

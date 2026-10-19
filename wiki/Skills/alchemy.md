@@ -1,5 +1,9 @@
 # Alchemy ✦
 
+![Alchemy ✦](../Images/SK-006-skills-alchemy.jpg){.illus}
+
+
+*Catalogue: SK-006*
 *Set: Expansion*
 
 *aka: ______________________________*

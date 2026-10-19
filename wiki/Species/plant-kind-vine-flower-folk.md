@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Vine folk *(NPC only)*
 
+![Vine folk](../Images/species-vine-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tendriled
 - **Attributes:** END +2 WIS +1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Climbing](../Skills/climbing.md) +1, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +1, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Endurance Without Need is photosynthesis: little food needed in sunlight. Grasping vine limbs.
 
 ### No. 608 Flower folk *(genres: underworld and wild places, fairy tale and folklore)*
+
+![Flower folk](../Images/species-flower-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+winged
 - **What it's like:** Small, blossom-crowned flying folk whose sweet pollen can lull you straight to sleep. (looks like: flower; good at: flying, powers and magic)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cactus folk *(NPC only)*
 
+![Cactus folk](../Images/species-cactus-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+rooted
 - **Attributes:** AGI −2 END +3 WIS +1 CHA −1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Desert](../Skills/survival-desert.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The spines are its attack. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 609 Floral gardener folk *(genres: underworld and wild places)*
+
+![Floral gardener folk](../Images/species-floral-gardener-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm, photosynthesising plant folk who heal fast and love nothing more than tending a garden. (looks like: plant; good at: healing, wilderness)
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Carnivorous plant hybrid *(NPC only)*
 
+![Carnivorous plant hybrid](../Images/species-carnivorous-plant-hybrid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 INT −1 WIS +1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -79,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 610 Sprite-born flower folk *(genres: underworld and wild places)*
 
+![Sprite-born flower folk](../Images/species-sprite-born-flower-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Luminous little dream-born plant folk, deeply in tune with nature and gentle with everyone they meet. (looks like: fairy; good at: powers and magic, wilderness)
 - **Attributes:** STR −2 END +1 WIS +2 CHA +1
@@ -88,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Luminous, empathic folk deeply attuned to living nature.
 
 ### No. 611 Forest spirit-touched folk *(genres: underworld and wild places)*
+
+![Forest spirit-touched folk](../Images/species-forest-spirit-touched-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ageless folk touched by forest spirits, able to make plants grow at their word. (looks like: elf; good at: powers and magic, wilderness)
@@ -100,6 +121,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Small mandrake sprite *(NPC only)*
 
+![Small mandrake sprite](../Images/species-small-mandrake-sprite.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 END +1 WIS +1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -110,6 +134,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wooden forest-child spirit *(NPC only)*
 
+![Wooden forest-child spirit](../Images/species-wooden-forest-child-spirit.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 END +2 WIS +1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -117,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 13 · Parry 10 · Dodge 9 · Damage longsword 1d6+1 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 612 Mutant plant folk *(genres: after the fall)*
+
+![Mutant plant folk](../Images/species-mutant-plant-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Photosynthesising plant folk twisted by radiation, each hiding one unpredictable extra power. (looks like: plant; good at: toughness, powers and magic)

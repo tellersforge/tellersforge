@@ -1,5 +1,9 @@
 # Knot-Bound Winds
 
+![Knot-Bound Winds](../Images/PW-146-powers-knot-bound-winds.jpg){.illus}
+
+
+*Catalogue: PW-146*
 *Set: Expansion*
 
 *aka: ______________________________*

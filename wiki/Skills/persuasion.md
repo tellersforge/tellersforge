@@ -1,5 +1,9 @@
 # Persuasion
 
+![Persuasion](../Images/SK-147-skills-persuasion.jpg){.illus}
+
+
+*Catalogue: SK-147*
 *Set: Core · Basic skill: Persuasion*
 
 *aka: ______________________________*

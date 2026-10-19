@@ -1,5 +1,9 @@
 # Six-legged cave-lizard
 
+![Six-legged cave-lizard](../Images/BE-552-bestiary-six-legged-cave-lizard.jpg){.illus}
+
+
+*Catalogue: BE-552*
 *Set: Core*
 
 *aka: ______________________________*

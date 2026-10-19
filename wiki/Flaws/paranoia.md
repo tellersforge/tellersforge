@@ -1,5 +1,8 @@
 # Paranoia
 
+![Paranoia](../Images/flaws-paranoia.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when suspects everyone, sees plots.

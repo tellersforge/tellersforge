@@ -1,5 +1,9 @@
 # Quilted jacket
 
+![Quilted jacket](../Images/GR-0768-equipment-quilted-jacket.jpg){.illus}
+
+
+*Catalogue: GR-0768*
 *Set: Expansion*
 
 *aka: ______________________________*

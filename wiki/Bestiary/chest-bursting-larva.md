@@ -1,5 +1,9 @@
 # Chest-bursting larva
 
+![Chest-bursting larva](../Images/BE-104-bestiary-chest-bursting-larva.jpg){.illus}
+
+
+*Catalogue: BE-104*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Armour Skin
 
+![Armour Skin](../Images/PW-010-powers-armour-skin.jpg){.illus}
+
+
+*Catalogue: PW-010*
 *Set: Core*
 
 *aka: ______________________________*

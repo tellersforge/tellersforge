@@ -1,7 +1,8 @@
 # Warrior hive bug
 
-![Warrior hive bug](../Images/bestiary-warrior-hive-bug.jpg){.illus}
+![Warrior hive bug](../Images/BE-663-bestiary-warrior-hive-bug.jpg){.illus}
 
+*Catalogue: BE-663*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Mountain lion
 
+![Mountain lion](../Images/BE-425-bestiary-mountain-lion.jpg){.illus}
+
+
+*Catalogue: BE-425*
 *Set: Core*
 
 *aka: ______________________________*

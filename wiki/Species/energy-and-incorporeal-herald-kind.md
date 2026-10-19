@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Power-cosmic herald *(NPC only; NPC-scale)*
 
+![Power-cosmic herald](../Images/species-power-cosmic-herald.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **Attributes:** AGI +1 END +2 INT +1 WIS +2
 - **Skills:** [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2

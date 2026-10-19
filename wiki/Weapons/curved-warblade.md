@@ -1,7 +1,8 @@
 # Curved Warblade
 
-![Curved warblade](../Images/weapons-curved-warblade.jpg){.illus}
+![Curved warblade](../Images/GR-0026-weapons-curved-warblade.jpg){.illus}
 
+*Catalogue: GR-0026*
 *Set: Expansion*
 
 *aka: ______________________________*

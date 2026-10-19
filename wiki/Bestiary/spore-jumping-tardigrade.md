@@ -1,5 +1,9 @@
 # Spore-jumping tardigrade
 
+![Spore-jumping tardigrade](../Images/BE-586-bestiary-spore-jumping-tardigrade.jpg){.illus}
+
+
+*Catalogue: BE-586*
 *Set: Expansion*
 
 *aka: ______________________________*

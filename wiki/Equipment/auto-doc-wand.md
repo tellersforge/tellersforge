@@ -1,7 +1,8 @@
 # Auto-doc wand
 
-![Auto-doc wand](../Images/equipment-auto-doc-wand.jpg){.illus}
+![Auto-doc wand](../Images/GR-0196-equipment-auto-doc-wand.jpg){.illus}
 
+*Catalogue: GR-0196*
 *Set: Expansion*
 
 *aka: ______________________________*

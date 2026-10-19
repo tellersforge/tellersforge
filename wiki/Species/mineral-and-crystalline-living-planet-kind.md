@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living planet-creature *(NPC only; NPC-scale)*
 
+![Living planet-creature](../Images/species-living-planet-creature.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +8 AGI −6 END +5 WIS +3 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Stealth](../Skills/stealth.md) −2, [Climbing](../Skills/climbing.md) Foreign Concept, [Jumping](../Skills/jumping.md) Foreign Concept, [Running](../Skills/running.md) Foreign Concept, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Size is gigantic, not huge: a whole planet.
 
 ### Living sentient planet *(NPC-scale)*
+
+![Living sentient planet](../Images/species-living-sentient-planet.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +8 AGI −6 END +5 WIS +3 COU +2

@@ -1,5 +1,9 @@
 # Irradiated gecko
 
+![Irradiated gecko](../Images/BE-367-bestiary-irradiated-gecko.jpg){.illus}
+
+
+*Catalogue: BE-367*
 *Set: Expansion*
 
 *aka: ______________________________*

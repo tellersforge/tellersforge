@@ -1,5 +1,9 @@
 # Pathfinding
 
+![Pathfinding](../Images/PW-208-powers-pathfinding.jpg){.illus}
+
+
+*Catalogue: PW-208*
 *Set: Expansion*
 
 *aka: ______________________________*

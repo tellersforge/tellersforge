@@ -1,5 +1,8 @@
 # Rural heartland
 
+![Rural heartland](../Images/cultures-rural-heartland.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

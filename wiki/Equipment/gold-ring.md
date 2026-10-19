@@ -1,5 +1,9 @@
 # Gold ring
 
+![Gold ring](../Images/GR-0464-equipment-gold-ring.jpg){.illus}
+
+
+*Catalogue: GR-0464*
 *Set: Core*
 
 *aka: ______________________________*

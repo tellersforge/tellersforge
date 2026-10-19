@@ -1,5 +1,9 @@
 # Sledgehammer
 
+![Sledgehammer](../Images/GR-0874-equipment-sledgehammer.jpg){.illus}
+
+
+*Catalogue: GR-0874*
 *Set: Expansion*
 
 *aka: ______________________________*

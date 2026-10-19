@@ -1,5 +1,9 @@
 # Abyssal hook leviathan
 
+![Abyssal hook leviathan](../Images/BE-003-bestiary-abyssal-hook-leviathan.jpg){.illus}
+
+
+*Catalogue: BE-003*
 *Set: Expansion*
 
 *aka: ______________________________*

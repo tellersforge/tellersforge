@@ -1,5 +1,8 @@
 # Rigid Honour
 
+![Rigid Honour](../Images/flaws-rigid-honour.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when sticks to their code even when it will get them killed.

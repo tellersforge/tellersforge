@@ -1,5 +1,9 @@
 # Farming
 
+![Farming](../Images/SK-068-skills-farming.jpg){.illus}
+
+
+*Catalogue: SK-068*
 *Set: Expansion*
 
 *aka: ______________________________*

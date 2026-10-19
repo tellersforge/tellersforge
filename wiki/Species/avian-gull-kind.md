@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Coastal scavenger gull *(NPC only)*
 
+![Coastal scavenger gull](../Images/species-coastal-scavenger-gull.jpg){.illus}
+
+
 - **Size:** small · **Body:** winged biped
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2

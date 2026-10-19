@@ -1,5 +1,9 @@
 # Counting & Measuring
 
+![Counting & Measuring](../Images/SK-043-skills-counting-and-measuring.jpg){.illus}
+
+
+*Catalogue: SK-043*
 *Set: Core · Basic skill: Technology*
 
 *aka: ______________________________*

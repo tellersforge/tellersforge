@@ -1,5 +1,9 @@
 # Cryptography
 
+![Cryptography](../Images/SK-046-skills-cryptography.jpg){.illus}
+
+
+*Catalogue: SK-046*
 *Set: Expansion*
 
 *aka: ______________________________*

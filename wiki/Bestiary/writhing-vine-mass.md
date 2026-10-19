@@ -1,5 +1,9 @@
 # Writhing vine mass
 
+![Writhing vine mass](../Images/BE-689-bestiary-writhing-vine-mass.jpg){.illus}
+
+
+*Catalogue: BE-689*
 *Set: Expansion*
 
 *aka: ______________________________*

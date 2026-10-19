@@ -1,5 +1,9 @@
 # Sharabha
 
+![Sharabha](../Images/BE-539-bestiary-sharabha.jpg){.illus}
+
+
+*Catalogue: BE-539*
 *Set: Expansion*
 
 *aka: ______________________________*

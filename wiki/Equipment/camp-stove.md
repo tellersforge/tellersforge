@@ -1,5 +1,9 @@
 # Camp stove
 
+![Camp stove](../Images/GR-0253-equipment-camp-stove.jpg){.illus}
+
+
+*Catalogue: GR-0253*
 *Set: Expansion*
 
 *aka: ______________________________*

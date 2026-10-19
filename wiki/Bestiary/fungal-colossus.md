@@ -1,5 +1,9 @@
 # Fungal colossus
 
+![Fungal colossus](../Images/BE-225-bestiary-fungal-colossus.jpg){.illus}
+
+
+*Catalogue: BE-225*
 *Set: Expansion*
 
 *aka: ______________________________*

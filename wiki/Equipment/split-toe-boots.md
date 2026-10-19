@@ -1,5 +1,9 @@
 # Split-toe boots
 
+![Split-toe boots](../Images/GR-0902-equipment-split-toe-boots.jpg){.illus}
+
+
+*Catalogue: GR-0902*
 *Set: Expansion*
 
 *aka: ______________________________*

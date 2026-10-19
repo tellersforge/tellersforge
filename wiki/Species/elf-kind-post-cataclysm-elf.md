@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 388 Post-cataclysm forest folk *(genres: classic fantasy)*
 
+![Post-cataclysm forest folk](../Images/species-post-cataclysm-forest-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Forest elves famed for woodcraft and archery, some wary of magic and others sworn to guard an ancient sealing tree. (looks like: elf; good at: wilderness, fighting)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2

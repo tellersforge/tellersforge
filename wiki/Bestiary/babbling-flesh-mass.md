@@ -1,5 +1,9 @@
 # Babbling flesh mass
 
+![Babbling flesh mass](../Images/BE-033-bestiary-babbling-flesh-mass.jpg){.illus}
+
+
+*Catalogue: BE-033*
 *Set: Expansion*
 
 *aka: ______________________________*

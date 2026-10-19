@@ -1,5 +1,9 @@
 # Nanite Swarm
 
+![Nanite Swarm](../Images/PW-193-powers-nanite-swarm.jpg){.illus}
+
+
+*Catalogue: PW-193*
 *Set: Expansion*
 
 *aka: ______________________________*

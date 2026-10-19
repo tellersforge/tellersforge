@@ -1,5 +1,9 @@
 # Stretcher
 
+![Stretcher](../Images/GR-0929-equipment-stretcher.jpg){.illus}
+
+
+*Catalogue: GR-0929*
 *Set: Core*
 
 *aka: ______________________________*

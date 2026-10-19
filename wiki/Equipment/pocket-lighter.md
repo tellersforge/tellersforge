@@ -1,5 +1,9 @@
 # Pocket lighter
 
+![Pocket lighter](../Images/GR-0736-equipment-pocket-lighter.jpg){.illus}
+
+
+*Catalogue: GR-0736*
 *Set: Expansion*
 
 *aka: ______________________________*

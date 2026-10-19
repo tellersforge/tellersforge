@@ -1,7 +1,8 @@
 # Energy restraints
 
-![Energy restraints](../Images/equipment-energy-restraints.jpg){.illus}
+![Energy restraints](../Images/GR-0373-equipment-energy-restraints.jpg){.illus}
 
+*Catalogue: GR-0373*
 *Set: Expansion*
 
 *aka: ______________________________*

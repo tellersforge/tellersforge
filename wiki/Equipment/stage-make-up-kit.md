@@ -1,5 +1,9 @@
 # Stage make-up kit
 
+![Stage make-up kit](../Images/GR-0904-equipment-stage-make-up-kit.jpg){.illus}
+
+
+*Catalogue: GR-0904*
 *Set: Expansion*
 
 *aka: ______________________________*

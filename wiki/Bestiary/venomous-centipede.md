@@ -1,5 +1,9 @@
 # Venomous centipede
 
+![Venomous centipede](../Images/BE-649-bestiary-venomous-centipede.jpg){.illus}
+
+
+*Catalogue: BE-649*
 *Set: Core*
 
 *aka: ______________________________*

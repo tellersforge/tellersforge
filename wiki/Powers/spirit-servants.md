@@ -1,5 +1,9 @@
 # Spirit Servants
 
+![Spirit Servants](../Images/PW-272-powers-spirit-servants.jpg){.illus}
+
+
+*Catalogue: PW-272*
 *Set: Expansion*
 
 *aka: ______________________________*

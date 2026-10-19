@@ -1,5 +1,9 @@
 # Giant beetle
 
+![Giant beetle](../Images/BE-239-bestiary-giant-beetle.jpg){.illus}
+
+
+*Catalogue: BE-239*
 *Set: Expansion*
 
 *aka: ______________________________*

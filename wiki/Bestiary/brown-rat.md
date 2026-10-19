@@ -1,5 +1,9 @@
 # Brown rat
 
+![Brown rat](../Images/BE-077-bestiary-brown-rat.jpg){.illus}
+
+
+*Catalogue: BE-077*
 *Set: Core*
 
 *aka: ______________________________*

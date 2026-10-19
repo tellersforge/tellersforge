@@ -1,5 +1,9 @@
 # Fire-dung bison
 
+![Fire-dung bison](../Images/BE-192-bestiary-fire-dung-bison.jpg){.illus}
+
+
+*Catalogue: BE-192*
 *Set: Core*
 
 *aka: ______________________________*

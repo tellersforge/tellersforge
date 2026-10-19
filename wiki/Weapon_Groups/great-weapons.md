@@ -1,5 +1,9 @@
 # Great Weapons
 
+![Great Weapons](../Images/WG-013-weapon-groups-great-weapons.jpg){.illus}
+
+
+*Catalogue: WG-013*
 *Set: Core*
 
 *aka: ______________________________*

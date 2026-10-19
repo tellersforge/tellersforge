@@ -1,5 +1,9 @@
 # Travois
 
+![Travois](../Images/GR-0977-equipment-travois.jpg){.illus}
+
+
+*Catalogue: GR-0977*
 *Set: Core*
 
 *aka: ______________________________*

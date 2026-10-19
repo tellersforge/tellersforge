@@ -1,5 +1,9 @@
 # Quilted cotton coat
 
+![Quilted cotton coat](../Images/GR-0767-equipment-quilted-cotton-coat.jpg){.illus}
+
+
+*Catalogue: GR-0767*
 *Set: Core*
 
 *aka: ______________________________*

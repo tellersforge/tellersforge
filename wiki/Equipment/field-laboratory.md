@@ -1,5 +1,9 @@
 # Field laboratory
 
+![Field laboratory](../Images/GR-0402-equipment-field-laboratory.jpg){.illus}
+
+
+*Catalogue: GR-0402*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Mechanic's coveralls
 
+![Mechanic's coveralls](../Images/GR-0635-equipment-mechanic-s-coveralls.jpg){.illus}
+
+
+*Catalogue: GR-0635*
 *Set: Expansion*
 
 *aka: ______________________________*

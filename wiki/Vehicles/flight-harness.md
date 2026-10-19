@@ -1,7 +1,8 @@
 # Flight Harness
 
-![Flight harness](../Images/vehicles-flight-harness.jpg){.illus}
+![Flight harness](../Images/GR-1069-vehicles-flight-harness.jpg){.illus}
 
+*Catalogue: GR-1069*
 *Set: Expansion*
 
 

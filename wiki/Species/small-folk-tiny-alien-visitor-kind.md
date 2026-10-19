@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tiny alien visitor *(NPC only)*
 
+![Tiny alien visitor](../Images/species-tiny-alien-visitor.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −4 AGI +3 INT +2 WIS +1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Cooking](../Skills/cooking.md) +1, [Service & Hospitality](../Skills/service-and-hospitality.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Throwing](../Skills/throwing.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2

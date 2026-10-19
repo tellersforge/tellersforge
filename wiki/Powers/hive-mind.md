@@ -1,5 +1,9 @@
 # Hive Mind
 
+![Hive Mind](../Images/PW-129-powers-hive-mind.jpg){.illus}
+
+
+*Catalogue: PW-129*
 *Set: Expansion*
 
 *aka: ______________________________*

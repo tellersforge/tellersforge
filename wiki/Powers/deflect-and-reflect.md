@@ -1,5 +1,9 @@
 # Deflect & Reflect
 
+![Deflect & Reflect](../Images/PW-064-powers-deflect-and-reflect.jpg){.illus}
+
+
+*Catalogue: PW-064*
 *Set: Expansion*
 
 *aka: ______________________________*

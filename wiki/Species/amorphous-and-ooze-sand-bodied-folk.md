@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 148 Desert sand-folk *(genres: heavens, hells and other planes)*
 
+![Desert sand-folk](../Images/species-desert-sand-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Desert-dwellers made of loose, living sand, reforming after any blow but wary of water. (looks like: sand; good at: sneaking, wilderness, toughness)
 - **Attributes:** AGI +1 END +2 CHA −2

@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Vulture folk *(NPC only)*
 
+![Vulture folk](../Images/species-vulture-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +3 CHA −1
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Hunting](../Skills/hunting.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -47,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Soaring scavengers with disease-proof digestion.
 
 ### Giant sapient eagles *(NPC only)*
+
+![Giant sapient eagles](../Images/species-giant-sapient-eagles.jpg){.illus}
+
 
 - **Size:** huge · **Body:** winged biped
 - **Attributes:** STR +3 AGI −2 END −1 WIS +1 PER +3 COU +1
@@ -58,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Enhanced Senses is sight. No hands: held weapons unusable.
 
 ### No. 205 Divine eagle-folk *(genres: myth and legend)*
+
+![Divine eagle-folk](../Images/species-divine-eagle-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+winged
 - **What it's like:** Mighty eagle-headed folk of legend, astonishingly fast and powerful in flight. (looks like: eagle; good at: flying, strength, keen senses)
@@ -71,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 206 Sky warrior hawkman folk *(genres: pulp planets and lost worlds, sea and sky)*
 
+![Sky warrior hawkman folk](../Images/species-sky-warrior-hawkman-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** Proud, fierce hawk-winged warriors ruled from a city in the sky. (looks like: hawk; good at: flying, fighting, keen senses)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +3 COU +1
@@ -83,6 +95,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Falconer mercenary bird-folk *(NPC only)*
 
+![Falconer mercenary bird-folk](../Images/species-falconer-mercenary-bird-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +2 PER +3 COU +1
 - **Skills:** [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Hunting](../Skills/hunting.md) +1, [Tracking](../Skills/tracking.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -91,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Wingless, keen-sensed bird-folk of a tracker and scout people.
 
 ### Giant roc *(beast; NPC-scale)*
+
+![Giant roc](../Images/species-giant-roc.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** biped+winged
 - **Attributes:** STR +5 AGI −4 END −1 INT −3 WIS +1 PER +3 COU +1
@@ -101,6 +119,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An enormous, powerful flier that nests on remote peaks.
 
 ### Lion-headed storm bird *(NPC only; NPC-scale)*
+
+![Lion-headed storm bird](../Images/species-lion-headed-storm-bird.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+winged
 - **Attributes:** STR +1 END −1 WIS +1 PER +3 COU +1
@@ -113,6 +134,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Storm-lightning bird spirit *(NPC only)*
 
+![Storm-lightning bird spirit](../Images/species-storm-lightning-bird-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +3 COU +1
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Hunting](../Skills/hunting.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -124,6 +148,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sky-raptor humanoid *(NPC only)*
 
+![Sky-raptor humanoid](../Images/species-sky-raptor-humanoid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +3 COU +1
 - **Skills:** [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Hunting](../Skills/hunting.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -132,6 +159,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Wingless, tailed scavenger-mercenaries.
 
 ### Predatory bird-raider folk *(NPC only)*
+
+![Predatory bird-raider folk](../Images/species-predatory-bird-raider-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +3 COU +1
@@ -143,6 +173,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Raptor shaper caste *(NPC only)*
 
+![Raptor shaper caste](../Images/species-raptor-shaper-caste.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END −2 WIS +3 PER +3 COU +1
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Hunting](../Skills/hunting.md) +1, [Life Sciences](../Skills/life-sciences.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -153,6 +186,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Self-Alteration works only through traits absorbed by eating; frailty is an attribute matter.
 
 ### Raptor hound *(beast)*
+
+![Raptor hound](../Images/species-raptor-hound.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** STR −1 AGI +2 END −1 INT −3 WIS +1 PER +3 COU +1

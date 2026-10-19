@@ -1,5 +1,9 @@
 # Sail-backed reptile
 
+![Sail-backed reptile](../Images/BE-512-bestiary-sail-backed-reptile.jpg){.illus}
+
+
+*Catalogue: BE-512*
 *Set: Expansion*
 
 *aka: ______________________________*

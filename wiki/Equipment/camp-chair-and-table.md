@@ -1,5 +1,9 @@
 # Camp chair and table
 
+![Camp chair and table](../Images/GR-0249-equipment-camp-chair-and-table.jpg){.illus}
+
+
+*Catalogue: GR-0249*
 *Set: Expansion*
 
 *aka: ______________________________*

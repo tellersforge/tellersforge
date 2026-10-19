@@ -1,7 +1,8 @@
 # Sled Dog Team
 
-![Sled dog team](../Images/vehicles-sled-dog-team.jpg){.illus}
+![Sled dog team](../Images/GR-1119-vehicles-sled-dog-team.jpg){.illus}
 
+*Catalogue: GR-1119*
 *Set: Expansion*
 
 

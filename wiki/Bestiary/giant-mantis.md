@@ -1,5 +1,9 @@
 # Giant mantis
 
+![Giant mantis](../Images/BE-262-bestiary-giant-mantis.jpg){.illus}
+
+
+*Catalogue: BE-262*
 *Set: Expansion*
 
 *aka: ______________________________*

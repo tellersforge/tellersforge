@@ -1,5 +1,9 @@
 # Head wrap
 
+![Head wrap](../Images/GR-0510-equipment-head-wrap.jpg){.illus}
+
+
+*Catalogue: GR-0510*
 *Set: Expansion*
 
 *aka: ______________________________*

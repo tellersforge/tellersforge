@@ -1,5 +1,9 @@
 # Neural Hack
 
+![Neural Hack](../Images/PW-196-powers-neural-hack.jpg){.illus}
+
+
+*Catalogue: PW-196*
 *Set: Expansion*
 
 *aka: ______________________________*

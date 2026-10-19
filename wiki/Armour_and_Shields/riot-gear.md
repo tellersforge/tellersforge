@@ -1,7 +1,8 @@
 # Riot gear
 
-![Riot gear](../Images/armour-riot-gear.jpg){.illus}
+![Riot gear](../Images/GR-0157-armour-riot-gear.jpg){.illus}
 
+*Catalogue: GR-0157*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Creature & Occult Lore
 
+![Creature & Occult Lore](../Images/SK-045-skills-creature-and-occult-lore.jpg){.illus}
+
+
+*Catalogue: SK-045*
 *Set: Expansion*
 
 *aka: ______________________________*

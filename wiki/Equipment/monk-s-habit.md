@@ -1,5 +1,9 @@
 # Monk's habit
 
+![Monk's habit](../Images/GR-0658-equipment-monk-s-habit.jpg){.illus}
+
+
+*Catalogue: GR-0658*
 *Set: Expansion*
 
 *aka: ______________________________*

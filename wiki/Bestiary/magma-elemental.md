@@ -1,7 +1,8 @@
 # Magma elemental
 
-![Magma elemental](../Images/bestiary-magma-elemental.jpg){.illus}
+![Magma elemental](../Images/BE-405-bestiary-magma-elemental.jpg){.illus}
 
+*Catalogue: BE-405*
 *Set: Expansion*
 
 *aka: ______________________________*

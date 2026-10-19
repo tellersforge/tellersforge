@@ -1,5 +1,9 @@
 # Civil Engineering
 
+![Civil Engineering](../Images/SK-034-skills-civil-engineering.jpg){.illus}
+
+
+*Catalogue: SK-034*
 *Set: Expansion*
 
 *aka: ______________________________*

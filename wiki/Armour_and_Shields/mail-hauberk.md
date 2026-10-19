@@ -1,7 +1,8 @@
 # Mail hauberk
 
-![Mail hauberk](../Images/armour-mail-hauberk.jpg){.illus}
+![Mail hauberk](../Images/GR-0148-armour-mail-hauberk.jpg){.illus}
 
+*Catalogue: GR-0148*
 *Set: Expansion*
 
 *aka: ______________________________*

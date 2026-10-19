@@ -1,5 +1,9 @@
 # Paracord hank
 
+![Paracord hank](../Images/GR-0706-equipment-paracord-hank.jpg){.illus}
+
+
+*Catalogue: GR-0706*
 *Set: Expansion*
 
 *aka: ______________________________*

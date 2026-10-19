@@ -1,5 +1,9 @@
 # Nylon climbing rope
 
+![Nylon climbing rope](../Images/GR-0685-equipment-nylon-climbing-rope.jpg){.illus}
+
+
+*Catalogue: GR-0685*
 *Set: Expansion*
 
 *aka: ______________________________*

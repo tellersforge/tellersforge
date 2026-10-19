@@ -1,5 +1,9 @@
 # Incense clock
 
+![Incense clock](../Images/GR-0555-equipment-incense-clock.jpg){.illus}
+
+
+*Catalogue: GR-0555*
 *Set: Expansion*
 
 *aka: ______________________________*

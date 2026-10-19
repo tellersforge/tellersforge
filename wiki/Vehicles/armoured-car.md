@@ -1,5 +1,9 @@
 # Armoured Car
 
+![Armoured Car](../Images/GR-1043-vehicles-armoured-car.jpg){.illus}
+
+
+*Catalogue: GR-1043*
 *Set: Expansion*
 
 

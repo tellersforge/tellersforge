@@ -1,5 +1,9 @@
 # Hunter's Kayak
 
+![Hunter's Kayak](../Images/GR-1081-vehicles-hunter-s-kayak.jpg){.illus}
+
+
+*Catalogue: GR-1081*
 *Set: Expansion*
 
 

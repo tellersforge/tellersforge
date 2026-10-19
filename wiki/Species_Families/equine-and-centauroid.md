@@ -1,5 +1,8 @@
 # Equine and centauroid
 
+![Equine and centauroid](../Images/species-families-equine-and-centauroid.jpg){.illus}
+
+
 
 Horses, donkeys, zebras and every people shaped from them. Some walk upright with long faces, strong backs and a fierce love of open ground. Others are magical steeds: unicorns with healing horns, winged horses, and the treacherous horse of the lake that drags riders under. The centaurs join a human torso to a horse's body and roam the plains in proud herds, some as wild hunters and some as scholars and stargazers. Speed, endurance and a dislike of being ridden unite the family. Others admire their grace and forget, at their peril, that a kick from any of them can break a door.
 

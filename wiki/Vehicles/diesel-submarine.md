@@ -1,5 +1,9 @@
 # Diesel Submarine
 
+![Diesel Submarine](../Images/GR-1061-vehicles-diesel-submarine.jpg){.illus}
+
+
+*Catalogue: GR-1061*
 *Set: Expansion*
 
 

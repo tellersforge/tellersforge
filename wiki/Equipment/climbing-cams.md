@@ -1,5 +1,9 @@
 # Climbing cams
 
+![Climbing cams](../Images/GR-0283-equipment-climbing-cams.jpg){.illus}
+
+
+*Catalogue: GR-0283*
 *Set: Expansion*
 
 *aka: ______________________________*

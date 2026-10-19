@@ -1,5 +1,9 @@
 # Giant sea shark
 
+![Giant sea shark](../Images/BE-276-bestiary-giant-sea-shark.jpg){.illus}
+
+
+*Catalogue: BE-276*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Personal Shield
 
+![Personal Shield](../Images/PW-210-powers-personal-shield.jpg){.illus}
+
+
+*Catalogue: PW-210*
 *Set: Expansion*
 
 *aka: ______________________________*

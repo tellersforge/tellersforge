@@ -1,5 +1,8 @@
 # Explorer
 
+![Explorer](../Images/professions-explorer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Light Freighter
 
-![Light freighter](../Images/vehicles-light-freighter.jpg){.illus}
+![Light freighter](../Images/GR-1087-vehicles-light-freighter.jpg){.illus}
 
+*Catalogue: GR-1087*
 *Set: Core*
 
 

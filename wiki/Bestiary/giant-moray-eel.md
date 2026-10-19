@@ -1,5 +1,9 @@
 # Giant moray eel
 
+![Giant moray eel](../Images/BE-265-bestiary-giant-moray-eel.jpg){.illus}
+
+
+*Catalogue: BE-265*
 *Set: Expansion*
 
 *aka: ______________________________*

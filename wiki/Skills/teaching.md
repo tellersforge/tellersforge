@@ -1,5 +1,9 @@
 # Teaching
 
+![Teaching](../Images/SK-208-skills-teaching.jpg){.illus}
+
+
+*Catalogue: SK-208*
 *Set: Expansion*
 
 *aka: ______________________________*

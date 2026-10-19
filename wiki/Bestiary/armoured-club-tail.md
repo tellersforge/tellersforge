@@ -1,5 +1,9 @@
 # Armoured club-tail
 
+![Armoured club-tail](../Images/BE-025-bestiary-armoured-club-tail.jpg){.illus}
+
+
+*Catalogue: BE-025*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Engineer's kit
 
+![Engineer's kit](../Images/GR-0374-equipment-engineer-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0374*
 *Set: Expansion*
 
 *aka: ______________________________*

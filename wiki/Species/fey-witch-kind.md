@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Witch of sin *(NPC only; NPC-scale)*
 
+![Witch of sin](../Images/species-witch-of-sin.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +1 END −1 INT +3 WIS +2 CHA +3
 - **Skills:** [Arcana](../Skills/arcana.md) +3, [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept

@@ -1,5 +1,9 @@
 # Power Surge
 
+![Power Surge](../Images/PW-230-powers-power-surge.jpg){.illus}
+
+
+*Catalogue: PW-230*
 *Set: Expansion*
 
 *aka: ______________________________*

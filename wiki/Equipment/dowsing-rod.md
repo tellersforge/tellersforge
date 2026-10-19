@@ -1,5 +1,9 @@
 # Dowsing rod
 
+![Dowsing rod](../Images/GR-0349-equipment-dowsing-rod.jpg){.illus}
+
+
+*Catalogue: GR-0349*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Powered exoframe pack
 
-![Powered exoframe pack](../Images/equipment-powered-exoframe-pack.jpg){.illus}
+![Powered exoframe pack](../Images/GR-0752-equipment-powered-exoframe-pack.jpg){.illus}
 
+*Catalogue: GR-0752*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Children of the forest *(NPC only)*
 
+![Children of the forest](../Images/species-children-of-the-forest.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Nature Lore](../Skills/nature-lore.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept

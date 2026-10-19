@@ -1,7 +1,8 @@
 # Doctor's bag
 
-![Doctor's bag](../Images/equipment-doctor-s-bag.jpg){.illus}
+![Doctor's bag](../Images/GR-0342-equipment-doctor-s-bag.jpg){.illus}
 
+*Catalogue: GR-0342*
 *Set: Core*
 
 *aka: ______________________________*

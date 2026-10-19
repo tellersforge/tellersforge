@@ -1,5 +1,9 @@
 # Sleeping skins
 
+![Sleeping skins](../Images/GR-0876-equipment-sleeping-skins.jpg){.illus}
+
+
+*Catalogue: GR-0876*
 *Set: Core*
 
 *aka: ______________________________*

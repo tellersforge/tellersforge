@@ -1,5 +1,9 @@
 # Bedside Manner
 
+![Bedside Manner](../Images/SK-017-skills-bedside-manner.jpg){.illus}
+
+
+*Catalogue: SK-017*
 *Set: Expansion*
 
 *aka: ______________________________*

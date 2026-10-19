@@ -1,7 +1,8 @@
 # Scroll case
 
-![Scroll case](../Images/equipment-scroll-case.jpg){.illus}
+![Scroll case](../Images/GR-0824-equipment-scroll-case.jpg){.illus}
 
+*Catalogue: GR-0824*
 *Set: Expansion*
 
 *aka: ______________________________*

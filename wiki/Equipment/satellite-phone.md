@@ -1,5 +1,9 @@
 # Satellite phone
 
+![Satellite phone](../Images/GR-0819-equipment-satellite-phone.jpg){.illus}
+
+
+*Catalogue: GR-0819*
 *Set: Expansion*
 
 *aka: ______________________________*

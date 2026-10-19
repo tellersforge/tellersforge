@@ -1,5 +1,8 @@
 # Fear of Fire
 
+![Fear of Fire](../Images/flaws-fear-of-fire.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when flames, burning buildings.

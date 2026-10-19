@@ -1,7 +1,8 @@
 # Sextant
 
-![Sextant](../Images/equipment-sextant.jpg){.illus}
+![Sextant](../Images/GR-0840-equipment-sextant.jpg){.illus}
 
+*Catalogue: GR-0840*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 597 Malevolent-power bonded host *(genres: super-powered: mutants and the enhanced, gothic horror)*
 
+![Malevolent-power bonded host](../Images/species-malevolent-power-bonded-host.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary folk whose firstborn is bound to an ancient dark power, gaining claws, shadow magic and small demon servants. (looks like: demon; good at: powers and magic, fighting)
 - **Attributes:** CHA +1 COU +1

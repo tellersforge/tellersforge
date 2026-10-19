@@ -1,5 +1,9 @@
 # Adaptive camouflage suit
 
+![Adaptive camouflage suit](../Images/GR-0175-equipment-adaptive-camouflage-suit.jpg){.illus}
+
+
+*Catalogue: GR-0175*
 *Set: Expansion*
 
 *aka: ______________________________*

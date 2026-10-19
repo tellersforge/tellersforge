@@ -1,5 +1,9 @@
 # Crampons
 
+![Crampons](../Images/GR-0310-equipment-crampons.jpg){.illus}
+
+
+*Catalogue: GR-0310*
 *Set: Expansion*
 
 *aka: ______________________________*

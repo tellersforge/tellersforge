@@ -1,5 +1,9 @@
 # Hand-tailed water-dog
 
+![Hand-tailed water-dog](../Images/BE-326-bestiary-hand-tailed-water-dog.jpg){.illus}
+
+
+*Catalogue: BE-326*
 *Set: Core*
 
 *aka: ______________________________*

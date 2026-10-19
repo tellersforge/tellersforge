@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Interuniversal void leviathan *(NPC only; NPC-scale)*
 
+![Interuniversal void leviathan](../Images/species-interuniversal-void-leviathan.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +6 AGI −6 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +5, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2

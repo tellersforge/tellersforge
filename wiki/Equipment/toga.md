@@ -1,5 +1,9 @@
 # Toga
 
+![Toga](../Images/GR-0962-equipment-toga.jpg){.illus}
+
+
+*Catalogue: GR-0962*
 *Set: Expansion*
 
 *aka: ______________________________*

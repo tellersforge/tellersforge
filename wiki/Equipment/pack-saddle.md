@@ -1,5 +1,9 @@
 # Pack saddle
 
+![Pack saddle](../Images/GR-0697-equipment-pack-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0697*
 *Set: Expansion*
 
 *aka: ______________________________*

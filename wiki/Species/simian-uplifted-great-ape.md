@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 732 Telepathic super-gorilla *(genres: super-powered: mutants and the enhanced)*
 
+![Telepathic super-gorilla](../Images/species-telepathic-super-gorilla.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Uplifted gorilla folk of immense strength and hidden psychic power, guardians of a secret advanced city. (looks like: ape; good at: strength, powers and magic)
 - **Attributes:** STR +4 AGI −1 INT +2 WIS −1 CHA −1

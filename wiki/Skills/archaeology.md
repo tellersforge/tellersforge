@@ -1,5 +1,9 @@
 # Archaeology
 
+![Archaeology](../Images/SK-011-skills-archaeology.jpg){.illus}
+
+
+*Catalogue: SK-011*
 *Set: Expansion*
 
 *aka: ______________________________*

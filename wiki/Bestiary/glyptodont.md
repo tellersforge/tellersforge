@@ -1,5 +1,9 @@
 # Glyptodont
 
+![Glyptodont](../Images/BE-297-bestiary-glyptodont.jpg){.illus}
+
+
+*Catalogue: BE-297*
 *Set: Expansion*
 
 *aka: ______________________________*

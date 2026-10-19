@@ -1,7 +1,8 @@
 # Translation earpiece
 
-![Translation earpiece](../Images/equipment-translation-earpiece.jpg){.illus}
+![Translation earpiece](../Images/GR-0972-equipment-translation-earpiece.jpg){.illus}
 
+*Catalogue: GR-0972*
 *Set: Expansion*
 
 *aka: ______________________________*
@@ -20,5 +21,5 @@ A small earpiece that listens to foreign speech and whispers a translation into 
 
 ## Not to be confused with
 
-*[All-Language Translator](all-language-translator.md)*, which handles any language at all; the earpiece knows only the languages in its memory.
+*[Adaptive Language Translator](all-language-translator.md)*, which handles any language at all; the earpiece knows only the languages in its memory.
 

@@ -1,7 +1,8 @@
 # Mind Control
 
-![Mind control](../Images/powers-mind-control.jpg){.illus}
+![Mind control](../Images/PW-182-powers-mind-control.jpg){.illus}
 
+*Catalogue: PW-182*
 *Set: Core*
 
 *aka: ______________________________*

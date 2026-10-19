@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Flying mountain mount *(beast)*
 
+![Flying mountain mount](../Images/species-flying-mountain-mount.jpg){.illus}
+
+
 - **Size:** large · **Body:** winged biped
 - **Attributes:** STR +2 INT −2 COU +1
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Furry ball-shaped companion *(beast)*
 
+![Furry ball-shaped companion](../Images/species-furry-ball-shaped-companion.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +3 END +1 INT −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A furry ball with hidden rows of teeth.
 
 ### Chattering monkey-lizard jester *(beast)*
+
+![Chattering monkey-lizard jester](../Images/species-chattering-monkey-lizard-jester.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 INT −2 WIS −1

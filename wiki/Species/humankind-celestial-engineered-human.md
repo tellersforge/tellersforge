@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 135 Cosmic energy guardian folk *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
 
+![Cosmic energy guardian folk](../Images/species-cosmic-energy-guardian-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ageless cosmic guardians who fly, hit like a truck and reshape matter itself. (looks like: human; good at: strength, flying, powers and magic)
 - **Attributes:** none
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### Deviant-throwback eternal folk *(NPC only; NPC-scale)*
+
+![Deviant-throwback eternal folk](../Images/species-deviant-throwback-eternal-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2

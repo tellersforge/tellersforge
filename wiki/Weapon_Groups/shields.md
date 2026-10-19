@@ -1,5 +1,9 @@
 # Shields
 
+![Shields](../Images/WG-023-weapon-groups-shields.jpg){.illus}
+
+
+*Catalogue: WG-023*
 *Set: Core*
 
 *aka: ______________________________*

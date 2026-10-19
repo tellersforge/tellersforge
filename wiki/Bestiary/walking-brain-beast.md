@@ -1,5 +1,9 @@
 # Walking brain beast
 
+![Walking brain beast](../Images/BE-655-bestiary-walking-brain-beast.jpg){.illus}
+
+
+*Catalogue: BE-655*
 *Set: Expansion*
 
 *aka: ______________________________*

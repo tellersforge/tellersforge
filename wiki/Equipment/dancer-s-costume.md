@@ -1,5 +1,9 @@
 # Dancer's costume
 
+![Dancer's costume](../Images/GR-0318-equipment-dancer-s-costume.jpg){.illus}
+
+
+*Catalogue: GR-0318*
 *Set: Core*
 
 *aka: ______________________________*

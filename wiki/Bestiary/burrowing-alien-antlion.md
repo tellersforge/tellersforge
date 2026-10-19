@@ -1,5 +1,9 @@
 # Burrowing alien antlion
 
+![Burrowing alien antlion](../Images/BE-083-bestiary-burrowing-alien-antlion.jpg){.illus}
+
+
+*Catalogue: BE-083*
 *Set: Expansion*
 
 *aka: ______________________________*

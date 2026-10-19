@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 375 Astral folk *(genres: heavens, hells and other planes)*
 
+![Astral folk](../Images/species-astral-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Star-touched elves resistant to death-magic, with a natural gift for travelling between worlds. (looks like: elf; good at: powers and magic, knowledge)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is necrotic.
 
 ### No. 376 Starlit divination folk *(genres: classic fantasy)*
+
+![Starlit divination folk](../Images/species-starlit-divination-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived elves who chart the stars and read small glimpses of the future in them. (looks like: elf; good at: powers and magic, knowledge)

@@ -1,5 +1,9 @@
 # Horned mud charger
 
+![Horned mud charger](../Images/BE-346-bestiary-horned-mud-charger.jpg){.illus}
+
+
+*Catalogue: BE-346*
 *Set: Expansion*
 
 *aka: ______________________________*

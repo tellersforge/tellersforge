@@ -1,7 +1,8 @@
 # Manoeuvring pack
 
-![Manoeuvring pack](../Images/equipment-manoeuvring-pack.jpg){.illus}
+![Manoeuvring pack](../Images/GR-0626-equipment-manoeuvring-pack.jpg){.illus}
 
+*Catalogue: GR-0626*
 *Set: Expansion*
 
 *aka: ______________________________*

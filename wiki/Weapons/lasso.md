@@ -1,5 +1,9 @@
 # Lasso
 
+![Lasso](../Images/GR-0058-weapons-lasso.jpg){.illus}
+
+
+*Catalogue: GR-0058*
 *Set: Expansion*
 
 *aka: ______________________________*

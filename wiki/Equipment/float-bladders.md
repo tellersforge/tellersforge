@@ -1,5 +1,9 @@
 # Float bladders
 
+![Float bladders](../Images/GR-0422-equipment-float-bladders.jpg){.illus}
+
+
+*Catalogue: GR-0422*
 *Set: Expansion*
 
 *aka: ______________________________*

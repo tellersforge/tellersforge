@@ -1,5 +1,8 @@
 # Bounty hunter
 
+![Bounty hunter](../Images/professions-bounty-hunter.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

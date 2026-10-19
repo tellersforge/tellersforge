@@ -1,5 +1,9 @@
 # Imp swarm
 
+![Imp swarm](../Images/BE-360-bestiary-imp-swarm.jpg){.illus}
+
+
+*Catalogue: BE-360*
 *Set: Core*
 
 *aka: ______________________________*

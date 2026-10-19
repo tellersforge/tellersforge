@@ -1,7 +1,8 @@
 # Radiation counter
 
-![Radiation counter](../Images/equipment-radiation-counter.jpg){.illus}
+![Radiation counter](../Images/GR-0773-equipment-radiation-counter.jpg){.illus}
 
+*Catalogue: GR-0773*
 *Set: Expansion*
 
 *aka: ______________________________*

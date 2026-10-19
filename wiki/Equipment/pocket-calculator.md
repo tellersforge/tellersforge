@@ -1,5 +1,9 @@
 # Pocket calculator
 
+![Pocket calculator](../Images/GR-0735-equipment-pocket-calculator.jpg){.illus}
+
+
+*Catalogue: GR-0735*
 *Set: Expansion*
 
 *aka: ______________________________*

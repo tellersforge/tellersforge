@@ -1,5 +1,9 @@
 # Forest-Guarding
 
+![Forest-Guarding](../Images/PW-112-powers-forest-guarding.jpg){.illus}
+
+
+*Catalogue: PW-112*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Dice
 
+![Dice](../Images/GR-0329-equipment-dice.jpg){.illus}
+
+
+*Catalogue: GR-0329*
 *Set: Core*
 
 *aka: ______________________________*

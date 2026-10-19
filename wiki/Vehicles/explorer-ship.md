@@ -1,7 +1,8 @@
 # Explorer Ship
 
-![Explorer ship](../Images/vehicles-explorer-ship.jpg){.illus}
+![Explorer ship](../Images/GR-1068-vehicles-explorer-ship.jpg){.illus}
 
+*Catalogue: GR-1068*
 *Set: Expansion*
 
 

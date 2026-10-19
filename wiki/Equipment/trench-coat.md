@@ -1,5 +1,9 @@
 # Trench coat
 
+![Trench coat](../Images/GR-0979-equipment-trench-coat.jpg){.illus}
+
+
+*Catalogue: GR-0979*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Militant wolf-soldier *(NPC only)*
 
+![Militant wolf-soldier](../Images/species-militant-wolf-soldier.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +1 INT −1 WIS +1 PER +1 CHA −1 COU +2
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Hunting](../Skills/hunting.md) +1, [Running](../Skills/running.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) −1, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) −1

@@ -1,5 +1,9 @@
 # Cat-headed lizard
 
+![Cat-headed lizard](../Images/BE-091-bestiary-cat-headed-lizard.jpg){.illus}
+
+
+*Catalogue: BE-091*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Data stick
 
+![Data stick](../Images/GR-0322-equipment-data-stick.jpg){.illus}
+
+
+*Catalogue: GR-0322*
 *Set: Expansion*
 
 *aka: ______________________________*

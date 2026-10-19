@@ -1,5 +1,9 @@
 # Forensics
 
+![Forensics](../Images/SK-076-skills-forensics.jpg){.illus}
+
+
+*Catalogue: SK-076*
 *Set: Expansion*
 
 *aka: ______________________________*

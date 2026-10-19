@@ -1,5 +1,8 @@
 # Laziness
 
+![Laziness](../Images/flaws-laziness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when avoids effort, cuts corners, stops early.

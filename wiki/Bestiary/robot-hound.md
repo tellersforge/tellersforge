@@ -1,7 +1,8 @@
 # Robot hound
 
-![Robot hound](../Images/bestiary-robot-hound.jpg){.illus}
+![Robot hound](../Images/BE-497-bestiary-robot-hound.jpg){.illus}
 
+*Catalogue: BE-497*
 *Set: Expansion*
 
 *aka: ______________________________*

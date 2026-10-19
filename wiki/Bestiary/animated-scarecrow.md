@@ -1,5 +1,9 @@
 # Animated scarecrow
 
+![Animated scarecrow](../Images/BE-021-bestiary-animated-scarecrow.jpg){.illus}
+
+
+*Catalogue: BE-021*
 *Set: Expansion*
 
 *aka: ______________________________*

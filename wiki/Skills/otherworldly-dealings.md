@@ -1,5 +1,9 @@
 # Otherworldly Dealings ✦
 
+![Otherworldly Dealings ✦](../Images/SK-143-skills-otherworldly-dealings.jpg){.illus}
+
+
+*Catalogue: SK-143*
 *Set: Expansion*
 
 *aka: ______________________________*

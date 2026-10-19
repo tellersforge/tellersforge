@@ -1,5 +1,9 @@
 # Slings
 
+![Slings](../Images/WG-024-weapon-groups-slings.jpg){.illus}
+
+
+*Catalogue: WG-024*
 *Set: Core*
 
 *aka: ______________________________*

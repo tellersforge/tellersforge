@@ -1,5 +1,9 @@
 # Field microscope
 
+![Field microscope](../Images/GR-0404-equipment-field-microscope.jpg){.illus}
+
+
+*Catalogue: GR-0404*
 *Set: Expansion*
 
 *aka: ______________________________*

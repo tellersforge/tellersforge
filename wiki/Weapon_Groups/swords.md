@@ -1,5 +1,9 @@
 # Swords
 
+![Swords](../Images/WG-027-weapon-groups-swords.jpg){.illus}
+
+
+*Catalogue: WG-027*
 *Set: Core*
 
 *aka: ______________________________*

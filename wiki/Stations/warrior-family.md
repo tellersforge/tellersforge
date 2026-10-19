@@ -1,5 +1,8 @@
 # Warrior family
 
+![Warrior family](../Images/stations-warrior-family.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

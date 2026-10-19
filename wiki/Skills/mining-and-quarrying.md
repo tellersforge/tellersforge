@@ -1,5 +1,9 @@
 # Mining & Quarrying
 
+![Mining & Quarrying](../Images/SK-136-skills-mining-and-quarrying.jpg){.illus}
+
+
+*Catalogue: SK-136*
 *Set: Expansion*
 
 *aka: ______________________________*

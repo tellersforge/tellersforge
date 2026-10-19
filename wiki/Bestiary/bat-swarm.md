@@ -1,5 +1,9 @@
 # Bat swarm
 
+![Bat swarm](../Images/BE-035-bestiary-bat-swarm.jpg){.illus}
+
+
+*Catalogue: BE-035*
 *Set: Core*
 
 *aka: ______________________________*

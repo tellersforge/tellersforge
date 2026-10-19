@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Monstrous bat-mutate *(NPC only)*
 
+![Monstrous bat-mutate](../Images/species-monstrous-bat-mutate.jpg){.illus}
+
+
 - **Size:** large · **Body:** winged biped
 - **Attributes:** STR +3 AGI −1 INT −2 WIS +1 PER +2 CHA −1
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Survival: Desert](../Skills/survival-desert.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2

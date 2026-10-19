@@ -1,5 +1,9 @@
 # Postcognition
 
+![Postcognition](../Images/PW-223-powers-postcognition.jpg){.illus}
+
+
+*Catalogue: PW-223*
 *Set: Expansion*
 
 *aka: ______________________________*

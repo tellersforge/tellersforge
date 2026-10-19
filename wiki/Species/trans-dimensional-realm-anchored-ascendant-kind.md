@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shard-bound realm ascendant *(NPC only)*
 
+![Shard-bound realm ascendant](../Images/species-shard-bound-realm-ascendant.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1 COU +1
 - **Skills:** [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2

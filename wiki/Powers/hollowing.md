@@ -1,5 +1,9 @@
 # Hollowing
 
+![Hollowing](../Images/PW-131-powers-hollowing.jpg){.illus}
+
+
+*Catalogue: PW-131*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Etherealness
 
+![Etherealness](../Images/PW-093-powers-etherealness.jpg){.illus}
+
+
+*Catalogue: PW-093*
 *Set: Expansion*
 
 *aka: ______________________________*

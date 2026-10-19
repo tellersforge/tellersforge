@@ -1,5 +1,8 @@
 # Spy
 
+![Spy](../Images/professions-spy.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

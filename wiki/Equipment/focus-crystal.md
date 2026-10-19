@@ -1,5 +1,9 @@
 # Focus crystal
 
+![Focus crystal](../Images/GR-0425-equipment-focus-crystal.jpg){.illus}
+
+
+*Catalogue: GR-0425*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Digital camera
 
+![Digital camera](../Images/GR-0331-equipment-digital-camera.jpg){.illus}
+
+
+*Catalogue: GR-0331*
 *Set: Expansion*
 
 *aka: ______________________________*

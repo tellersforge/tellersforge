@@ -1,7 +1,8 @@
 # Phase-shifting panther
 
-![Phase-shifting panther](../Images/bestiary-phase-shifting-panther.jpg){.illus}
+![Phase-shifting panther](../Images/BE-458-bestiary-phase-shifting-panther.jpg){.illus}
 
+*Catalogue: BE-458*
 *Set: Expansion*
 
 *aka: ______________________________*

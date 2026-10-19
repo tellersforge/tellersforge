@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bio-engineered hive horror swarm *(NPC only; NPC-scale)*
 
+![Bio-engineered hive horror swarm](../Images/species-bio-engineered-hive-horror-swarm.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **Attributes:** STR +2 END +3 INT −1 WIS +1 CHA −2 COU +3
 - **Skills:** [Formation Fighting](../Skills/formation-fighting.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Logistics](../Skills/logistics.md) +2, [Signals](../Skills/signals.md) +2, [Composure](../Skills/composure.md) +1, [Insight](../Skills/insight.md) −1, [Storytelling & Conversation](../Skills/storytelling-and-conversation.md) −1, [Deception](../Skills/deception.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale.
 
 ### Colonial armored horror *(NPC only; NPC-scale)*
+
+![Colonial armored horror](../Images/species-colonial-armored-horror.jpg){.illus}
+
 
 - **Size:** huge · **Body:** colonial
 - **Attributes:** STR +8 AGI −4 END +3 INT −1 WIS +1 CHA −2 COU +3

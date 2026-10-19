@@ -1,5 +1,9 @@
 # Slide rule
 
+![Slide rule](../Images/GR-0878-equipment-slide-rule.jpg){.illus}
+
+
+*Catalogue: GR-0878*
 *Set: Expansion*
 
 *aka: ______________________________*

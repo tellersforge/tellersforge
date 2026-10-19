@@ -1,5 +1,9 @@
 # Synthesizer keyboard
 
+![Synthesizer keyboard](../Images/GR-0941-equipment-synthesizer-keyboard.jpg){.illus}
+
+
+*Catalogue: GR-0941*
 *Set: Expansion*
 
 *aka: ______________________________*

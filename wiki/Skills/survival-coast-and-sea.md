@@ -1,5 +1,9 @@
 # Survival: Coast & Sea
 
+![Survival: Coast & Sea](../Images/SK-198-skills-survival-coast-and-sea.jpg){.illus}
+
+
+*Catalogue: SK-198*
 *Set: Expansion*
 
 *aka: ______________________________*

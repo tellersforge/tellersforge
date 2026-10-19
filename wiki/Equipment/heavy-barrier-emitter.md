@@ -1,5 +1,9 @@
 # Heavy barrier emitter
 
+![Heavy barrier emitter](../Images/GR-0515-equipment-heavy-barrier-emitter.jpg){.illus}
+
+
+*Catalogue: GR-0515*
 *Set: Expansion*
 
 *aka: ______________________________*

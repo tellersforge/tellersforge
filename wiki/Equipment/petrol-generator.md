@@ -1,5 +1,9 @@
 # Petrol generator
 
+![Petrol generator](../Images/GR-0720-equipment-petrol-generator.jpg){.illus}
+
+
+*Catalogue: GR-0720*
 *Set: Expansion*
 
 *aka: ______________________________*

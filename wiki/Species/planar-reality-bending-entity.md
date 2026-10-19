@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forgotten-on-sight watchers *(NPC only; NPC-scale)*
 
+![Forgotten-on-sight watchers](../Images/species-forgotten-on-sight-watchers.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END −1 INT +1 WIS +1 CHA +1
 - **Skills:** [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Memory Editing is automatic and erases only memories of the watcher itself.
 
 ### Reckless child-like near-omnipotent trickster *(NPC only; NPC-scale)*
+
+![Reckless child-like near-omnipotent trickster](../Images/species-reckless-child-like-near-omnipotent-trickster.jpg){.illus}
+
 
 - **Size:** varies · **Body:** biped
 - **Attributes:** END −1 WIS −2 CHA +2
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cave-dwelling reality-testing 'deity' *(NPC only; NPC-scale)*
 
+![Cave-dwelling reality-testing 'deity'](../Images/species-cave-dwelling-reality-testing-deity.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 END −1 INT +1 WIS +1 CHA +3
 - **Skills:** [Deception](../Skills/deception.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Telekinesis covers its destructive displays. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Asexual color-changing diplomat alien *(NPC only; NPC-scale)*
+
+![Asexual color-changing diplomat alien](../Images/species-asexual-color-changing-diplomat-alien.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none

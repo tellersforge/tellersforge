@@ -1,5 +1,9 @@
 # Motion sensor kit
 
+![Motion sensor kit](../Images/GR-0661-equipment-motion-sensor-kit.jpg){.illus}
+
+
+*Catalogue: GR-0661*
 *Set: Expansion*
 
 *aka: ______________________________*

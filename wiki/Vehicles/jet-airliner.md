@@ -1,5 +1,9 @@
 # Jet Airliner
 
+![Jet Airliner](../Images/GR-1083-vehicles-jet-airliner.jpg){.illus}
+
+
+*Catalogue: GR-1083*
 *Set: Expansion*
 
 

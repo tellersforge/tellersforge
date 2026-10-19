@@ -1,5 +1,9 @@
 # Frock coat
 
+![Frock coat](../Images/GR-0441-equipment-frock-coat.jpg){.illus}
+
+
+*Catalogue: GR-0441*
 *Set: Expansion*
 
 *aka: ______________________________*

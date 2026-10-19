@@ -1,5 +1,9 @@
 # Super Strength
 
+![Super Strength](../Images/PW-284-powers-super-strength.jpg){.illus}
+
+
+*Catalogue: PW-284*
 *Set: Core*
 
 *aka: ______________________________*

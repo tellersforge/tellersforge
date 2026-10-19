@@ -1,5 +1,9 @@
 # Tailor's kit
 
+![Tailor's kit](../Images/GR-0945-equipment-tailor-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0945*
 *Set: Expansion*
 
 *aka: ______________________________*

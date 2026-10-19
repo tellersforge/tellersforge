@@ -1,7 +1,8 @@
 # Herb pouch
 
-![Herb pouch](../Images/equipment-herb-pouch.jpg){.illus}
+![Herb pouch](../Images/GR-0522-equipment-herb-pouch.jpg){.illus}
 
+*Catalogue: GR-0522*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Veterinary kit
 
+![Veterinary kit](../Images/GR-0990-equipment-veterinary-kit.jpg){.illus}
+
+
+*Catalogue: GR-0990*
 *Set: Expansion*
 
 *aka: ______________________________*

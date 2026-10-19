@@ -1,7 +1,8 @@
 # Stone Mace
 
-![Stone mace](../Images/weapons-stone-mace.jpg){.illus}
+![Stone mace](../Images/GR-0103-weapons-stone-mace.jpg){.illus}
 
+*Catalogue: GR-0103*
 *Set: Expansion*
 
 *aka: ______________________________*

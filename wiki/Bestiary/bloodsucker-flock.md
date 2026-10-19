@@ -1,5 +1,9 @@
 # Bloodsucker flock
 
+![Bloodsucker flock](../Images/BE-059-bestiary-bloodsucker-flock.jpg){.illus}
+
+
+*Catalogue: BE-059*
 *Set: Expansion*
 
 *aka: ______________________________*

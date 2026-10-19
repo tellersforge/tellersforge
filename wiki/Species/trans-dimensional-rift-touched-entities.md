@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living-flame dimension being *(NPC only; NPC-scale)*
 
+![Living-flame dimension being](../Images/species-living-flame-dimension-being.jpg){.illus}
+
+
 - **Size:** varies · **Body:** energy
 - **Attributes:** INT +3 WIS +2 PER +1 CHA +1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Elemental Body is flame. Lifespan (ageless or immortal) is a lexicon detail, not a game number. No hands: held weapons unusable.
 
 ### Empyrean rift spirit *(NPC only; NPC-scale)*
+
+![Empyrean rift spirit](../Images/species-empyrean-rift-spirit.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +1 WIS +1 PER +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Rift-bred mind-thief *(NPC only)*
 
+![Rift-bred mind-thief](../Images/species-rift-bred-mind-thief.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR −2 AGI +1 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Life Drain takes mind and soul. No hands: held weapons unusable.
 
 ### Rift-touched survivor *(NPC only)*
+
+![Rift-touched survivor](../Images/species-rift-touched-survivor.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1

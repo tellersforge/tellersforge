@@ -1,5 +1,9 @@
 # Plant-fibre rope
 
+![Plant-fibre rope](../Images/GR-0729-equipment-plant-fibre-rope.jpg){.illus}
+
+
+*Catalogue: GR-0729*
 *Set: Core*
 
 *aka: ______________________________*

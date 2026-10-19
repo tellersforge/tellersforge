@@ -1,5 +1,9 @@
 # Field ration pack
 
+![Field ration pack](../Images/GR-0405-equipment-field-ration-pack.jpg){.illus}
+
+
+*Catalogue: GR-0405*
 *Set: Core*
 
 *aka: ______________________________*

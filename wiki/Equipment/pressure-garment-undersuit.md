@@ -1,5 +1,9 @@
 # Pressure-garment undersuit
 
+![Pressure-garment undersuit](../Images/GR-0757-equipment-pressure-garment-undersuit.jpg){.illus}
+
+
+*Catalogue: GR-0757*
 *Set: Expansion*
 
 *aka: ______________________________*

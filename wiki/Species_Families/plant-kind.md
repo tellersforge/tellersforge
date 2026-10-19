@@ -1,5 +1,8 @@
 # Plant-kind
 
+![Plant-kind](../Images/species-families-plant-kind.jpg){.illus}
+
+
 
 Folk that grow rather than breed: trees that walk, vines that think, flowers that dance at dusk. The oldest are towering tree-shepherds who speak slowly and remember the forest as it was before any axe. Smaller kinds include moss-wrapped wanderers, blossom sprites, forest-bonded guardians and odd garden curiosities. Among the stars there are green-skinned peoples who drink sunlight and root to sleep. Most need light, water and soil, and wither in the dark. They are patient, rooted in place and slow to act, but a grove that has decided to act is terrible. Woodcutters are right to be nervous.
 

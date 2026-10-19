@@ -1,5 +1,9 @@
 # Leaping head parasite
 
+![Leaping head parasite](../Images/BE-382-bestiary-leaping-head-parasite.jpg){.illus}
+
+
+*Catalogue: BE-382*
 *Set: Expansion*
 
 *aka: ______________________________*

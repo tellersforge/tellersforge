@@ -1,5 +1,9 @@
 # Giant ground sloth
 
+![Giant ground sloth](../Images/BE-256-bestiary-giant-ground-sloth.jpg){.illus}
+
+
+*Catalogue: BE-256*
 *Set: Expansion*
 
 *aka: ______________________________*

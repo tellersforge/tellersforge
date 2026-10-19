@@ -1,5 +1,9 @@
 # Coin headdress
 
+![Coin headdress](../Images/GR-0290-equipment-coin-headdress.jpg){.illus}
+
+
+*Catalogue: GR-0290*
 *Set: Expansion*
 
 *aka: ______________________________*

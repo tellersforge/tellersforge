@@ -1,5 +1,9 @@
 # Heat & Melt
 
+![Heat & Melt](../Images/PW-128-powers-heat-and-melt.jpg){.illus}
+
+
+*Catalogue: PW-128*
 *Set: Expansion*
 
 *aka: ______________________________*

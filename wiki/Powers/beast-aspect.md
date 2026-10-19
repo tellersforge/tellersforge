@@ -1,5 +1,9 @@
 # Beast Aspect
 
+![Beast Aspect](../Images/PW-018-powers-beast-aspect.jpg){.illus}
+
+
+*Catalogue: PW-018*
 *Set: Expansion*
 
 *aka: ______________________________*

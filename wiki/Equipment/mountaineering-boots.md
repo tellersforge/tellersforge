@@ -1,5 +1,9 @@
 # Mountaineering boots
 
+![Mountaineering boots](../Images/GR-0664-equipment-mountaineering-boots.jpg){.illus}
+
+
+*Catalogue: GR-0664*
 *Set: Expansion*
 
 *aka: ______________________________*

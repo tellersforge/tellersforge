@@ -1,5 +1,9 @@
 # Colossal war golem
 
+![Colossal war golem](../Images/BE-125-bestiary-colossal-war-golem.jpg){.illus}
+
+
+*Catalogue: BE-125*
 *Set: Expansion*
 
 *aka: ______________________________*

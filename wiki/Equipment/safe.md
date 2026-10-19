@@ -1,5 +1,9 @@
 # Safe
 
+![Safe](../Images/GR-0812-equipment-safe.jpg){.illus}
+
+
+*Catalogue: GR-0812*
 *Set: Expansion*
 
 *aka: ______________________________*

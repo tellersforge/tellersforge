@@ -1,5 +1,9 @@
 # Wool tunic
 
+![Wool tunic](../Images/GR-1031-equipment-wool-tunic.jpg){.illus}
+
+
+*Catalogue: GR-1031*
 *Set: Core*
 
 *aka: ______________________________*

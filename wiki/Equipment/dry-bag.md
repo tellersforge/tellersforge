@@ -1,5 +1,9 @@
 # Dry bag
 
+![Dry bag](../Images/GR-0354-equipment-dry-bag.jpg){.illus}
+
+
+*Catalogue: GR-0354*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Pocket watch
 
+![Pocket watch](../Images/GR-0739-equipment-pocket-watch.jpg){.illus}
+
+
+*Catalogue: GR-0739*
 *Set: Expansion*
 
 *aka: ______________________________*

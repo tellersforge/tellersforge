@@ -1,5 +1,9 @@
 # Jump Freighter
 
+![Jump Freighter](../Images/GR-1086-vehicles-jump-freighter.jpg){.illus}
+
+
+*Catalogue: GR-1086*
 *Set: Expansion*
 
 

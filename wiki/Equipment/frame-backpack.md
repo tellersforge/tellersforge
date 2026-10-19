@@ -1,7 +1,8 @@
 # Frame backpack
 
-![Frame backpack](../Images/equipment-frame-backpack.jpg){.illus}
+![Frame backpack](../Images/GR-0439-equipment-frame-backpack.jpg){.illus}
 
+*Catalogue: GR-0439*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wire rope
 
+![Wire rope](../Images/GR-1019-equipment-wire-rope.jpg){.illus}
+
+
+*Catalogue: GR-1019*
 *Set: Expansion*
 
 *aka: ______________________________*

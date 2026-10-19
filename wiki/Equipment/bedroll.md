@@ -1,5 +1,9 @@
 # Bedroll
 
+![Bedroll](../Images/GR-0206-equipment-bedroll.jpg){.illus}
+
+
+*Catalogue: GR-0206*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Horned cliff-bird
 
+![Horned cliff-bird](../Images/BE-343-bestiary-horned-cliff-bird.jpg){.illus}
+
+
+*Catalogue: BE-343*
 *Set: Expansion*
 
 *aka: ______________________________*

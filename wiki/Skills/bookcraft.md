@@ -1,5 +1,9 @@
 # Bookcraft
 
+![Bookcraft](../Images/SK-021-skills-bookcraft.jpg){.illus}
+
+
+*Catalogue: SK-021*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Cave line fisher
 
+![Cave line fisher](../Images/BE-095-bestiary-cave-line-fisher.jpg){.illus}
+
+
+*Catalogue: BE-095*
 *Set: Expansion*
 
 *aka: ______________________________*

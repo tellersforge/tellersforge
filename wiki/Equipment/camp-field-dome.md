@@ -1,5 +1,9 @@
 # Camp field dome
 
+![Camp field dome](../Images/GR-0250-equipment-camp-field-dome.jpg){.illus}
+
+
+*Catalogue: GR-0250*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bio-scanner
 
+![Bio-scanner](../Images/GR-0213-equipment-bio-scanner.jpg){.illus}
+
+
+*Catalogue: GR-0213*
 *Set: Expansion*
 
 *aka: ______________________________*

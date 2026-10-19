@@ -1,7 +1,8 @@
 # Leaf-Blade Sword
 
-![Leaf-blade sword](../Images/weapons-leaf-blade-sword.jpg){.illus}
+![Leaf-blade sword](../Images/GR-0059-weapons-leaf-blade-sword.jpg){.illus}
 
+*Catalogue: GR-0059*
 *Set: Core*
 
 *aka: ______________________________*

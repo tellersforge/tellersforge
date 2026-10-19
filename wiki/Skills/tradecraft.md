@@ -1,5 +1,9 @@
 # Tradecraft
 
+![Tradecraft](../Images/SK-211-skills-tradecraft.jpg){.illus}
+
+
+*Catalogue: SK-211*
 *Set: Expansion*
 
 *aka: ______________________________*

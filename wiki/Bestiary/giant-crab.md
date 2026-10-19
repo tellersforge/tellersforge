@@ -1,5 +1,9 @@
 # Giant crab
 
+![Giant crab](../Images/BE-244-bestiary-giant-crab.jpg){.illus}
+
+
+*Catalogue: BE-244*
 *Set: Expansion*
 
 *aka: ______________________________*

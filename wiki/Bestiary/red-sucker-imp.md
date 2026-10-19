@@ -1,5 +1,9 @@
 # Red sucker-imp
 
+![Red sucker-imp](../Images/BE-484-bestiary-red-sucker-imp.jpg){.illus}
+
+
+*Catalogue: BE-484*
 *Set: Core*
 
 *aka: ______________________________*

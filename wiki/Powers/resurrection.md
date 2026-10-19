@@ -1,5 +1,9 @@
 # Resurrection
 
+![Resurrection](../Images/PW-244-powers-resurrection.jpg){.illus}
+
+
+*Catalogue: PW-244*
 *Set: Core*
 
 *aka: ______________________________*

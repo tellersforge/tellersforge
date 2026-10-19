@@ -1,12 +1,13 @@
 # Bearded drake
 
+*Catalogue: BE-039*
 *Set: Expansion*
 
 *aka: ______________________________*
 
 *[Draconic](../Species_Families/draconic.md) · huge biped · ambusher · desert, canyon, fantasy, post-apocalyptic*
 
-![Bearded drake](../Images/bestiary-bearded-drake.jpg){.illus}
+![Bearded drake](../Images/BE-039-bestiary-bearded-drake.jpg){.illus}
 
 A wingless drake about fourteen feet tall that stalks upright on thick hindlegs, leaning forward on long, strong arms ready to grab. Its scales are the dull tan of canyon rock, and under its jaw hangs a ruff of spines, the beard it is named for. The beard flares wide and darkens when it is angry. It is a warning, and a creature that flares at you is already deciding how to kill you.
 

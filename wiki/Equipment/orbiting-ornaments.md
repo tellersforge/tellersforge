@@ -1,5 +1,9 @@
 # Orbiting ornaments
 
+![Orbiting ornaments](../Images/GR-0692-equipment-orbiting-ornaments.jpg){.illus}
+
+
+*Catalogue: GR-0692*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Fire-Making
 
+![Fire-Making](../Images/SK-071-skills-fire-making.jpg){.illus}
+
+
+*Catalogue: SK-071*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

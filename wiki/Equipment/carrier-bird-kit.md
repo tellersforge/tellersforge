@@ -1,5 +1,9 @@
 # Carrier-bird kit
 
+![Carrier-bird kit](../Images/GR-0260-equipment-carrier-bird-kit.jpg){.illus}
+
+
+*Catalogue: GR-0260*
 *Set: Expansion*
 
 *aka: ______________________________*

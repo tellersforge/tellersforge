@@ -1,5 +1,9 @@
 # Force Constructs
 
+![Force Constructs](../Images/PW-110-powers-force-constructs.jpg){.illus}
+
+
+*Catalogue: PW-110*
 *Set: Expansion*
 
 *aka: ______________________________*

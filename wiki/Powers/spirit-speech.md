@@ -1,5 +1,9 @@
 # Spirit Speech
 
+![Spirit Speech](../Images/PW-273-powers-spirit-speech.jpg){.illus}
+
+
+*Catalogue: PW-273*
 *Set: Expansion*
 
 *aka: ______________________________*

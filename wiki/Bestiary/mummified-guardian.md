@@ -1,7 +1,8 @@
 # Mummified guardian
 
-![Mummified guardian](../Images/bestiary-mummified-guardian.jpg){.illus}
+![Mummified guardian](../Images/BE-427-bestiary-mummified-guardian.jpg){.illus}
 
+*Catalogue: BE-427*
 *Set: Core*
 
 *aka: ______________________________*

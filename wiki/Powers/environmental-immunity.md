@@ -1,5 +1,9 @@
 # Environmental Immunity
 
+![Environmental Immunity](../Images/PW-092-powers-environmental-immunity.jpg){.illus}
+
+
+*Catalogue: PW-092*
 *Set: Expansion*
 
 *aka: ______________________________*

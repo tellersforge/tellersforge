@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Frost giant *(NPC only)*
 
+![Frost giant](../Images/species-frost-giant.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Survival: Arctic](../Skills/survival-arctic.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -47,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is cold.
 
 ### Fire/stone giant *(NPC only)*
+
+![Fire/stone giant](../Images/species-fire-stone-giant.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −1
@@ -59,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Colossal giant *(NPC only)*
 
+![Colossal giant](../Images/species-colossal-giant.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +9 AGI −4 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -68,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs only in even greater size and strength and great age (attribute and lexicon matters).
 
 ### Two-headed ettin *(NPC only)*
+
+![Two-headed ettin](../Images/species-two-headed-ettin.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −2 PER +1
@@ -79,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 451 Giant-blooded half-breed *(genres: classic fantasy)*
 
+![Giant-blooded half-breed](../Images/species-giant-blooded-half-breed.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** A gentle, immensely strong half-giant, more docile than fierce despite the muscle. (looks like: giant; good at: strength, toughness)
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
@@ -89,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs only in being large rather than huge, with a docile temperament (size and lexicon matters).
 
 ### No. 452 Horned imposing warrior race *(genres: classic fantasy)*
+
+![Horned imposing warrior race](../Images/species-horned-imposing-warrior-race.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Grey-skinned, horned giants raised in a rigid military society, physically imposing and trained to hide all emotion. (looks like: giant; good at: fighting, strength)
@@ -102,6 +120,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient seafaring giant *(NPC only)*
 
+![Ancient seafaring giant](../Images/species-ancient-seafaring-giant.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Sailing & Seamanship](../Skills/sailing-and-seamanship.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -111,6 +132,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Ancient giants who lived by the sea and ship.
 
 ### No. 453 Sterile warrior giant *(genres: classic fantasy)*
+
+![Sterile warrior giant](../Images/species-sterile-warrior-giant.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Huge, stoic giant warriors who cannot have children naturally, instead renewing their kind through an ancient crystal ritual. (looks like: giant; good at: strength, toughness)
@@ -123,6 +147,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 454 Viking seafaring giant-folk *(genres: classic fantasy)*
 
+![Viking seafaring giant-folk](../Images/species-viking-seafaring-giant-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, muscular giant-folk raiders and sailors, at home on rough seas and rougher battles. (looks like: giant; good at: strength, swimming)
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
@@ -133,6 +160,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A seafaring warrior people.
 
 ### Irradiated mutant giant *(NPC only)*
+
+![Irradiated mutant giant](../Images/species-irradiated-mutant-giant.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +8 AGI −4 END +2 INT −3
@@ -145,6 +175,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Augmented penal giant *(NPC only)*
 
+![Augmented penal giant](../Images/species-augmented-penal-giant.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +7 AGI −2 END +2 INT −4 WIS −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -154,6 +187,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs only in surgically boosted strength and reduced cognition (attribute matters; any implants are gear).
 
 ### Elemental colossus guardian *(NPC only)*
+
+![Elemental colossus guardian](../Images/species-elemental-colossus-guardian.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −1
@@ -166,6 +202,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Embittered ancient tyrant race *(NPC only)*
 
+![Embittered ancient tyrant race](../Images/species-embittered-ancient-tyrant-race.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT +2 CHA −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Arcana](../Skills/arcana.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -177,6 +216,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Metal-boned mutated giant *(NPC only)*
 
+![Metal-boned mutated giant](../Images/species-metal-boned-mutated-giant.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −2
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -187,6 +229,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Armoured giants grown with metal spikes and plates.
 
 ### Near-extinct brutish giants · No. 456 Warrior giant island folk · Hybrid ancient giant *(NPC only)*
+
+![Near-extinct brutish giants](../Images/species-near-extinct-brutish-giants.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −1
@@ -201,6 +246,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 455 Song-singing artisan giant *(genres: classic fantasy)*
 
+![Song-singing artisan giant](../Images/species-song-singing-artisan-giant.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Very tall, long-lived giants who build, sing and keep old lore, gentle and green-fingered until pushed into a terrifying rage. (looks like: giant; good at: making and fixing, people and talk)
 - **Attributes:** STR +5 AGI −2 END +2 INT −1 WIS +1
@@ -213,6 +261,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tusked nomadic giant-folk *(NPC only)*
 
+![Tusked nomadic giant-folk](../Images/species-tusked-nomadic-giant-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -224,6 +275,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wild giant *(NPC only)*
 
+![Wild giant](../Images/species-wild-giant.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -233,6 +287,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Hairy wild giants of the woods who herd livestock apart from society.
 
 ### Megalith-building giant *(NPC only)*
+
+![Megalith-building giant](../Images/species-megalith-building-giant.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −1
@@ -244,6 +301,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Primitive tribal giant *(NPC only)*
 
+![Primitive tribal giant](../Images/species-primitive-tribal-giant.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −2
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -253,6 +313,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Primitive giants who herd mammoths far from civilisation.
 
 ### Wild giant sloth-folk *(NPC only)*
+
+![Wild giant sloth-folk](../Images/species-wild-giant-sloth-folk.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −2
@@ -266,6 +329,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Monstrous sea-raider giant *(NPC only)*
 
+![Monstrous sea-raider giant](../Images/species-monstrous-sea-raider-giant.jpg){.illus}
+
+
 - **Size:** huge · **Body:** varies
 - **Attributes:** STR +7 AGI −4 END +2 INT −2 WIS −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +1, [Swimming](../Skills/swimming.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -275,6 +341,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Monstrous raiders who come out of the sea.
 
 ### No. 457 Giant buccaneer caste *(genres: myth and legend)*
+
+![Giant buccaneer caste](../Images/species-giant-buccaneer-caste.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **What it's like:** The biggest and strongest of all giant-kind, a buccaneer caste famous for its savage battle-frenzies. (looks like: giant; good at: strength, fighting)
@@ -286,6 +355,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* The largest, most ferocious sea-raiding caste of a giant warrior people.
 
 ### Warlord-emperor giant bloodline *(NPC only; NPC-scale)*
+
+![Warlord-emperor giant bloodline](../Images/species-warlord-emperor-giant-bloodline.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +10 AGI −4 END +4 INT −1 CHA +2 COU +2

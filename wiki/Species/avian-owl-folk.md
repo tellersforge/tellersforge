@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 207 Owl folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Owl folk](../Images/species-owl-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** Silent, wise owl-folk who fly without a sound and see perfectly by night. (looks like: owl; good at: flying, sneaking, keen senses)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +2 PER +2

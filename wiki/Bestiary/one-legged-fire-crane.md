@@ -1,5 +1,9 @@
 # One-legged fire crane
 
+![One-legged fire crane](../Images/BE-446-bestiary-one-legged-fire-crane.jpg){.illus}
+
+
+*Catalogue: BE-446*
 *Set: Expansion*
 
 *aka: ______________________________*

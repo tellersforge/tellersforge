@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 209 Parrot-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Parrot-folk](../Images/species-parrot-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** Vividly feathered parrot-folk, brilliant mimics who fly in noisy flocks. (looks like: parrot; good at: flying, people and talk)
 - **Attributes:** STR −2 AGI +2 END −1 INT +1 WIS +1 PER +2
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 210 Songbird-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Songbird-folk](../Images/species-songbird-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** winged biped
 - **What it's like:** Light, agile songbird-folk with the most beautiful voices in any flock. (looks like: bird; good at: flying, people and talk)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Small, light fliers with melodic voices.
 
 ### Hummingbird-folk *(NPC only)*
+
+![Hummingbird-folk](../Images/species-hummingbird-folk.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** winged biped
 - **Attributes:** STR −3 AGI +4 END −2 WIS +1 PER +2

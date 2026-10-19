@@ -1,5 +1,9 @@
 # Bridle and bit
 
+![Bridle and bit](../Images/GR-0232-equipment-bridle-and-bit.jpg){.illus}
+
+
+*Catalogue: GR-0232*
 *Set: Core*
 
 *aka: ______________________________*

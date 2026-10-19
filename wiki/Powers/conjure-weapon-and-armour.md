@@ -1,5 +1,9 @@
 # Conjure Weapon & Armour
 
+![Conjure Weapon & Armour](../Images/PW-048-powers-conjure-weapon-and-armour.jpg){.illus}
+
+
+*Catalogue: PW-048*
 *Set: Core*
 
 *aka: ______________________________*

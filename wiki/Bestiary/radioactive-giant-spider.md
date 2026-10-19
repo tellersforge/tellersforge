@@ -1,5 +1,9 @@
 # Radioactive giant spider
 
+![Radioactive giant spider](../Images/BE-476-bestiary-radioactive-giant-spider.jpg){.illus}
+
+
+*Catalogue: BE-476*
 *Set: Expansion*
 
 *aka: ______________________________*

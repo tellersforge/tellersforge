@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 424 Small desert cat-folk *(genres: beast-folk: fur)*
 
+![Small desert cat-folk](../Images/species-small-desert-cat-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small desert cat-folk whose fur shifts with the phase of the moon, agile, stealthy and sharp-eyed in the dark. (looks like: cat; good at: sneaking, keen senses)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* The small, especially stealthy form.
 
 ### No. 425 Standard-built cat-folk *(genres: beast-folk: fur)*
+
+![Standard-built cat-folk](../Images/species-standard-built-cat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Agile, disease-resistant cat-folk with a well-earned reputation as sharp traders and sharper thieves. (looks like: cat; good at: sneaking, speed and agility)
@@ -48,6 +54,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 426 Human-shaped cat-folk *(genres: beast-folk: fur)*
 
+![Human-shaped cat-folk](../Images/species-human-shaped-cat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cat-folk who pass almost entirely for human, giving themselves away only by slitted eyes and the faintest fur. (looks like: human with cat ears; good at: sneaking, speed and agility)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1
@@ -60,6 +69,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Large war-mount cat-folk *(NPC only)*
 
+![Large war-mount cat-folk](../Images/species-large-war-mount-cat-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +3 END +1 INT −2 WIS +1 CHA −1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2, [Hand Tools](../Skills/hand-tools.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept
@@ -71,6 +83,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Large bipedal warrior cat-folk *(NPC only)*
 
+![Large bipedal warrior cat-folk](../Images/species-large-bipedal-warrior-cat-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 INT −1 WIS +1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -81,6 +96,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A large, ferocious fighting form.
 
 ### Tiny housecat-sized cat-folk *(NPC only)*
+
+![Tiny housecat-sized cat-folk](../Images/species-tiny-housecat-sized-cat-folk.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** quadruped
 - **Attributes:** STR −3 AGI +3 END −1 INT −2 WIS +1

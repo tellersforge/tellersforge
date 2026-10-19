@@ -1,5 +1,9 @@
 # Thermal viewer
 
+![Thermal viewer](../Images/GR-0954-equipment-thermal-viewer.jpg){.illus}
+
+
+*Catalogue: GR-0954*
 *Set: Expansion*
 
 *aka: ______________________________*

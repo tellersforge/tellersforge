@@ -1,5 +1,9 @@
 # Clockwork doll
 
+![Clockwork doll](../Images/BE-108-bestiary-clockwork-doll.jpg){.illus}
+
+
+*Catalogue: BE-108*
 *Set: Expansion*
 
 *aka: ______________________________*

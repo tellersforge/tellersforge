@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Serpent-legged giant *(NPC only)*
 
+![Serpent-legged giant](../Images/species-serpent-legged-giant.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped+tailed
 - **Attributes:** STR +7 AGI −4 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Jumping](../Skills/jumping.md) −2, [Running](../Skills/running.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept

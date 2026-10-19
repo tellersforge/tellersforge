@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 778 Astral monastic wanderer *(genres: heavens, hells and other planes)*
 
+![Astral monastic wanderer](../Images/species-astral-monastic-wanderer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived astral monks who send their spirit far from their body along the silver cord linking all worlds. (looks like: ghost; good at: powers and magic, knowledge)
 - **Attributes:** INT +2 WIS +2 PER +1 CHA −1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Spirit Flight is astral projection. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 779 Silver-sea astral nomad *(genres: heavens, hells and other planes)*
+
+![Silver-sea astral nomad](../Images/species-silver-sea-astral-nomad.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Nomads of the endless silver astral sea, who barely age unless they visit their true homeworld. (looks like: ghost; good at: powers and magic, knowledge)

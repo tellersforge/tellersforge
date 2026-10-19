@@ -1,7 +1,8 @@
 # Call Lightning
 
-![Call lightning](../Images/powers-call-lightning.jpg){.illus}
+![Call lightning](../Images/PW-032-powers-call-lightning.jpg){.illus}
 
+*Catalogue: PW-032*
 *Set: Expansion*
 
 *aka: ______________________________*

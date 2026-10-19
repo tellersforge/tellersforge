@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tunneling excavator dwarf-folk *(NPC only)*
 
+![Tunneling excavator dwarf-folk](../Images/species-tunneling-excavator-dwarf-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +2 WIS +1 CHA −1
 - **Skills:** [Mining & Quarrying](../Skills/mining-and-quarrying.md) +2, [Stealth](../Skills/stealth.md) +2, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +2, [Cooking](../Skills/cooking.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Throwing](../Skills/throwing.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2

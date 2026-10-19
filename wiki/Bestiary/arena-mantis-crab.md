@@ -1,5 +1,9 @@
 # Arena mantis-crab
 
+![Arena mantis-crab](../Images/BE-024-bestiary-arena-mantis-crab.jpg){.illus}
+
+
+*Catalogue: BE-024*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bound Item Recall
 
+![Bound Item Recall](../Images/PW-029-powers-bound-item-recall.jpg){.illus}
+
+
+*Catalogue: PW-029*
 *Set: Expansion*
 
 *aka: ______________________________*

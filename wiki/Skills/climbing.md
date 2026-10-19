@@ -1,5 +1,9 @@
 # Climbing
 
+![Climbing](../Images/SK-035-skills-climbing.jpg){.illus}
+
+
+*Catalogue: SK-035*
 *Set: Core · Basic skill: Athletics*
 
 *aka: ______________________________*

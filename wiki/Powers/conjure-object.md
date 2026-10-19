@@ -1,5 +1,9 @@
 # Conjure Object
 
+![Conjure Object](../Images/PW-047-powers-conjure-object.jpg){.illus}
+
+
+*Catalogue: PW-047*
 *Set: Expansion*
 
 *aka: ______________________________*

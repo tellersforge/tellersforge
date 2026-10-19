@@ -1,5 +1,9 @@
 # Arena horned cat
 
+![Arena horned cat](../Images/BE-023-bestiary-arena-horned-cat.jpg){.illus}
+
+
+*Catalogue: BE-023*
 *Set: Expansion*
 
 *aka: ______________________________*

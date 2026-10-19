@@ -1,5 +1,9 @@
 # Spotted hyena
 
+![Spotted hyena](../Images/BE-588-bestiary-spotted-hyena.jpg){.illus}
+
+
+*Catalogue: BE-588*
 *Set: Core*
 
 *aka: ______________________________*

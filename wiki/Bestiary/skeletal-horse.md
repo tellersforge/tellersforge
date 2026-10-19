@@ -1,5 +1,9 @@
 # Skeletal horse
 
+![Skeletal horse](../Images/BE-555-bestiary-skeletal-horse.jpg){.illus}
+
+
+*Catalogue: BE-555*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Galley
 
-![Galley](../Images/vehicles-galley.jpg){.illus}
+![Galley](../Images/GR-1073-vehicles-galley.jpg){.illus}
 
+*Catalogue: GR-1073*
 *Set: Core*
 
 

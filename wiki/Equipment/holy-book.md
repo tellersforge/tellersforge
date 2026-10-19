@@ -1,5 +1,9 @@
 # Holy book
 
+![Holy book](../Images/GR-0539-equipment-holy-book.jpg){.illus}
+
+
+*Catalogue: GR-0539*
 *Set: Expansion*
 
 *aka: ______________________________*

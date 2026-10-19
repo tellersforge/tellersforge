@@ -1,5 +1,9 @@
 # Poison Touch
 
+![Poison Touch](../Images/PW-220-powers-poison-touch.jpg){.illus}
+
+
+*Catalogue: PW-220*
 *Set: Expansion*
 
 *aka: ______________________________*

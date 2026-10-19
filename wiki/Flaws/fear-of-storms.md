@@ -1,5 +1,8 @@
 # Fear of Storms
 
+![Fear of Storms](../Images/flaws-fear-of-storms.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when thunder, lightning, gales.

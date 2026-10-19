@@ -1,5 +1,8 @@
 # Practitioner of the arts
 
+![Practitioner of the arts](../Images/professions-practitioner-of-the-arts.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

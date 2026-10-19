@@ -1,5 +1,9 @@
 # Mosquito net
 
+![Mosquito net](../Images/GR-0660-equipment-mosquito-net.jpg){.illus}
+
+
+*Catalogue: GR-0660*
 *Set: Expansion*
 
 *aka: ______________________________*

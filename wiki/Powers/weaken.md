@@ -1,5 +1,9 @@
 # Weaken
 
+![Weaken](../Images/PW-319-powers-weaken.jpg){.illus}
+
+
+*Catalogue: PW-319*
 *Set: Expansion*
 
 *aka: ______________________________*

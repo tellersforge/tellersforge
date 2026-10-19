@@ -1,5 +1,9 @@
 # Acid & Corrosion
 
+![Acid & Corrosion](../Images/PW-002-powers-acid-and-corrosion.jpg){.illus}
+
+
+*Catalogue: PW-002*
 *Set: Expansion*
 
 *aka: ______________________________*

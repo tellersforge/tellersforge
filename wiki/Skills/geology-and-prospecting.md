@@ -1,5 +1,9 @@
 # Geology & Prospecting
 
+![Geology & Prospecting](../Images/SK-082-skills-geology-and-prospecting.jpg){.illus}
+
+
+*Catalogue: SK-082*
 *Set: Expansion*
 
 *aka: ______________________________*

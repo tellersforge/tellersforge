@@ -1,5 +1,9 @@
 # Winged tiger
 
+![Winged tiger](../Images/BE-681-bestiary-winged-tiger.jpg){.illus}
+
+
+*Catalogue: BE-681*
 *Set: Expansion*
 
 *aka: ______________________________*

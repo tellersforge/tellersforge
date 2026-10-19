@@ -1,5 +1,9 @@
 # Swimsuit
 
+![Swimsuit](../Images/GR-0940-equipment-swimsuit.jpg){.illus}
+
+
+*Catalogue: GR-0940*
 *Set: Expansion*
 
 *aka: ______________________________*

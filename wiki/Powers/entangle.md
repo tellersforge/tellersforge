@@ -1,5 +1,9 @@
 # Entangle
 
+![Entangle](../Images/PW-091-powers-entangle.jpg){.illus}
+
+
+*Catalogue: PW-091*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Electronics
 
+![Electronics](../Images/SK-060-skills-electronics.jpg){.illus}
+
+
+*Catalogue: SK-060*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Pitons
 
+![Pitons](../Images/GR-0728-equipment-pitons.jpg){.illus}
+
+
+*Catalogue: GR-0728*
 *Set: Expansion*
 
 *aka: ______________________________*

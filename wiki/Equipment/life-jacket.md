@@ -1,5 +1,9 @@
 # Life jacket
 
+![Life jacket](../Images/GR-0596-equipment-life-jacket.jpg){.illus}
+
+
+*Catalogue: GR-0596*
 *Set: Expansion*
 
 *aka: ______________________________*

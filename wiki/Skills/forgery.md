@@ -1,5 +1,9 @@
 # Forgery
 
+![Forgery](../Images/SK-077-skills-forgery.jpg){.illus}
+
+
+*Catalogue: SK-077*
 *Set: Expansion*
 
 *aka: ______________________________*

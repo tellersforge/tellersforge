@@ -1,5 +1,9 @@
 # Mourning garments
 
+![Mourning garments](../Images/GR-0665-equipment-mourning-garments.jpg){.illus}
+
+
+*Catalogue: GR-0665*
 *Set: Expansion*
 
 *aka: ______________________________*

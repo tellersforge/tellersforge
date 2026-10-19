@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 243 Nine-tailed fox spirit *(genres: fairy tale and folklore)*
 
+![Nine-tailed fox spirit](../Images/species-nine-tailed-fox-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Ancient shapeshifting fox spirits who grow wiser and gain a new tail with age. (looks like: fox; good at: powers and magic, people and talk, keen senses)
 - **Attributes:** STR −1 WIS +2 PER +1 CHA +1 COU +1
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Extra tails and power come with advancement. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 244 Malevolent gumiho *(genres: fairy tale and folklore, gothic horror)*
+
+![Malevolent gumiho](../Images/species-malevolent-gumiho.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Predatory nine-tailed fox spirits who must feed on life-essence to walk as human. (looks like: fox; good at: powers and magic, people and talk)

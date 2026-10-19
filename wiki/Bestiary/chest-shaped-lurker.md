@@ -1,7 +1,8 @@
 # Chest-shaped lurker
 
-![Chest-shaped lurker](../Images/bestiary-chest-shaped-lurker.jpg){.illus}
+![Chest-shaped lurker](../Images/BE-105-bestiary-chest-shaped-lurker.jpg){.illus}
 
+*Catalogue: BE-105*
 *Set: Expansion*
 
 *aka: ______________________________*

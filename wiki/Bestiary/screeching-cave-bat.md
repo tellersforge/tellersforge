@@ -1,5 +1,9 @@
 # Screeching cave bat
 
+![Screeching cave bat](../Images/BE-521-bestiary-screeching-cave-bat.jpg){.illus}
+
+
+*Catalogue: BE-521*
 *Set: Expansion*
 
 *aka: ______________________________*

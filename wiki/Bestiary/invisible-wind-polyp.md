@@ -1,5 +1,9 @@
 # Invisible wind polyp
 
+![Invisible wind polyp](../Images/BE-363-bestiary-invisible-wind-polyp.jpg){.illus}
+
+
+*Catalogue: BE-363*
 *Set: Expansion*
 
 *aka: ______________________________*

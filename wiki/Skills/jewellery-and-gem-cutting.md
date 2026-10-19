@@ -1,5 +1,9 @@
 # Jewellery & Gem Cutting
 
+![Jewellery & Gem Cutting](../Images/SK-103-skills-jewellery-and-gem-cutting.jpg){.illus}
+
+
+*Catalogue: SK-103*
 *Set: Expansion*
 
 *aka: ______________________________*

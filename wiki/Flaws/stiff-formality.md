@@ -1,5 +1,8 @@
 # Stiff Formality
 
+![Stiff Formality](../Images/flaws-stiff-formality.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when too formal and cold to put anyone at ease.

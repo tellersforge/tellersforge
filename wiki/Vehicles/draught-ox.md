@@ -1,5 +1,9 @@
 # Draught Ox
 
+![Draught Ox](../Images/GR-1065-vehicles-draught-ox.jpg){.illus}
+
+
+*Catalogue: GR-1065*
 *Set: Expansion*
 
 

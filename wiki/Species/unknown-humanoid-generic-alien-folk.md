@@ -24,12 +24,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 831 Varied background alien folk *(genres: space opera: strange aliens)*
 
+![Varied background alien folk](../Images/species-varied-background-alien-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A grab-bag of background alien folk, insect-faced, cat-faced, tentacle-headed, filling out ordinary spacefaring crews. (looks like: alien; good at: knowledge, people and talk)
 - **Attributes:** none
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 832 Cyclopean round folk *(genres: fairy tale and folklore)*
+
+![Cyclopean round folk](../Images/species-cyclopean-round-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, round, single-eyed green monsters, endlessly energetic and easy to get along with. (looks like: monster; good at: keen senses, people and talk)
@@ -38,6 +44,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; one eye and a round body are appearance.
 
 ### Bureaucratic demolition alien folk *(NPC only)*
+
+![Bureaucratic demolition alien folk](../Images/species-bureaucratic-demolition-alien-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +2 CHA −3

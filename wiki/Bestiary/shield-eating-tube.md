@@ -1,5 +1,9 @@
 # Shield-eating tube
 
+![Shield-eating tube](../Images/BE-540-bestiary-shield-eating-tube.jpg){.illus}
+
+
+*Catalogue: BE-540*
 *Set: Expansion*
 
 *aka: ______________________________*

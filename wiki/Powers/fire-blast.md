@@ -1,7 +1,8 @@
 # Fire Blast
 
-![Fire blast](../Images/powers-fire-blast.jpg){.illus}
+![Fire blast](../Images/PW-104-powers-fire-blast.jpg){.illus}
 
+*Catalogue: PW-104*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

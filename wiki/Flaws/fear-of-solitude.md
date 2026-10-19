@@ -1,5 +1,8 @@
 # Fear of Solitude
 
+![Fear of Solitude](../Images/flaws-fear-of-solitude.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when being left alone.

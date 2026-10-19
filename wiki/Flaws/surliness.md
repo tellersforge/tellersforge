@@ -1,5 +1,8 @@
 # Surliness
 
+![Surliness](../Images/flaws-surliness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when grumpy, short and unwelcoming.

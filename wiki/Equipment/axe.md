@@ -1,5 +1,9 @@
 # Axe
 
+![Axe](../Images/GR-0197-equipment-axe.jpg){.illus}
+
+
+*Catalogue: GR-0197*
 *Set: Expansion*
 
 *aka: ______________________________*

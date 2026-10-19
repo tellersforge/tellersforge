@@ -1,5 +1,9 @@
 # Signal drum
 
+![Signal drum](../Images/GR-0853-equipment-signal-drum.jpg){.illus}
+
+
+*Catalogue: GR-0853*
 *Set: Core*
 
 *aka: ______________________________*

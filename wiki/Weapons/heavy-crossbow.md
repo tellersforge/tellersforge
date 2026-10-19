@@ -1,7 +1,8 @@
 # Heavy Crossbow
 
-![Heavy crossbow](../Images/weapons-heavy-crossbow.jpg){.illus}
+![Heavy crossbow](../Images/GR-0048-weapons-heavy-crossbow.jpg){.illus}
 
+*Catalogue: GR-0048*
 *Set: Expansion*
 
 *aka: ______________________________*

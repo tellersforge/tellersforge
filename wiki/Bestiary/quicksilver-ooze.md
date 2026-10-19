@@ -1,5 +1,9 @@
 # Quicksilver ooze
 
+![Quicksilver ooze](../Images/BE-474-bestiary-quicksilver-ooze.jpg){.illus}
+
+
+*Catalogue: BE-474*
 *Set: Expansion*
 
 *aka: ______________________________*

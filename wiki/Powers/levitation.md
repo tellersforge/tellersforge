@@ -1,5 +1,9 @@
 # Levitation
 
+![Levitation](../Images/PW-149-powers-levitation.jpg){.illus}
+
+
+*Catalogue: PW-149*
 *Set: Core*
 
 *aka: ______________________________*

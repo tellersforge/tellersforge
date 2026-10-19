@@ -1,5 +1,9 @@
 # Drop bear
 
+![Drop bear](../Images/BE-163-bestiary-drop-bear.jpg){.illus}
+
+
+*Catalogue: BE-163*
 *Set: Core*
 
 *aka: ______________________________*

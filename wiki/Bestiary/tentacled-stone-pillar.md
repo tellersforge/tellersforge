@@ -1,5 +1,9 @@
 # Tentacled stone pillar
 
+![Tentacled stone pillar](../Images/BE-615-bestiary-tentacled-stone-pillar.jpg){.illus}
+
+
+*Catalogue: BE-615*
 *Set: Expansion*
 
 *aka: ______________________________*

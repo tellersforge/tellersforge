@@ -1,5 +1,9 @@
 # Woolly rhinoceros
 
+![Woolly rhinoceros](../Images/BE-684-bestiary-woolly-rhinoceros.jpg){.illus}
+
+
+*Catalogue: BE-684*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Sleepyhead
 
+![Sleepyhead](../Images/flaws-sleepyhead.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when oversleeps and is hard to wake.

@@ -1,5 +1,9 @@
 # Giant tortoise-beast
 
+![Giant tortoise-beast](../Images/BE-288-bestiary-giant-tortoise-beast.jpg){.illus}
+
+
+*Catalogue: BE-288*
 *Set: Expansion*
 
 *aka: ______________________________*

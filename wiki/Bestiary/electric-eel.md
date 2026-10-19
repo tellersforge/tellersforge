@@ -1,5 +1,9 @@
 # Electric eel
 
+![Electric eel](../Images/BE-172-bestiary-electric-eel.jpg){.illus}
+
+
+*Catalogue: BE-172*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Sleeping mat
 
+![Sleeping mat](../Images/GR-0875-equipment-sleeping-mat.jpg){.illus}
+
+
+*Catalogue: GR-0875*
 *Set: Core*
 
 *aka: ______________________________*

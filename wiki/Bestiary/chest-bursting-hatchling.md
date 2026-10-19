@@ -1,5 +1,9 @@
 # Chest-bursting hatchling
 
+![Chest-bursting hatchling](../Images/BE-103-bestiary-chest-bursting-hatchling.jpg){.illus}
+
+
+*Catalogue: BE-103*
 *Set: Expansion*
 
 *aka: ______________________________*

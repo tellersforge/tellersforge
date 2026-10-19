@@ -1,5 +1,9 @@
 # Stinging walker plant
 
+![Stinging walker plant](../Images/BE-597-bestiary-stinging-walker-plant.jpg){.illus}
+
+
+*Catalogue: BE-597*
 *Set: Expansion*
 
 *aka: ______________________________*

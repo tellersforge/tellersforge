@@ -1,5 +1,8 @@
 # Greed
 
+![Greed](../Images/flaws-greed.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when grabs money and treasure at any risk.

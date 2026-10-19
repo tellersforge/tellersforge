@@ -1,5 +1,8 @@
 # Fear of Open Spaces
 
+![Fear of Open Spaces](../Images/flaws-fear-of-open-spaces.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when open plains, empty skies, the void of space.

@@ -1,5 +1,9 @@
 # Religion & Theology
 
+![Religion & Theology](../Images/SK-159-skills-religion-and-theology.jpg){.illus}
+
+
+*Catalogue: SK-159*
 *Set: Expansion*
 
 *aka: ______________________________*

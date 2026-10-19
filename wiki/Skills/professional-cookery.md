@@ -1,5 +1,9 @@
 # Professional Cookery
 
+![Professional Cookery](../Images/SK-155-skills-professional-cookery.jpg){.illus}
+
+
+*Catalogue: SK-155*
 *Set: Expansion*
 
 *aka: ______________________________*

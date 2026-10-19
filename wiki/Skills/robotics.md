@@ -1,5 +1,9 @@
 # Robotics
 
+![Robotics](../Images/SK-166-skills-robotics.jpg){.illus}
+
+
+*Catalogue: SK-166*
 *Set: Expansion*
 
 *aka: ______________________________*

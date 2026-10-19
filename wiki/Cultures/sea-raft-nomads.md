@@ -1,5 +1,8 @@
 # Sea-raft nomads
 
+![Sea-raft nomads](../Images/cultures-sea-raft-nomads.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

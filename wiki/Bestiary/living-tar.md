@@ -1,5 +1,9 @@
 # Living tar
 
+![Living tar](../Images/BE-394-bestiary-living-tar.jpg){.illus}
+
+
+*Catalogue: BE-394*
 *Set: Expansion*
 
 *aka: ______________________________*

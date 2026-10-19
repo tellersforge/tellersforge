@@ -1,5 +1,9 @@
 # Soul Craft
 
+![Soul Craft](../Images/PW-266-powers-soul-craft.jpg){.illus}
+
+
+*Catalogue: PW-266*
 *Set: Expansion*
 
 *aka: ______________________________*

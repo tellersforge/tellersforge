@@ -1,5 +1,9 @@
 # Rope sling seat
 
+![Rope sling seat](../Images/GR-0803-equipment-rope-sling-seat.jpg){.illus}
+
+
+*Catalogue: GR-0803*
 *Set: Expansion*
 
 *aka: ______________________________*

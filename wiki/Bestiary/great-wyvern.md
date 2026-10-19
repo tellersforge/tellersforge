@@ -1,5 +1,9 @@
 # Great wyvern
 
+![Great wyvern](../Images/BE-315-bestiary-great-wyvern.jpg){.illus}
+
+
+*Catalogue: BE-315*
 *Set: Expansion*
 
 *aka: ______________________________*

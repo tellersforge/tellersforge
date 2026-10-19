@@ -1,5 +1,9 @@
 # Anti-Compulsion Ward
 
+![Anti-Compulsion Ward](../Images/PW-009-powers-anti-compulsion-ward.jpg){.illus}
+
+
+*Catalogue: PW-009*
 *Set: Expansion*
 
 *aka: ______________________________*

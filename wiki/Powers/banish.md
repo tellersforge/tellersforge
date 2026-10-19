@@ -1,5 +1,9 @@
 # Banish
 
+![Banish](../Images/PW-016-powers-banish.jpg){.illus}
+
+
+*Catalogue: PW-016*
 *Set: Core*
 
 *aka: ______________________________*

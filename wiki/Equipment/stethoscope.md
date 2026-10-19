@@ -1,5 +1,9 @@
 # Stethoscope
 
+![Stethoscope](../Images/GR-0916-equipment-stethoscope.jpg){.illus}
+
+
+*Catalogue: GR-0916*
 *Set: Expansion*
 
 *aka: ______________________________*

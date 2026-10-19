@@ -1,5 +1,8 @@
 # Marsupial
 
+![Marsupial](../Images/species-families-marsupial.jpg){.illus}
+
+
 
 Pouch-bearers from far southern lands and the peoples descended from them. Kangaroos, wombats, koalas, possums, bandicoots and their kin give this family long tails, powerful legs, sturdy burrowing claws, and the habit of carrying their young close to the belly long after birth. Many hop, some climb and some dig, and nearly all are tougher than they look. One lineage descends from a striped, wolf-like hunter that has long since vanished from the wild. Marsupial folk tend to be practical, blunt and at home in harsh, dry country. Others often find them odd, a view the marsupials return with interest.
 

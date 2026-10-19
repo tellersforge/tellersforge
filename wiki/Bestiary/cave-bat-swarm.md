@@ -1,5 +1,9 @@
 # Cave bat swarm
 
+![Cave bat swarm](../Images/BE-092-bestiary-cave-bat-swarm.jpg){.illus}
+
+
+*Catalogue: BE-092*
 *Set: Expansion*
 
 *aka: ______________________________*

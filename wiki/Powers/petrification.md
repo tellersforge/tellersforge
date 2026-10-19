@@ -1,5 +1,9 @@
 # Petrification
 
+![Petrification](../Images/PW-211-powers-petrification.jpg){.illus}
+
+
+*Catalogue: PW-211*
 *Set: Expansion*
 
 *aka: ______________________________*

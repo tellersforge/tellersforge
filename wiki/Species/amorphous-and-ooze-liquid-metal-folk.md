@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 145 Mercurial shapeshifting assassin *(genres: robots and synthetics)*
 
+![Mercurial shapeshifting assassin](../Images/species-mercurial-shapeshifting-assassin.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Liquid-metal shapeshifters who copy any face and form blades from their own arms. (looks like: liquid metal; good at: sneaking, powers and magic, fighting)
 - **Attributes:** STR +1 AGI +1 END +2 CHA −2
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Natural Weapons: forms blades from its limbs at will.
 
 ### No. 146 Quicksilver messenger folk *(genres: heavens, hells and other planes)*
+
+![Quicksilver messenger folk](../Images/species-quicksilver-messenger-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** amorphous
 - **What it's like:** Small, quicksilver tricksters who squeeze through any crack and reform in a blink. (looks like: liquid metal; good at: sneaking, speed and agility, toughness)

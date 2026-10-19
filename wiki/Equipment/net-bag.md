@@ -1,5 +1,9 @@
 # Net bag
 
+![Net bag](../Images/GR-0675-equipment-net-bag.jpg){.illus}
+
+
+*Catalogue: GR-0675*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Gravity lifter
 
+![Gravity lifter](../Images/GR-0474-equipment-gravity-lifter.jpg){.illus}
+
+
+*Catalogue: GR-0474*
 *Set: Expansion*
 
 *aka: ______________________________*

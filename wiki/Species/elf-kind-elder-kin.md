@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hidden golden-blooded elder folk *(NPC only)*
 
+![Hidden golden-blooded elder folk](../Images/species-hidden-golden-blooded-elder-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 INT +1 WIS +1 PER +2
 - **Skills:** [Arcana](../Skills/arcana.md) +1, [Balance](../Skills/balance.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Carousing](../Skills/carousing.md) −1, [Intimidation](../Skills/intimidation.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1

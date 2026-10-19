@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Winged predator threat *(beast)*
 
+![Winged predator threat](../Images/species-winged-predator-threat.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR −1 AGI +2 END −1 INT −3 WIS +1 PER +3 COU +1
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Hunting](../Skills/hunting.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2

@@ -1,5 +1,9 @@
 # Laser rangefinder
 
+![Laser rangefinder](../Images/GR-0583-equipment-laser-rangefinder.jpg){.illus}
+
+
+*Catalogue: GR-0583*
 *Set: Expansion*
 
 *aka: ______________________________*

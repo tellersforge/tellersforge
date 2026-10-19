@@ -1,5 +1,9 @@
 # Healing Factor
 
+![Healing Factor](../Images/PW-125-powers-healing-factor.jpg){.illus}
+
+
+*Catalogue: PW-125*
 *Set: Expansion*
 
 *aka: ______________________________*

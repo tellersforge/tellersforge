@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 297 Cybernetic conversion race *(genres: robots and synthetics)*
 
+![Cybernetic conversion race](../Images/species-cybernetic-conversion-race.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A person fully converted into a metal-suited cyborg soldier, emotions switched off and mind linked to countless others. (looks like: robot; good at: strength, fighting, toughness)
 - **Attributes:** STR +2 END +2 INT +1 WIS −1 CHA −3 COU +1
@@ -47,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Combat android race *(NPC only)*
 
+![Combat android race](../Images/species-combat-android-race.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 WIS −1 CHA −4
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -56,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC. Strength is set in the attribute step.
 
 ### No. 298 Human-form android race *(genres: robots and synthetics)*
+
+![Human-form android race](../Images/species-human-form-android-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** An android built to look and feel exactly human, able to wake up in a fresh body if destroyed. (looks like: human; good at: toughness, knowledge)
@@ -68,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Slayer (alien cyborg soldier) *(NPC only)*
 
+![Slayer (alien cyborg soldier)](../Images/species-slayer-alien-cyborg-soldier.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −3 COU +2
 - **Skills:** [Composure](../Skills/composure.md) +3, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -77,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC. Crumbles to ash when slain.
 
 ### Networked paired cyborg culture *(NPC only)*
+
+![Networked paired cyborg culture](../Images/species-networked-paired-cyborg-culture.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT −1 WIS −2 CHA −2
@@ -88,6 +103,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Small enslaved cyborg vermin *(NPC only)*
 
+![Small enslaved cyborg vermin](../Images/species-small-enslaved-cyborg-vermin.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END +2 INT −1 WIS −1 CHA −2 COU −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Stealth](../Skills/stealth.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -97,6 +115,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A small rodent-like frame that scurries and scavenges.
 
 ### No. 299 Chemically-augmented super-soldier human *(genres: after the fall, near future and cyberpunk)*
+
+![Chemically-augmented super-soldier human](../Images/species-chemically-augmented-super-soldier-human.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A soldier pumped full of drugs for bursts of superhuman speed and strength, at the cost of a short life. (looks like: human; good at: strength, speed and agility)
@@ -109,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### One-man-army cyborg *(NPC only)*
 
+![One-man-army cyborg](../Images/species-one-man-army-cyborg.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +3 INT +1 WIS −1 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -119,6 +143,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Radioactive-cored cyborg *(beast)*
 
+![Radioactive-cored cyborg](../Images/species-radioactive-cored-cyborg.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +3 END +2 INT +1 WIS −1 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -128,6 +155,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### War-cyborg reanimated corpse *(beast)*
 
+![War-cyborg reanimated corpse](../Images/species-war-cyborg-reanimated-corpse.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 INT +1 WIS −1 CHA −4 COU +3
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -136,6 +166,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A reanimated corpse: poison and disease have nothing to work on, and it needs nothing.
 
 ### No. 300 Permanently-fused cyborg volunteer *(genres: robots and synthetics)*
+
+![Permanently-fused cyborg volunteer](../Images/species-permanently-fused-cyborg-volunteer.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A volunteer soldier permanently fused into an armoured battle-shell, superhumanly strong and armed with built-in energy weapons. (looks like: robot; good at: strength, fighting, toughness)

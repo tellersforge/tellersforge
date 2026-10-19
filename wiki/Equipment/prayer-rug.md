@@ -1,5 +1,9 @@
 # Prayer rug
 
+![Prayer rug](../Images/GR-0755-equipment-prayer-rug.jpg){.illus}
+
+
+*Catalogue: GR-0755*
 *Set: Expansion*
 
 *aka: ______________________________*

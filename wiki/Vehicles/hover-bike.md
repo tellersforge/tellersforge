@@ -1,7 +1,8 @@
 # Hover-Bike
 
-![Hover-bike](../Images/vehicles-hover-bike.jpg){.illus}
+![Hover-bike](../Images/GR-1079-vehicles-hover-bike.jpg){.illus}
 
+*Catalogue: GR-1079*
 *Set: Expansion*
 
 

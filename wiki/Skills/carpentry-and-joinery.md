@@ -1,5 +1,9 @@
 # Carpentry & Joinery
 
+![Carpentry & Joinery](../Images/SK-031-skills-carpentry-and-joinery.jpg){.illus}
+
+
+*Catalogue: SK-031*
 *Set: Expansion*
 
 *aka: ______________________________*

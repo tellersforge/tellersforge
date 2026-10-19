@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 742 Compulsively curious pocket-folk *(genres: classic fantasy)*
 
+![Compulsively curious pocket-folk](../Images/species-compulsively-curious-pocket-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, fearless wanderers who can't resist picking things up, though it isn't stealing where they come from. (looks like: gnome; good at: sneaking, people and talk)
 - **Attributes:** STR −2 AGI +2 COU +2
@@ -45,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Fearless, light-fingered wanderers.
 
 ### No. 743 Meadow-dwelling folk *(genres: classic fantasy)*
+
+![Meadow-dwelling folk](../Images/species-meadow-dwelling-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Comfort-loving meadow folk, quick and quiet on their feet, hard to scare or dominate by magic. (looks like: gnome; good at: sneaking, wilderness)
@@ -56,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 744 Merchant hearth-folk *(genres: classic fantasy)*
 
+![Merchant hearth-folk](../Images/species-merchant-hearth-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Nimble-fingered hearth folk who make natural innkeepers and traders, though often looked down on unfairly. (looks like: gnome; good at: people and talk, sneaking)
 - **Attributes:** STR −2 AGI +2 WIS +1 COU +1
@@ -64,6 +73,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Merchant and innkeeper folk.
 
 ### No. 745 Riverside broad-built folk *(genres: classic fantasy)*
+
+![Riverside broad-built folk](../Images/species-riverside-broad-built-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Broad, strong little riverfolk and boatmen, slow travellers but excellent swimmers. (looks like: gnome; good at: swimming, strength)
@@ -74,6 +86,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 746 Tall fair woodland folk *(genres: classic fantasy)*
 
+![Tall fair woodland folk](../Images/species-tall-fair-woodland-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** The tallest, fairest of the hearth folk, skilled hunters and climbers who get on well with elves. (looks like: gnome; good at: climbing, wilderness)
 - **Attributes:** STR −2 AGI +3 END −1 WIS +1 COU +1
@@ -83,6 +98,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Round farming folk · No. 747 Humble village folk *(NPC only)*
 
+![Round farming folk](../Images/species-round-farming-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 WIS +1 COU +1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Composure](../Skills/composure.md) +1, [Cooking](../Skills/cooking.md) +1, [Farming](../Skills/farming.md) +1, [Service & Hospitality](../Skills/service-and-hospitality.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Throwing](../Skills/throwing.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -91,6 +109,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Humble village folk:* Humble farming villagers.
 
 ### No. 748 Elemental-touched hearth folk *(genres: dark fantasy)*
+
+![Elemental-touched hearth folk](../Images/species-elemental-touched-hearth-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Hearth folk touched by the elements, resistant to fire and cold, with one branch living a very different jungle life. (looks like: gnome; good at: powers and magic, toughness)

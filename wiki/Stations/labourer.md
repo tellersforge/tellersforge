@@ -1,5 +1,8 @@
 # Labourer
 
+![Labourer](../Images/stations-labourer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

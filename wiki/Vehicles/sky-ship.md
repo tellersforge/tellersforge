@@ -1,7 +1,8 @@
 # Sky Ship
 
-![Sky ship](../Images/vehicles-sky-ship.jpg){.illus}
+![Sky ship](../Images/GR-1118-vehicles-sky-ship.jpg){.illus}
 
+*Catalogue: GR-1118*
 *Set: Expansion*
 
 

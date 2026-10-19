@@ -1,5 +1,9 @@
 # Warship Big Gun
 
+![Warship Big Gun](../Images/GR-0117-weapons-warship-big-gun.jpg){.illus}
+
+
+*Catalogue: GR-0117*
 *Set: Expansion*
 
 *aka: ______________________________*

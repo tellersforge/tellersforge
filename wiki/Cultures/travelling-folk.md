@@ -1,5 +1,8 @@
 # Travelling folk
 
+![Travelling folk](../Images/cultures-travelling-folk.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

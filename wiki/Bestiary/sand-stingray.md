@@ -1,5 +1,9 @@
 # Sand stingray
 
+![Sand stingray](../Images/BE-516-bestiary-sand-stingray.jpg){.illus}
+
+
+*Catalogue: BE-516*
 *Set: Core*
 
 *aka: ______________________________*

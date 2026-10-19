@@ -1,5 +1,9 @@
 # Living alien colour
 
+![Living alien colour](../Images/BE-392-bestiary-living-alien-colour.jpg){.illus}
+
+
+*Catalogue: BE-392*
 *Set: Expansion*
 
 *aka: ______________________________*

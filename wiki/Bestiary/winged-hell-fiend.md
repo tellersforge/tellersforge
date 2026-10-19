@@ -1,5 +1,9 @@
 # Winged hell fiend
 
+![Winged hell fiend](../Images/BE-676-bestiary-winged-hell-fiend.jpg){.illus}
+
+
+*Catalogue: BE-676*
 *Set: Expansion*
 
 *aka: ______________________________*

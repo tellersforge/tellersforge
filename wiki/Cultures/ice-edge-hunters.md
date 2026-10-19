@@ -1,5 +1,8 @@
 # Ice-edge hunters
 
+![Ice-edge hunters](../Images/cultures-ice-edge-hunters.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

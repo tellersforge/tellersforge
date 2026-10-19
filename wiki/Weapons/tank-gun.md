@@ -1,5 +1,9 @@
 # Tank Gun
 
+![Tank Gun](../Images/GR-0110-weapons-tank-gun.jpg){.illus}
+
+
+*Catalogue: GR-0110*
 *Set: Expansion*
 
 *aka: ______________________________*

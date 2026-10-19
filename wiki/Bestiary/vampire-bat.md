@@ -1,5 +1,9 @@
 # Vampire bat
 
+![Vampire bat](../Images/BE-647-bestiary-vampire-bat.jpg){.illus}
+
+
+*Catalogue: BE-647*
 *Set: Core*
 
 *aka: ______________________________*

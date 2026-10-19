@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 813 Antelope-folk *(genres: beast-folk: fur)*
 
+![Antelope-folk](../Images/species-antelope-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Swift, spiral-horned antelope folk from the savanna, always alert in their herds. (looks like: antelope; good at: speed and agility, keen senses)
 - **Attributes:** END +1 WIS +1 PER +1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Gazelle-folk *(NPC only)*
 
+![Gazelle-folk](../Images/species-gazelle-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 WIS +1 PER +1
 - **Skills:** [Running](../Skills/running.md) +4, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Jumping](../Skills/jumping.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2
@@ -41,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An exceptional leaper, even swifter than its kin.
 
 ### Giraffe-folk *(NPC only)*
+
+![Giraffe-folk](../Images/species-giraffe-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI −2 END +1 WIS +1 PER +2

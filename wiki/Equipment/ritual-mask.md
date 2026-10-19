@@ -1,5 +1,9 @@
 # Ritual mask
 
+![Ritual mask](../Images/GR-0796-equipment-ritual-mask.jpg){.illus}
+
+
+*Catalogue: GR-0796*
 *Set: Core*
 
 *aka: ______________________________*

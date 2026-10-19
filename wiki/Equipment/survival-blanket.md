@@ -1,5 +1,9 @@
 # Survival blanket
 
+![Survival blanket](../Images/GR-0937-equipment-survival-blanket.jpg){.illus}
+
+
+*Catalogue: GR-0937*
 *Set: Expansion*
 
 *aka: ______________________________*

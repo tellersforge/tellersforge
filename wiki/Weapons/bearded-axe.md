@@ -1,7 +1,8 @@
 # Bearded Axe
 
-![Bearded axe](../Images/weapons-bearded-axe.jpg){.illus}
+![Bearded axe](../Images/GR-0007-weapons-bearded-axe.jpg){.illus}
 
+*Catalogue: GR-0007*
 *Set: Core*
 
 *aka: ______________________________*

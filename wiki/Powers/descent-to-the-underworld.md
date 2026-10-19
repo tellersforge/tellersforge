@@ -1,5 +1,9 @@
 # Descent to the Underworld
 
+![Descent to the Underworld](../Images/PW-066-powers-descent-to-the-underworld.jpg){.illus}
+
+
+*Catalogue: PW-066*
 *Set: Expansion*
 
 *aka: ______________________________*

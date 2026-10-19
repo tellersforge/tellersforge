@@ -1,5 +1,9 @@
 # Wild rhinoceros
 
+![Wild rhinoceros](../Images/BE-674-bestiary-wild-rhinoceros.jpg){.illus}
+
+
+*Catalogue: BE-674*
 *Set: Core*
 
 *aka: ______________________________*

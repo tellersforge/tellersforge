@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Winged shock-trooper drone *(NPC only)*
 
+![Winged shock-trooper drone](../Images/species-winged-shock-trooper-drone.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR +1 AGI +1 END +2 INT −1 WIS −2 CHA −2 COU +2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Formation Fighting](../Skills/formation-fighting.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC. Short engineered life is a flaw.
 
 ### Hive-linked drone soldier *(beast)*
+
+![Hive-linked drone soldier](../Images/species-hive-linked-drone-soldier.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT −1 WIS −2 CHA −3 COU +3

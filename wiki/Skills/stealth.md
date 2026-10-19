@@ -1,5 +1,9 @@
 # Stealth
 
+![Stealth](../Images/SK-188-skills-stealth.jpg){.illus}
+
+
+*Catalogue: SK-188*
 *Set: Core · Basic skill: Stealth*
 
 *aka: ______________________________*

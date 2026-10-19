@@ -1,5 +1,9 @@
 # Stasis
 
+![Stasis](../Images/PW-275-powers-stasis.jpg){.illus}
+
+
+*Catalogue: PW-275*
 *Set: Expansion*
 
 *aka: ______________________________*

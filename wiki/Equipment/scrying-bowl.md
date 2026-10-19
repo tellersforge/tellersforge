@@ -1,5 +1,9 @@
 # Scrying bowl
 
+![Scrying bowl](../Images/GR-0825-equipment-scrying-bowl.jpg){.illus}
+
+
+*Catalogue: GR-0825*
 *Set: Expansion*
 
 *aka: ______________________________*

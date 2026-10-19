@@ -1,5 +1,9 @@
 # Notched pole ladder
 
+![Notched pole ladder](../Images/GR-0681-equipment-notched-pole-ladder.jpg){.illus}
+
+
+*Catalogue: GR-0681*
 *Set: Core*
 
 *aka: ______________________________*

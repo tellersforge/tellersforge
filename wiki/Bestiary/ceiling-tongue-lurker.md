@@ -1,5 +1,9 @@
 # Ceiling tongue-lurker
 
+![Ceiling tongue-lurker](../Images/BE-099-bestiary-ceiling-tongue-lurker.jpg){.illus}
+
+
+*Catalogue: BE-099*
 *Set: Expansion*
 
 *aka: ______________________________*

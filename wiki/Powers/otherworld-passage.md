@@ -1,5 +1,9 @@
 # Otherworld Passage
 
+![Otherworld Passage](../Images/PW-202-powers-otherworld-passage.jpg){.illus}
+
+
+*Catalogue: PW-202*
 *Set: Expansion*
 
 *aka: ______________________________*

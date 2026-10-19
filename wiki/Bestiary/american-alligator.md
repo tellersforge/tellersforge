@@ -1,5 +1,9 @@
 # American alligator
 
+![American alligator](../Images/BE-013-bestiary-american-alligator.jpg){.illus}
+
+
+*Catalogue: BE-013*
 *Set: Core*
 
 *aka: ______________________________*

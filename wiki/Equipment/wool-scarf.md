@@ -1,5 +1,9 @@
 # Wool scarf
 
+![Wool scarf](../Images/GR-1030-equipment-wool-scarf.jpg){.illus}
+
+
+*Catalogue: GR-1030*
 *Set: Expansion*
 
 *aka: ______________________________*

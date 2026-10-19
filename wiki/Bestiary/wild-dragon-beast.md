@@ -1,5 +1,9 @@
 # Wild dragon beast
 
+![Wild dragon beast](../Images/BE-671-bestiary-wild-dragon-beast.jpg){.illus}
+
+
+*Catalogue: BE-671*
 *Set: Expansion*
 
 *aka: ______________________________*

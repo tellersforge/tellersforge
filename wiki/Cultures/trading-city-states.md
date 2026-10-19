@@ -1,5 +1,8 @@
 # Trading city-states
 
+![Trading city-states](../Images/cultures-trading-city-states.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

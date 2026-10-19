@@ -1,7 +1,8 @@
 # Alchemist's kit
 
-![Alchemist's kit](../Images/equipment-alchemist-s-kit.jpg){.illus}
+![Alchemist's kit](../Images/GR-0177-equipment-alchemist-s-kit.jpg){.illus}
 
+*Catalogue: GR-0177*
 *Set: Expansion*
 
 *aka: ______________________________*

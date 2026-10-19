@@ -1,5 +1,9 @@
 # River rhino-beast
 
+![River rhino-beast](../Images/BE-496-bestiary-river-rhino-beast.jpg){.illus}
+
+
+*Catalogue: BE-496*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Glass golem
 
+![Glass golem](../Images/BE-294-bestiary-glass-golem.jpg){.illus}
+
+
+*Catalogue: BE-294*
 *Set: Expansion*
 
 *aka: ______________________________*

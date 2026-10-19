@@ -1,5 +1,9 @@
 # Hand quern
 
+![Hand quern](../Images/GR-0494-equipment-hand-quern.jpg){.illus}
+
+
+*Catalogue: GR-0494*
 *Set: Expansion*
 
 *aka: ______________________________*

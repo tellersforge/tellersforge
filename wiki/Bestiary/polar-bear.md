@@ -1,5 +1,9 @@
 # Polar bear
 
+![Polar bear](../Images/BE-467-bestiary-polar-bear.jpg){.illus}
+
+
+*Catalogue: BE-467*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Gaze-killing catfox
 
+![Gaze-killing catfox](../Images/BE-232-bestiary-gaze-killing-catfox.jpg){.illus}
+
+
+*Catalogue: BE-232*
 *Set: Core*
 
 *aka: ______________________________*

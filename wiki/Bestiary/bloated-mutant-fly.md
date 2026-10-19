@@ -1,5 +1,9 @@
 # Bloated mutant fly
 
+![Bloated mutant fly](../Images/BE-054-bestiary-bloated-mutant-fly.jpg){.illus}
+
+
+*Catalogue: BE-054*
 *Set: Expansion*
 
 *aka: ______________________________*

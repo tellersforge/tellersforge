@@ -1,5 +1,9 @@
 # Jerrycan
 
+![Jerrycan](../Images/GR-0568-equipment-jerrycan.jpg){.illus}
+
+
+*Catalogue: GR-0568*
 *Set: Expansion*
 
 *aka: ______________________________*

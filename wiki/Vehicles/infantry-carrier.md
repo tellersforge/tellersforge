@@ -1,5 +1,9 @@
 # Infantry Carrier
 
+![Infantry Carrier](../Images/GR-1082-vehicles-infantry-carrier.jpg){.illus}
+
+
+*Catalogue: GR-1082*
 *Set: Expansion*
 
 

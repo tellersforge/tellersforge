@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fluidic-space bio-armored invader *(NPC only)*
 
+![Fluidic-space bio-armored invader](../Images/species-fluidic-space-bio-armored-invader.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2
 - **Powers:** [Armour Skin](../Powers/armour-skin.md) 2

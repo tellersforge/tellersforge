@@ -1,5 +1,8 @@
 # Orbital habitat
 
+![Orbital habitat](../Images/cultures-orbital-habitat.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

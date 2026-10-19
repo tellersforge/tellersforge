@@ -1,5 +1,9 @@
 # Face veil
 
+![Face veil](../Images/GR-0380-equipment-face-veil.jpg){.illus}
+
+
+*Catalogue: GR-0380*
 *Set: Expansion*
 
 *aka: ______________________________*

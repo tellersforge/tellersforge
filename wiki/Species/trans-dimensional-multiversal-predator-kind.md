@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Multiversal spider-hunter *(NPC only; NPC-scale)*
 
+![Multiversal spider-hunter](../Images/species-multiversal-spider-hunter.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −1 END +1 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Hunting](../Skills/hunting.md) +2, [Tracking](../Skills/tracking.md) +2, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2

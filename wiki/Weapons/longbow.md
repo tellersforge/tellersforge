@@ -1,7 +1,8 @@
 # Longbow
 
-![Longbow](../Images/weapons-longbow.jpg){.illus}
+![Longbow](../Images/GR-0063-weapons-longbow.jpg){.illus}
 
+*Catalogue: GR-0063*
 *Set: Core*
 
 *aka: ______________________________*

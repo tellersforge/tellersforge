@@ -1,5 +1,9 @@
 # Felt cap
 
+![Felt cap](../Images/GR-0394-equipment-felt-cap.jpg){.illus}
+
+
+*Catalogue: GR-0394*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Cruelty
 
+![Cruelty](../Images/flaws-cruelty.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when enjoys others' suffering.

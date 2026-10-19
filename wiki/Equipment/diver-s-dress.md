@@ -1,5 +1,9 @@
 # Diver's dress
 
+![Diver's dress](../Images/GR-0335-equipment-diver-s-dress.jpg){.illus}
+
+
+*Catalogue: GR-0335*
 *Set: Expansion*
 
 *aka: ______________________________*

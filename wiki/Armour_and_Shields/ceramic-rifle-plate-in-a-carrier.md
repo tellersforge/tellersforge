@@ -1,7 +1,8 @@
 # Ceramic rifle plate (in a carrier)
 
-![Ceramic rifle plate in a carrier](../Images/armour-ceramic-rifle-plate-in-a-carrier.jpg){.illus}
+![Ceramic rifle plate in a carrier](../Images/GR-0130-armour-ceramic-rifle-plate-in-a-carrier.jpg){.illus}
 
+*Catalogue: GR-0130*
 *Set: Core*
 
 *aka: ______________________________*

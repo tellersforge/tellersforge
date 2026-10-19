@@ -1,7 +1,8 @@
 # Light orb
 
-![Light orb](../Images/equipment-light-orb.jpg){.illus}
+![Light orb](../Images/GR-0599-equipment-light-orb.jpg){.illus}
 
+*Catalogue: GR-0599*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Beaded collar
 
+![Beaded collar](../Images/GR-0203-equipment-beaded-collar.jpg){.illus}
+
+
+*Catalogue: GR-0203*
 *Set: Expansion*
 
 *aka: ______________________________*

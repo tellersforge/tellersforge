@@ -1,5 +1,9 @@
 # Golden jackal
 
+![Golden jackal](../Images/BE-301-bestiary-golden-jackal.jpg){.illus}
+
+
+*Catalogue: BE-301*
 *Set: Core*
 
 *aka: ______________________________*

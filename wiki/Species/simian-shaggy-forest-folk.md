@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Territorial hirsute forest folk *(NPC only)*
 
+![Territorial hirsute forest folk](../Images/species-territorial-hirsute-forest-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 END +2 INT −1 WIS −1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +1, [Survival: Arctic](../Skills/survival-arctic.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Cold-hardy tribes.
 
 ### Gangly forest folk *(NPC only)*
+
+![Gangly forest folk](../Images/species-gangly-forest-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +2 END +1 INT −1 WIS −1

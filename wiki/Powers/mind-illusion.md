@@ -1,5 +1,9 @@
 # Mind Illusion
 
+![Mind Illusion](../Images/PW-183-powers-mind-illusion.jpg){.illus}
+
+
+*Catalogue: PW-183*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Great forest spirit *(NPC only; NPC-scale)*
 
+![Great forest spirit](../Images/species-great-forest-spirit.jpg){.illus}
+
+
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +5 AGI −3 END +2 WIS +3 CHA +3
 - **Skills:** [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +3, [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. No hands: held weapons unusable.
 
 ### Forest guardian spirit (colossal) *(NPC only; NPC-scale)*
+
+![Forest guardian spirit (colossal)](../Images/species-forest-guardian-spirit-colossal.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +5 AGI −3 END +3 INT −1 WIS +3 CHA +3

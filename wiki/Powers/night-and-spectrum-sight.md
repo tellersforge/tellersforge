@@ -1,5 +1,9 @@
 # Night & Spectrum Sight
 
+![Night & Spectrum Sight](../Images/PW-198-powers-night-and-spectrum-sight.jpg){.illus}
+
+
+*Catalogue: PW-198*
 *Set: Expansion*
 
 *aka: ______________________________*

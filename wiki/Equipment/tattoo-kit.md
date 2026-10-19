@@ -1,5 +1,9 @@
 # Tattoo kit
 
+![Tattoo kit](../Images/GR-0949-equipment-tattoo-kit.jpg){.illus}
+
+
+*Catalogue: GR-0949*
 *Set: Expansion*
 
 *aka: ______________________________*

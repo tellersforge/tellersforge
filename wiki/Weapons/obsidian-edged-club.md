@@ -1,7 +1,8 @@
 # Obsidian-Edged Club
 
-![Obsidian-edged club](../Images/weapons-obsidian-edged-club.jpg){.illus}
+![Obsidian-edged club](../Images/GR-0071-weapons-obsidian-edged-club.jpg){.illus}
 
+*Catalogue: GR-0071*
 *Set: Expansion*
 
 *aka: ______________________________*

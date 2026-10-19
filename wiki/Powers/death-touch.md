@@ -1,5 +1,9 @@
 # Death Touch
 
+![Death Touch](../Images/PW-062-powers-death-touch.jpg){.illus}
+
+
+*Catalogue: PW-062*
 *Set: Expansion*
 
 *aka: ______________________________*

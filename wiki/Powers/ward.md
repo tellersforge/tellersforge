@@ -1,5 +1,9 @@
 # Ward
 
+![Ward](../Images/PW-313-powers-ward.jpg){.illus}
+
+
+*Catalogue: PW-313*
 *Set: Expansion*
 
 *aka: ______________________________*

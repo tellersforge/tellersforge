@@ -1,5 +1,9 @@
 # Cavalry Sabre
 
+![Cavalry Sabre](../Images/GR-0017-weapons-cavalry-sabre.jpg){.illus}
+
+
+*Catalogue: GR-0017*
 *Set: Expansion*
 
 *aka: ______________________________*

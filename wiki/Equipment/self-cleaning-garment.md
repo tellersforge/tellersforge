@@ -1,5 +1,9 @@
 # Self-cleaning garment
 
+![Self-cleaning garment](../Images/GR-0836-equipment-self-cleaning-garment.jpg){.illus}
+
+
+*Catalogue: GR-0836*
 *Set: Expansion*
 
 *aka: ______________________________*

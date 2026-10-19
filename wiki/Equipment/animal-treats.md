@@ -1,5 +1,9 @@
 # Animal treats
 
+![Animal treats](../Images/GR-0180-equipment-animal-treats.jpg){.illus}
+
+
+*Catalogue: GR-0180*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Leatherworker's kit
 
+![Leatherworker's kit](../Images/GR-0591-equipment-leatherworker-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0591*
 *Set: Expansion*
 
 *aka: ______________________________*

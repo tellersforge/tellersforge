@@ -1,7 +1,8 @@
 # Enchanted mail
 
-![Enchanted mail](../Images/armour-enchanted-mail.jpg){.illus}
+![Enchanted mail](../Images/GR-0136-armour-enchanted-mail.jpg){.illus}
 
+*Catalogue: GR-0136*
 *Set: Expansion*
 
 *aka: ______________________________*

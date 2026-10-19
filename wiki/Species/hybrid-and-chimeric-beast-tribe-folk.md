@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 517 Animal-eared beastfolk *(genres: beast-folk: fur)*
 
+![Animal-eared beastfolk](../Images/species-animal-eared-beastfolk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Animal-eared beastfolk with sharper senses than humans, unfairly looked down on by the kingdom that rules over them. (looks like: human with animal ears; good at: keen senses, wilderness)
 - **Attributes:** WIS +1 PER +1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Animal ears and tails with heightened senses.
 
 ### Feral abhuman raider *(NPC only)*
+
+![Feral abhuman raider](../Images/species-feral-abhuman-raider.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 END +1 INT −1 WIS +1 PER +1 CHA −1
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bred servitor beastfolk *(NPC only)*
 
+![Bred servitor beastfolk](../Images/species-bred-servitor-beastfolk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1 WIS +1 PER +1 COU +1
 - **Skills:** [Formation Fighting](../Skills/formation-fighting.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Animal-specific lines are copied from the base animal's family. NPC only.
 
 ### No. 518 Hyena-headed beastfolk *(genres: beast-folk: fur)*
+
+![Hyena-headed beastfolk](../Images/species-hyena-headed-beastfolk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Hyena-headed beastfolk who hunt in tight packs, with a strong bite and a keen nose for scent. (looks like: hyena; good at: keen senses, fighting)

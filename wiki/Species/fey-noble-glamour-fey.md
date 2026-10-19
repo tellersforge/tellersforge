@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Glamour-wielding queen-folk · No. 432 Noble fair folk *(NPC only)*
 
+![Glamour-wielding queen-folk](../Images/species-glamour-wielding-queen-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −1 AGI +1 END −1 CHA +3
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 9 · Damage longsword 1d6+2 · Armour 2 · Life 16 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Seasonal court sidhe nobility *(NPC only)*
+
+![Seasonal court sidhe nobility](../Images/species-seasonal-court-sidhe-nobility.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +1 END −1 CHA +3

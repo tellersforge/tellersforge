@@ -1,5 +1,9 @@
 # Axes, Maces & Clubs
 
+![Axes, Maces & Clubs](../Images/WG-003-weapon-groups-axes-maces-and-clubs.jpg){.illus}
+
+
+*Catalogue: WG-003*
 *Set: Core*
 
 *aka: ______________________________*

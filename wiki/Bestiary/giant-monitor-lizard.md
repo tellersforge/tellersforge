@@ -1,5 +1,9 @@
 # Giant monitor lizard
 
+![Giant monitor lizard](../Images/BE-264-bestiary-giant-monitor-lizard.jpg){.illus}
+
+
+*Catalogue: BE-264*
 *Set: Expansion*
 
 *aka: ______________________________*

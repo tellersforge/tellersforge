@@ -1,5 +1,9 @@
 # Neural beast collar
 
+![Neural beast collar](../Images/GR-0676-equipment-neural-beast-collar.jpg){.illus}
+
+
+*Catalogue: GR-0676*
 *Set: Expansion*
 
 *aka: ______________________________*

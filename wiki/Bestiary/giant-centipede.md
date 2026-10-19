@@ -1,7 +1,8 @@
 # Giant centipede
 
-![Giant centipede](../Images/bestiary-giant-centipede.jpg){.illus}
+![Giant centipede](../Images/BE-243-bestiary-giant-centipede.jpg){.illus}
 
+*Catalogue: BE-243*
 *Set: Expansion*
 
 *aka: ______________________________*

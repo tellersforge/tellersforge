@@ -1,5 +1,9 @@
 # Down sleeping bag
 
+![Down sleeping bag](../Images/GR-0348-equipment-down-sleeping-bag.jpg){.illus}
+
+
+*Catalogue: GR-0348*
 *Set: Expansion*
 
 *aka: ______________________________*

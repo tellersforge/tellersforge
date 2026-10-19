@@ -1,5 +1,8 @@
 # Fear of Falling
 
+![Fear of Falling](../Images/flaws-fear-of-falling.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when drops, collapsing floors, being dropped.

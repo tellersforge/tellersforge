@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 520 Uplifted animal-person *(genres: uplifted animals, super-powered: mutants and the enhanced)*
 
+![Uplifted animal-person](../Images/species-uplifted-animal-person.jpg){.illus}
+
+
 - **Size:** varies · **Body:** biped
 - **What it's like:** An ordinary animal transformed into a thinking, talking, upright person, keeping many of its old instincts and habits. (looks like: animal; good at: wilderness, keen senses)
 - **Attributes:** none

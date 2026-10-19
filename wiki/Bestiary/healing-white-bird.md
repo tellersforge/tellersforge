@@ -1,5 +1,9 @@
 # Healing white bird
 
+![Healing white bird](../Images/BE-331-bestiary-healing-white-bird.jpg){.illus}
+
+
+*Catalogue: BE-331*
 *Set: Core*
 
 *aka: ______________________________*

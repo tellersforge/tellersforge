@@ -1,5 +1,9 @@
 # Handcuffs
 
+![Handcuffs](../Images/GR-0496-equipment-handcuffs.jpg){.illus}
+
+
+*Catalogue: GR-0496*
 *Set: Core*
 
 *aka: ______________________________*

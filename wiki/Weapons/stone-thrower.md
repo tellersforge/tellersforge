@@ -1,5 +1,9 @@
 # Stone-Thrower
 
+![Stone-Thrower](../Images/GR-0104-weapons-stone-thrower.jpg){.illus}
+
+
+*Catalogue: GR-0104*
 *Set: Expansion*
 
 *aka: ______________________________*

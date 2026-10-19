@@ -1,5 +1,9 @@
 # Memory Reading
 
+![Memory Reading](../Images/PW-174-powers-memory-reading.jpg){.illus}
+
+
+*Catalogue: PW-174*
 *Set: Expansion*
 
 *aka: ______________________________*

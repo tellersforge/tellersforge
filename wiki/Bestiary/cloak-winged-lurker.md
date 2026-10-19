@@ -1,7 +1,8 @@
 # Cloak-winged lurker
 
-![Cloak-winged lurker](../Images/bestiary-cloak-winged-lurker.jpg){.illus}
+![Cloak-winged lurker](../Images/BE-107-bestiary-cloak-winged-lurker.jpg){.illus}
 
+*Catalogue: BE-107*
 *Set: Expansion*
 
 *aka: ______________________________*

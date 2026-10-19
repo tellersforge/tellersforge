@@ -1,5 +1,9 @@
 # Falconer's gauntlet
 
+![Falconer's gauntlet](../Images/GR-0383-equipment-falconer-s-gauntlet.jpg){.illus}
+
+
+*Catalogue: GR-0383*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Fishing kit
 
+![Fishing kit](../Images/GR-0416-equipment-fishing-kit.jpg){.illus}
+
+
+*Catalogue: GR-0416*
 *Set: Core*
 
 *aka: ______________________________*

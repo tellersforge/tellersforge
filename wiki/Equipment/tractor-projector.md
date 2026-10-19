@@ -1,5 +1,9 @@
 # Tractor projector
 
+![Tractor projector](../Images/GR-0969-equipment-tractor-projector.jpg){.illus}
+
+
+*Catalogue: GR-0969*
 *Set: Expansion*
 
 *aka: ______________________________*

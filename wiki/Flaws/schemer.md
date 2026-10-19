@@ -1,5 +1,8 @@
 # Schemer
 
+![Schemer](../Images/flaws-schemer.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when plays people for fools even when there's no need.

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### First-host progenitor celestial *(NPC only; NPC-scale)*
 
+![First-host progenitor celestial](../Images/species-first-host-progenitor-celestial.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +4 AGI −4 END +1 INT +3 WIS +3 CHA +1
 - **Skills:** [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; it is simply older and greater than later waves.
 
 ### Celestial judge-enforcer *(NPC only; NPC-scale)*
+
+![Celestial judge-enforcer](../Images/species-celestial-judge-enforcer.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +4 AGI −4 END +1 INT +3 WIS +3 CHA +1

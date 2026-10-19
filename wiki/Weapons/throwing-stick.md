@@ -1,5 +1,9 @@
 # Throwing Stick
 
+![Throwing Stick](../Images/GR-0112-weapons-throwing-stick.jpg){.illus}
+
+
+*Catalogue: GR-0112*
 *Set: Core*
 
 *aka: ______________________________*

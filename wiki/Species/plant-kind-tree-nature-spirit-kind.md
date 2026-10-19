@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forest dryad *(NPC only)*
 
+![Forest dryad](../Images/species-forest-dryad.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −2 END +2 WIS +2 CHA +2 COU −1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Bound to one tree and dies with it (a flaw).
 
 ### Forest kodama *(NPC only)*
+
+![Forest kodama](../Images/species-forest-kodama.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 END +2 WIS +2 CHA +1 COU −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Verdant green man *(NPC only)*
 
+![Verdant green man](../Images/species-verdant-green-man.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −2 END +2 WIS +2 CHA +1 COU −1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* A symbol of the forest's vitality; nothing beyond the species' lines.
 
 ### Shapeshifting leshy *(NPC only)*
+
+![Shapeshifting leshy](../Images/species-shapeshifting-leshy.jpg){.illus}
+
 
 - **Size:** varies · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 INT +1 WIS +2 CHA +1 COU −1

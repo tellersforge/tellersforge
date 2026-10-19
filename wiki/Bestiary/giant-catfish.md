@@ -1,5 +1,9 @@
 # Giant catfish
 
+![Giant catfish](../Images/BE-242-bestiary-giant-catfish.jpg){.illus}
+
+
+*Catalogue: BE-242*
 *Set: Expansion*
 
 *aka: ______________________________*

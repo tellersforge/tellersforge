@@ -1,5 +1,9 @@
 # Storytelling & Conversation
 
+![Storytelling & Conversation](../Images/SK-191-skills-storytelling-and-conversation.jpg){.illus}
+
+
+*Catalogue: SK-191*
 *Set: Core · Basic skill: Performance*
 
 *aka: ______________________________*

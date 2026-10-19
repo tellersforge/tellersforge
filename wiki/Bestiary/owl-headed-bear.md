@@ -1,7 +1,8 @@
 # Owl-headed bear
 
-![Owl-headed bear](../Images/bestiary-owl-headed-bear.jpg){.illus}
+![Owl-headed bear](../Images/BE-449-bestiary-owl-headed-bear.jpg){.illus}
 
+*Catalogue: BE-449*
 *Set: Expansion*
 
 *aka: ______________________________*

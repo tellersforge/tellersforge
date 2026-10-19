@@ -1,7 +1,8 @@
 # Pack Mule
 
-![Pack mule](../Images/vehicles-pack-mule.jpg){.illus}
+![Pack mule](../Images/GR-1098-vehicles-pack-mule.jpg){.illus}
 
+*Catalogue: GR-1098*
 *Set: Core*
 
 

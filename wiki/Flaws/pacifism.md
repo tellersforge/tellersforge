@@ -1,5 +1,8 @@
 # Pacifism
 
+![Pacifism](../Images/flaws-pacifism.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Conscience and conduct* kind. It fires when won't strike to kill, even to survive.

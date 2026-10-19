@@ -1,7 +1,8 @@
 # Longsword
 
-![Longsword](../Images/weapons-longsword.jpg){.illus}
+![Longsword](../Images/GR-0064-weapons-longsword.jpg){.illus}
 
+*Catalogue: GR-0064*
 *Set: Core*
 
 *aka: ______________________________*

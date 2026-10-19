@@ -1,5 +1,9 @@
 # Ageing & Youth
 
+![Ageing & Youth](../Images/PW-003-powers-ageing-and-youth.jpg){.illus}
+
+
+*Catalogue: PW-003*
 *Set: Expansion*
 
 *aka: ______________________________*

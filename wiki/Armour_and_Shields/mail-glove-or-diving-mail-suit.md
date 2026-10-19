@@ -1,5 +1,9 @@
 # Mail glove or diving mail suit
 
+![Mail glove or diving mail suit](../Images/GR-0147-armour-mail-glove-or-diving-mail-suit.jpg){.illus}
+
+
+*Catalogue: GR-0147*
 *Set: Expansion*
 
 *aka: ______________________________*

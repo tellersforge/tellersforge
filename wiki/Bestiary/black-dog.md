@@ -1,5 +1,9 @@
 # Black dog
 
+![Black dog](../Images/BE-047-bestiary-black-dog.jpg){.illus}
+
+
+*Catalogue: BE-047*
 *Set: Core*
 
 *aka: ______________________________*

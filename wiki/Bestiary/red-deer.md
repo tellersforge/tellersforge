@@ -1,5 +1,9 @@
 # Red deer
 
+![Red deer](../Images/BE-481-bestiary-red-deer.jpg){.illus}
+
+
+*Catalogue: BE-481*
 *Set: Core*
 
 *aka: ______________________________*

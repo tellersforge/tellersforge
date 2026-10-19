@@ -1,5 +1,9 @@
 # Fog & Mist
 
+![Fog & Mist](../Images/PW-109-powers-fog-and-mist.jpg){.illus}
+
+
+*Catalogue: PW-109*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Deep-crawling abyss horror
 
+![Deep-crawling abyss horror](../Images/BE-142-bestiary-deep-crawling-abyss-horror.jpg){.illus}
+
+
+*Catalogue: BE-142*
 *Set: Expansion*
 
 *aka: ______________________________*

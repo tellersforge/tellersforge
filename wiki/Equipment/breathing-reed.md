@@ -1,5 +1,9 @@
 # Breathing reed
 
+![Breathing reed](../Images/GR-0229-equipment-breathing-reed.jpg){.illus}
+
+
+*Catalogue: GR-0229*
 *Set: Core*
 
 *aka: ______________________________*

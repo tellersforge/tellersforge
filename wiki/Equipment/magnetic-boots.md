@@ -1,7 +1,8 @@
 # Magnetic boots
 
-![Magnetic boots](../Images/equipment-magnetic-boots.jpg){.illus}
+![Magnetic boots](../Images/GR-0623-equipment-magnetic-boots.jpg){.illus}
 
+*Catalogue: GR-0623*
 *Set: Expansion*
 
 *aka: ______________________________*

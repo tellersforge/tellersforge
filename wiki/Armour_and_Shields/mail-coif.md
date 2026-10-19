@@ -1,5 +1,9 @@
 # Mail coif
 
+![Mail coif](../Images/GR-0146-armour-mail-coif.jpg){.illus}
+
+
+*Catalogue: GR-0146*
 *Set: Expansion*
 
 *aka: ______________________________*

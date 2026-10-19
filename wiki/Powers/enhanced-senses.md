@@ -1,5 +1,9 @@
 # Enhanced Senses
 
+![Enhanced Senses](../Images/PW-090-powers-enhanced-senses.jpg){.illus}
+
+
+*Catalogue: PW-090*
 *Set: Core*
 
 *aka: ______________________________*

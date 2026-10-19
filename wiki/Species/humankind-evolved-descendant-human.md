@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Subterranean laborer-descendant folk *(NPC only)*
 
+![Subterranean laborer-descendant folk](../Images/species-subterranean-laborer-descendant-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −1 AGI +2 INT −2 CHA −2
 - **Skills:** [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +2, [Climbing](../Skills/climbing.md) +1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 58 Pastoral childlike descendant folk *(genres: multiverse and time)*
 
+![Pastoral childlike descendant folk](../Images/species-pastoral-childlike-descendant-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, gentle, childlike farmers, quick on their feet but simple of mind. (looks like: human; good at: speed and agility, sneaking)
 - **Attributes:** STR −2 AGI +2 END −1 INT −1
@@ -41,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Brutish savage beast-folk *(NPC only)*
 
+![Brutish savage beast-folk](../Images/species-brutish-savage-beast-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +1 INT −3 CHA −3
 - **Skills:** [Climbing](../Skills/climbing.md) +1
@@ -48,6 +57,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Savage tree-climbing brutes.
 
 ### Neanderthal-descended conqueror folk *(NPC only)*
+
+![Neanderthal-descended conqueror folk](../Images/species-neanderthal-descended-conqueror-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +1 COU +1

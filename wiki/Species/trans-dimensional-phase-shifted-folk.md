@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Phase-zone wraith *(NPC only)*
 
+![Phase-zone wraith](../Images/species-phase-zone-wraith.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal
 - **Attributes:** STR −3 AGI +1 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Voicelessness is a flaw. Lifespan (very long-lived while trapped out of phase) is a lexicon detail, not a game number. Cannot touch the real world, so held weapons are unusable.
 
 ### No. 760 Ethereal phase-walker *(genres: heavens, hells and other planes)*
+
+![Ethereal phase-walker](../Images/species-ethereal-phase-walker.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Folk who can slip out of phase with the world to turn invisible and untouchable at will. (looks like: ghost; good at: powers and magic, sneaking)
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 761 Blinking raider *(genres: heavens, hells and other planes)*
 
+![Blinking raider](../Images/species-blinking-raider.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Hit-and-run raiders who blink short distances through space, dizzying to fight. (looks like: human; good at: powers and magic, speed and agility)
 - **Attributes:** AGI +1 INT +1 WIS +1 PER +1 CHA −1
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Blinking hound *(beast)*
 
+![Blinking hound](../Images/species-blinking-hound.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** AGI +1 INT −2 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Tracking](../Skills/tracking.md) +2, [Composure](../Skills/composure.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -65,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A pack-hunting hound that blinks to flank prey instead of phasing.
 
 ### Dimension-walking spider *(beast)*
+
+![Dimension-walking spider](../Images/species-dimension-walking-spider.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** AGI +1 INT −2 WIS +1 PER +1 CHA −1
@@ -76,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Earth-melding cube-being *(NPC only)*
 
+![Earth-melding cube-being](../Images/species-earth-melding-cube-being.jpg){.illus}
+
+
 - **Size:** large · **Body:** other
 - **Attributes:** STR +2 AGI −2 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Appraisal](../Skills/appraisal.md) +1, [Composure](../Skills/composure.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -85,6 +103,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Travel Through a Medium is stone. Lifespan (long-lived) is a lexicon detail, not a game number. No hands: held weapons unusable.
 
 ### Phase-shifting shadow-warrior *(NPC only)*
+
+![Phase-shifting shadow-warrior](../Images/species-phase-shifting-shadow-warrior.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 INT +2 WIS +2 PER +1 CHA −1

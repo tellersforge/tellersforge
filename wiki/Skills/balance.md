@@ -1,5 +1,9 @@
 # Balance
 
+![Balance](../Images/SK-015-skills-balance.jpg){.illus}
+
+
+*Catalogue: SK-015*
 *Set: Core*
 
 *aka: ______________________________*

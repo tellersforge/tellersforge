@@ -1,5 +1,9 @@
 # Crop Blessing & Blight
 
+![Crop Blessing & Blight](../Images/PW-056-powers-crop-blessing-and-blight.jpg){.illus}
+
+
+*Catalogue: PW-056*
 *Set: Expansion*
 
 *aka: ______________________________*

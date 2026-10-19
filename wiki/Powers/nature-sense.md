@@ -1,5 +1,9 @@
 # Nature Sense
 
+![Nature Sense](../Images/PW-195-powers-nature-sense.jpg){.illus}
+
+
+*Catalogue: PW-195*
 *Set: Expansion*
 
 *aka: ______________________________*

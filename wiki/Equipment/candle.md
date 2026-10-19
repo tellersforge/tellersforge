@@ -1,5 +1,9 @@
 # Candle
 
+![Candle](../Images/GR-0255-equipment-candle.jpg){.illus}
+
+
+*Catalogue: GR-0255*
 *Set: Core*
 
 *aka: ______________________________*

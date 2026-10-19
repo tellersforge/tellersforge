@@ -1,5 +1,9 @@
 # Charm & Seduction
 
+![Charm & Seduction](../Images/SK-033-skills-charm-and-seduction.jpg){.illus}
+
+
+*Catalogue: SK-033*
 *Set: Core · Basic skill: Persuasion*
 
 *aka: ______________________________*

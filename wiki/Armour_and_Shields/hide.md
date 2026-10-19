@@ -1,7 +1,8 @@
 # Hide
 
-![Hide armour](../Images/armour-hide.jpg){.illus}
+![Hide armour](../Images/GR-0142-armour-hide.jpg){.illus}
 
+*Catalogue: GR-0142*
 *Set: Core*
 
 *aka: ______________________________*

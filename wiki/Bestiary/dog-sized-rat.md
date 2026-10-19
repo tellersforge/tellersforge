@@ -1,5 +1,9 @@
 # Dog-sized rat
 
+![Dog-sized rat](../Images/BE-153-bestiary-dog-sized-rat.jpg){.illus}
+
+
+*Catalogue: BE-153*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Playing cards
 
-![Playing cards and dice](../Images/equipment-playing-cards.jpg){.illus}
+![Playing cards and dice](../Images/GR-0733-equipment-playing-cards.jpg){.illus}
 
+*Catalogue: GR-0733*
 *Set: Core*
 
 *aka: ______________________________*

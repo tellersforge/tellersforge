@@ -1,5 +1,9 @@
 # Astrological almanac
 
+![Astrological almanac](../Images/GR-0191-equipment-astrological-almanac.jpg){.illus}
+
+
+*Catalogue: GR-0191*
 *Set: Expansion*
 
 *aka: ______________________________*

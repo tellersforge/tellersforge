@@ -1,5 +1,9 @@
 # Luminous paint
 
+![Luminous paint](../Images/GR-0620-equipment-luminous-paint.jpg){.illus}
+
+
+*Catalogue: GR-0620*
 *Set: Expansion*
 
 *aka: ______________________________*

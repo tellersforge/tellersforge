@@ -1,5 +1,9 @@
 # Wind-up light
 
+![Wind-up light](../Images/GR-1018-equipment-wind-up-light.jpg){.illus}
+
+
+*Catalogue: GR-1018*
 *Set: Expansion*
 
 *aka: ______________________________*

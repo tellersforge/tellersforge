@@ -1,5 +1,9 @@
 # Ten-legged maned lion
 
+![Ten-legged maned lion](../Images/BE-610-bestiary-ten-legged-maned-lion.jpg){.illus}
+
+
+*Catalogue: BE-610*
 *Set: Expansion*
 
 *aka: ______________________________*

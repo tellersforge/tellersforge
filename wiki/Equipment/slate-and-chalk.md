@@ -1,5 +1,9 @@
 # Slate and chalk
 
+![Slate and chalk](../Images/GR-0871-equipment-slate-and-chalk.jpg){.illus}
+
+
+*Catalogue: GR-0871*
 *Set: Expansion*
 
 *aka: ______________________________*

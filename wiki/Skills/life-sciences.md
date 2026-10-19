@@ -1,5 +1,9 @@
 # Life Sciences
 
+![Life Sciences](../Images/SK-112-skills-life-sciences.jpg){.illus}
+
+
+*Catalogue: SK-112*
 *Set: Expansion*
 
 *aka: ______________________________*

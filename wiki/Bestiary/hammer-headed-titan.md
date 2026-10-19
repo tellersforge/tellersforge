@@ -1,7 +1,8 @@
 # Hammer-headed titan
 
-![Hammer-headed titan](../Images/bestiary-hammer-headed-titan.jpg){.illus}
+![Hammer-headed titan](../Images/BE-325-bestiary-hammer-headed-titan.jpg){.illus}
 
+*Catalogue: BE-325*
 *Set: Expansion*
 
 *aka: ______________________________*

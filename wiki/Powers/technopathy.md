@@ -1,5 +1,9 @@
 # Technopathy
 
+![Technopathy](../Images/PW-290-powers-technopathy.jpg){.illus}
+
+
+*Catalogue: PW-290*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Spined hunting hound
 
+![Spined hunting hound](../Images/BE-582-bestiary-spined-hunting-hound.jpg){.illus}
+
+
+*Catalogue: BE-582*
 *Set: Expansion*
 
 *aka: ______________________________*

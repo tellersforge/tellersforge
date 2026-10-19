@@ -1,5 +1,9 @@
 # Dark close-fitting clothes
 
+![Dark close-fitting clothes](../Images/GR-0319-equipment-dark-close-fitting-clothes.jpg){.illus}
+
+
+*Catalogue: GR-0319*
 *Set: Core*
 
 *aka: ______________________________*

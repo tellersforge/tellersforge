@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Oneiric dreamscape dweller *(NPC only)*
 
+![Oneiric dreamscape dweller](../Images/species-oneiric-dreamscape-dweller.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Button-eyed other-mother *(NPC only)*
 
+![Button-eyed other-mother](../Images/species-button-eyed-other-mother.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Deception](../Skills/deception.md) +2, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Pocket Realm is its mirrored world. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### Nightmare-realm stalker *(beast)*
+
+![Nightmare-realm stalker](../Images/species-nightmare-realm-stalker.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 INT +1 WIS +1 PER +1 CHA −1

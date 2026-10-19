@@ -1,7 +1,8 @@
 # Pike
 
-![Pike](../Images/weapons-pike.jpg){.illus}
+![Pike](../Images/GR-0074-weapons-pike.jpg){.illus}
 
+*Catalogue: GR-0074*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Tarp
 
+![Tarp](../Images/GR-0948-equipment-tarp.jpg){.illus}
+
+
+*Catalogue: GR-0948*
 *Set: Expansion*
 
 *aka: ______________________________*

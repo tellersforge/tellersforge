@@ -1,7 +1,8 @@
 # Plasma Rifle
 
-![Plasma rifle](../Images/weapons-plasma-rifle.jpg){.illus}
+![Plasma rifle](../Images/GR-0075-weapons-plasma-rifle.jpg){.illus}
 
+*Catalogue: GR-0075*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bowyery & Fletching
 
+![Bowyery & Fletching](../Images/SK-023-skills-bowyery-and-fletching.jpg){.illus}
+
+
+*Catalogue: SK-023*
 *Set: Expansion*
 
 *aka: ______________________________*

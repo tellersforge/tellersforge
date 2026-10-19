@@ -1,5 +1,8 @@
 # Reptilian
 
+![Reptilian](../Images/species-families-reptilian.jpg){.illus}
+
+
 
 Cold-blooded and scaled, shelled or plated. The family runs from marsh-dwelling lizard tribes and patient turtle sages to dinosaur-built warriors, sprawling saurian empires among the stars, river-hunting crocodile folk, and great scaly beasts of burden. They bask in the morning, grow sluggish in the cold and become swift and deadly in the heat. Many lay eggs, shed their skin and live longer than warm-blooded neighbours expect. Their ways often seem cold to others, all practical necessity and little sentiment. Reptilian folk would say they simply waste less effort on feelings that cannot be eaten.
 

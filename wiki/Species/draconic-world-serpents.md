@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Chaos deep serpent *(NPC only; NPC-scale)*
 
+![Chaos deep serpent](../Images/species-chaos-deep-serpent.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** serpentine
 - **Attributes:** STR +10 AGI −6 END +5 INT −1 WIS +1 COU +3
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Swimming](../Skills/swimming.md) +2, [Composure](../Skills/composure.md) +1, [Creature & Occult Lore](../Skills/creature-and-occult-lore.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number. Size set to gigantic: a colossal world-serpent that circles the world or fills the deep, far beyond huge.
 
 ### Creator rain serpent *(NPC only; NPC-scale)*
+
+![Creator rain serpent](../Images/species-creator-rain-serpent.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** serpentine
 - **Attributes:** STR +8 AGI −6 END +4 INT +2 WIS +2 CHA +3 COU +1
@@ -48,6 +54,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 320 Civilizing wind serpent *(genres: myth and legend)*
 
+![Civilizing wind serpent](../Images/species-civilizing-wind-serpent.jpg){.illus}
+
+
 - **Size:** large · **Body:** serpentine+winged
 - **What it's like:** A feathered flying serpent tied to the wind and the morning star, wise and civilising wherever it settles. (looks like: dragon; good at: flying, knowledge)
 - **Attributes:** STR +2 AGI −2 END +1 INT +1 WIS +1 COU +1
@@ -60,6 +69,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Regenerating hydra *(beast)*
 
+![Regenerating hydra](../Images/species-regenerating-hydra.jpg){.illus}
+
+
 - **Size:** huge · **Body:** serpentine
 - **Attributes:** STR +7 AGI −4 END +5 INT −4 WIS −1 PER +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Composure](../Skills/composure.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -70,6 +82,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Many-headed beast whose heads regrow unless the wound is burned.
 
 ### Multi-headed fire serpent *(NPC only)*
+
+![Multi-headed fire serpent](../Images/species-multi-headed-fire-serpent.jpg){.illus}
+
 
 - **Size:** huge · **Body:** serpentine+winged
 - **Attributes:** STR +7 AGI −4 END +4 INT −1 WIS −1 COU +1
@@ -83,6 +98,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Elusive lake serpent *(beast)*
 
+![Elusive lake serpent](../Images/species-elusive-lake-serpent.jpg){.illus}
+
+
 - **Size:** huge · **Body:** aquatic
 - **Attributes:** STR +6 AGI −3 END +2 INT −1 WIS −1 COU −1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Swimming](../Skills/swimming.md) +3, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) +1, [Disguise](../Skills/disguise.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -94,6 +112,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forest-guardian fire serpent *(NPC only)*
 
+![Forest-guardian fire serpent](../Images/species-forest-guardian-fire-serpent.jpg){.illus}
+
+
 - **Size:** large · **Body:** serpentine
 - **Attributes:** STR +4 AGI −2 END +2 INT −1 WIS +1 COU +2
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Composure](../Skills/composure.md) +1, [Creature & Occult Lore](../Skills/creature-and-occult-lore.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -104,6 +125,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Glowing, fire-eyed serpent that guards its forest.
 
 ### Sealed apocalypse serpent-god *(NPC only; NPC-scale)*
+
+![Sealed apocalypse serpent-god](../Images/species-sealed-apocalypse-serpent-god.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** serpentine
 - **Attributes:** STR +11 AGI −6 END +5 INT +2 WIS +1 CHA +3 COU +1

@@ -1,5 +1,9 @@
 # Fate-Reading
 
+![Fate-Reading](../Images/PW-099-powers-fate-reading.jpg){.illus}
+
+
+*Catalogue: PW-099*
 *Set: Expansion*
 
 *aka: ______________________________*

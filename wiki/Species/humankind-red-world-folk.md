@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Civilized red-skinned folk · White-skinned priesthood folk *(same numbers as a baseline human: play as one (Species rule 18))*
 
+![Civilized red-skinned folk](../Images/species-civilized-red-skinned-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *White-skinned priesthood folk:* Same as its species; pale skin and a secretive god-posing priesthood are appearance and culture.
 
 ### No. 4 Green-skinned four-armed folk *(genres: pulp planets and lost worlds)*
+
+![Green-skinned four-armed folk](../Images/species-green-skinned-four-armed-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Huge four-armed, tusked warriors who leap far and fight fiercely with their tusks. (looks like: alien; good at: strength, fighting, climbing)

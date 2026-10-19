@@ -1,5 +1,9 @@
 # Military service uniform
 
+![Military service uniform](../Images/GR-0652-equipment-military-service-uniform.jpg){.illus}
+
+
+*Catalogue: GR-0652*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Striped skunk
 
+![Striped skunk](../Images/BE-602-bestiary-striped-skunk.jpg){.illus}
+
+
+*Catalogue: BE-602*
 *Set: Core*
 
 *aka: ______________________________*

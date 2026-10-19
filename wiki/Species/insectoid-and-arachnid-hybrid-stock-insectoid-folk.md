@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Parasite-touched hybrid *(NPC only)*
 
+![Parasite-touched hybrid](../Images/species-parasite-touched-hybrid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +3 AGI +2 END +2 INT −1 WIS −1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2

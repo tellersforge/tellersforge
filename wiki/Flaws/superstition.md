@@ -1,5 +1,8 @@
 # Superstition
 
+![Superstition](../Images/flaws-superstition.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when trusts lucky charms and bad-luck signs; won't act on a bad omen.

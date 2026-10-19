@@ -1,5 +1,9 @@
 # Fairy Time
 
+![Fairy Time](../Images/PW-096-powers-fairy-time.jpg){.illus}
+
+
+*Catalogue: PW-096*
 *Set: Expansion*
 
 *aka: ______________________________*

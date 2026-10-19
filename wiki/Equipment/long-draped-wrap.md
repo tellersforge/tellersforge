@@ -1,5 +1,9 @@
 # Long draped wrap
 
+![Long draped wrap](../Images/GR-0615-equipment-long-draped-wrap.jpg){.illus}
+
+
+*Catalogue: GR-0615*
 *Set: Expansion*
 
 *aka: ______________________________*

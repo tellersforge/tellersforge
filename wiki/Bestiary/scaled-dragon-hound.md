@@ -1,5 +1,9 @@
 # Scaled dragon hound
 
+![Scaled dragon hound](../Images/BE-517-bestiary-scaled-dragon-hound.jpg){.illus}
+
+
+*Catalogue: BE-517*
 *Set: Expansion*
 
 *aka: ______________________________*

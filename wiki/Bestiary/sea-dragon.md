@@ -1,7 +1,8 @@
 # Sea dragon
 
-![Sea dragon](../Images/bestiary-sea-dragon.jpg){.illus}
+![Sea dragon](../Images/BE-525-bestiary-sea-dragon.jpg){.illus}
 
+*Catalogue: BE-525*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Potter's kit
 
+![Potter's kit](../Images/GR-0747-equipment-potter-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0747*
 *Set: Expansion*
 
 *aka: ______________________________*

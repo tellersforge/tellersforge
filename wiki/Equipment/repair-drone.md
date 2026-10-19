@@ -1,7 +1,8 @@
 # Repair drone
 
-![Repair drone](../Images/equipment-repair-drone.jpg){.illus}
+![Repair drone](../Images/GR-0787-equipment-repair-drone.jpg){.illus}
 
+*Catalogue: GR-0787*
 *Set: Expansion*
 
 *aka: ______________________________*

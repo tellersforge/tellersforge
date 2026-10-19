@@ -1,5 +1,9 @@
 # Shadow stalker
 
+![Shadow stalker](../Images/BE-537-bestiary-shadow-stalker.jpg){.illus}
+
+
+*Catalogue: BE-537*
 *Set: Expansion*
 
 *aka: ______________________________*

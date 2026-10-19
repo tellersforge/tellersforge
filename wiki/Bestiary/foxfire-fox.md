@@ -1,5 +1,9 @@
 # Foxfire fox
 
+![Foxfire fox](../Images/BE-218-bestiary-foxfire-fox.jpg){.illus}
+
+
+*Catalogue: BE-218*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Belly-mouthed sloth
 
+![Belly-mouthed sloth](../Images/BE-042-bestiary-belly-mouthed-sloth.jpg){.illus}
+
+
+*Catalogue: BE-042*
 *Set: Core*
 
 *aka: ______________________________*

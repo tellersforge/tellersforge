@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tinkerer ape alien *(NPC only)*
 
+![Tinkerer ape alien](../Images/species-tinkerer-ape-alien.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 AGI +2 INT +1 WIS −1 CHA −1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Jury-Rigging](../Skills/jury-rigging.md) +3, [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +1, [Mechanics](../Skills/mechanics.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2

@@ -1,7 +1,8 @@
 # Rondel Dagger
 
-![Rondel dagger](../Images/weapons-rondel-dagger.jpg){.illus}
+![Rondel dagger](../Images/GR-0086-weapons-rondel-dagger.jpg){.illus}
 
+*Catalogue: GR-0086*
 *Set: Expansion*
 
 *aka: ______________________________*

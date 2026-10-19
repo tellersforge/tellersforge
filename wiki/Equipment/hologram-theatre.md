@@ -1,5 +1,9 @@
 # Hologram theatre
 
+![Hologram theatre](../Images/GR-0535-equipment-hologram-theatre.jpg){.illus}
+
+
+*Catalogue: GR-0535*
 *Set: Expansion*
 
 *aka: ______________________________*

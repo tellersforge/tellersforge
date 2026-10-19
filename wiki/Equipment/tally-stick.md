@@ -1,5 +1,9 @@
 # Tally stick
 
+![Tally stick](../Images/GR-0946-equipment-tally-stick.jpg){.illus}
+
+
+*Catalogue: GR-0946*
 *Set: Core*
 
 *aka: ______________________________*

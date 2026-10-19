@@ -1,5 +1,9 @@
 # Archer's bracer
 
+![Archer's bracer](../Images/GR-0186-equipment-archer-s-bracer.jpg){.illus}
+
+
+*Catalogue: GR-0186*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Dome-headed dinosaur
 
+![Dome-headed dinosaur](../Images/BE-154-bestiary-dome-headed-dinosaur.jpg){.illus}
+
+
+*Catalogue: BE-154*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Dried meat
 
+![Dried meat](../Images/GR-0352-equipment-dried-meat.jpg){.illus}
+
+
+*Catalogue: GR-0352*
 *Set: Core*
 
 *aka: ______________________________*

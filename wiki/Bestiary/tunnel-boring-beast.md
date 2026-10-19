@@ -1,5 +1,9 @@
 # Tunnel-boring beast
 
+![Tunnel-boring beast](../Images/BE-634-bestiary-tunnel-boring-beast.jpg){.illus}
+
+
+*Catalogue: BE-634*
 *Set: Expansion*
 
 *aka: ______________________________*

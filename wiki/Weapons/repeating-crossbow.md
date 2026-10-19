@@ -1,7 +1,8 @@
 # Repeating Crossbow
 
-![Repeating crossbow](../Images/weapons-repeating-crossbow.jpg){.illus}
+![Repeating crossbow](../Images/GR-0083-weapons-repeating-crossbow.jpg){.illus}
 
+*Catalogue: GR-0083*
 *Set: Expansion*
 
 *aka: ______________________________*

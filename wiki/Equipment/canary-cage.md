@@ -1,5 +1,9 @@
 # Canary cage
 
+![Canary cage](../Images/GR-0254-equipment-canary-cage.jpg){.illus}
+
+
+*Catalogue: GR-0254*
 *Set: Expansion*
 
 *aka: ______________________________*

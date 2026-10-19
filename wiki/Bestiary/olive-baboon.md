@@ -1,5 +1,9 @@
 # Olive baboon
 
+![Olive baboon](../Images/BE-444-bestiary-olive-baboon.jpg){.illus}
+
+
+*Catalogue: BE-444*
 *Set: Core*
 
 *aka: ______________________________*

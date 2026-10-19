@@ -1,7 +1,8 @@
 # Energy Blade
 
-![Energy blade](../Images/weapons-energy-blade.jpg){.illus}
+![Energy blade](../Images/GR-0031-weapons-energy-blade.jpg){.illus}
 
+*Catalogue: GR-0031*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Plasma-spitting hive bug
 
+![Plasma-spitting hive bug](../Images/BE-462-bestiary-plasma-spitting-hive-bug.jpg){.illus}
+
+
+*Catalogue: BE-462*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Transfusion kit
 
+![Transfusion kit](../Images/GR-0971-equipment-transfusion-kit.jpg){.illus}
+
+
+*Catalogue: GR-0971*
 *Set: Expansion*
 
 *aka: ______________________________*

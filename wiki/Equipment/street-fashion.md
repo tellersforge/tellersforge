@@ -1,5 +1,9 @@
 # Street fashion
 
+![Street fashion](../Images/GR-0928-equipment-street-fashion.jpg){.illus}
+
+
+*Catalogue: GR-0928*
 *Set: Expansion*
 
 *aka: ______________________________*

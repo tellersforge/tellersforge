@@ -1,5 +1,8 @@
 # Megacity sprawl
 
+![Megacity sprawl](../Images/cultures-megacity-sprawl.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

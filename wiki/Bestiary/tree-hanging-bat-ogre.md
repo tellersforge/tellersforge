@@ -1,5 +1,9 @@
 # Tree-hanging bat-ogre
 
+![Tree-hanging bat-ogre](../Images/BE-628-bestiary-tree-hanging-bat-ogre.jpg){.illus}
+
+
+*Catalogue: BE-628*
 *Set: Core*
 
 *aka: ______________________________*

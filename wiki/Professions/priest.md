@@ -1,5 +1,8 @@
 # Priest
 
+![Priest](../Images/professions-priest.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

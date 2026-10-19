@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 211 Penguin-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Penguin-folk](../Images/species-penguin-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+flippers
 - **What it's like:** Flightless, cold-loving penguin-folk who waddle on land but swim superbly. (looks like: penguin; good at: swimming, wilderness)
 - **Attributes:** STR −2 AGI +2 WIS +1 PER +2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Flightless, cold-tolerant, strong swimmers and divers.
 
 ### No. 212 Flightless ratite-folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Flightless ratite-folk](../Images/species-flightless-ratite-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Long-necked, flightless plains-runners with a powerful defensive kick. (looks like: ostrich; good at: speed and agility, fighting, keen senses)
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 213 Waterfowl-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Waterfowl-folk](../Images/species-waterfowl-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+flippers
 - **What it's like:** Webbed-footed waterfowl-folk who swim well and never lose their way. (looks like: duck; good at: swimming, wilderness)
 - **Attributes:** STR −1 AGI +1 WIS +1 PER +2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Web-footed strong swimmers with a migratory sense.
 
 ### No. 214 Fowl-folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Fowl-folk](../Images/species-fowl-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Hardy, ground-foraging fowl-folk raising broods in busy farming villages. (looks like: chicken; good at: keen senses, wilderness)
@@ -66,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Seabird companion *(beast)*
 
+![Seabird companion](../Images/species-seabird-companion.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 INT −3 WIS +1 PER +2
 - **Skills:** [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +1, [Swimming](../Skills/swimming.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -74,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A round, flightless-ish seabird that swims.
 
 ### No. 215 Waterfowl humanoid farmer *(genres: beast-folk: scales, feathers and shells)*
+
+![Waterfowl humanoid farmer](../Images/species-waterfowl-humanoid-farmer.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Underestimated duck-folk farmers, better swimmers and traders than they look. (looks like: duck; good at: swimming, people and talk)

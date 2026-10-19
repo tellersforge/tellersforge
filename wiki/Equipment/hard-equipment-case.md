@@ -1,5 +1,9 @@
 # Hard equipment case
 
+![Hard equipment case](../Images/GR-0503-equipment-hard-equipment-case.jpg){.illus}
+
+
+*Catalogue: GR-0503*
 *Set: Expansion*
 
 *aka: ______________________________*

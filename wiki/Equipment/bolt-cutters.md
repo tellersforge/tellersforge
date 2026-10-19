@@ -1,5 +1,9 @@
 # Bolt cutters
 
+![Bolt cutters](../Images/GR-0221-equipment-bolt-cutters.jpg){.illus}
+
+
+*Catalogue: GR-0221*
 *Set: Expansion*
 
 *aka: ______________________________*

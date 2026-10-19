@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fairy witch-cat · Bewitched house-cat spirit *(NPC only)*
 
+![Fairy witch-cat](../Images/species-fairy-witch-cat.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 CHA +1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Bewitched house-cat spirit:* Same as its species; it is the younger, lesser stage.
 
 ### Shapeshifting elder cat spirit *(NPC only)*
+
+![Shapeshifting elder cat spirit](../Images/species-shapeshifting-elder-cat-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped+tailed
 - **Attributes:** STR −1 AGI +2 END −1 INT +1 WIS +2 CHA +1

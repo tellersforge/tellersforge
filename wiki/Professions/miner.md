@@ -1,5 +1,8 @@
 # Miner
 
+![Miner](../Images/professions-miner.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

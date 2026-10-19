@@ -1,5 +1,8 @@
 # Vengefulness
 
+![Vengefulness](../Images/flaws-vengefulness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when can't let a wrong go; must pay it back.

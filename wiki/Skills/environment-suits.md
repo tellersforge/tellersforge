@@ -1,5 +1,9 @@
 # Environment Suits
 
+![Environment Suits](../Images/SK-061-skills-environment-suits.jpg){.illus}
+
+
+*Catalogue: SK-061*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Walkie radio
 
+![Walkie radio](../Images/GR-0994-equipment-walkie-radio.jpg){.illus}
+
+
+*Catalogue: GR-0994*
 *Set: Expansion*
 
 *aka: ______________________________*

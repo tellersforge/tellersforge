@@ -1,7 +1,8 @@
 # Flint and steel
 
-![Flint and steel](../Images/equipment-flint-and-steel.jpg){.illus}
+![Flint and steel](../Images/GR-0420-equipment-flint-and-steel.jpg){.illus}
 
+*Catalogue: GR-0420*
 *Set: Core*
 
 *aka: ______________________________*

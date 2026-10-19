@@ -1,5 +1,9 @@
 # Great sea serpent
 
+![Great sea serpent](../Images/BE-309-bestiary-great-sea-serpent.jpg){.illus}
+
+
+*Catalogue: BE-309*
 *Set: Expansion*
 
 *aka: ______________________________*

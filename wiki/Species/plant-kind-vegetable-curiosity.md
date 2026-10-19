@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tethered plant-lamb *(beast)*
 
+![Tethered plant-lamb](../Images/species-tethered-plant-lamb.jpg){.illus}
+
+
 - **Size:** small · **Body:** other
 - **Attributes:** STR −2 AGI −2 END +2 INT −4 WIS +1 COU −2
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2, [Climbing](../Skills/climbing.md) Foreign Concept, [Running](../Skills/running.md) Foreign Concept

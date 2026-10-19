@@ -1,5 +1,9 @@
 # Feral dog
 
+![Feral dog](../Images/BE-187-bestiary-feral-dog.jpg){.illus}
+
+
+*Catalogue: BE-187*
 *Set: Core*
 
 *aka: ______________________________*

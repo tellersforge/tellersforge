@@ -1,5 +1,9 @@
 # Dosimeter badge
 
+![Dosimeter badge](../Images/GR-0345-equipment-dosimeter-badge.jpg){.illus}
+
+
+*Catalogue: GR-0345*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Giant beaver
 
+![Giant beaver](../Images/BE-238-bestiary-giant-beaver.jpg){.illus}
+
+
+*Catalogue: BE-238*
 *Set: Expansion*
 
 *aka: ______________________________*

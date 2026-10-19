@@ -1,5 +1,9 @@
 # Camouflage
 
+![Camouflage](../Images/PW-033-powers-camouflage.jpg){.illus}
+
+
+*Catalogue: PW-033*
 *Set: Expansion*
 
 *aka: ______________________________*

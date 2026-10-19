@@ -1,5 +1,8 @@
 # Military officer
 
+![Military officer](../Images/professions-military-officer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Phasing
 
+![Phasing](../Images/PW-212-powers-phasing.jpg){.illus}
+
+
+*Catalogue: PW-212*
 *Set: Expansion*
 
 *aka: ______________________________*

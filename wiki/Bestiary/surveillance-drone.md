@@ -1,5 +1,9 @@
 # Surveillance drone
 
+![Surveillance drone](../Images/BE-603-bestiary-surveillance-drone.jpg){.illus}
+
+
+*Catalogue: BE-603*
 *Set: Expansion*
 
 *aka: ______________________________*

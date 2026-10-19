@@ -1,7 +1,8 @@
 # Couched Lance
 
-![Couched lance](../Images/weapons-couched-lance.jpg){.illus}
+![Couched lance](../Images/GR-0021-weapons-couched-lance.jpg){.illus}
 
+*Catalogue: GR-0021*
 *Set: Expansion*
 
 *aka: ______________________________*

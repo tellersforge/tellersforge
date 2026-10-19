@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 365 Light elf *(genres: myth and legend)*
 
+![Light elf](../Images/species-light-elf.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Radiant, beautiful elves of a sunlit realm, blessed with magic of sunlight and growing things. (looks like: elf; good at: powers and magic, people and talk)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2 CHA +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Both powers are affinity only.
 
 ### No. 366 Dark elf *(genres: myth and legend, underworld and wild places)*
+
+![Dark elf](../Images/species-dark-elf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Elves of the deep underground, darker in temperament and looks than their sunlit kin, and sometimes mistaken for dwarves. (looks like: elf; good at: keen senses, sneaking)

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 714 Beast-touched awakened human *(genres: near future and cyberpunk)*
 
+![Beast-touched awakened human](../Images/species-beast-touched-awakened-human.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Humans touched by awakening magic, gaining sharp senses and a few small animal traits like claws or fur. (looks like: human; good at: keen senses, fighting)
 - **Attributes:** AGI +1 WIS −1 CHA +1

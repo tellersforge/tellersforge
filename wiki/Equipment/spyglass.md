@@ -1,7 +1,8 @@
 # Spyglass
 
-![Spyglass](../Images/equipment-spyglass.jpg){.illus}
+![Spyglass](../Images/GR-0903-equipment-spyglass.jpg){.illus}
 
+*Catalogue: GR-0903*
 *Set: Core*
 
 *aka: ______________________________*

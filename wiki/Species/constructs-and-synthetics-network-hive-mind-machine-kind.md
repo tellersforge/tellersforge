@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 295 Networked platform intelligence *(high-power: Game Master's approval; genres: robots and synthetics)*
 
+![Networked platform intelligence](../Images/species-networked-platform-intelligence.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A single mind spread across countless small machines, weak and fragile alone but frighteningly powerful once they link up. (looks like: robot; good at: powers and magic, knowledge)
 - **Attributes:** INT +3 WIS −1 CHA −2
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient time-manipulating machine race *(NPC only; NPC-scale)*
 
+![Ancient time-manipulating machine race](../Images/species-ancient-time-manipulating-machine-race.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +4 WIS −1 CHA −3
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Philosophy & Logic](../Skills/philosophy-and-logic.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Self-replicating advanced machine (sentient) *(NPC only)*
 
+![Self-replicating advanced machine (sentient)](../Images/species-self-replicating-advanced-machine-sentient.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +4 WIS −1 CHA −3
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Can infest and control other technology.
 
 ### Ancient robotic guardian race *(NPC only; NPC-scale)*
+
+![Ancient robotic guardian race](../Images/species-ancient-robotic-guardian-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +3 END +4 INT +1 WIS −1 CHA −4 COU +3
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Roaming repair-drone species *(NPC only)*
 
+![Roaming repair-drone species](../Images/species-roaming-repair-drone-species.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR −2 END +2 INT +4 WIS −1 CHA −2 COU −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Mechanical Engineering](../Skills/mechanical-engineering.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Sign Language & Gesture](../Skills/sign-language-and-gesture.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -72,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A floating, tentacled engineering savant that speaks by gesture.
 
 ### Techno-organic assimilating race *(NPC only)*
+
+![Techno-organic assimilating race](../Images/species-techno-organic-assimilating-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +4 INT +3 WIS −1 CHA −2

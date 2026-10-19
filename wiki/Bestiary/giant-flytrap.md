@@ -1,7 +1,8 @@
 # Giant flytrap
 
-![Giant flytrap](../Images/bestiary-giant-flytrap.jpg){.illus}
+![Giant flytrap](../Images/BE-255-bestiary-giant-flytrap.jpg){.illus}
 
+*Catalogue: BE-255*
 *Set: Expansion*
 
 *aka: ______________________________*

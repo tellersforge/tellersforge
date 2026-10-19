@@ -1,5 +1,9 @@
 # Pearl necklace
 
+![Pearl necklace](../Images/GR-0712-equipment-pearl-necklace.jpg){.illus}
+
+
+*Catalogue: GR-0712*
 *Set: Expansion*
 
 *aka: ______________________________*

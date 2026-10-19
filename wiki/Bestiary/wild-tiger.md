@@ -1,5 +1,9 @@
 # Wild tiger
 
+![Wild tiger](../Images/BE-675-bestiary-wild-tiger.jpg){.illus}
+
+
+*Catalogue: BE-675*
 *Set: Core*
 
 *aka: ______________________________*

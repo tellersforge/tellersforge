@@ -1,5 +1,9 @@
 # Blowguns
 
+![Blowguns](../Images/WG-005-weapon-groups-blowguns.jpg){.illus}
+
+
+*Catalogue: WG-005*
 *Set: Expansion*
 
 *aka: ______________________________*

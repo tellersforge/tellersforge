@@ -1,5 +1,9 @@
 # Camera drone
 
+![Camera drone](../Images/GR-0246-equipment-camera-drone.jpg){.illus}
+
+
+*Catalogue: GR-0246*
 *Set: Expansion*
 
 *aka: ______________________________*

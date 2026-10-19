@@ -1,5 +1,8 @@
 # Gluttony
 
+![Gluttony](../Images/flaws-gluttony.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when overeats, can't pass up food, eats what shouldn't be eaten.

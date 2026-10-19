@@ -1,5 +1,9 @@
 # Sword wraith
 
+![Sword wraith](../Images/BE-607-bestiary-sword-wraith.jpg){.illus}
+
+
+*Catalogue: BE-607*
 *Set: Expansion*
 
 *aka: ______________________________*

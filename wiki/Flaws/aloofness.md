@@ -1,5 +1,8 @@
 # Aloofness
 
+![Aloofness](../Images/flaws-aloofness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when cold and distant; seems to look straight through people.

@@ -1,7 +1,8 @@
 # Six-limbed apex cat
 
-![Six-limbed apex cat](../Images/bestiary-six-limbed-apex-cat.jpg){.illus}
+![Six-limbed apex cat](../Images/BE-554-bestiary-six-limbed-apex-cat.jpg){.illus}
 
+*Catalogue: BE-554*
 *Set: Expansion*
 
 *aka: ______________________________*

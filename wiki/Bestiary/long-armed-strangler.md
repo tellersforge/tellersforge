@@ -1,5 +1,9 @@
 # Long-armed strangler
 
+![Long-armed strangler](../Images/BE-397-bestiary-long-armed-strangler.jpg){.illus}
+
+
+*Catalogue: BE-397*
 *Set: Expansion*
 
 *aka: ______________________________*

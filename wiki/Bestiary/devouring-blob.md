@@ -1,7 +1,8 @@
 # Devouring blob
 
-![Devouring blob](../Images/bestiary-devouring-blob.jpg){.illus}
+![Devouring blob](../Images/BE-147-bestiary-devouring-blob.jpg){.illus}
 
+*Catalogue: BE-147*
 *Set: Expansion*
 
 *aka: ______________________________*

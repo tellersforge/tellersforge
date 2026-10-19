@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 249 Kobold (canine-headed) *(genres: classic fantasy)*
 
+![Kobold (canine-headed)](../Images/species-kobold-canine-headed.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Dog-headed dungeon-dwellers with a sharp nose and a knack for cooking. (looks like: dog; good at: keen senses, making and fixing)
 - **Attributes:** STR −2 AGI +2 END +1 INT −1 WIS +1 PER +1 CHA −1 COU +1

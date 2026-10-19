@@ -1,5 +1,9 @@
 # Electric guitar
 
+![Electric guitar](../Images/GR-0362-equipment-electric-guitar.jpg){.illus}
+
+
+*Catalogue: GR-0362*
 *Set: Expansion*
 
 *aka: ______________________________*

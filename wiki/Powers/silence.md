@@ -1,5 +1,9 @@
 # Silence
 
+![Silence](../Images/PW-262-powers-silence.jpg){.illus}
+
+
+*Catalogue: PW-262*
 *Set: Expansion*
 
 *aka: ______________________________*

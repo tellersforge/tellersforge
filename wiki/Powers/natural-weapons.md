@@ -1,5 +1,9 @@
 # Natural Weapons
 
+![Natural Weapons](../Images/PW-194-powers-natural-weapons.jpg){.illus}
+
+
+*Catalogue: PW-194*
 *Set: Expansion*
 
 *aka: ______________________________*

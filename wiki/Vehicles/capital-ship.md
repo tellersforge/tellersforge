@@ -1,7 +1,8 @@
 # Capital Ship
 
-![Capital ship](../Images/vehicles-capital-ship.jpg){.illus}
+![Capital ship](../Images/GR-1051-vehicles-capital-ship.jpg){.illus}
 
+*Catalogue: GR-1051*
 *Set: Expansion*
 
 

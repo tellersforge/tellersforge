@@ -1,5 +1,9 @@
 # Sackcloth
 
+![Sackcloth](../Images/GR-0810-equipment-sackcloth.jpg){.illus}
+
+
+*Catalogue: GR-0810*
 *Set: Expansion*
 
 *aka: ______________________________*

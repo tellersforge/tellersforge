@@ -1,5 +1,9 @@
 # Mortuary Arts
 
+![Mortuary Arts](../Images/SK-137-skills-mortuary-arts.jpg){.illus}
+
+
+*Catalogue: SK-137*
 *Set: Expansion*
 
 *aka: ______________________________*

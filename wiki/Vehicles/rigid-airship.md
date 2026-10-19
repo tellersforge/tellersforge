@@ -1,7 +1,8 @@
 # Rigid Airship
 
-![Rigid airship](../Images/vehicles-rigid-airship.jpg){.illus}
+![Rigid airship](../Images/GR-1110-vehicles-rigid-airship.jpg){.illus}
 
+*Catalogue: GR-1110*
 *Set: Expansion*
 
 

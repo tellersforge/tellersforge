@@ -1,5 +1,9 @@
 # Trance & Spirit Work ✦
 
+![Trance & Spirit Work ✦](../Images/SK-214-skills-trance-and-spirit-work.jpg){.illus}
+
+
+*Catalogue: SK-214*
 *Set: Expansion*
 
 *aka: ______________________________*

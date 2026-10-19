@@ -1,5 +1,9 @@
 # Farmer's tools
 
+![Farmer's tools](../Images/GR-0388-equipment-farmer-s-tools.jpg){.illus}
+
+
+*Catalogue: GR-0388*
 *Set: Expansion*
 
 *aka: ______________________________*

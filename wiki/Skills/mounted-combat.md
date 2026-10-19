@@ -1,5 +1,9 @@
 # Mounted Combat
 
+![Mounted Combat](../Images/SK-139-skills-mounted-combat.jpg){.illus}
+
+
+*Catalogue: SK-139*
 *Set: Expansion*
 
 *aka: ______________________________*

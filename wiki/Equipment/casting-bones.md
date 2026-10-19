@@ -1,5 +1,9 @@
 # Casting bones
 
+![Casting bones](../Images/GR-0265-equipment-casting-bones.jpg){.illus}
+
+
+*Catalogue: GR-0265*
 *Set: Core*
 
 *aka: ______________________________*

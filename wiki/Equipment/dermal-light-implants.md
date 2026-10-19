@@ -1,5 +1,9 @@
 # Dermal light implants
 
+![Dermal light implants](../Images/GR-0325-equipment-dermal-light-implants.jpg){.illus}
+
+
+*Catalogue: GR-0325*
 *Set: Expansion*
 
 *aka: ______________________________*

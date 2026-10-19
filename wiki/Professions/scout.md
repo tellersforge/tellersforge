@@ -1,5 +1,8 @@
 # Scout
 
+![Scout](../Images/professions-scout.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

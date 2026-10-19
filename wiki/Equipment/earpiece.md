@@ -1,5 +1,9 @@
 # Earpiece
 
+![Earpiece](../Images/GR-0359-equipment-earpiece.jpg){.illus}
+
+
+*Catalogue: GR-0359*
 *Set: Expansion*
 
 *aka: ______________________________*

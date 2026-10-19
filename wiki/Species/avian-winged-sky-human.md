@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 227 Shandian · Ancestral winged folk *(genres: sea and sky)*
 
+![Shandian](../Images/species-shandian.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Winged warrior-tribe who guard the ruins of an ancient island in the sky. (looks like: bird; good at: flying, fighting)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2

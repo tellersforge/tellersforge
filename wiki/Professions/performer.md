@@ -1,5 +1,8 @@
 # Performer
 
+![Performer](../Images/professions-performer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

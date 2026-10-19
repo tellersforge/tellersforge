@@ -1,5 +1,8 @@
 # Fey
 
+![Fey](../Images/species-families-fey.jpg){.illus}
+
+
 
 The otherworldly folk of hill, hearth, river and wood. They are old spirits of nature and household, glamour-wearing nobles of hidden courts, and hungry things that wait by the road for the unwary. Some are tiny and winged, some are the size of a child and sweep the floor at night for a bowl of milk, and some are great spirits of storm and forest older than any throne. They keep bargains to the letter, never forget a slight, and cannot abide cold iron or ingratitude. Mortals leave them gifts, turn their coats inside out, and try very hard not to eat their food.
 

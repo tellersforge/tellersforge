@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 777 Spider-totem bonded host *(genres: super-powered: mutants and the enhanced)*
 
+![Spider-totem bonded host](../Images/species-spider-totem-bonded-host.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary folk bonded to an ancient spider-totem, gaining a wall-crawling grip, a sixth sense for danger and strength to match. (looks like: human; good at: climbing, powers and magic)
 - **Attributes:** AGI +2 INT +1 WIS +1 PER +1 CHA −1

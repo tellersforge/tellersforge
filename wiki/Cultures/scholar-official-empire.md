@@ -1,5 +1,8 @@
 # Scholar-official empire
 
+![Scholar-official empire](../Images/cultures-scholar-official-empire.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

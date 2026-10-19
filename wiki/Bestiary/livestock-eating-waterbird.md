@@ -1,5 +1,9 @@
 # Livestock-eating waterbird
 
+![Livestock-eating waterbird](../Images/BE-391-bestiary-livestock-eating-waterbird.jpg){.illus}
+
+
+*Catalogue: BE-391*
 *Set: Expansion*
 
 *aka: ______________________________*

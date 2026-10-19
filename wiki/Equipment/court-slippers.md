@@ -1,5 +1,9 @@
 # Court slippers
 
+![Court slippers](../Images/GR-0309-equipment-court-slippers.jpg){.illus}
+
+
+*Catalogue: GR-0309*
 *Set: Expansion*
 
 *aka: ______________________________*

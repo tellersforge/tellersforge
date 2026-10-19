@@ -1,5 +1,9 @@
 # Beekeeper's veil
 
+![Beekeeper's veil](../Images/GR-0207-equipment-beekeeper-s-veil.jpg){.illus}
+
+
+*Catalogue: GR-0207*
 *Set: Expansion*
 
 *aka: ______________________________*

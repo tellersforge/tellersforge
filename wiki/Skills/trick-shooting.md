@@ -1,5 +1,9 @@
 # Trick Shooting
 
+![Trick Shooting](../Images/SK-217-skills-trick-shooting.jpg){.illus}
+
+
+*Catalogue: SK-217*
 *Set: Expansion*
 
 *aka: ______________________________*

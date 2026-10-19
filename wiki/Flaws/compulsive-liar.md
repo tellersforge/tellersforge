@@ -1,5 +1,8 @@
 # Compulsive Liar
 
+![Compulsive Liar](../Images/flaws-compulsive-liar.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when lies even when the truth would serve.

@@ -1,5 +1,9 @@
 # Wok
 
+![Wok](../Images/GR-1020-equipment-wok.jpg){.illus}
+
+
+*Catalogue: GR-1020*
 *Set: Expansion*
 
 *aka: ______________________________*

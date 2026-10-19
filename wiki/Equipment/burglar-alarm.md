@@ -1,5 +1,9 @@
 # Burglar alarm
 
+![Burglar alarm](../Images/GR-0239-equipment-burglar-alarm.jpg){.illus}
+
+
+*Catalogue: GR-0239*
 *Set: Expansion*
 
 *aka: ______________________________*

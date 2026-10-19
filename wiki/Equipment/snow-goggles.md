@@ -1,5 +1,9 @@
 # Snow goggles
 
+![Snow goggles](../Images/GR-0890-equipment-snow-goggles.jpg){.illus}
+
+
+*Catalogue: GR-0890*
 *Set: Core*
 
 *aka: ______________________________*

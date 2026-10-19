@@ -1,5 +1,9 @@
 # Storm matches
 
+![Storm matches](../Images/GR-0924-equipment-storm-matches.jpg){.illus}
+
+
+*Catalogue: GR-0924*
 *Set: Expansion*
 
 *aka: ______________________________*

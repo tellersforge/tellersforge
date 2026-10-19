@@ -1,5 +1,9 @@
 # Scented oil
 
+![Scented oil](../Images/GR-0822-equipment-scented-oil.jpg){.illus}
+
+
+*Catalogue: GR-0822*
 *Set: Expansion*
 
 *aka: ______________________________*

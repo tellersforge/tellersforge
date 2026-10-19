@@ -1,5 +1,9 @@
 # Steel rifle plate
 
+![Steel rifle plate](../Images/GR-0165-armour-steel-rifle-plate.jpg){.illus}
+
+
+*Catalogue: GR-0165*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Composite Bow
 
-![Composite bow](../Images/weapons-composite-bow.jpg){.illus}
+![Composite bow](../Images/GR-0020-weapons-composite-bow.jpg){.illus}
 
+*Catalogue: GR-0020*
 *Set: Core*
 
 *aka: ______________________________*

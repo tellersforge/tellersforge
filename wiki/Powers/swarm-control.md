@@ -1,5 +1,9 @@
 # Swarm Control
 
+![Swarm Control](../Images/PW-286-powers-swarm-control.jpg){.illus}
+
+
+*Catalogue: PW-286*
 *Set: Expansion*
 
 *aka: ______________________________*

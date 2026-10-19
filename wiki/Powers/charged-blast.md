@@ -1,5 +1,9 @@
 # Charged Blast
 
+![Charged Blast](../Images/PW-035-powers-charged-blast.jpg){.illus}
+
+
+*Catalogue: PW-035*
 *Set: Expansion*
 
 *aka: ______________________________*

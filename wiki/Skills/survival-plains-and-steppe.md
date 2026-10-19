@@ -1,5 +1,9 @@
 # Survival: Plains & Steppe
 
+![Survival: Plains & Steppe](../Images/SK-203-skills-survival-plains-and-steppe.jpg){.illus}
+
+
+*Catalogue: SK-203*
 *Set: Expansion*
 
 *aka: ______________________________*

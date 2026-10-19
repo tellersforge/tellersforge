@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 712 Quintessence-touched shapeshifter folk *(genres: space opera: near-humans)*
 
+![Quintessence-touched shapeshifter folk](../Images/species-quintessence-touched-shapeshifter-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Advanced folk marked with strange facial patterns, some gifted with shapeshifting and healing alchemy. (looks like: human; good at: powers and magic, healing)
 - **Attributes:** AGI +1 INT +1 WIS −1 CHA +1

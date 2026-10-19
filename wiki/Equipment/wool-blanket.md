@@ -1,5 +1,9 @@
 # Wool blanket
 
+![Wool blanket](../Images/GR-1028-equipment-wool-blanket.jpg){.illus}
+
+
+*Catalogue: GR-1028*
 *Set: Core*
 
 *aka: ______________________________*

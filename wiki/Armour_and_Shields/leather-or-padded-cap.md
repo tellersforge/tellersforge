@@ -1,5 +1,9 @@
 # Leather or padded cap
 
+![Leather or padded cap](../Images/GR-0144-armour-leather-or-padded-cap.jpg){.illus}
+
+
+*Catalogue: GR-0144*
 *Set: Core*
 
 *aka: ______________________________*

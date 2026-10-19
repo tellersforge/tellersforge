@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 731 Long-lived strong furred folk *(genres: space opera: beast-like aliens)*
 
+![Long-lived strong furred folk](../Images/species-long-lived-strong-furred-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+furred
 - **What it's like:** Tall, immensely strong, thick-furred folk who are as skilled at engineering as they are at war. (looks like: ape; good at: strength, making and fixing)
 - **Attributes:** STR +5 AGI −1 END +1 WIS −1 CHA −1

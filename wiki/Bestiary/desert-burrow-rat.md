@@ -1,5 +1,9 @@
 # Desert burrow rat
 
+![Desert burrow rat](../Images/BE-143-bestiary-desert-burrow-rat.jpg){.illus}
+
+
+*Catalogue: BE-143*
 *Set: Expansion*
 
 *aka: ______________________________*

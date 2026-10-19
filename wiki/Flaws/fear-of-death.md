@@ -1,5 +1,8 @@
 # Fear of Death
 
+![Fear of Death](../Images/flaws-fear-of-death.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when dying, mortal danger, talk of death.

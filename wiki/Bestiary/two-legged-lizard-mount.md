@@ -1,5 +1,9 @@
 # Two-legged lizard mount
 
+![Two-legged lizard mount](../Images/BE-642-bestiary-two-legged-lizard-mount.jpg){.illus}
+
+
+*Catalogue: BE-642*
 *Set: Expansion*
 
 *aka: ______________________________*

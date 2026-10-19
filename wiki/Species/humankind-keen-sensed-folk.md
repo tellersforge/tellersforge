@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 75 Stalk-eyed wide-vision folk *(genres: space opera: near-humans)*
 
+![Stalk-eyed wide-vision folk](../Images/species-stalk-eyed-wide-vision-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm folk whose eyes on stalks let them see almost all the way around. (looks like: alien; good at: keen senses, knowledge)
 - **Attributes:** PER +1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carries out the species note. Enhanced Senses is for sight.
 
 ### No. 76 Four-eyed folk *(genres: space opera: near-humans)*
+
+![Four-eyed folk](../Images/species-four-eyed-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sharp-eyed, four-eyed rogues and pilots who never miss a detail. (looks like: alien; good at: keen senses, sneaking)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 77 Dark-adapted vision folk *(genres: space opera: near-humans)*
 
+![Dark-adapted vision folk](../Images/species-dark-adapted-vision-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Large-eyed navigators who see perfectly through total darkness. (looks like: alien; good at: keen senses, knowledge)
 - **Attributes:** PER +1
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 78 Sense-horned folk *(genres: space opera: near-humans)*
 
+![Sense-horned folk](../Images/species-sense-horned-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Horned folk with a strange extra sense that few outsiders understand. (looks like: alien; good at: keen senses, powers and magic)
 - **Attributes:** PER +1
@@ -63,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carries out the species note. Radar Sense stands for echolocation; lines that sense emotion use Detect Intent Set 1 and precognitive lines Reflex Precognition Set 1 instead, as different stat blocks.
 
 ### No. 79 Bone-conduction musician folk *(genres: space opera: near-humans)*
+
+![Bone-conduction musician folk](../Images/species-bone-conduction-musician-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Big-eyed, earless musicians who hear through their bones and see in the dark. (looks like: alien; good at: keen senses, people and talk)

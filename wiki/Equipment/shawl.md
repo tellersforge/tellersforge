@@ -1,5 +1,9 @@
 # Shawl
 
+![Shawl](../Images/GR-0842-equipment-shawl.jpg){.illus}
+
+
+*Catalogue: GR-0842*
 *Set: Expansion*
 
 *aka: ______________________________*

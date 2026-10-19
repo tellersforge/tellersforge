@@ -1,5 +1,9 @@
 # Parasol
 
+![Parasol](../Images/GR-0707-equipment-parasol.jpg){.illus}
+
+
+*Catalogue: GR-0707*
 *Set: Core*
 
 *aka: ______________________________*

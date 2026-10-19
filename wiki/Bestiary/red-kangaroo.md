@@ -1,5 +1,9 @@
 # Red kangaroo
 
+![Red kangaroo](../Images/BE-483-bestiary-red-kangaroo.jpg){.illus}
+
+
+*Catalogue: BE-483*
 *Set: Core*
 
 *aka: ______________________________*

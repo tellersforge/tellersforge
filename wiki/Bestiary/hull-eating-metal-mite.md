@@ -1,5 +1,9 @@
 # Hull-eating metal mite
 
+![Hull-eating metal mite](../Images/BE-352-bestiary-hull-eating-metal-mite.jpg){.illus}
+
+
+*Catalogue: BE-352*
 *Set: Expansion*
 
 *aka: ______________________________*

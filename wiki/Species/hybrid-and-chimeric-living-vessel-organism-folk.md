@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sentient bioship organism *(NPC only; NPC-scale)*
 
+![Sentient bioship organism](../Images/species-sentient-bioship-organism.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +6 AGI −6 END +5 WIS +2
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2, [Running](../Skills/running.md) Foreign Concept

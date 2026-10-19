@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Quantum-locked stone predator *(NPC only; NPC-scale)*
 
+![Quantum-locked stone predator](../Images/species-quantum-locked-stone-predator.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR +2 END +2 WIS +2 CHA −2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Stealth](../Skills/stealth.md) +3, [Composure](../Skills/composure.md) +1, [Swimming](../Skills/swimming.md) Foreign Concept

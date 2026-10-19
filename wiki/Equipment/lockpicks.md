@@ -1,7 +1,8 @@
 # Lockpicks
 
-![Lockpicks](../Images/equipment-lockpicks.jpg){.illus}
+![Lockpicks](../Images/GR-0610-equipment-lockpicks.jpg){.illus}
 
+*Catalogue: GR-0610*
 *Set: Core*
 
 *aka: ______________________________*

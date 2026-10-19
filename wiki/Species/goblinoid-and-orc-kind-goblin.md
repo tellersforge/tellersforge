@@ -35,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 470 Fungal trickster goblin folk *(genres: classic fantasy, underworld and wild places)*
 
+![Fungal trickster goblin folk](../Images/species-fungal-trickster-goblin-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Sneaky, mushroom-loving goblins who lay clever traps, brave in numbers but quick to run alone. (looks like: goblin; good at: sneaking, making and fixing)
 - **Attributes:** STR −2 AGI +2 END +1 INT −1 CHA −1
@@ -44,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Cave-dwelling trap-layers.
 
 ### Banking-guild goblin folk *(NPC only)*
+
+![Banking-guild goblin folk](../Images/species-banking-guild-goblin-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 INT +2 CHA −1
@@ -55,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Small orc-kin cave goblin *(NPC only)*
 
+![Small orc-kin cave goblin](../Images/species-small-orc-kin-cave-goblin.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 INT −1 CHA −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Escape Artistry](../Skills/escape-artistry.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Diplomacy](../Skills/diplomacy.md) −1, [Court Etiquette & Protocol](../Skills/court-etiquette-and-protocol.md) −2, [Etiquette](../Skills/etiquette.md) −2
@@ -63,6 +72,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Mountain-warren dwellers.
 
 ### No. 471 Horned trickster goblin folk *(genres: fairy tale and folklore)*
+
+![Horned trickster goblin folk](../Images/species-horned-trickster-goblin-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Horned trickster spirits born from ordinary objects, who love games and wrestling and grant a wish to whoever beats them. (looks like: goblin; good at: fighting, people and talk)
@@ -76,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 472 Tinkerer goblin folk *(genres: classic fantasy)*
 
+![Tinkerer goblin folk](../Images/species-tinkerer-goblin-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Fast-talking, greedy goblin tinkerers who love explosives and wild magic just as much as clever machines. (looks like: goblin; good at: making and fixing, people and talk)
 - **Attributes:** STR −2 AGI +2 END +1 INT +1 CHA −1
@@ -86,6 +101,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Wild magic surges of some lines are a flaw or Power choice.
 
 ### Goblin champion/lord *(NPC only)*
+
+![Goblin champion/lord](../Images/species-goblin-champion-lord.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 AGI +2 END +2 CHA −1 COU +2

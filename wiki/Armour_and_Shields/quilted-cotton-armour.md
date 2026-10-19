@@ -1,5 +1,9 @@
 # Quilted cotton armour
 
+![Quilted cotton armour](../Images/GR-0156-armour-quilted-cotton-armour.jpg){.illus}
+
+
+*Catalogue: GR-0156*
 *Set: Expansion*
 
 *aka: ______________________________*

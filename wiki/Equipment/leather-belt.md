@@ -1,5 +1,9 @@
 # Leather belt
 
+![Leather belt](../Images/GR-0586-equipment-leather-belt.jpg){.illus}
+
+
+*Catalogue: GR-0586*
 *Set: Core*
 
 *aka: ______________________________*

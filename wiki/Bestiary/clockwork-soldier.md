@@ -1,7 +1,8 @@
 # Clockwork soldier
 
-![Clockwork soldier](../Images/bestiary-clockwork-soldier.jpg){.illus}
+![Clockwork soldier](../Images/BE-111-bestiary-clockwork-soldier.jpg){.illus}
 
+*Catalogue: BE-111*
 *Set: Expansion*
 
 *aka: ______________________________*

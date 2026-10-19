@@ -1,5 +1,9 @@
 # Early Grenade
 
+![Early Grenade](../Images/GR-0030-weapons-early-grenade.jpg){.illus}
+
+
+*Catalogue: GR-0030*
 *Set: Core*
 
 *aka: ______________________________*

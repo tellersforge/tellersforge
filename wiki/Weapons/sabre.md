@@ -1,7 +1,8 @@
 # Sabre
 
-![Sabre](../Images/weapons-sabre.jpg){.illus}
+![Sabre](../Images/GR-0087-weapons-sabre.jpg){.illus}
 
+*Catalogue: GR-0087*
 *Set: Expansion*
 
 *aka: ______________________________*

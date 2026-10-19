@@ -1,5 +1,9 @@
 # Metal detector
 
+![Metal detector](../Images/GR-0647-equipment-metal-detector.jpg){.illus}
+
+
+*Catalogue: GR-0647*
 *Set: Expansion*
 
 *aka: ______________________________*

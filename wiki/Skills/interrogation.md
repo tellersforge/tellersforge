@@ -1,5 +1,9 @@
 # Interrogation
 
+![Interrogation](../Images/SK-099-skills-interrogation.jpg){.illus}
+
+
+*Catalogue: SK-099*
 *Set: Expansion*
 
 *aka: ______________________________*

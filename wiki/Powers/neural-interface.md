@@ -1,5 +1,9 @@
 # Neural Interface
 
+![Neural Interface](../Images/PW-197-powers-neural-interface.jpg){.illus}
+
+
+*Catalogue: PW-197*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Dragon turtle
 
-![Dragon turtle](../Images/bestiary-dragon-turtle.jpg){.illus}
+![Dragon turtle](../Images/BE-160-bestiary-dragon-turtle.jpg){.illus}
 
+*Catalogue: BE-160*
 *Set: Expansion*
 
 *aka: ______________________________*

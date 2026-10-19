@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 808 Boar-folk *(genres: beast-folk: fur)*
 
+![Boar-folk](../Images/species-boar-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Tusked, bristle-hided boar folk who gore first and ask questions never. (looks like: pig; good at: fighting, toughness)
 - **Attributes:** STR +1 AGI −1 END +2 COU +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Warthog-folk *(NPC only)*
 
+![Warthog-folk](../Images/species-warthog-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 AGI −1 END +2
 - **Skills:** [Running](../Skills/running.md) +3, [Danger Sense](../Skills/danger-sense.md) +1, [Foraging](../Skills/foraging.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Tracking](../Skills/tracking.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Tusked, and a fast sprinter for its bulk.
 
 ### No. 809 Industrious porcine folk *(genres: space opera: beast-like aliens)*
+
+![Industrious porcine folk](../Images/species-industrious-porcine-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Stout, industrious pig folk, hardworking labourers through and through. (looks like: pig; good at: strength, making and fixing)
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 810 Pig-headed mercenary folk *(genres: beast-folk: fur)*
 
+![Pig-headed mercenary folk](../Images/species-pig-headed-mercenary-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pig-headed mercenaries and traders with a reputation for eating, and earning, more than their share. (looks like: pig; good at: fighting, people and talk)
 - **Attributes:** STR +1 AGI −1 END +2
@@ -62,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A mercenary and trading people.
 
 ### No. 811 Gruff pig-snouted diplomat *(genres: space opera: beast-like aliens)*
+
+![Gruff pig-snouted diplomat](../Images/species-gruff-pig-snouted-diplomat.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Blunt, sturdy pig-snouted folk whose diplomats argue as hard as their warriors fight, backed by a nose for trouble. (looks like: pig; good at: people and talk, keen senses)
@@ -74,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Frontier asteroid-mining culture *(NPC only)*
 
+![Frontier asteroid-mining culture](../Images/species-frontier-asteroid-mining-culture.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −1 END +2
 - **Skills:** [Running](../Skills/running.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Foraging](../Skills/foraging.md) +1, [Mining & Quarrying](../Skills/mining-and-quarrying.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Tracking](../Skills/tracking.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2
@@ -83,6 +101,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* The diplomats' keen nose, in a rough frontier mining people.
 
 ### No. 812 Tusked warrior folk *(genres: space opera: beast-like aliens)*
+
+![Tusked warrior folk](../Images/species-tusked-warrior-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tusked
 - **What it's like:** Huge, tusked clan warriors, immensely strong but never much interested in machines or tools. (looks like: pig; good at: strength, fighting)

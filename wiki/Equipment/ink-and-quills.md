@@ -1,5 +1,9 @@
 # Ink and quills
 
+![Ink and quills](../Images/GR-0562-equipment-ink-and-quills.jpg){.illus}
+
+
+*Catalogue: GR-0562*
 *Set: Core*
 
 *aka: ______________________________*

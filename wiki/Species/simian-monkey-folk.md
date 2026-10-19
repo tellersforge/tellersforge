@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 726 Monkey-folk (macaque-type) *(genres: beast-folk: fur)*
 
+![Monkey-folk (macaque-type)](../Images/species-monkey-folk-macaque-type.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small, dexterous monkey folk who live in troops and love a good trick. (looks like: monkey; good at: climbing, sneaking)
 - **Attributes:** STR −2 AGI +3 WIS −1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Deft-handed opportunists.
 
 ### No. 727 Vanara-type monkey folk *(genres: myth and legend, beast-folk: fur)*
+
+![Vanara-type monkey folk](../Images/species-vanara-type-monkey-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Monkey-human hybrids of immense strength and agility, able to leap huge distances and even grow in size. (looks like: monkey; good at: strength, speed and agility)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 728 Baboon-folk *(genres: beast-folk: fur)*
 
+![Baboon-folk](../Images/species-baboon-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Tough, fanged baboon folk from the savanna, fiercely territorial in their ground-based troops. (looks like: monkey; good at: fighting, strength)
 - **Attributes:** STR +1 AGI +3 INT −1 WIS −1 CHA −1 COU +1
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Ground-dwelling, big-fanged and aggressive.
 
 ### No. 729 Lemur-folk *(genres: beast-folk: fur)*
+
+![Lemur-folk](../Images/species-lemur-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Huge-eyed, ring-tailed lemur folk from island homes, superb at balance and seeing in the dark. (looks like: lemur; good at: climbing, keen senses)
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tarsier-folk *(NPC only)*
 
+![Tarsier-folk](../Images/species-tarsier-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped+tailed
 - **Attributes:** STR −3 AGI +4 INT −1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +2, [Jumping](../Skills/jumping.md) +2, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -73,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Gibbon-folk *(NPC only)*
 
+![Gibbon-folk](../Images/species-gibbon-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailless
 - **Attributes:** AGI +4 INT −1 WIS −1
 - **Skills:** [Climbing](../Skills/climbing.md) +5, [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +2, [Singing](../Skills/singing.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -80,6 +98,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Arm-swinging specialists with loud songs.
 
 ### Mandrill-folk *(NPC only)*
+
+![Mandrill-folk](../Images/species-mandrill-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 AGI +3 INT −1 WIS −1 CHA +1 COU +1
@@ -90,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Trader monkey folk *(NPC only)*
 
+![Trader monkey folk](../Images/species-trader-monkey-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +3 INT −1 WIS −1 CHA +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +2, [Haggling](../Skills/haggling.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -97,6 +121,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Quick trading and porter folk.
 
 ### No. 730 Round merchant folk *(genres: animal fable)*
+
+![Round merchant folk](../Images/species-round-merchant-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Round, big-eared merchant folk with a shrewd head for trade and a squeaky voice. (looks like: mouse; good at: people and talk, speed and agility)

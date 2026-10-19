@@ -1,7 +1,8 @@
 # Neural interface
 
-![Neural interface](../Images/equipment-neural-interface.jpg){.illus}
+![Neural interface](../Images/GR-0677-equipment-neural-interface.jpg){.illus}
 
+*Catalogue: GR-0677*
 *Set: Expansion*
 
 *aka: ______________________________*

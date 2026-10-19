@@ -1,5 +1,9 @@
 # Tape recorder
 
+![Tape recorder](../Images/GR-0947-equipment-tape-recorder.jpg){.illus}
+
+
+*Catalogue: GR-0947*
 *Set: Expansion*
 
 *aka: ______________________________*

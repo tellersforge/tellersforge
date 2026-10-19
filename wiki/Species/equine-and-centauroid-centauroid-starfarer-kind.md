@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 399 Centauroid starfarer *(genres: space opera: beast-like aliens, super-powered: cosmic and mythic)*
 
+![Centauroid starfarer](../Images/species-centauroid-starfarer.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **What it's like:** A horse-bodied alien race that mastered spaceflight, proving brains and starships suit four legs just as well as two. (looks like: horse; good at: knowledge, making and fixing)
 - **Attributes:** STR +4 AGI −2 END +1 INT +1

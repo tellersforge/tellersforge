@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forest hair-giant folk *(NPC only)*
 
+![Forest hair-giant folk](../Images/species-forest-hair-giant-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −2 WIS −1 CHA −2
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Balance](../Skills/balance.md) +1, [Climbing](../Skills/climbing.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Forest giants.
 
 ### Hairy wildman folk *(NPC only)*
+
+![Hairy wildman folk](../Images/species-hairy-wildman-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +3 INT −2 WIS −1 CHA −2

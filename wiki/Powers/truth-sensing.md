@@ -1,5 +1,9 @@
 # Truth-Sensing
 
+![Truth-Sensing](../Images/PW-306-powers-truth-sensing.jpg){.illus}
+
+
+*Catalogue: PW-306*
 *Set: Core*
 
 *aka: ______________________________*

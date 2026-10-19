@@ -1,5 +1,8 @@
 # Rebelliousness
 
+![Rebelliousness](../Images/flaws-rebelliousness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when won't take orders from anyone.

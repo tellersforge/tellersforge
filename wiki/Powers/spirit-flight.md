@@ -1,5 +1,9 @@
 # Spirit Flight
 
+![Spirit Flight](../Images/PW-271-powers-spirit-flight.jpg){.illus}
+
+
+*Catalogue: PW-271*
 *Set: Expansion*
 
 *aka: ______________________________*

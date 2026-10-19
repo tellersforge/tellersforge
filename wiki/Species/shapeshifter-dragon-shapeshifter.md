@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 703 Dragon shapeshifter (were-dragon) *(genres: classic fantasy)*
 
+![Dragon shapeshifter (were-dragon)](../Images/species-dragon-shapeshifter-were-dragon.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped(shift)
 - **What it's like:** Long-lived dragons who can walk as humans, keeping some of their power, senses and love of treasure even then. (looks like: dragon; good at: powers and magic, keen senses)
 - **Attributes:** STR +3 AGI −2 INT +1 WIS −1 CHA +1 COU +1

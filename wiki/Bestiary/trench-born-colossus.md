@@ -1,5 +1,9 @@
 # Trench-born colossus
 
+![Trench-born colossus](../Images/BE-631-bestiary-trench-born-colossus.jpg){.illus}
+
+
+*Catalogue: BE-631*
 *Set: Expansion*
 
 *aka: ______________________________*

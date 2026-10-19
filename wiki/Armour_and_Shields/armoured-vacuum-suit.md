@@ -1,7 +1,8 @@
 # Armoured vacuum suit
 
-![Armoured vacuum suit](../Images/armour-armoured-vacuum-suit.jpg){.illus}
+![Armoured vacuum suit](../Images/GR-0122-armour-armoured-vacuum-suit.jpg){.illus}
 
+*Catalogue: GR-0122*
 *Set: Expansion*
 
 *aka: ______________________________*

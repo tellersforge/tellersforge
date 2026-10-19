@@ -1,5 +1,9 @@
 # Royal robe
 
+![Royal robe](../Images/GR-0805-equipment-royal-robe.jpg){.illus}
+
+
+*Catalogue: GR-0805*
 *Set: Expansion*
 
 *aka: ______________________________*

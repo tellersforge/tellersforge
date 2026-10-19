@@ -1,5 +1,9 @@
 # Ship of the Line
 
+![Ship of the Line](../Images/GR-1116-vehicles-ship-of-the-line.jpg){.illus}
+
+
+*Catalogue: GR-1116*
 *Set: Expansion*
 
 

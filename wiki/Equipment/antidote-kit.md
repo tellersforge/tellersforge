@@ -1,5 +1,9 @@
 # Antidote kit
 
+![Antidote kit](../Images/GR-0183-equipment-antidote-kit.jpg){.illus}
+
+
+*Catalogue: GR-0183*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Serpentine
 
+![Serpentine](../Images/species-families-serpentine.jpg){.illus}
+
+
 
 Legless, scaled and patient, the serpent-folk coil through myth, jungle and desert alike. Some have human heads and shoulders above a long snake body, some walk upright with snake faces, and some are simply snakes of terrible size. Many carry venom, taste the air with forked tongues and see heat in the dark. The family holds proud temple-keeping naga, cunning snake-folk courtiers, serpent women of old legends, great desert worms that swallow caravans, and humans surgically reshaped into something scaled. Others find their stillness and unblinking gaze unnerving, and serpent-folk rarely go out of their way to reassure them.
 

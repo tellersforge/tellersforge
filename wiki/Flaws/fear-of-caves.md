@@ -1,5 +1,8 @@
 # Fear of Caves
 
+![Fear of Caves](../Images/flaws-fear-of-caves.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when caves, mines, underground passages.

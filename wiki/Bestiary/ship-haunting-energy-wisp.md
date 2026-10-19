@@ -1,5 +1,9 @@
 # Ship-haunting energy wisp
 
+![Ship-haunting energy wisp](../Images/BE-541-bestiary-ship-haunting-energy-wisp.jpg){.illus}
+
+
+*Catalogue: BE-541*
 *Set: Expansion*
 
 *aka: ______________________________*

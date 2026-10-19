@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 556 Hare-folk *(genres: beast-folk: fur, animal fable)*
 
+![Hare-folk](../Images/species-hare-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Long-legged, long-eared hare-folk built for blistering sprints, more solitary than their rabbit cousins and sometimes fiercely martial. (looks like: rabbit; good at: speed and agility, keen senses)
 - **Attributes:** STR −1 AGI +2 WIS +1 PER +2 COU −1
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pika-folk *(NPC only)*
 
+![Pika-folk](../Images/species-pika-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 WIS +1 PER +2 COU −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Danger Sense](../Skills/danger-sense.md) +2, [Running](../Skills/running.md) +2, [Survival: Mountain](../Skills/survival-mountain.md) +2, [Foraging](../Skills/foraging.md) +1, [Stealth](../Skills/stealth.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Pain Tolerance](../Skills/pain-tolerance.md) −1, [Intimidation](../Skills/intimidation.md) −3
@@ -55,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Jackrabbit-folk *(NPC only)*
 
+![Jackrabbit-folk](../Images/species-jackrabbit-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +2 WIS +1 PER +2 COU −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Running](../Skills/running.md) +3, [Danger Sense](../Skills/danger-sense.md) +2, [Survival: Desert](../Skills/survival-desert.md) +2, [Stealth](../Skills/stealth.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Pain Tolerance](../Skills/pain-tolerance.md) −1, [Intimidation](../Skills/intimidation.md) −3
@@ -63,6 +72,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Desert sprinters whose huge ears shed heat.
 
 ### No. 557 Warren-dwelling rabbit folk *(genres: animal fable)*
+
+![Warren-dwelling rabbit folk](../Images/species-warren-dwelling-rabbit-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** quadruped
 - **What it's like:** True rabbit-bodied folk who live in tight warren communities, wary and quick, with a rich spoken mythology of their own. (looks like: rabbit; good at: speed and agility, keen senses)
@@ -75,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 558 Samurai rabbit clan *(genres: beast-folk: fur)*
 
+![Samurai rabbit clan](../Images/species-samurai-rabbit-clan.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Honour-bound rabbit-folk swordsmen of a feudal warrior code, their long ears catching the faintest sound. (looks like: rabbit; good at: fighting, keen senses)
 - **Attributes:** STR −1 AGI +2 WIS +1 PER +2 COU −1
@@ -84,6 +99,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; swordsmanship and the warrior code are weapon-group and Culture matters.
 
 ### No. 559 Prey-caste rabbit-folk *(genres: beast-folk: fur)*
+
+![Prey-caste rabbit-folk](../Images/species-prey-caste-rabbit-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, twitchy rabbit people who leap and bolt at the first sign of danger. (looks like: rabbit; good at: speed and agility, keen senses)

@@ -1,5 +1,9 @@
 # Falconry lure
 
+![Falconry lure](../Images/GR-0385-equipment-falconry-lure.jpg){.illus}
+
+
+*Catalogue: GR-0385*
 *Set: Expansion*
 
 *aka: ______________________________*

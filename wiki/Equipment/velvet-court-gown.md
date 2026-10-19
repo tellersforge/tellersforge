@@ -1,5 +1,9 @@
 # Velvet court gown
 
+![Velvet court gown](../Images/GR-0989-equipment-velvet-court-gown.jpg){.illus}
+
+
+*Catalogue: GR-0989*
 *Set: Expansion*
 
 *aka: ______________________________*

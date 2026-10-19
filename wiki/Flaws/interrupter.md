@@ -1,5 +1,8 @@
 # Interrupter
 
+![Interrupter](../Images/flaws-interrupter.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when talks over people, finishes their sentences.

@@ -1,5 +1,9 @@
 # Acting
 
+![Acting](../Images/SK-002-skills-acting.jpg){.illus}
+
+
+*Catalogue: SK-002*
 *Set: Expansion*
 
 *aka: ______________________________*

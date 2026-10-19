@@ -1,5 +1,9 @@
 # Scent hound
 
+![Scent hound](../Images/BE-518-bestiary-scent-hound.jpg){.illus}
+
+
+*Catalogue: BE-518*
 *Set: Core*
 
 *aka: ______________________________*

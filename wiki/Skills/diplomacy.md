@@ -1,5 +1,9 @@
 # Diplomacy
 
+![Diplomacy](../Images/SK-051-skills-diplomacy.jpg){.illus}
+
+
+*Catalogue: SK-051*
 *Set: Expansion*
 
 *aka: ______________________________*

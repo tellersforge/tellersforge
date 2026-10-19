@@ -1,7 +1,8 @@
 # Waterskin
 
-![Waterskin](../Images/equipment-waterskin.jpg){.illus}
+![Waterskin](../Images/GR-1005-equipment-waterskin.jpg){.illus}
 
+*Catalogue: GR-1005*
 *Set: Core*
 
 *aka: ______________________________*

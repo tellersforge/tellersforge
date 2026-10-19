@@ -1,7 +1,8 @@
 # Scorpion-tailed guardian
 
-![Scorpion-tailed guardian](../Images/bestiary-scorpion-tailed-guardian.jpg){.illus}
+![Scorpion-tailed guardian](../Images/BE-519-bestiary-scorpion-tailed-guardian.jpg){.illus}
 
+*Catalogue: BE-519*
 *Set: Expansion*
 
 *aka: ______________________________*

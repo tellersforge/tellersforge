@@ -1,7 +1,8 @@
 # Vacuum suit
 
-![Vacuum suit](../Images/armour-vacuum-suit.jpg){.illus}
+![Vacuum suit](../Images/GR-0167-armour-vacuum-suit.jpg){.illus}
 
+*Catalogue: GR-0167*
 *Set: Expansion*
 
 *aka: ______________________________*

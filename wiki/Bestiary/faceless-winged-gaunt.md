@@ -1,5 +1,9 @@
 # Faceless winged gaunt
 
+![Faceless winged gaunt](../Images/BE-183-bestiary-faceless-winged-gaunt.jpg){.illus}
+
+
+*Catalogue: BE-183*
 *Set: Expansion*
 
 *aka: ______________________________*

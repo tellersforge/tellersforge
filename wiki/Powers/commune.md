@@ -1,5 +1,9 @@
 # Commune
 
+![Commune](../Images/PW-043-powers-commune.jpg){.illus}
+
+
+*Catalogue: PW-043*
 *Set: Expansion*
 
 *aka: ______________________________*

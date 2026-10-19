@@ -1,5 +1,9 @@
 # Memory stick
 
+![Memory stick](../Images/GR-0641-equipment-memory-stick.jpg){.illus}
+
+
+*Catalogue: GR-0641*
 *Set: Expansion*
 
 *aka: ______________________________*

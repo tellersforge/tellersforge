@@ -1,5 +1,9 @@
 # Linguistics
 
+![Linguistics](../Images/SK-114-skills-linguistics.jpg){.illus}
+
+
+*Catalogue: SK-114*
 *Set: Expansion*
 
 *aka: ______________________________*

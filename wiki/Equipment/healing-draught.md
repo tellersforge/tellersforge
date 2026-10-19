@@ -1,7 +1,8 @@
 # Healing draught
 
-![Healing draught](../Images/equipment-healing-draught.jpg){.illus}
+![Healing draught](../Images/GR-0513-equipment-healing-draught.jpg){.illus}
 
+*Catalogue: GR-0513*
 *Set: Core*
 
 *aka: ______________________________*

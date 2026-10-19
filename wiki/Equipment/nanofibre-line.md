@@ -1,5 +1,9 @@
 # Nanofibre line
 
+![Nanofibre line](../Images/GR-0674-equipment-nanofibre-line.jpg){.illus}
+
+
+*Catalogue: GR-0674*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Knotted cords
 
+![Knotted cords](../Images/GR-0577-equipment-knotted-cords.jpg){.illus}
+
+
+*Catalogue: GR-0577*
 *Set: Expansion*
 
 *aka: ______________________________*

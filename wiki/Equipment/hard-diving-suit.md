@@ -1,5 +1,9 @@
 # Hard diving suit
 
+![Hard diving suit](../Images/GR-0502-equipment-hard-diving-suit.jpg){.illus}
+
+
+*Catalogue: GR-0502*
 *Set: Expansion*
 
 *aka: ______________________________*

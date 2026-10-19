@@ -1,5 +1,9 @@
 # Gender & Age Shift
 
+![Gender & Age Shift](../Images/PW-116-powers-gender-and-age-shift.jpg){.illus}
+
+
+*Catalogue: PW-116*
 *Set: Expansion*
 
 *aka: ______________________________*

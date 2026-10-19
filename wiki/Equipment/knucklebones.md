@@ -1,5 +1,9 @@
 # Knucklebones
 
+![Knucklebones](../Images/GR-0578-equipment-knucklebones.jpg){.illus}
+
+
+*Catalogue: GR-0578*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Telepathic Speech
 
+![Telepathic Speech](../Images/PW-293-powers-telepathic-speech.jpg){.illus}
+
+
+*Catalogue: PW-293*
 *Set: Expansion*
 
 *aka: ______________________________*

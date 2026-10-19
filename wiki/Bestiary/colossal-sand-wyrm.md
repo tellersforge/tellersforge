@@ -1,7 +1,8 @@
 # Colossal sand wyrm
 
-![Colossal sand wyrm](../Images/bestiary-colossal-sand-wyrm.jpg){.illus}
+![Colossal sand wyrm](../Images/BE-121-bestiary-colossal-sand-wyrm.jpg){.illus}
 
+*Catalogue: BE-121*
 *Set: Expansion*
 
 *aka: ______________________________*

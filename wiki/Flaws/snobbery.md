@@ -1,5 +1,8 @@
 # Snobbery
 
+![Snobbery](../Images/flaws-snobbery.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when looks down on the poor, the rough or the common.

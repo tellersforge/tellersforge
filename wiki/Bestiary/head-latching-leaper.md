@@ -1,5 +1,9 @@
 # Head-latching leaper
 
+![Head-latching leaper](../Images/BE-330-bestiary-head-latching-leaper.jpg){.illus}
+
+
+*Catalogue: BE-330*
 *Set: Expansion*
 
 *aka: ______________________________*

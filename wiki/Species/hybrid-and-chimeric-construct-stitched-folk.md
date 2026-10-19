@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 513 Patchwork surgeon-servant folk *(genres: gothic horror)*
 
+![Patchwork surgeon-servant folk](../Images/species-patchwork-surgeon-servant-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A patchwork folk stitched together from mismatched parts, able to swap organs with their kin and shrug off ordinary wounds. (looks like: monster; good at: toughness, healing)
 - **Attributes:** STR +1 AGI −1 END +2 CHA −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Stitched servants who swap organs among their own kind and practise surgery.
 
 ### Abyss-born artificial child-being *(NPC only)*
+
+![Abyss-born artificial child-being](../Images/species-abyss-born-artificial-child-being.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −1 AGI +1 END +2 CHA −2

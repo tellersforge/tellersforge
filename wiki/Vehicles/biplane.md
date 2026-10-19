@@ -1,7 +1,8 @@
 # Biplane
 
-![Biplane](../Images/vehicles-biplane.jpg){.illus}
+![Biplane](../Images/GR-1048-vehicles-biplane.jpg){.illus}
 
+*Catalogue: GR-1048*
 *Set: Expansion*
 
 

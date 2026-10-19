@@ -1,5 +1,9 @@
 # Crawling half-zombie
 
+![Crawling half-zombie](../Images/BE-133-bestiary-crawling-half-zombie.jpg){.illus}
+
+
+*Catalogue: BE-133*
 *Set: Core*
 
 *aka: ______________________________*

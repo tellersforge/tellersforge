@@ -1,7 +1,8 @@
 # Stagecoach
 
-![Stagecoach](../Images/vehicles-stagecoach.jpg){.illus}
+![Stagecoach](../Images/GR-1121-vehicles-stagecoach.jpg){.illus}
 
+*Catalogue: GR-1121*
 *Set: Core*
 
 

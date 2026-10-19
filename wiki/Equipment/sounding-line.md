@@ -1,5 +1,9 @@
 # Sounding line
 
+![Sounding line](../Images/GR-0896-equipment-sounding-line.jpg){.illus}
+
+
+*Catalogue: GR-0896*
 *Set: Core*
 
 *aka: ______________________________*

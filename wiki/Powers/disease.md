@@ -1,5 +1,9 @@
 # Disease
 
+![Disease](../Images/PW-071-powers-disease.jpg){.illus}
+
+
+*Catalogue: PW-071*
 *Set: Expansion*
 
 *aka: ______________________________*

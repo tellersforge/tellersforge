@@ -1,5 +1,9 @@
 # Administration
 
+![Administration](../Images/SK-003-skills-administration.jpg){.illus}
+
+
+*Catalogue: SK-003*
 *Set: Expansion*
 
 *aka: ______________________________*

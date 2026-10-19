@@ -1,5 +1,9 @@
 # Utility knife
 
+![Utility knife](../Images/GR-0987-equipment-utility-knife.jpg){.illus}
+
+
+*Catalogue: GR-0987*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Frost
 
+![Frost](../Images/PW-113-powers-frost.jpg){.illus}
+
+
+*Catalogue: PW-113*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

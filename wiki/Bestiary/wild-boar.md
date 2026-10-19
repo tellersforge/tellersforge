@@ -1,5 +1,9 @@
 # Wild boar
 
+![Wild boar](../Images/BE-670-bestiary-wild-boar.jpg){.illus}
+
+
+*Catalogue: BE-670*
 *Set: Core*
 
 *aka: ______________________________*

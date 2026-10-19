@@ -1,5 +1,9 @@
 # Acid-spitting swamp squid
 
+![Acid-spitting swamp squid](../Images/BE-005-bestiary-acid-spitting-swamp-squid.jpg){.illus}
+
+
+*Catalogue: BE-005*
 *Set: Expansion*
 
 *aka: ______________________________*

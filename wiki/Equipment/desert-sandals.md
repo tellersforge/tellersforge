@@ -1,5 +1,9 @@
 # Desert sandals
 
+![Desert sandals](../Images/GR-0326-equipment-desert-sandals.jpg){.illus}
+
+
+*Catalogue: GR-0326*
 *Set: Expansion*
 
 *aka: ______________________________*

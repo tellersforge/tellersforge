@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Eldritch multiversal old one *(NPC only; NPC-scale)*
 
+![Eldritch multiversal old one](../Images/species-eldritch-multiversal-old-one.jpg){.illus}
+
+
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +4 AGI −4 END +2 INT +4 WIS +1 PER +1 CHA −1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Angle-crossing dimension howler *(beast; NPC-scale)*
 
+![Angle-crossing dimension howler](../Images/species-angle-crossing-dimension-howler.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +2 AGI −1 INT −2 WIS +1 PER +1 CHA −1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Tracking](../Skills/tracking.md) +2, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A hound that bays across the gap between dimensions and enters only through sharp angles.
 
 ### Outer-spawn kin horror *(NPC only; NPC-scale)*
+
+![Outer-spawn kin horror](../Images/species-outer-spawn-kin-horror.jpg){.illus}
+
 
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +4 AGI −4 END +3 INT +1 WIS +1 PER +1 CHA −1
@@ -58,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### All-angles gatekeeper entity *(NPC only; NPC-scale)*
 
+![All-angles gatekeeper entity](../Images/species-all-angles-gatekeeper-entity.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** INT +4 WIS +4 PER +1 CHA −1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Colour-borne wasting phenomenon *(beast; NPC-scale)*
 
+![Colour-borne wasting phenomenon](../Images/species-colour-borne-wasting-phenomenon.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** STR −3 INT −2 WIS +1 PER +1 CHA −1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -76,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A living colour that blights soil, water and flesh, draining life as it spreads.
 
 ### Aberrant far-realm drifter *(NPC only; NPC-scale)*
+
+![Aberrant far-realm drifter](../Images/species-aberrant-far-realm-drifter.jpg){.illus}
+
 
 - **Size:** varies · **Body:** other
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
@@ -87,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Far-realm larval seed *(beast; NPC-scale)*
 
+![Far-realm larval seed](../Images/species-far-realm-larval-seed.jpg){.illus}
+
+
 - **Size:** small · **Body:** other
 - **Attributes:** STR −3 AGI −1 INT −2 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -95,6 +116,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A small dormant seed planted in a host mind to transform it slowly; it frightens no one on sight.
 
 ### Sleeping elder god's spawn *(NPC only; NPC-scale)*
+
+![Sleeping elder god's spawn](../Images/species-sleeping-elder-god-s-spawn.jpg){.illus}
+
 
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +6 AGI −4 END +3 INT +1 WIS +1 PER +1 CHA −1
@@ -107,6 +131,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Its cataclysmic awakening is a story event, not a power. Lifespan (very long-lived) is a lexicon detail, not a game number. Tentacle lash and grappling come from its tentacled face.
 
 ### Outer-god kin-brood *(NPC only; NPC-scale)*
+
+![Outer-god kin-brood](../Images/species-outer-god-kin-brood.jpg){.illus}
+
 
 - **Size:** large · **Body:** other
 - **Attributes:** STR +2 AGI −2 INT +1 WIS +1 PER +1 CHA −1

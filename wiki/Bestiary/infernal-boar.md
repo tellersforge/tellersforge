@@ -1,5 +1,9 @@
 # Infernal boar
 
+![Infernal boar](../Images/BE-361-bestiary-infernal-boar.jpg){.illus}
+
+
+*Catalogue: BE-361*
 *Set: Core*
 
 *aka: ______________________________*

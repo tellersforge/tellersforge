@@ -1,7 +1,8 @@
 # Telekinesis
 
-![Telekinesis](../Images/powers-telekinesis.jpg){.illus}
+![Telekinesis](../Images/PW-291-powers-telekinesis.jpg){.illus}
 
+*Catalogue: PW-291*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Astrogation
 
+![Astrogation](../Images/SK-013-skills-astrogation.jpg){.illus}
+
+
+*Catalogue: SK-013*
 *Set: Expansion*
 
 *aka: ______________________________*

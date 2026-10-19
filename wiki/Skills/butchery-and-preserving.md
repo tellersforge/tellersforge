@@ -1,5 +1,9 @@
 # Butchery & Preserving
 
+![Butchery & Preserving](../Images/SK-025-skills-butchery-and-preserving.jpg){.illus}
+
+
+*Catalogue: SK-025*
 *Set: Expansion*
 
 *aka: ______________________________*

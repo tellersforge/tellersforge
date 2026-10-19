@@ -1,5 +1,9 @@
 # Command Undead
 
+![Command Undead](../Images/PW-041-powers-command-undead.jpg){.illus}
+
+
+*Catalogue: PW-041*
 *Set: Expansion*
 
 *aka: ______________________________*

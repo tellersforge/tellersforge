@@ -1,5 +1,9 @@
 # First Aid
 
+![First Aid](../Images/SK-072-skills-first-aid.jpg){.illus}
+
+
+*Catalogue: SK-072*
 *Set: Core · Basic skill: Healing*
 
 *aka: ______________________________*

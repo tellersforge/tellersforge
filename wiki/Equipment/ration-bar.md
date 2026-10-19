@@ -1,5 +1,9 @@
 # Ration bar
 
+![Ration bar](../Images/GR-0780-equipment-ration-bar.jpg){.illus}
+
+
+*Catalogue: GR-0780*
 *Set: Expansion*
 
 *aka: ______________________________*

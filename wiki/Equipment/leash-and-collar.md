@@ -1,5 +1,9 @@
 # Leash and collar
 
+![Leash and collar](../Images/GR-0585-equipment-leash-and-collar.jpg){.illus}
+
+
+*Catalogue: GR-0585*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Weather Sense
 
+![Weather Sense](../Images/SK-221-skills-weather-sense.jpg){.illus}
+
+
+*Catalogue: SK-221*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

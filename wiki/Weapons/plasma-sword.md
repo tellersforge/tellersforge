@@ -1,7 +1,8 @@
 # Plasma Sword
 
-![Plasma sword](../Images/weapons-plasma-sword.jpg){.illus}
+![Plasma sword](../Images/GR-0076-weapons-plasma-sword.jpg){.illus}
 
+*Catalogue: GR-0076*
 *Set: Expansion*
 
 *aka: ______________________________*

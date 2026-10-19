@@ -1,5 +1,9 @@
 # Word-Healing
 
+![Word-Healing](../Images/PW-325-powers-word-healing.jpg){.illus}
+
+
+*Catalogue: PW-325*
 *Set: Expansion*
 
 *aka: ______________________________*

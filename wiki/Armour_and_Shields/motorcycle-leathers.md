@@ -1,5 +1,9 @@
 # Motorcycle leathers
 
+![Motorcycle leathers](../Images/GR-0150-armour-motorcycle-leathers.jpg){.illus}
+
+
+*Catalogue: GR-0150*
 *Set: Expansion*
 
 *aka: ______________________________*

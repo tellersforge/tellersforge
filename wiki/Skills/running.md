@@ -1,5 +1,9 @@
 # Running
 
+![Running](../Images/SK-168-skills-running.jpg){.illus}
+
+
+*Catalogue: SK-168*
 *Set: Core · Basic skill: Athletics*
 
 *aka: ______________________________*

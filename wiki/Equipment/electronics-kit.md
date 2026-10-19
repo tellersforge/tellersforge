@@ -1,5 +1,9 @@
 # Electronics kit
 
+![Electronics kit](../Images/GR-0367-equipment-electronics-kit.jpg){.illus}
+
+
+*Catalogue: GR-0367*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wisdom-Tasting
 
+![Wisdom-Tasting](../Images/PW-323-powers-wisdom-tasting.jpg){.illus}
+
+
+*Catalogue: PW-323*
 *Set: Expansion*
 
 *aka: ______________________________*

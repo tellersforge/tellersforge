@@ -1,5 +1,9 @@
 # Hyper-adaptive cell star
 
+![Hyper-adaptive cell star](../Images/BE-358-bestiary-hyper-adaptive-cell-star.jpg){.illus}
+
+
+*Catalogue: BE-358*
 *Set: Expansion*
 
 *aka: ______________________________*

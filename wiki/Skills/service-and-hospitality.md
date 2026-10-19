@@ -1,5 +1,9 @@
 # Service & Hospitality
 
+![Service & Hospitality](../Images/SK-175-skills-service-and-hospitality.jpg){.illus}
+
+
+*Catalogue: SK-175*
 *Set: Expansion*
 
 *aka: ______________________________*

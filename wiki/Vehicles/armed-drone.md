@@ -1,5 +1,9 @@
 # Armed Drone
 
+![Armed Drone](../Images/GR-1042-vehicles-armed-drone.jpg){.illus}
+
+
+*Catalogue: GR-1042*
 *Set: Expansion*
 
 

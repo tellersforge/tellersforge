@@ -1,5 +1,9 @@
 # Dried fish
 
+![Dried fish](../Images/GR-0351-equipment-dried-fish.jpg){.illus}
+
+
+*Catalogue: GR-0351*
 *Set: Core*
 
 *aka: ______________________________*

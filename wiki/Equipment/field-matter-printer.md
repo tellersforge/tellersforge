@@ -1,5 +1,9 @@
 # Field matter printer
 
+![Field matter printer](../Images/GR-0403-equipment-field-matter-printer.jpg){.illus}
+
+
+*Catalogue: GR-0403*
 *Set: Expansion*
 
 *aka: ______________________________*

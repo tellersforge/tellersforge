@@ -1,5 +1,9 @@
 # Singing bowl
 
+![Singing bowl](../Images/GR-0867-equipment-singing-bowl.jpg){.illus}
+
+
+*Catalogue: GR-0867*
 *Set: Core*
 
 *aka: ______________________________*

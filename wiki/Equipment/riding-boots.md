@@ -1,5 +1,9 @@
 # Riding boots
 
+![Riding boots](../Images/GR-0790-equipment-riding-boots.jpg){.illus}
+
+
+*Catalogue: GR-0790*
 *Set: Core*
 
 *aka: ______________________________*

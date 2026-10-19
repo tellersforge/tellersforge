@@ -1,5 +1,9 @@
 # Feral vampire spawn
 
+![Feral vampire spawn](../Images/BE-188-bestiary-feral-vampire-spawn.jpg){.illus}
+
+
+*Catalogue: BE-188*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Danger Sense
 
+![Danger Sense](../Images/SK-049-skills-danger-sense.jpg){.illus}
+
+
+*Catalogue: SK-049*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

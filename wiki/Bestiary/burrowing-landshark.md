@@ -1,5 +1,9 @@
 # Burrowing landshark
 
+![Burrowing landshark](../Images/BE-085-bestiary-burrowing-landshark.jpg){.illus}
+
+
+*Catalogue: BE-085*
 *Set: Expansion*
 
 *aka: ______________________________*

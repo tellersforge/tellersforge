@@ -1,5 +1,9 @@
 # Servant's livery
 
+![Servant's livery](../Images/GR-0837-equipment-servant-s-livery.jpg){.illus}
+
+
+*Catalogue: GR-0837*
 *Set: Expansion*
 
 *aka: ______________________________*

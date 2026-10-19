@@ -1,5 +1,9 @@
 # Dog sled
 
+![Dog sled](../Images/GR-0343-equipment-dog-sled.jpg){.illus}
+
+
+*Catalogue: GR-0343*
 *Set: Core*
 
 *aka: ______________________________*

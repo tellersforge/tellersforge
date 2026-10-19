@@ -1,5 +1,9 @@
 # Climate-control bodysuit
 
+![Climate-control bodysuit](../Images/GR-0281-equipment-climate-control-bodysuit.jpg){.illus}
+
+
+*Catalogue: GR-0281*
 *Set: Expansion*
 
 *aka: ______________________________*

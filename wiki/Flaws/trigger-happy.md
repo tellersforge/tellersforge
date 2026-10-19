@@ -1,5 +1,8 @@
 # Trigger-Happy
 
+![Trigger-Happy](../Images/flaws-trigger-happy.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Conscience and conduct* kind. It fires when shoots or strikes first, asks later.

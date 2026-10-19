@@ -1,5 +1,9 @@
 # Nose and brow chains
 
+![Nose and brow chains](../Images/GR-0679-equipment-nose-and-brow-chains.jpg){.illus}
+
+
+*Catalogue: GR-0679*
 *Set: Expansion*
 
 *aka: ______________________________*

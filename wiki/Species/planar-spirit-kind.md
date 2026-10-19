@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Soul-devouring despair wraith *(NPC only)*
 
+![Soul-devouring despair wraith](../Images/species-soul-devouring-despair-wraith.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR −1 END −1 WIS +1 CHA +1
 - **Skills:** [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Trance & Spirit Work](../Skills/trance-and-spirit-work.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Life Drain takes joy and soul; Emotion Control works as despair.
 
 ### Underworld fury *(NPC only)*
+
+![Underworld fury](../Images/species-underworld-fury.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** AGI +1 END −1 WIS +1 CHA +1 COU +2
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bound spirit/wisp *(NPC only)*
 
+![Bound spirit/wisp](../Images/species-bound-spirit-wisp.jpg){.illus}
+
+
 - **Size:** small · **Body:** incorporeal
 - **Attributes:** STR −3 AGI +2 END −1 WIS +1 CHA +1
 - **Skills:** [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Trance & Spirit Work](../Skills/trance-and-spirit-work.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* No hands: held weapons unusable.
 
 ### No. 594 Dream-spirit bonded folk *(genres: heavens, hells and other planes)*
+
+![Dream-spirit bonded folk](../Images/species-dream-spirit-bonded-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary-looking folk quietly bonded to a friendly dream-spirit, hard to possess and able to sense others' minds. (looks like: human; good at: powers and magic, keen senses)

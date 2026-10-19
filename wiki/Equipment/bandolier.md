@@ -1,5 +1,9 @@
 # Bandolier
 
+![Bandolier](../Images/GR-0199-equipment-bandolier.jpg){.illus}
+
+
+*Catalogue: GR-0199*
 *Set: Expansion*
 
 *aka: ______________________________*

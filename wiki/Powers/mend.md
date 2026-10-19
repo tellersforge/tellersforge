@@ -1,5 +1,9 @@
 # Mend
 
+![Mend](../Images/PW-177-powers-mend.jpg){.illus}
+
+
+*Catalogue: PW-177*
 *Set: Core*
 
 *aka: ______________________________*

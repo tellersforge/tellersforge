@@ -1,5 +1,9 @@
 # Climbing harness
 
+![Climbing harness](../Images/GR-0286-equipment-climbing-harness.jpg){.illus}
+
+
+*Catalogue: GR-0286*
 *Set: Expansion*
 
 *aka: ______________________________*

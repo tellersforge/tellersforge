@@ -1,5 +1,8 @@
 # Recklessness
 
+![Recklessness](../Images/flaws-recklessness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when charges in without a plan.

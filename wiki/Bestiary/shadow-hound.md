@@ -1,5 +1,9 @@
 # Shadow hound
 
+![Shadow hound](../Images/BE-535-bestiary-shadow-hound.jpg){.illus}
+
+
+*Catalogue: BE-535*
 *Set: Expansion*
 
 *aka: ______________________________*

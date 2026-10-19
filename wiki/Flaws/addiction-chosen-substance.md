@@ -1,5 +1,8 @@
 # Addiction (chosen substance)
 
+![Addiction (chosen substance)](../Images/flaws-addiction-chosen-substance.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when craves it and goes looking for it; gets sick and desperate without it.

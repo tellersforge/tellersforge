@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 229 Large hound folk *(genres: beast-folk: fur)*
 
+![Large hound folk](../Images/species-large-hound-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Big, loyal hound-folk with a bone-crushing bite and a nose that never fails. (looks like: dog; good at: strength, keen senses, fighting)
 - **Attributes:** STR +4 AGI −2 END +2 INT −1 WIS +1 PER +1 CHA −1 COU +1
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Large guard-hound line: shrugs off pain and has a deep, carrying bay; the heavy frame is an attribute.
 
 ### No. 230 Small dog folk *(genres: beast-folk: fur)*
+
+![Small dog folk](../Images/species-small-dog-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small, chatty, quick dog-folk who never stop talking or wagging their tails. (looks like: dog; good at: speed and agility, keen senses)
@@ -62,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 231 Fox-folk *(genres: beast-folk: fur; starter)*
 
+![Fox-folk](../Images/species-fox-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Quick, clever fox people who hear everything and talk their way out of trouble. (looks like: fox; good at: keen senses, wilderness, speed and agility)
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 PER +1 CHA −1 COU +1
@@ -73,6 +82,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Fox line: bushy tail for balance, heat-hardy, and a scavenger-trader way of life.
 
 ### No. 232 Jackal-folk *(genres: beast-folk: fur, myth and legend)*
+
+![Jackal-folk](../Images/species-jackal-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Tough desert scavengers with a keen nose and an old bond to the underworld. (looks like: jackal; good at: wilderness, keen senses, toughness)
@@ -86,6 +98,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hyena-folk *(NPC only)*
 
+![Hyena-folk](../Images/species-hyena-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +2 END +2 INT −2 WIS +1 PER +1 CHA −1 COU +1
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Hunting](../Skills/hunting.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Running](../Skills/running.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) −1, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) −1
@@ -96,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Hyena line: crushing bite, scavenging habits and an unnerving cackle.
 
 ### No. 233 Coyote-folk *(genres: beast-folk: fur, myth and legend)*
+
+![Coyote-folk](../Images/species-coyote-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Clever trickster coyote-folk who talk their way out of any tight spot. (looks like: coyote; good at: keen senses, people and talk)
@@ -109,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wild dog folk *(NPC only)*
 
+![Wild dog folk](../Images/species-wild-dog-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END +2 INT −1 WIS +1 PER +1 CHA −1 COU +1
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Hunting](../Skills/hunting.md) +2, [Running](../Skills/running.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) −1, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) −1
@@ -119,6 +140,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Painted-dog line: savanna endurance hunters that work as a tight pack.
 
 ### No. 234 Arctic dog folk *(genres: beast-folk: fur)*
+
+![Arctic dog folk](../Images/species-arctic-dog-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Thick-coated arctic dog-folk who can pull a sled all day through the snow. (looks like: dog; good at: toughness, wilderness, keen senses)
@@ -132,6 +156,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Desert dog folk *(NPC only)*
 
+![Desert dog folk](../Images/species-desert-dog-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +2 END +1 INT −1 WIS +1 PER +1 CHA −1 COU +1
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Running](../Skills/running.md) +2, [Survival: Desert](../Skills/survival-desert.md) +2, [Hunting](../Skills/hunting.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) −1, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) −1
@@ -142,6 +169,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Sighthound line: heat-hardy, needs little water, and sprints fast.
 
 ### No. 235 Herding dog folk *(genres: beast-folk: fur)*
+
+![Herding dog folk](../Images/species-herding-dog-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Clever, hard-working herding dog-folk, born leaders of any group. (looks like: dog; good at: keen senses, people and talk)
@@ -155,6 +185,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wild jackal-dog folk (dhole) *(NPC only)*
 
+![Wild jackal-dog folk (dhole)](../Images/species-wild-jackal-dog-folk-dhole.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END +1 INT −1 WIS +1 PER +1 CHA −1 COU +2
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Hunting](../Skills/hunting.md) +2, [Running](../Skills/running.md) +1, [Signals](../Skills/signals.md) +1, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) −1, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) −1
@@ -165,6 +198,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Dhole line: forest pack hunters of big prey that coordinate by whistling.
 
 ### Maned wolf folk *(NPC only)*
+
+![Maned wolf folk](../Images/species-maned-wolf-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +1 END +1 INT −1 WIS +1 PER +1 CHA −1 COU +1
@@ -177,6 +213,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Chivalrous fox-knight folk *(NPC only)*
 
+![Chivalrous fox-knight folk](../Images/species-chivalrous-fox-knight-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 INT −1 WIS +1 PER +1 COU +3
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Composure](../Skills/composure.md) +1, [Hunting](../Skills/hunting.md) +1, [Riding](../Skills/riding.md) +1, [Running](../Skills/running.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) −1, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) −1
@@ -187,6 +226,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Tiny fox knights: mounted and fearless by way of life.
 
 ### No. 236 Shadow-coated folk *(genres: space opera: beast-like aliens)*
+
+![Shadow-coated folk](../Images/species-shadow-coated-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Dark-furred hound-folk who all but vanish into shadow in dim light. (looks like: dog; good at: sneaking, keen senses)
@@ -201,6 +243,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 237 Jowled tracker folk *(genres: space opera: beast-like aliens)*
 
+![Jowled tracker folk](../Images/species-jowled-tracker-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Loyal, jowly-faced trackers with an unbeatable sense of smell. (looks like: dog; good at: keen senses, wilderness)
 - **Attributes:** END +1 INT −1 WIS +1 PER +1 CHA −1 COU +1
@@ -212,6 +257,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The keen nose is already the family's; the steadfast temperament is personality.
 
 ### No. 238 Civic canine folk *(genres: animal fable)*
+
+![Civic canine folk](../Images/species-civic-canine-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Fully civilised dog-folk who walk upright and use tools like anyone else. (looks like: dog; good at: keen senses, wilderness)
@@ -225,6 +273,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Reclusive fox-eared folk *(NPC only)*
 
+![Reclusive fox-eared folk](../Images/species-reclusive-fox-eared-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1 INT −1 WIS +1 PER +1 CHA −2 COU +1
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Hunting](../Skills/hunting.md) +1, [Running](../Skills/running.md) +1, [Stealth](../Skills/stealth.md) +1, [Wayfinding](../Skills/wayfinding.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) −1, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) −1
@@ -235,6 +286,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Reclusive nomads who keep out of sight and on the move.
 
 ### No. 239 Large wolf-blooded warrior folk *(genres: beast-folk: fur, space opera: beast-like aliens)*
+
+![Large wolf-blooded warrior folk](../Images/species-large-wolf-blooded-warrior-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Honour-bound wolf-warriors who fight in packs and never break rank. (looks like: wolf; good at: strength, fighting, keen senses)
@@ -248,6 +302,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 240 Opportunist wolf-spacer folk *(genres: space opera: beast-like aliens)*
 
+![Opportunist wolf-spacer folk](../Images/species-opportunist-wolf-spacer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Charismatic wolf-folk leaders, sharp-sensed but sometimes reckless in charge. (looks like: wolf; good at: keen senses, people and talk)
 - **Attributes:** END +1 INT −1 PER +1 CHA +1 COU +1
@@ -260,6 +317,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 241 Predator-caste wolf-folk *(genres: beast-folk: fur)*
 
+![Predator-caste wolf-folk](../Images/species-predator-caste-wolf-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Powerful predator-caste wolves who must keep their hunting instincts in check. (looks like: wolf; good at: strength, keen senses, fighting)
 - **Attributes:** STR +4 AGI −2 END +1 INT −1 WIS +1 PER +1 CHA −1 COU +1
@@ -271,6 +331,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Wolves whose senses outstrip even other canines; their great strength is an attribute.
 
 ### No. 242 Domesticated carnivore-caste dog-folk *(genres: beast-folk: fur)*
+
+![Domesticated carnivore-caste dog-folk](../Images/species-domesticated-carnivore-caste-dog-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Gentle, well-domesticated dog-folk in every shape, size and role. (looks like: dog; good at: keen senses, wilderness)

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 172 Salamander-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Salamander-folk](../Images/species-salamander-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Moist-skinned salamander-folk who can grow back a lost limb. (looks like: lizard; good at: swimming, healing)
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The fire link is myth only; a truly fire-born salamander belongs with elementals.
 
 ### Newt-folk *(NPC only)*
+
+![Newt-folk](../Images/species-newt-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 173 Axolotl-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Axolotl-folk](../Images/species-axolotl-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small, feather-gilled folk that never quite grow up and can heal almost anything. (looks like: axolotl; good at: swimming, healing)
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Lifelong gills and exceptional regeneration.
 
 ### Caecilian-folk *(NPC only)*
+
+![Caecilian-folk](../Images/species-caecilian-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** serpentine
 - **Attributes:** AGI −1 END +1 CHA −1
@@ -65,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Giant salamander-folk *(NPC only)*
 
+![Giant salamander-folk](../Images/species-giant-salamander-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped+tailed
 - **Attributes:** STR +2 AGI −2 END +1 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, Endurance (attribute) −1, [Running](../Skills/running.md) −1, [Survival: Desert](../Skills/survival-desert.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -75,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* No hands: held weapons unusable.
 
 ### Mudpuppy-folk *(NPC only)*
+
+![Mudpuppy-folk](../Images/species-mudpuppy-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** aquatic+tailed
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1

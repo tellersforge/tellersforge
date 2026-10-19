@@ -1,5 +1,9 @@
 # Puppet set
 
+![Puppet set](../Images/GR-0766-equipment-puppet-set.jpg){.illus}
+
+
+*Catalogue: GR-0766*
 *Set: Expansion*
 
 *aka: ______________________________*

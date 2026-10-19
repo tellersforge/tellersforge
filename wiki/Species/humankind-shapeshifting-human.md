@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 47 Totemic beast-shifter folk *(genres: myth and legend)*
 
+![Totemic beast-shifter folk](../Images/species-totemic-beast-shifter-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Nature-revering folk who transform into a great totem beast in a fight. (looks like: bear; good at: strength, powers and magic, wilderness)
 - **Attributes:** STR +2 AGI −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carries out the species note. One totem beast per character (bear, wolf or similar).
 
 ### Shapeshifting empire folk *(NPC only)*
+
+![Shapeshifting empire folk](../Images/species-shapeshifting-empire-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none

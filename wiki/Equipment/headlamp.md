@@ -1,5 +1,9 @@
 # Headlamp
 
+![Headlamp](../Images/GR-0511-equipment-headlamp.jpg){.illus}
+
+
+*Catalogue: GR-0511*
 *Set: Expansion*
 
 *aka: ______________________________*

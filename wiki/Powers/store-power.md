@@ -1,5 +1,9 @@
 # Store Power
 
+![Store Power](../Images/PW-278-powers-store-power.jpg){.illus}
+
+
+*Catalogue: PW-278*
 *Set: Expansion*
 
 *aka: ______________________________*

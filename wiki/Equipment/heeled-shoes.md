@@ -1,5 +1,9 @@
 # Heeled shoes
 
+![Heeled shoes](../Images/GR-0517-equipment-heeled-shoes.jpg){.illus}
+
+
+*Catalogue: GR-0517*
 *Set: Expansion*
 
 *aka: ______________________________*

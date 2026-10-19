@@ -1,5 +1,9 @@
 # Stone bead necklace
 
+![Stone bead necklace](../Images/GR-0921-equipment-stone-bead-necklace.jpg){.illus}
+
+
+*Catalogue: GR-0921*
 *Set: Expansion*
 
 *aka: ______________________________*

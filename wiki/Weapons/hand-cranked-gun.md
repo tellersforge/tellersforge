@@ -1,7 +1,8 @@
 # Hand-Cranked Gun
 
-![Hand-cranked gun](../Images/weapons-hand-cranked-gun.jpg){.illus}
+![Hand-cranked gun](../Images/GR-0046-weapons-hand-cranked-gun.jpg){.illus}
 
+*Catalogue: GR-0046*
 *Set: Expansion*
 
 *aka: ______________________________*

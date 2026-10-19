@@ -1,5 +1,9 @@
 # Ice axe
 
+![Ice axe](../Images/GR-0552-equipment-ice-axe.jpg){.illus}
+
+
+*Catalogue: GR-0552*
 *Set: Expansion*
 
 *aka: ______________________________*

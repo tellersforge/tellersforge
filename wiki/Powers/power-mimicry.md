@@ -1,5 +1,9 @@
 # Power Mimicry
 
+![Power Mimicry](../Images/PW-228-powers-power-mimicry.jpg){.illus}
+
+
+*Catalogue: PW-228*
 *Set: Expansion*
 
 *aka: ______________________________*

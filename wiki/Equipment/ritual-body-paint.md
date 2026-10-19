@@ -1,5 +1,9 @@
 # Ritual body paint
 
+![Ritual body paint](../Images/GR-0793-equipment-ritual-body-paint.jpg){.illus}
+
+
+*Catalogue: GR-0793*
 *Set: Core*
 
 *aka: ______________________________*

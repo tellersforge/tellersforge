@@ -1,5 +1,9 @@
 # Ritual knife
 
+![Ritual knife](../Images/GR-0795-equipment-ritual-knife.jpg){.illus}
+
+
+*Catalogue: GR-0795*
 *Set: Expansion*
 
 *aka: ______________________________*

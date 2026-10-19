@@ -1,5 +1,9 @@
 # Bagpipes
 
+![Bagpipes](../Images/GR-0198-equipment-bagpipes.jpg){.illus}
+
+
+*Catalogue: GR-0198*
 *Set: Expansion*
 
 *aka: ______________________________*

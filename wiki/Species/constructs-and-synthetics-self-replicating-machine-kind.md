@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Self-replicating nanite lifeform *(NPC only; NPC-scale)*
 
+![Self-replicating nanite lifeform](../Images/species-self-replicating-nanite-lifeform.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** STR +1 AGI +2 END +2 INT +1 WIS −1 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Biomechanical hive infestation *(NPC only; NPC-scale)*
 
+![Biomechanical hive infestation](../Images/species-biomechanical-hive-infestation.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** STR +1 END +2 INT +1 WIS −1 CHA −2 COU +2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Transform Others is assimilation.
 
 ### World-devouring probe swarm *(NPC only; NPC-scale)*
+
+![World-devouring probe swarm](../Images/species-world-devouring-probe-swarm.jpg){.illus}
+
 
 - **Size:** varies · **Body:** other
 - **Attributes:** STR +1 END +2 INT −2 WIS −1 CHA −2 COU +3

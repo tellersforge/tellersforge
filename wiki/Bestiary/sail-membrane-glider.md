@@ -1,5 +1,9 @@
 # Sail-membrane glider
 
+![Sail-membrane glider](../Images/BE-513-bestiary-sail-membrane-glider.jpg){.illus}
+
+
+*Catalogue: BE-513*
 *Set: Expansion*
 
 *aka: ______________________________*

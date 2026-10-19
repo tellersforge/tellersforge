@@ -1,5 +1,9 @@
 # Sound-hunting armoured stalker
 
+![Sound-hunting armoured stalker](../Images/BE-575-bestiary-sound-hunting-armoured-stalker.jpg){.illus}
+
+
+*Catalogue: BE-575*
 *Set: Expansion*
 
 *aka: ______________________________*

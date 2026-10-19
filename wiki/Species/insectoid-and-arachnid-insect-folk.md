@@ -39,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 528 Bee-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Bee-folk](../Images/species-bee-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** winged biped
 - **What it's like:** Fuzzy, winged bee-folk who live in hives, gather pollen and dance out messages, with a once-only stinger. (looks like: bee; good at: flying, people and talk)
 - **Attributes:** STR −1 AGI +2 END +2 PER +1 CHA −2
@@ -52,6 +55,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wasp-folk *(NPC only)*
 
+![Wasp-folk](../Images/species-wasp-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR +1 AGI +1 END +2 PER +1 CHA −2 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -64,6 +70,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 529 Mantis-folk *(genres: beast-folk: scales, feathers and shells; starter)*
 
+![Mantis-folk](../Images/species-mantis-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+chitin
 - **What it's like:** A patient bug hunter with lightning-fast bladed arms and hidden-in-plain-sight camouflage. (looks like: insect; good at: climbing, fighting, keen senses)
 - **Attributes:** STR +1 AGI +1 END +1 WIS +1 PER +2 CHA −2
@@ -75,6 +84,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Patient ambushers with striking forelimbs, swivelling heads and natural camouflage.
 
 ### No. 530 Beetle-folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Beetle-folk](../Images/species-beetle-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+chitin
 - **What it's like:** Heavily armoured beetle-folk, slow-moving but nearly impossible to hurt, some armed with horns or mandibles. (looks like: beetle; good at: toughness, climbing)
@@ -89,6 +101,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Moth-folk *(NPC only)*
 
+![Moth-folk](../Images/species-moth-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR +1 AGI +1 WIS +1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Camouflage](../Skills/camouflage.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -99,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Armour Skin reduced for the soft, furred body. NPC only.
 
 ### No. 531 Butterfly-folk *(genres: beast-folk: scales, feathers and shells, fairy tale and folklore)*
+
+![Butterfly-folk](../Images/species-butterfly-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** winged biped
 - **What it's like:** Delicate, gracefully winged butterfly-folk with vivid patterned wings, whose life-changing metamorphosis holds deep meaning for their people. (looks like: butterfly; good at: flying, climbing)
@@ -112,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Centipede-folk *(NPC only)*
 
+![Centipede-folk](../Images/species-centipede-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 AGI +2 END +2 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Running](../Skills/running.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -123,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Dragonfly-folk *(NPC only)*
+
+![Dragonfly-folk](../Images/species-dragonfly-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** winged biped
 - **Attributes:** STR −1 AGI +2 END +1 WIS +1 PER +3 CHA −2
@@ -136,6 +160,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cicada-folk *(NPC only)*
 
+![Cicada-folk](../Images/species-cicada-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** winged biped
 - **Attributes:** STR −1 AGI +2 END +2 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -146,6 +173,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The long buried nymph stage belongs to the lifespan entry. NPC only.
 
 ### Cockroach-folk *(NPC only)*
+
+![Cockroach-folk](../Images/species-cockroach-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+chitin
 - **Attributes:** STR −1 AGI +2 END +4 PER +1 CHA −2
@@ -159,6 +189,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Stick insect-folk *(NPC only)*
 
+![Stick insect-folk](../Images/species-stick-insect-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+elongated
 - **Attributes:** STR +1 AGI −1 END +1 WIS +1 PER +1 CHA −2
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -170,6 +203,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Their slowness belongs to the attribute step. NPC only.
 
 ### Locust-folk *(NPC only)*
+
+![Locust-folk](../Images/species-locust-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR +1 END +3 PER +1 CHA −2
@@ -183,6 +219,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Silkworm-folk *(NPC only)*
 
+![Silkworm-folk](../Images/species-silkworm-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** other
 - **Attributes:** STR −1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Spinning & Weaving](../Skills/spinning-and-weaving.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -193,6 +232,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Spinning & Weaving covers both the body's silk and the textile way of life. NPC only.
 
 ### Firefly-folk *(NPC only)*
+
+![Firefly-folk](../Images/species-firefly-folk.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** winged biped
 - **Attributes:** STR −2 AGI +3 PER +1 CHA −2
@@ -206,6 +248,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mutated fly scientist folk *(NPC only)*
 
+![Mutated fly scientist folk](../Images/species-mutated-fly-scientist-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR +1 AGI +1 END +2 WIS −1 PER +1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Composure](../Skills/composure.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -216,6 +261,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### No. 532 Mantis engineer folk *(genres: space opera: strange aliens)*
+
+![Mantis engineer folk](../Images/species-mantis-engineer-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Mantis-framed insectoid folk from a strict hierarchy, individually gifted as engineers and inventors. (looks like: mantis; good at: making and fixing, climbing)
@@ -229,6 +277,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 533 Swift mantis warrior folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Swift mantis warrior folk](../Images/species-swift-mantis-warrior-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Lightning-fast mantis warriors with bladed forearms and natural camouflage, coldly disciplined in a strict martial caste. (looks like: mantis; good at: fighting, sneaking)
 - **Attributes:** STR +1 AGI +2 END +1 PER +1 CHA −2
@@ -240,6 +291,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Fast-reflexed mantis warriors with bladed forearms and natural camouflage.
 
 ### No. 534 Desert nomad insectoid folk *(genres: beast-folk: scales, feathers and shells, dark fantasy)*
+
+![Desert nomad insectoid folk](../Images/species-desert-nomad-insectoid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Heat-hardy insectoid nomads of the desert, armoured in chitin and quietly linked by a touch of telepathy. (looks like: insect; good at: toughness, wilderness)
@@ -254,6 +308,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 535 Divine-touched insectoid folk *(genres: beast-folk: scales, feathers and shells, myth and legend)*
 
+![Divine-touched insectoid folk](../Images/species-divine-touched-insectoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Chitin-armoured insectoid folk of a close-knit hive-clan, carrying a small blessing from the divine. (looks like: insect; good at: toughness, powers and magic)
 - **Attributes:** STR +1 END +2 PER +1 CHA −2
@@ -265,6 +322,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Chitinous folk with a minor divine blessing.
 
 ### No. 536 Stoic mantis mystic folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Stoic mantis mystic folk](../Images/species-stoic-mantis-mystic-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Patient, ancient mantis-folk mystics who think in ways no human quite understands, disciplined in both mind and martial art. (looks like: mantis; good at: knowledge, fighting)
@@ -278,6 +338,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Undead-touched bug-shell folk *(NPC only)*
 
+![Undead-touched bug-shell folk](../Images/species-undead-touched-bug-shell-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +3 PER +1 CHA −3
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -289,6 +352,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Tiny insectoid builder folk *(NPC only)*
+
+![Tiny insectoid builder folk](../Images/species-tiny-insectoid-builder-folk.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −2 AGI +3 END +2 PER +1 CHA −2
@@ -302,6 +368,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 537 Shelled bug civilization folk *(genres: underworld and wild places, beast-folk: scales, feathers and shells)*
 
+![Shelled bug civilization folk](../Images/species-shelled-bug-civilization-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** insectoid
 - **What it's like:** Small, shell-masked bug-folk of a once-great industrious and artistic civilisation, now living among its ruins. (looks like: insect; good at: making and fixing, climbing)
 - **Attributes:** STR −1 AGI +2 END +2 PER +1 CHA −2
@@ -313,6 +382,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Masked shell-bugs from an industrious, artistic civilization.
 
 ### Augmented moth-mutate *(NPC only)*
+
+![Augmented moth-mutate](../Images/species-augmented-moth-mutate.jpg){.illus}
+
 
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR +1 AGI +1 PER +1 CHA −1

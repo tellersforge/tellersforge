@@ -1,5 +1,9 @@
 # Fire-spitting hive grub
 
+![Fire-spitting hive grub](../Images/BE-196-bestiary-fire-spitting-hive-grub.jpg){.illus}
+
+
+*Catalogue: BE-196*
 *Set: Expansion*
 
 *aka: ______________________________*

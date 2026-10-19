@@ -1,5 +1,9 @@
 # Riding
 
+![Riding](../Images/SK-164-skills-riding.jpg){.illus}
+
+
+*Catalogue: SK-164*
 *Set: Core · Basic skill: Animal Handling*
 
 *aka: ______________________________*

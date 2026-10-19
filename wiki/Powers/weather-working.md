@@ -1,5 +1,9 @@
 # Weather-Working
 
+![Weather-Working](../Images/PW-321-powers-weather-working.jpg){.illus}
+
+
+*Catalogue: PW-321*
 *Set: Expansion*
 
 *aka: ______________________________*

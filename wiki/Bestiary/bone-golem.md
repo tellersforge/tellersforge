@@ -1,5 +1,9 @@
 # Bone golem
 
+![Bone golem](../Images/BE-067-bestiary-bone-golem.jpg){.illus}
+
+
+*Catalogue: BE-067*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Painting & Drawing
 
+![Painting & Drawing](../Images/SK-145-skills-painting-and-drawing.jpg){.illus}
+
+
+*Catalogue: SK-145*
 *Set: Expansion*
 
 *aka: ______________________________*

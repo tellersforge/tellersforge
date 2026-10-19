@@ -1,5 +1,9 @@
 # Attack Helicopter
 
+![Attack Helicopter](../Images/GR-1044-vehicles-attack-helicopter.jpg){.illus}
+
+
+*Catalogue: GR-1044*
 *Set: Expansion*
 
 

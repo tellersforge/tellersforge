@@ -1,5 +1,9 @@
 # Signals
 
+![Signals](../Images/SK-180-skills-signals.jpg){.illus}
+
+
+*Catalogue: SK-180*
 *Set: Expansion*
 
 *aka: ______________________________*

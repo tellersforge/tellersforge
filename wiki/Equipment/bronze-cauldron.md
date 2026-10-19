@@ -1,5 +1,9 @@
 # Bronze cauldron
 
+![Bronze cauldron](../Images/GR-0234-equipment-bronze-cauldron.jpg){.illus}
+
+
+*Catalogue: GR-0234*
 *Set: Expansion*
 
 *aka: ______________________________*

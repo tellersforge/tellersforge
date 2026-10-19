@@ -1,5 +1,9 @@
 # Fire plough
 
+![Fire plough](../Images/GR-0413-equipment-fire-plough.jpg){.illus}
+
+
+*Catalogue: GR-0413*
 *Set: Expansion*
 
 *aka: ______________________________*

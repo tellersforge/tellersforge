@@ -1,5 +1,8 @@
 # Jealousy
 
+![Jealousy](../Images/flaws-jealousy.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when can't stand others doing well or being loved.

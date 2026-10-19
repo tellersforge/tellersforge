@@ -1,5 +1,9 @@
 # Animated marionette
 
+![Animated marionette](../Images/BE-020-bestiary-animated-marionette.jpg){.illus}
+
+
+*Catalogue: BE-020*
 *Set: Expansion*
 
 *aka: ______________________________*

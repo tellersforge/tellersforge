@@ -1,5 +1,9 @@
 # Memory Erasure
 
+![Memory Erasure](../Images/PW-172-powers-memory-erasure.jpg){.illus}
+
+
+*Catalogue: PW-172*
 *Set: Expansion*
 
 *aka: ______________________________*

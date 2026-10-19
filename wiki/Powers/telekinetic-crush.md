@@ -1,5 +1,9 @@
 # Telekinetic Crush
 
+![Telekinetic Crush](../Images/PW-292-powers-telekinetic-crush.jpg){.illus}
+
+
+*Catalogue: PW-292*
 *Set: Expansion*
 
 *aka: ______________________________*

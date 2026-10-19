@@ -1,5 +1,9 @@
 # Explosives
 
+![Explosives](../Images/SK-066-skills-explosives.jpg){.illus}
+
+
+*Catalogue: SK-066*
 *Set: Expansion*
 
 *aka: ______________________________*

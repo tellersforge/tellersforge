@@ -1,7 +1,8 @@
 # Winged Horse
 
-![Winged horse](../Images/vehicles-winged-horse.jpg){.illus}
+![Winged horse](../Images/GR-1132-vehicles-winged-horse.jpg){.illus}
 
+*Catalogue: GR-1132*
 *Set: Expansion*
 
 

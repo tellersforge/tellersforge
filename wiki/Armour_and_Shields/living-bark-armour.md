@@ -1,7 +1,8 @@
 # Living bark armour
 
-![Living-bark armour](../Images/armour-living-bark-armour.jpg){.illus}
+![Living-bark armour](../Images/GR-0145-armour-living-bark-armour.jpg){.illus}
 
+*Catalogue: GR-0145*
 *Set: Expansion*
 
 *aka: ______________________________*

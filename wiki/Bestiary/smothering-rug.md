@@ -1,5 +1,9 @@
 # Smothering rug
 
+![Smothering rug](../Images/BE-569-bestiary-smothering-rug.jpg){.illus}
+
+
+*Catalogue: BE-569*
 *Set: Expansion*
 
 *aka: ______________________________*

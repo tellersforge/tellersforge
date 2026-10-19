@@ -1,5 +1,9 @@
 # Swap Places
 
+![Swap Places](../Images/PW-285-powers-swap-places.jpg){.illus}
+
+
+*Catalogue: PW-285*
 *Set: Expansion*
 
 *aka: ______________________________*

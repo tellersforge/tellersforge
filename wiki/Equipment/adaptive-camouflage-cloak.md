@@ -1,7 +1,8 @@
 # Adaptive camouflage cloak
 
-![Adaptive camouflage cloak](../Images/equipment-adaptive-camouflage-cloak.jpg){.illus}
+![Adaptive camouflage cloak](../Images/GR-0174-equipment-adaptive-camouflage-cloak.jpg){.illus}
 
+*Catalogue: GR-0174*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Subterranean smith troll *(NPC only)*
 
+![Subterranean smith troll](../Images/species-subterranean-smith-troll.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 CHA −1 COU +1
 - **Skills:** [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +3, [Mining & Quarrying](../Skills/mining-and-quarrying.md) +2, [Stonemasonry](../Skills/stonemasonry.md) +2, [Riding](../Skills/riding.md) −1, [Running](../Skills/running.md) −1, [Swimming](../Skills/swimming.md) −2

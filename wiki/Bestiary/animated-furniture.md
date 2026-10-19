@@ -1,5 +1,9 @@
 # Animated furniture
 
+![Animated furniture](../Images/BE-019-bestiary-animated-furniture.jpg){.illus}
+
+
+*Catalogue: BE-019*
 *Set: Expansion*
 
 *aka: ______________________________*

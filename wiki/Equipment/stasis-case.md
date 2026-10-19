@@ -1,5 +1,9 @@
 # Stasis case
 
+![Stasis case](../Images/GR-0910-equipment-stasis-case.jpg){.illus}
+
+
+*Catalogue: GR-0910*
 *Set: Expansion*
 
 *aka: ______________________________*

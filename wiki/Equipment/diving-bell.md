@@ -1,5 +1,9 @@
 # Diving bell
 
+![Diving bell](../Images/GR-0339-equipment-diving-bell.jpg){.illus}
+
+
+*Catalogue: GR-0339*
 *Set: Expansion*
 
 *aka: ______________________________*

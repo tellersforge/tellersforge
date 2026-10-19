@@ -1,5 +1,9 @@
 # Inspection mirror
 
+![Inspection mirror](../Images/GR-0565-equipment-inspection-mirror.jpg){.illus}
+
+
+*Catalogue: GR-0565*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Star-plasma entity *(NPC only; NPC-scale)*
 
+![Star-plasma entity](../Images/species-star-plasma-entity.jpg){.illus}
+
+
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +4 AGI −3 END +4 CHA −2 COU +2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Etiquette](../Skills/etiquette.md) −1, [Stealth](../Skills/stealth.md) −2, [Hand Tools](../Skills/hand-tools.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept, [Swimming](../Skills/swimming.md) Foreign Concept

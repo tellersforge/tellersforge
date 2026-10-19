@@ -1,5 +1,9 @@
 # Raised wooden sandals
 
+![Raised wooden sandals](../Images/GR-0778-equipment-raised-wooden-sandals.jpg){.illus}
+
+
+*Catalogue: GR-0778*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,12 +24,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 70 Cold-world antennae folk *(genres: space opera: near-humans)*
 
+![Cold-world antennae folk](../Images/species-cold-world-antennae-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Blue-skinned ice-worlders who sense the world through sensitive, touchy antennae. (looks like: alien; good at: keen senses, wilderness)
 - **Attributes:** PER +1
 - **Skills:** [Survival: Arctic](../Skills/survival-arctic.md) +2, [Balance](../Skills/balance.md) +1, - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 71 Blind cave antennae folk *(genres: space opera: near-humans)*
+
+![Blind cave antennae folk](../Images/species-blind-cave-antennae-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sightless cave-dwellers who sense the world through antennae and stray thoughts. (looks like: alien; good at: keen senses, powers and magic)

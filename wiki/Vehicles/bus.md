@@ -1,5 +1,9 @@
 # Bus
 
+![Bus](../Images/GR-1050-vehicles-bus.jpg){.illus}
+
+
+*Catalogue: GR-1050*
 *Set: Expansion*
 
 

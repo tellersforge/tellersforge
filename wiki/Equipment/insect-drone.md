@@ -1,7 +1,8 @@
 # Insect drone
 
-![Insect drone](../Images/equipment-insect-drone.jpg){.illus}
+![Insect drone](../Images/GR-0563-equipment-insect-drone.jpg){.illus}
 
+*Catalogue: GR-0563*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 833 Shrouded folk · No. 834 Masked folk · No. 835 Unseen folk · No. 836 Veiled folk *(genres: classic fantasy)*
 
+![Shrouded folk](../Images/species-shrouded-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **What it's like:** Folk whose true form is never revealed, hidden deliberately, for reasons all their own. (looks like: ghost; good at: sneaking, powers and magic)
 - **Attributes:** none

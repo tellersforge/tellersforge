@@ -1,5 +1,9 @@
 # Focus Bonding
 
+![Focus Bonding](../Images/PW-108-powers-focus-bonding.jpg){.illus}
+
+
+*Catalogue: PW-108*
 *Set: Expansion*
 
 *aka: ______________________________*

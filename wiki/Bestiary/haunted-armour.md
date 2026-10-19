@@ -1,5 +1,9 @@
 # Haunted armour
 
+![Haunted armour](../Images/BE-327-bestiary-haunted-armour.jpg){.illus}
+
+
+*Catalogue: BE-327*
 *Set: Expansion*
 
 *aka: ______________________________*

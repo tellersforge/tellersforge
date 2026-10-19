@@ -1,7 +1,8 @@
 # Lute
 
-![Lute](../Images/equipment-lute.jpg){.illus}
+![Lute](../Images/GR-0621-equipment-lute.jpg){.illus}
 
+*Catalogue: GR-0621*
 *Set: Core*
 
 *aka: ______________________________*

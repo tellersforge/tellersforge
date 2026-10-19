@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cosmopolitan near-human folk · Cosmetic-variant folk · Boneless-crested caste folk · Decadent hair-crest aristocrat folk · Pacifist illusion-tech folk · Angular fin-headed raider folk · Multi-spousal diplomat/physician folk · Metaphor-speech folk · Death-cheating reanimated folk · Organ-harvesting plague survivor folk · Subterranean caretaker matriarchy folk · Enclosed generation-ship culture · Epidemic-resistant overcrowded folk · Spiritual agrarian folk · Horned pale demon-touched folk · Shadow-realm mirror folk · Single-eyed anxious observer folk · Reverse-aging egg-born folk · Novelty background folk · Extinct alien precursor folk · Violet imperial warrior folk · Bio-armor conqueror folk · Underground blue-skinned folk · Interstellar slaver-raider folk · Psionic-tech overlord folk · Fiery-tempered human-analog folk · Noble stoic swordsmaster folk · Sound-warping isolationist folk · Ancient star-colonist folk · Extinct hoarding native folk · Disciplined martial artist folk · Isolated colony-descendant folk · Dread-worshipping native folk · Desert spear-wielding folk · Calculating strategist folk · Pale blue peaceful star-farer folk · Cyclical conqueror empire folk · Diminished colonizer folk · Gladiatorial arena tribe folk · Nomadic fleet starfarer folk · Green warrior-assassin folk · Sparse ancient minor spacefarer folk · Utopian technological humanoid folk · Generic background alien folk · Plague-survivor pilgrim folk · Marked exile minor race folk · Cybernetic bounty-hunter minor race folk *(same numbers as a baseline human: play as one (Species rule 18))*
 
+![Cosmopolitan near-human folk](../Images/species-cosmopolitan-near-human-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
@@ -78,6 +81,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Dehydration-surviving alien folk *(NPC only)*
 
+![Dehydration-surviving alien folk](../Images/species-dehydration-surviving-alien-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Skills:** [Deception](../Skills/deception.md) Foreign Concept
@@ -88,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Winged warrior-empress folk *(NPC only)*
 
+![Winged warrior-empress folk](../Images/species-winged-warrior-empress-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +1
 - **Powers:** [Energy Bolt](../Powers/energy-bolt.md) 2, [Flight](../Powers/flight.md) 2
@@ -96,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 86 Grey alien scientist folk *(genres: space opera: near-humans)*
 
+![Grey alien scientist folk](../Images/species-grey-alien-scientist-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, grey-skinned, big-eyed scientists with dazzlingly advanced technology. (looks like: alien; good at: knowledge, making and fixing)
 - **Attributes:** STR −2 AGI +2 END −1 INT +2
@@ -103,6 +115,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; small size is an attribute matter and their technology is gear.
 
 ### No. 87 Heat-vulnerable soldier-stock folk *(genres: space opera: near-humans)*
+
+![Heat-vulnerable soldier-stock folk](../Images/species-heat-vulnerable-soldier-stock-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Human-like soldiers of a strict peacekeeping empire, dangerously prone to overheating. (looks like: human; good at: fighting, people and talk)
@@ -114,6 +129,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 88 Bred soldier caste folk *(genres: space opera: near-humans)*
 
+![Bred soldier caste folk](../Images/species-bred-soldier-caste-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Rigidly disciplined soldiers bred from birth to feel no fear. (looks like: human; good at: fighting, toughness)
 - **Attributes:** none
@@ -124,6 +142,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 89 Regenerating cyclopean folk *(genres: space opera: near-humans)*
 
+![Regenerating cyclopean folk](../Images/species-regenerating-cyclopean-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** One-eyed raiders with thick hides who can even regrow a lost eye. (looks like: one-eyed giant; good at: strength, toughness, healing)
 - **Attributes:** STR +2 AGI −2 END +1 INT −1
@@ -133,6 +154,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Tough hide and slow regrowth of a lost eye.
 
 ### No. 90 Wrinkle-snouted refugee folk *(genres: space opera: beast-like aliens)*
+
+![Wrinkle-snouted refugee folk](../Images/species-wrinkle-snouted-refugee-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Wrinkle-snouted desert refugees with an extraordinary sense of smell. (looks like: alien; good at: keen senses, wilderness)
@@ -145,6 +169,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 91 Elegant tall cloner folk *(genres: space opera: near-humans)*
 
+![Elegant tall cloner folk](../Images/species-elegant-tall-cloner-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, slender master cloners and geneticists from a stormy ocean world. (looks like: alien; good at: knowledge, making and fixing)
 - **Attributes:** STR +1 AGI −2 INT +1
@@ -152,6 +179,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; height is an attribute matter and cloning is culture.
 
 ### No. 92 Twin head-tail folk *(genres: space opera: near-humans)*
+
+![Twin head-tail folk](../Images/species-twin-head-tail-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Colourful desert folk who talk and balance with a pair of clever head-tails. (looks like: alien; good at: people and talk, wilderness)
@@ -161,6 +191,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Head-tails aid balance and silent signalling, and they bear heat well.
 
 ### No. 93 Pacifist hammerhead folk *(genres: space opera: strange aliens)*
+
+![Pacifist hammerhead folk](../Images/species-pacifist-hammerhead-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Peaceful hammerhead folk who let out a powerful sonic bellow when threatened. (looks like: alien; good at: powers and magic, wilderness)
@@ -172,6 +205,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 94 Gaunt long-lived sinkhole folk *(genres: space opera: near-humans)*
 
+![Gaunt long-lived sinkhole folk](../Images/species-gaunt-long-lived-sinkhole-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tall, gaunt, long-lived folk who dwell deep in sinkhole cities. (looks like: alien; good at: wilderness, knowledge)
 - **Attributes:** none
@@ -182,6 +218,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 95 Conical-skull binary-brain folk *(genres: space opera: near-humans)*
 
+![Conical-skull binary-brain folk](../Images/species-conical-skull-binary-brain-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cone-headed folk with a double brain and centuries of patient wisdom. (looks like: alien; good at: knowledge, people and talk)
 - **Attributes:** INT +1 WIS +1
@@ -191,6 +230,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 96 Small-bodied giant-brained folk *(genres: space opera: near-humans)*
 
+![Small-bodied giant-brained folk](../Images/species-small-bodied-giant-brained-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Tiny-bodied geniuses with an enormous brain and razor-sharp intellect. (looks like: alien; good at: knowledge, speed and agility)
 - **Attributes:** STR −2 AGI +2 END −1 INT +3
@@ -198,6 +240,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; small body and genius mind are attribute matters.
 
 ### No. 97 Threat-sensing prey folk *(genres: space opera: near-humans)*
+
+![Threat-sensing prey folk](../Images/species-threat-sensing-prey-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Nervous prey-folk who sense danger early and transform dramatically when scared. (looks like: alien; good at: keen senses, powers and magic)
@@ -209,6 +254,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 98 Pheromone-empath folk *(genres: space opera: near-humans)*
 
+![Pheromone-empath folk](../Images/species-pheromone-empath-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Naturally charming folk whose scent alone can win anyone over. (looks like: human; good at: people and talk, powers and magic)
 - **Attributes:** CHA +1
@@ -219,6 +267,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Dual-heart mountain folk *(NPC only)*
 
+![Dual-heart mountain folk](../Images/species-dual-heart-mountain-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1
 - **Skills:**, [Survival: Mountain](../Skills/survival-mountain.md) +1
@@ -226,6 +277,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A second heart suits them to high, thin air.
 
 ### Bioluminescent cave folk *(NPC only)*
+
+![Bioluminescent cave folk](../Images/species-bioluminescent-cave-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
@@ -236,6 +290,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Nomadic hunter-culture folk *(NPC only)*
 
+![Nomadic hunter-culture folk](../Images/species-nomadic-hunter-culture-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1
 - **Skills:** [Hunting](../Skills/hunting.md) +1, [Tracking](../Skills/tracking.md) +1
@@ -244,6 +301,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Size is an attribute matter; masks and gear are gear.
 
 ### No. 99 Symbiont-host folk *(genres: space opera: near-humans)*
+
+![Symbiont-host folk](../Images/species-symbiont-host-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Hosts who join with a symbiont and gain lifetimes of memory and skill. (looks like: alien; good at: knowledge, powers and magic)
@@ -255,12 +315,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Corrupted broken demon-touched folk *(NPC only)*
 
+![Corrupted broken demon-touched folk](../Images/species-corrupted-broken-demon-touched-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 END −1 CHA −2
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 13 · Parry 10 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 16 · Threat 1 ([Bestiary roles](../bestiary.md))
 - *Why:* Same as its species; the twisted, diminished frame is an attribute matter.
 
 ### Floating ancient god-king folk *(NPC only)*
+
+![Floating ancient god-king folk](../Images/species-floating-ancient-god-king-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −2 END −2 WIS +2 CHA +2
@@ -269,6 +335,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Frail bodies that hover rather than walk.
 
 ### Four-armed ancient tyrant folk *(NPC only)*
+
+![Four-armed ancient tyrant folk](../Images/species-four-armed-ancient-tyrant-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1
@@ -280,6 +349,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 100 Wandering ancient elder folk *(genres: space opera: near-humans)*
 
+![Wandering ancient elder folk](../Images/species-wandering-ancient-elder-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, calm, ancient wanderers with strange antenna-like head-fins. (looks like: alien; good at: strength, knowledge)
 - **Attributes:** STR +2 AGI −2
@@ -288,6 +360,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hostile small alien invader folk *(NPC only)*
 
+![Hostile small alien invader folk](../Images/species-hostile-small-alien-invader-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +1 END +1
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 13 · Parry 10 · Dodge 10 · Damage longsword 1d6+1 · Armour 2 · Life 16 · Threat 1 ([Bestiary roles](../bestiary.md))
@@ -295,12 +370,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Gender-segregated warrior folk *(NPC only)*
 
+![Gender-segregated warrior folk](../Images/species-gender-segregated-warrior-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 INT −2
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 5 · Damage longsword 1d6+2 · Armour 2 · Life 21 · Threat 2 ([Bestiary roles](../bestiary.md))
 - *Why:* Same as its species; muscular build is an attribute matter.
 
 ### No. 101 Multi-armed mad-scientist folk *(genres: space opera: strange aliens)*
+
+![Multi-armed mad-scientist folk](../Images/species-multi-armed-mad-scientist-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Brilliant, disgraced four-eyed scientists with extra arms for tinkering. (looks like: alien; good at: making and fixing, knowledge)
@@ -312,6 +393,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Genetically-bred ritual quarry folk *(NPC only)*
 
+![Genetically-bred ritual quarry folk](../Images/species-genetically-bred-ritual-quarry-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1
 - **Powers:** [Healing Factor](../Powers/healing-factor.md) 2
@@ -319,6 +403,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Bred to recover from being hunted again and again.
 
 ### No. 102 Stoic methodical tall folk *(genres: classic fantasy)*
+
+![Stoic methodical tall folk](../Images/species-stoic-methodical-tall-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tall, methodical, long-lived folk who reason everything out carefully. (looks like: alien; good at: knowledge, people and talk)
@@ -329,6 +416,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 103 Collectivist tech-reliant diplomat folk · Enslaved factory laborer folk *(genres: space opera: near-humans)*
 
+![Collectivist tech-reliant diplomat folk](../Images/species-collectivist-tech-reliant-diplomat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Physically weak but deeply collectivist diplomats who lean on advanced technology. (looks like: alien; good at: people and talk, making and fixing)
 - **Attributes:** STR −1
@@ -337,6 +427,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Enslaved factory laborer folk:* Same as its species; stunted build is an attribute matter.
 
 ### No. 104 Pointed-ear forest kingdom folk *(genres: classic fantasy)*
+
+![Pointed-ear forest kingdom folk](../Images/species-pointed-ear-forest-kingdom-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Athletic, brave forest-kingdom folk with a natural touch of magic. (looks like: elf; good at: speed and agility, powers and magic)
@@ -347,6 +440,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Psychically potent precursor folk *(NPC only)*
 
+![Psychically potent precursor folk](../Images/species-psychically-potent-precursor-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Powers:** [Telekinesis](../Powers/telekinesis.md) 2, [Telepathy](../Powers/telepathy.md) 1
@@ -355,12 +451,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Precursor bioweapon-maker folk *(NPC only)*
 
+![Precursor bioweapon-maker folk](../Images/species-precursor-bioweapon-maker-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +2 INT +2
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 5 · Damage longsword 1d6+2 · Armour 2 · Life 23 · Threat 2 ([Bestiary roles](../bestiary.md))
 - *Why:* Same as its species; great size is an attribute matter and the bioweapon is gear.
 
 ### Small furry wanderer folk · Small antenna'd trader folk *(NPC only)*
+
+![Small furry wanderer folk](../Images/species-small-furry-wanderer-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2
@@ -370,6 +472,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 105 Finned strongman folk *(genres: space opera: near-humans)*
 
+![Finned strongman folk](../Images/species-finned-strongman-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Green-skinned, fin-headed strongmen of mysterious origin, tough and fast-healing. (looks like: alien; good at: strength, toughness, healing)
 - **Attributes:** STR +2 AGI −2
@@ -378,6 +483,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Superhuman strength and durability with fast regeneration.
 
 ### No. 106 Telepathic diplomat folk · No. 110 Empathic moon-native folk *(genres: space opera: near-humans)*
+
+![Telepathic diplomat folk](../Images/species-telepathic-diplomat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary-looking diplomats prized for their strong telepathic gift. (looks like: human; good at: powers and magic, people and talk)
@@ -390,6 +498,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Telepathic mediator alien folk *(NPC only)*
 
+![Telepathic mediator alien folk](../Images/species-telepathic-mediator-alien-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 END −2 WIS +2
 - **Powers:** [Telepathy](../Powers/telepathy.md) 3
@@ -399,12 +510,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Militarist bruiser folk *(NPC only)*
 
+![Militarist bruiser folk](../Images/species-militarist-bruiser-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +2 INT −1
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 5 · Damage longsword 1d6+2 · Armour 2 · Life 23 · Threat 2 ([Bestiary roles](../bestiary.md))
 - *Why:* Same as its species; massive build is an attribute matter and war-breeding is culture.
 
 ### No. 107 Green-skinned genius folk *(genres: space opera: near-humans)*
+
+![Green-skinned genius folk](../Images/species-green-skinned-genius-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Frail, green-skinned geniuses obsessed with computation and technology. (looks like: alien; good at: knowledge, making and fixing)
@@ -413,6 +530,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; superior intellect and frailty are attribute matters.
 
 ### No. 108 Psionic bio-engineer folk *(genres: space opera: near-humans)*
+
+![Psionic bio-engineer folk](../Images/species-psionic-bio-engineer-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small grey-skinned engineers who read minds and reshape genes without much conscience. (looks like: alien; good at: knowledge, powers and magic)
@@ -424,6 +544,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hardened combat instructor folk *(NPC only)*
 
+![Hardened combat instructor folk](../Images/species-hardened-combat-instructor-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +2 COU +1
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +1
@@ -431,6 +554,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Bodies hardened by a brutal homeworld.
 
 ### No. 109 Eyeless echo-sensing folk *(genres: space opera: near-humans)*
+
+![Eyeless echo-sensing folk](../Images/species-eyeless-echo-sensing-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm, entirely blind folk who see the world through sound alone. (looks like: alien; good at: keen senses, knowledge)
@@ -443,6 +569,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 111 Electromagnetic manipulator folk *(genres: space opera: near-humans)*
 
+![Electromagnetic manipulator folk](../Images/species-electromagnetic-manipulator-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Orderly, industrious folk who command magnetic fields with their minds. (looks like: alien; good at: powers and magic, making and fixing)
 - **Attributes:** none
@@ -452,6 +581,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Metal Control stands for magnetism.
 
 ### No. 112 Self-duplicating triplicate folk *(genres: space opera: near-humans)*
+
+![Self-duplicating triplicate folk](../Images/species-self-duplicating-triplicate-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** People who can split themselves into two or three working copies at will. (looks like: human; good at: powers and magic, knowledge)
@@ -463,6 +595,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 113 Twin-birth farmer folk · Arena-bred gladiator folk *(genres: space opera: near-humans)*
 
+![Twin-birth farmer folk](../Images/species-twin-birth-farmer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Hardy farming folk from a world where every birth comes in twins. (looks like: human; good at: toughness, wilderness)
 - **Attributes:** END +1
@@ -473,6 +608,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 114 Precognitive seer-caste folk *(genres: space opera: near-humans)*
 
+![Precognitive seer-caste folk](../Images/species-precognitive-seer-caste-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Fatalistic seers born with flashes of the future in their dreams. (looks like: human; good at: powers and magic, knowledge)
 - **Attributes:** none
@@ -481,6 +619,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Many are born with limited foresight.
 
 ### No. 115 Thick-skinned frontier tough folk *(genres: space opera: near-humans)*
+
+![Thick-skinned frontier tough folk](../Images/species-thick-skinned-frontier-tough-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Blunt, streetwise frontier folk, naturally tougher and stronger than most. (looks like: human; good at: strength, toughness)
@@ -491,6 +632,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 116 Rubber-limbed bouncer folk *(genres: space opera: near-humans)*
 
+![Rubber-limbed bouncer folk](../Images/species-rubber-limbed-bouncer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cheerful, easygoing folk who stretch and bounce their bodies like rubber. (looks like: human; good at: powers and magic, speed and agility)
 - **Attributes:** none
@@ -499,6 +643,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Bodies that stretch and inflate like rubber.
 
 ### No. 117 Noble illusion-weaver folk *(genres: space opera: near-humans)*
+
+![Noble illusion-weaver folk](../Images/species-noble-illusion-weaver-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Courtly nobles gifted at weaving convincing illusions and hypnotic tricks. (looks like: human; good at: powers and magic, people and talk)
@@ -510,6 +657,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 118 Regenerating barbarian brawler folk *(genres: space opera: near-humans)*
 
+![Regenerating barbarian brawler folk](../Images/species-regenerating-barbarian-brawler-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Crude, ferocious brawlers who heal from savage wounds and shrug off hard vacuum. (looks like: monster; good at: strength, toughness, healing)
 - **Attributes:** STR +2 AGI −2
@@ -519,6 +669,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Environmental Immunity covers vacuum, briefly. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### No. 119 Tattooed emotion-conduit folk *(genres: space opera: near-humans)*
+
+![Tattooed emotion-conduit folk](../Images/species-tattooed-emotion-conduit-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Living-tattooed judges who read the crimes and feelings of everyone they meet. (looks like: human; good at: powers and magic, people and talk)
@@ -530,6 +683,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 120 Natural micro-shifter folk *(genres: space opera: near-humans)*
 
+![Natural micro-shifter folk](../Images/species-natural-micro-shifter-folk.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **What it's like:** Light-boned little folk who can shrink themselves smaller still. (looks like: human; good at: speed and agility, powers and magic)
 - **Attributes:** STR −3 AGI +3
@@ -539,6 +695,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 121 Hereditary spell-weaver folk *(genres: space opera: near-humans)*
 
+![Hereditary spell-weaver folk](../Images/species-hereditary-spell-weaver-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Secretive noble bloodlines gifted with illusion and shape-changing magic. (looks like: human; good at: powers and magic, knowledge)
 - **Attributes:** none
@@ -547,6 +706,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Hereditary sorcery of illusion and transmutation.
 
 ### No. 122 Serene blue optimist folk *(genres: space opera: near-humans)*
+
+![Serene blue optimist folk](../Images/species-serene-blue-optimist-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm, blue-skinned optimists whose presence alone fills others with hope. (looks like: alien; good at: powers and magic, people and talk)
@@ -558,6 +720,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 123 Light-emitting native folk *(genres: space opera: near-humans)*
 
+![Light-emitting native folk](../Images/species-light-emitting-native-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sun-bright natives who store light in their skin and flash it to blind foes. (looks like: alien; good at: powers and magic, fighting)
 - **Attributes:** none
@@ -566,6 +731,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Skin cells store and release light that can dazzle.
 
 ### Mind-controlling warlord folk *(NPC only; NPC-scale)*
+
+![Mind-controlling warlord folk](../Images/species-mind-controlling-warlord-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** WIS +2 CHA +2
@@ -576,6 +744,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Three-eyed overlord folk *(NPC only; NPC-scale)*
 
+![Three-eyed overlord folk](../Images/species-three-eyed-overlord-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 INT +2 WIS +2
 - **Powers:** [Mental Blast](../Powers/mental-blast.md) 3, [Energy Bolt](../Powers/energy-bolt.md) 2
@@ -584,6 +755,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 124 Empire noble-dynasty folk *(genres: space opera: near-humans)*
+
+![Empire noble-dynasty folk](../Images/species-empire-noble-dynasty-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Empire-builders whose royal line shifts shape and channels cosmic power; common folk are simply superbly tough. (looks like: human; good at: toughness, powers and magic)
@@ -595,6 +769,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Blue-skinned tracker hunter folk *(NPC only)*
 
+![Blue-skinned tracker hunter folk](../Images/species-blue-skinned-tracker-hunter-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Skills:** [Hunting](../Skills/hunting.md) +1, [Tracking](../Skills/tracking.md) +1
@@ -604,6 +781,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Green hulking warrior folk *(NPC only)*
 
+![Green hulking warrior folk](../Images/species-green-hulking-warrior-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +1
 - **Powers:** [Super Strength](../Powers/super-strength.md) 2, [Toughness](../Powers/toughness.md) 2
@@ -611,6 +791,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Superhuman strength and durability.
 
 ### No. 125 Energy-empowered corps folk *(genres: space opera: near-humans)*
+
+![Energy-empowered corps folk](../Images/species-energy-empowered-corps-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary people granted flight, great strength and energy blasts by a linked power source. (looks like: human; good at: flying, powers and magic, strength)
@@ -622,6 +805,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Patterned-skin minor race folk *(NPC only)*
 
+![Patterned-skin minor race folk](../Images/species-patterned-skin-minor-race-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Powers:** [Detect Life & Minds](../Powers/detect-life-and-minds.md) 1
@@ -629,6 +815,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Some psychic sensitivity.
 
 ### Frail pacifist telepath folk *(NPC only)*
+
+![Frail pacifist telepath folk](../Images/species-frail-pacifist-telepath-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 END −1 WIS +1

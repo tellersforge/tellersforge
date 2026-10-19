@@ -1,5 +1,9 @@
 # Finance
 
+![Finance](../Images/SK-070-skills-finance.jpg){.illus}
+
+
+*Catalogue: SK-070*
 *Set: Expansion*
 
 *aka: ______________________________*

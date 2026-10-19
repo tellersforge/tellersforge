@@ -1,5 +1,9 @@
 # Possessed beast
 
+![Possessed beast](../Images/BE-469-bestiary-possessed-beast.jpg){.illus}
+
+
+*Catalogue: BE-469*
 *Set: Core*
 
 *aka: ______________________________*

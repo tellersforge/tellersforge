@@ -1,5 +1,9 @@
 # Man-eating eagle
 
+![Man-eating eagle](../Images/BE-407-bestiary-man-eating-eagle.jpg){.illus}
+
+
+*Catalogue: BE-407*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Coconut crab
 
+![Coconut crab](../Images/BE-114-bestiary-coconut-crab.jpg){.illus}
+
+
+*Catalogue: BE-114*
 *Set: Core*
 
 *aka: ______________________________*

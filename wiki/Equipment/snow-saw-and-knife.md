@@ -1,5 +1,9 @@
 # Snow saw and knife
 
+![Snow saw and knife](../Images/GR-0891-equipment-snow-saw-and-knife.jpg){.illus}
+
+
+*Catalogue: GR-0891*
 *Set: Core*
 
 *aka: ______________________________*

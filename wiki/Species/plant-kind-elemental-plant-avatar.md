@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 617 Bog-born plant elemental *(high-power: Game Master's approval; genres: underworld and wild places, super-powered: mutants and the enhanced)*
 
+![Bog-born plant elemental](../Images/species-bog-born-plant-elemental.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Mossy swamp-born giants stitched from rotting plants and old memories, able to grow and command plants for miles around. (looks like: swamp monster; good at: powers and magic, wilderness)
 - **Attributes:** STR +4 AGI −2 END +2 WIS +1 CHA −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### Ancient tree-council elder *(beast)*
+
+![Ancient tree-council elder](../Images/species-ancient-tree-council-elder.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −5 END +2 INT +2 WIS +4 CHA −1

@@ -1,5 +1,9 @@
 # Hidden money belt
 
+![Hidden money belt](../Images/GR-0524-equipment-hidden-money-belt.jpg){.illus}
+
+
+*Catalogue: GR-0524*
 *Set: Expansion*
 
 *aka: ______________________________*

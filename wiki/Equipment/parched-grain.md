@@ -1,5 +1,9 @@
 # Parched grain
 
+![Parched grain](../Images/GR-0708-equipment-parched-grain.jpg){.illus}
+
+
+*Catalogue: GR-0708*
 *Set: Expansion*
 
 *aka: ______________________________*

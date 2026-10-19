@@ -1,5 +1,9 @@
 # Micro-drone swarm
 
+![Micro-drone swarm](../Images/BE-413-bestiary-micro-drone-swarm.jpg){.illus}
+
+
+*Catalogue: BE-413*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -10,6 +10,11 @@ Teller's Forge is an open tabletop roleplaying game for every era, from the ston
 - **Running a game?** The [Bestiary](bestiary.md) has every people as an NPC and every creature.
 - **Spotted a problem or have an idea?** Use [Suggest a change](suggest.html), on every page. No account needed.- **Want the books?** Every booklet is on the [Downloads](downloads.md) page as a PDF.
 
+## The tools
+
+- [The Finder](Downloads/TellersForge_Finder.html): search every race, skill, power, weapon group, creature and piece of gear, with filters for each, and jump to its wiki entry
+- [The Character Creator](Downloads/TellersForge_Character_Creator.html): build a character at Basic, Core or Expansion, print the sheet, and keep it through play
+
 ## The lexicons
 
 - [Skills lexicon](skills-lexicon.md): 224 skills · [Weapon groups](Weapon_Groups/swords.md) with their techniques · [Works](Works/true-reading.md): 75 Minor and Great Works

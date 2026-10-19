@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Void-hardy tunnel vermin *(beast)*
 
+![Void-hardy tunnel vermin](../Images/species-void-hardy-tunnel-vermin.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** quadruped
 - **Attributes:** STR −3 AGI +3 END +1 INT −3 WIS +1 COU −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A burrowing station pest.
 
 ### Fast-breeding furball pest *(beast)*
+
+![Fast-breeding furball pest](../Images/species-fast-breeding-furball-pest.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −4 AGI +1 END +1 INT −3 WIS +1 CHA +3 COU −1

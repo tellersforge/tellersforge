@@ -1,5 +1,9 @@
 # Construction
 
+![Construction](../Images/SK-041-skills-construction.jpg){.illus}
+
+
+*Catalogue: SK-041*
 *Set: Expansion*
 
 *aka: ______________________________*

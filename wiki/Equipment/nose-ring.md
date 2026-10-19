@@ -1,5 +1,9 @@
 # Nose ring
 
+![Nose ring](../Images/GR-0680-equipment-nose-ring.jpg){.illus}
+
+
+*Catalogue: GR-0680*
 *Set: Expansion*
 
 *aka: ______________________________*

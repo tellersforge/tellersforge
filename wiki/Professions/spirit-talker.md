@@ -1,5 +1,8 @@
 # Spirit-talker
 
+![Spirit-talker](../Images/professions-spirit-talker.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

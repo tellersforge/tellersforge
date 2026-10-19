@@ -1,5 +1,9 @@
 # Spacecraft Piloting
 
+![Spacecraft Piloting](../Images/SK-185-skills-spacecraft-piloting.jpg){.illus}
+
+
+*Catalogue: SK-185*
 *Set: Expansion*
 
 *aka: ______________________________*

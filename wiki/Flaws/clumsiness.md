@@ -1,5 +1,8 @@
 # Clumsiness
 
+![Clumsiness](../Images/flaws-clumsiness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Habits and body* kind. It fires when drops, breaks and knocks things over.

@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 310 Beast-mode caste robot *(genres: robots and synthetics)*
 
+![Beast-mode caste robot](../Images/species-beast-mode-caste-robot.jpg){.illus}
+
+
 - **Size:** huge · **Body:** quadruped
 - **What it's like:** A hulking robot built to transform into a dinosaur-like beast, immensely strong and simple-minded but built to smash. (looks like: robot; good at: strength, fighting)
 - **Attributes:** STR +6 AGI −4 END +2 INT −1 WIS −1 CHA −2
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Insect-mode caste robot *(NPC only)*
 
+![Insect-mode caste robot](../Images/species-insect-mode-caste-robot.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 END +2 WIS −1 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Computer Use](../Skills/computer-use.md) +1, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -59,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC. Some swarm or self-replicate (narrative). Mandibles are in insect mode.
 
 ### Titan-class robot *(NPC only; NPC-scale)*
+
+![Titan-class robot](../Images/species-titan-class-robot.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** biped
 - **Attributes:** STR +10 AGI −6 END +5 INT +1 WIS +1 CHA −2

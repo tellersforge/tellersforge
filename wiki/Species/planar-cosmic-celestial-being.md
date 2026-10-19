@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Celestial *(NPC only; NPC-scale)*
 
+![Celestial](../Images/species-celestial.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** biped
 - **Attributes:** STR +6 AGI −6 END −1 INT +3 WIS +4 CHA +1
 - **Skills:** [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2

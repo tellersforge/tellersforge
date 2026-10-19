@@ -1,5 +1,8 @@
 # Bully
 
+![Bully](../Images/flaws-bully.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when picks on the weak.

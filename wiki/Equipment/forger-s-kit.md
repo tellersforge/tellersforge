@@ -1,5 +1,9 @@
 # Forger's kit
 
+![Forger's kit](../Images/GR-0437-equipment-forger-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0437*
 *Set: Expansion*
 
 *aka: ______________________________*

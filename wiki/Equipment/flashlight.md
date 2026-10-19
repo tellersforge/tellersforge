@@ -1,5 +1,9 @@
 # Flashlight
 
+![Flashlight](../Images/GR-0417-equipment-flashlight.jpg){.illus}
+
+
+*Catalogue: GR-0417*
 *Set: Core*
 
 *aka: ______________________________*

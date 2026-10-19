@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Manticore-folk *(beast)*
 
+![Manticore-folk](../Images/species-manticore-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped+winged
 - **Attributes:** STR +2 END +1 INT −2 WIS +1 CHA −2
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A winged lion with a venomous scorpion tail that launches spines.
 
 ### Griffon/griffin-folk *(beast)*
+
+![Griffon/griffin-folk](../Images/species-griffon-griffin-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped+winged
 - **Attributes:** STR +2 INT −2 WIS +2 PER +2
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hippogriff-folk *(beast)*
 
+![Hippogriff-folk](../Images/species-hippogriff-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped+winged
 - **Attributes:** STR +2 AGI −1 INT −2 WIS +1 PER +2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -66,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Eagle foreparts on a horse's body: an eagle's eyes and a strong flier's wings.
 
 ### Lamia-folk *(NPC only)*
+
+![Lamia-folk](../Images/species-lamia-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** serpentine
 - **Attributes:** AGI +1 END −1 CHA +3
@@ -78,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Harpy-folk *(NPC only)*
 
+![Harpy-folk](../Images/species-harpy-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -88,6 +103,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Perception and Flight follow the Avian family. NPC only.
 
 ### No. 490 Naga-folk *(genres: myth and legend)*
+
+![Naga-folk](../Images/species-naga-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** serpentine
 - **What it's like:** Serpent-bodied naga with a human upper body, wise and regal, said to hold dominion over water and rain. (looks like: snake; good at: swimming, people and talk)
@@ -101,6 +119,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Arachne-folk *(NPC only)*
 
+![Arachne-folk](../Images/species-arachne-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 AGI +1 END +2 CHA −1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Spinning & Weaving](../Skills/spinning-and-weaving.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -110,6 +131,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Climbing and Wall Walking copied from the Insectoid and arachnid family; Entangle is the web. NPC only.
 
 ### No. 491 Minotaur-folk *(genres: myth and legend)*
+
+![Minotaur-folk](../Images/species-minotaur-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Bull-headed minotaur-folk of immense strength and an even bigger temper. (looks like: bull; good at: strength, fighting)
@@ -123,6 +147,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 492 Satyr *(genres: myth and legend; starter)*
 
+![Satyr](../Images/species-satyr.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** A nimble goat-legged wanderer who loves music, mischief and the wild hills. (looks like: goat; good at: strength, fighting, wilderness)
 - **Attributes:** STR +1 END +1
@@ -135,6 +162,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Gorgon-folk *(NPC only)*
 
+![Gorgon-folk](../Images/species-gorgon-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 WIS +1 CHA −1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -146,6 +176,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Chimera-folk *(beast)*
 
+![Chimera-folk](../Images/species-chimera-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +3 AGI −2 END +2 INT −2 WIS +1 PER +1
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -155,6 +188,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A many-headed lion-goat-serpent beast that breathes fire.
 
 ### Cockatrice-folk *(beast)*
+
+![Cockatrice-folk](../Images/species-cockatrice-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 INT −2 CHA −1
@@ -166,6 +202,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Crocodile-lion-hippo devourer folk *(beast)*
 
+![Crocodile-lion-hippo devourer folk](../Images/species-crocodile-lion-hippo-devourer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +2 AGI −1 END +2 INT −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -175,6 +214,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A crocodile-jawed river devourer with lion and hippo body parts.
 
 ### Vulture-lizard lord folk *(NPC only)*
+
+![Vulture-lizard lord folk](../Images/species-vulture-lizard-lord-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 END −1 INT +1 COU −2
@@ -187,6 +229,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Gentle giant beast-man folk *(NPC only)*
 
+![Gentle giant beast-man folk](../Images/species-gentle-giant-beast-man-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -198,6 +243,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient lion-turtle *(NPC only; NPC-scale)*
 
+![Ancient lion-turtle](../Images/species-ancient-lion-turtle.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +6 AGI −6 END +3 INT +3 WIS +3 CHA +2
 - **Skills:** [Swimming](../Skills/swimming.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -207,6 +255,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An island-sized ancient turtle-lion that can grant or take away special abilities.
 
 ### No. 493 Gargoyle folk *(genres: gothic horror)*
+
+![Gargoyle folk](../Images/species-gargoyle-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** Winged gargoyle-folk who fly through the night in long-lived clans, but turn to stone and freeze solid by day. (looks like: gargoyle; good at: flying, toughness)
@@ -219,6 +270,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 494 Big furry scarer folk *(genres: fairy tale and folklore)*
 
+![Big furry scarer folk](../Images/species-big-furry-scarer-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** A big, horned, many-limbed furry monster who scares children for a living, though it's really gentle at heart. (looks like: monster; good at: strength, people and talk)
 - **Attributes:** STR +3 AGI −2 END +1
@@ -229,6 +283,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Big horned furry monsters whose bodies are made for scaring, though they are gentle at heart.
 
 ### No. 495 Diverse monster-folk citizen · Procedurally-created hybrid species *(genres: fairy tale and folklore)*
+
+![Diverse monster-folk citizen](../Images/species-diverse-monster-folk-citizen.jpg){.illus}
+
 
 - **Size:** varies · **Body:** other
 - **What it's like:** A monster-folk citizen of wildly varied looks — many eyes, tentacles or scales — holding down an ordinary working life. (looks like: monster; good at: people and talk, making and fixing)
@@ -241,6 +298,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 496 Whatnot folk *(genres: animal fable)*
 
+![Whatnot folk](../Images/species-whatnot-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Soft-bodied, endlessly varied puppet-folk with no fixed shape, born performers in comedy and variety shows. (looks like: puppet; good at: people and talk, sneaking)
 - **Attributes:** STR −1 CHA +1
@@ -251,6 +311,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bird-footed water fey *(NPC only)*
 
+![Bird-footed water fey](../Images/species-bird-footed-water-fey.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +1 END −1 CHA +2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -260,6 +323,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Jackal-headed folk *(NPC only)*
+
+![Jackal-headed folk](../Images/species-jackal-headed-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1 WIS +2 COU +1
@@ -272,6 +338,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cat-headed folk *(NPC only)*
 
+![Cat-headed folk](../Images/species-cat-headed-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -282,6 +351,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Copied from the Feline family. NPC only.
 
 ### Crocodile-headed folk *(NPC only)*
+
+![Crocodile-headed folk](../Images/species-crocodile-headed-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +1 CHA −1
@@ -294,6 +366,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Palace lamassu folk *(NPC only)*
 
+![Palace lamassu folk](../Images/species-palace-lamassu-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** quadruped+winged
 - **Attributes:** STR +6 AGI −4 END +2 WIS +2 PER +2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -304,6 +379,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only. No hands: held weapons unusable.
 
 ### Night-stalking rakshasa folk *(NPC only)*
+
+![Night-stalking rakshasa folk](../Images/species-night-stalking-rakshasa-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 INT +1 WIS +1 CHA +2
@@ -316,6 +394,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 497 Heavenly gandharva folk *(genres: heavens, hells and other planes, myth and legend)*
 
+![Heavenly gandharva folk](../Images/species-heavenly-gandharva-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Celestial musician-spirits, sometimes touched by horse or bird features, masters of music and magic alike. (looks like: human with wings; good at: powers and magic, people and talk)
 - **Attributes:** STR −1 CHA +2
@@ -325,6 +406,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Celestial musician-spirits, masters of music and magic.
 
 ### No. 498 Lotus-voiced kinnara folk *(genres: myth and legend)*
+
+![Lotus-voiced kinnara folk](../Images/species-lotus-voiced-kinnara-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+winged
 - **What it's like:** Small half-bird, half-human celestial dancers and singers, famous as devoted lovers and gifted performers. (looks like: human with wings; good at: flying, people and talk)
@@ -338,6 +422,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Benevolent qilin folk *(NPC only)*
 
+![Benevolent qilin folk](../Images/species-benevolent-qilin-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +3 AGI −2 END +1 WIS +3 CHA +1
 - **Skills:** [Running](../Skills/running.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -349,6 +436,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Treasure-hoarding pixiu folk *(beast)*
 
+![Treasure-hoarding pixiu folk](../Images/species-treasure-hoarding-pixiu-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped+winged
 - **Attributes:** STR +1 AGI +1 INT −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -358,6 +448,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A winged lion-dragon beast that swallows and hoards wealth.
 
 ### Treasure-guarding grootslang folk *(NPC only)*
+
+![Treasure-guarding grootslang folk](../Images/species-treasure-guarding-grootslang-folk.jpg){.illus}
+
 
 - **Size:** huge · **Body:** serpentine
 - **Attributes:** STR +6 AGI −4 END +2 INT +1 WIS +1
@@ -371,6 +464,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Lake-guarding panther-spirit folk *(NPC only)*
 
+![Lake-guarding panther-spirit folk](../Images/species-lake-guarding-panther-spirit-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped+other
 - **Attributes:** STR +2 END +1 WIS +2 CHA +1
 - **Skills:** [Swimming](../Skills/swimming.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -382,6 +478,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Red-eyed moth-man *(beast)*
 
+![Red-eyed moth-man](../Images/species-red-eyed-moth-man.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** AGI +1 INT −2 WIS +1 CHA −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -390,6 +489,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A grey moth-winged humanoid that flies.
 
 ### Spined chupacabra *(beast)*
+
+![Spined chupacabra](../Images/species-spined-chupacabra.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+other
 - **Attributes:** AGI +2 END +1 INT −2 CHA −2
@@ -401,6 +503,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Kangaroo-hooved devil *(beast)*
 
+![Kangaroo-hooved devil](../Images/species-kangaroo-hooved-devil.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 INT −2 CHA −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -411,6 +516,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Serpent-leopard questing beast *(beast)*
 
+![Serpent-leopard questing beast](../Images/species-serpent-leopard-questing-beast.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +2 AGI +1 END +2 INT −2
 - **Skills:** [Running](../Skills/running.md) +3, [Danger Sense](../Skills/danger-sense.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -420,6 +528,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A patchwork beast that endlessly outruns and evades pursuit.
 
 ### Nightmare-eating baku folk *(NPC only)*
+
+![Nightmare-eating baku folk](../Images/species-nightmare-eating-baku-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** AGI −1 END +1 WIS +2
@@ -432,6 +543,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 499 Pompom flying mouse-creature *(genres: fairy tale and folklore)*
 
+![Pompom flying mouse-creature](../Images/species-pompom-flying-mouse-creature.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+winged
 - **What it's like:** A round, bat-winged little creature with a fluffy antenna, cheerfully carrying mail and crafting things in its own funny speech. (looks like: bat; good at: flying, making and fixing)
 - **Attributes:** STR −2 AGI +2 WIS +1 COU −1
@@ -443,6 +557,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Single-eyed floating aberration *(NPC only)*
 
+![Single-eyed floating aberration](../Images/species-single-eyed-floating-aberration.jpg){.illus}
+
+
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR −1 AGI −2 INT +3 WIS +2 PER +2 CHA −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -452,6 +569,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only. No hands: held weapons unusable.
 
 ### Four-armed insectoid trader race *(NPC only)*
+
+![Four-armed insectoid trader race](../Images/species-four-armed-insectoid-trader-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -463,6 +583,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Armour Skin follows the Insectoid and arachnid family, reduced for partial chitin. NPC only. Four arms make a shield or second weapon easy to use.
 
 ### No. 500 Hippo-headed militaristic mercenary folk *(genres: beast-folk: fur, space opera: beast-like aliens)*
+
+![Hippo-headed militaristic mercenary folk](../Images/species-hippo-headed-militaristic-mercenary-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Hippo-headed mercenaries of immense strength, drilled hard in a rigid military culture and fond of gunpowder weapons. (looks like: hippo; good at: strength, fighting)
@@ -476,6 +599,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 501 Bird-reptile mercenary hunter folk *(genres: space opera: beast-like aliens)*
 
+![Bird-reptile mercenary hunter folk](../Images/species-bird-reptile-mercenary-hunter-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A bird-headed mercenary hunter with keen eyesight and a mighty leap, gaining new traits from whatever it eats. (looks like: bird; good at: keen senses, speed and agility)
 - **Attributes:** AGI +2 END −2 WIS +1 PER +2
@@ -488,6 +614,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Multi-limbed predator monster *(beast)*
 
+![Multi-limbed predator monster](../Images/species-multi-limbed-predator-monster.jpg){.illus}
+
+
 - **Size:** huge · **Body:** varies
 - **Attributes:** STR +6 AGI −3 END +2 INT −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -498,6 +627,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Three-eyed fox *(beast)*
 
+![Three-eyed fox](../Images/species-three-eyed-fox.jpg){.illus}
+
+
 - **Size:** small · **Body:** quadruped
 - **Attributes:** STR −2 AGI +2 END +1 INT −2 WIS +2
 - **Skills:** [Tracking](../Skills/tracking.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Stealth](../Skills/stealth.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -507,6 +639,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An ordinary fox with a third eye that sees the uncanny.
 
 ### Monstrous rat-folk *(NPC only)*
+
+![Monstrous rat-folk](../Images/species-monstrous-rat-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −1 END +1 INT −1 WIS +1 CHA −1
@@ -519,6 +654,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Alchemically-fused chimera *(NPC only)*
 
+![Alchemically-fused chimera](../Images/species-alchemically-fused-chimera.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **Attributes:** STR +1 END +1 WIS −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Composure](../Skills/composure.md) −2, [Disguise](../Skills/disguise.md) −2
@@ -529,6 +667,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bred hunter-beast *(beast)*
 
+![Bred hunter-beast](../Images/species-bred-hunter-beast.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +2 AGI −2 END +1 INT −2 WIS +2 COU +1
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -538,6 +679,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An armoured wolf-like beast bred to track prey across dimensions.
 
 ### Telepathic beast-alien *(NPC only)*
+
+![Telepathic beast-alien](../Images/species-telepathic-beast-alien.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT +1 WIS +2

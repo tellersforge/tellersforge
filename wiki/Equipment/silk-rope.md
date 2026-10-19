@@ -1,5 +1,9 @@
 # Silk rope
 
+![Silk rope](../Images/GR-0864-equipment-silk-rope.jpg){.illus}
+
+
+*Catalogue: GR-0864*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bear-hyena
 
+![Bear-hyena](../Images/BE-038-bestiary-bear-hyena.jpg){.illus}
+
+
+*Catalogue: BE-038*
 *Set: Core*
 
 *aka: ______________________________*

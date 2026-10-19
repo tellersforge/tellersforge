@@ -1,5 +1,9 @@
 # Survival: Desert
 
+![Survival: Desert](../Images/SK-199-skills-survival-desert.jpg){.illus}
+
+
+*Catalogue: SK-199*
 *Set: Expansion*
 
 *aka: ______________________________*

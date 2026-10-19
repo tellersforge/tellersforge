@@ -1,5 +1,9 @@
 # Messenger bag
 
+![Messenger bag](../Images/GR-0646-equipment-messenger-bag.jpg){.illus}
+
+
+*Catalogue: GR-0646*
 *Set: Expansion*
 
 *aka: ______________________________*

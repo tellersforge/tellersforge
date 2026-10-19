@@ -35,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 722 Brute ape warrior folk *(genres: space opera: beast-like aliens)*
 
+![Brute ape warrior folk](../Images/species-brute-ape-warrior-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Big, brutally strong ape warriors from a militarised tribal warband. (looks like: ape; good at: strength, fighting)
 - **Attributes:** STR +5 AGI −1 INT −2 WIS −1 COU +1
@@ -43,6 +46,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Brutal warband apes.
 
 ### No. 723 Chimpanzee-folk *(genres: beast-folk: fur)*
+
+![Chimpanzee-folk](../Images/species-chimpanzee-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailless
 - **What it's like:** Clever, tool-using chimpanzee folk, strong climbers with a complex, sometimes scholarly society. (looks like: monkey; good at: climbing, knowledge)
@@ -53,6 +59,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 724 Orangutan-folk *(genres: beast-folk: fur)*
 
+![Orangutan-folk](../Images/species-orangutan-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailless
 - **What it's like:** Long-armed, patient orangutan folk, superb tree-climbers who often become judges or priests. (looks like: ape; good at: climbing, knowledge)
 - **Attributes:** STR +4 AGI −1 INT −1 WIS +1
@@ -62,6 +71,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bonobo-folk *(NPC only)*
 
+![Bonobo-folk](../Images/species-bonobo-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailless
 - **Attributes:** STR +2 AGI +2 INT −1 WIS −1 CHA +2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +1, [Insight](../Skills/insight.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -70,6 +82,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Philosopher ape folk *(NPC only)*
 
+![Philosopher ape folk](../Images/species-philosopher-ape-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 AGI +1 WIS +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Acrobatics](../Skills/acrobatics.md) +1, [Balance](../Skills/balance.md) +1, [Philosophy & Logic](../Skills/philosophy-and-logic.md) +1, [Throwing](../Skills/throwing.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -77,6 +92,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Calm, reclusive philosophers.
 
 ### No. 725 Uplifted ape folk *(genres: uplifted animals)*
+
+![Uplifted ape folk](../Images/species-uplifted-ape-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Genetically uplifted ape folk, sharp-minded and nimble-fingered, serving as junior partners to their human patrons. (looks like: monkey; good at: knowledge, climbing)

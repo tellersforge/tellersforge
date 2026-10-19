@@ -1,5 +1,9 @@
 # Darkness-casting dropper
 
+![Darkness-casting dropper](../Images/BE-139-bestiary-darkness-casting-dropper.jpg){.illus}
+
+
+*Catalogue: BE-139*
 *Set: Expansion*
 
 *aka: ______________________________*

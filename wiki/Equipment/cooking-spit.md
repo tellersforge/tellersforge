@@ -1,5 +1,9 @@
 # Cooking spit
 
+![Cooking spit](../Images/GR-0298-equipment-cooking-spit.jpg){.illus}
+
+
+*Catalogue: GR-0298*
 *Set: Core*
 
 *aka: ______________________________*

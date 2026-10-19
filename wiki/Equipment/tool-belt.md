@@ -1,5 +1,9 @@
 # Tool belt
 
+![Tool belt](../Images/GR-0963-equipment-tool-belt.jpg){.illus}
+
+
+*Catalogue: GR-0963*
 *Set: Expansion*
 
 *aka: ______________________________*

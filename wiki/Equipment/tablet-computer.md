@@ -1,5 +1,9 @@
 # Tablet computer
 
+![Tablet computer](../Images/GR-0943-equipment-tablet-computer.jpg){.illus}
+
+
+*Catalogue: GR-0943*
 *Set: Expansion*
 
 *aka: ______________________________*

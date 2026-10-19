@@ -1,5 +1,9 @@
 # Topographic map
 
+![Topographic map](../Images/GR-0965-equipment-topographic-map.jpg){.illus}
+
+
+*Catalogue: GR-0965*
 *Set: Expansion*
 
 *aka: ______________________________*

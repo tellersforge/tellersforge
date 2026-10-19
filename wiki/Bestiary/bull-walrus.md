@@ -1,5 +1,9 @@
 # Bull walrus
 
+![Bull walrus](../Images/BE-080-bestiary-bull-walrus.jpg){.illus}
+
+
+*Catalogue: BE-080*
 *Set: Core*
 
 *aka: ______________________________*

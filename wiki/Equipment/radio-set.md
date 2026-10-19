@@ -1,7 +1,8 @@
 # Radio set
 
-![Radio set](../Images/equipment-radio-set.jpg){.illus}
+![Radio set](../Images/GR-0777-equipment-radio-set.jpg){.illus}
 
+*Catalogue: GR-0777*
 *Set: Core*
 
 *aka: ______________________________*

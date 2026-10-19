@@ -1,7 +1,8 @@
 # Flail
 
-![Flail](../Images/weapons-flail.jpg){.illus}
+![Flail](../Images/GR-0034-weapons-flail.jpg){.illus}
 
+*Catalogue: GR-0034*
 *Set: Expansion*
 
 *aka: ______________________________*

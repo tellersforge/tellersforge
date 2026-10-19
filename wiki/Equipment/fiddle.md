@@ -1,5 +1,9 @@
 # Fiddle
 
+![Fiddle](../Images/GR-0399-equipment-fiddle.jpg){.illus}
+
+
+*Catalogue: GR-0399*
 *Set: Expansion*
 
 *aka: ______________________________*

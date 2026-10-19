@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Brood-monster offspring *(beast; NPC-scale)*
 
+![Brood-monster offspring](../Images/species-brood-monster-offspring.jpg){.illus}
+
+
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +7 AGI −3 END +3 INT −3 WIS −2 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3

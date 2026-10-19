@@ -1,5 +1,9 @@
 # Resist Element
 
+![Resist Element](../Images/PW-243-powers-resist-element.jpg){.illus}
+
+
+*Catalogue: PW-243*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Wrist computer
 
-![Wrist computer](../Images/equipment-wrist-computer.jpg){.illus}
+![Wrist computer](../Images/GR-1038-equipment-wrist-computer.jpg){.illus}
 
+*Catalogue: GR-1038*
 *Set: Expansion*
 
 *aka: ______________________________*

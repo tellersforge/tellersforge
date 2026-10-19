@@ -1,5 +1,9 @@
 # Box jellyfish
 
+![Box jellyfish](../Images/BE-069-bestiary-box-jellyfish.jpg){.illus}
+
+
+*Catalogue: BE-069*
 *Set: Core*
 
 *aka: ______________________________*

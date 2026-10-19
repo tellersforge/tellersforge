@@ -1,7 +1,8 @@
 # Curved Dagger
 
-![Curved dagger](../Images/weapons-curved-dagger.jpg){.illus}
+![Curved dagger](../Images/GR-0024-weapons-curved-dagger.jpg){.illus}
 
+*Catalogue: GR-0024*
 *Set: Expansion*
 
 *aka: ______________________________*

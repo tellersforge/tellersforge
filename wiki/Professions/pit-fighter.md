@@ -1,5 +1,8 @@
 # Pit fighter
 
+![Pit fighter](../Images/professions-pit-fighter.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

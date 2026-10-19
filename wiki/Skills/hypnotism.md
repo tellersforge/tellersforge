@@ -1,5 +1,9 @@
 # Hypnotism
 
+![Hypnotism](../Images/SK-095-skills-hypnotism.jpg){.illus}
+
+
+*Catalogue: SK-095*
 *Set: Expansion*
 
 *aka: ______________________________*

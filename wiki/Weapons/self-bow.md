@@ -1,7 +1,8 @@
 # Self Bow
 
-![Self-bow](../Images/weapons-self-bow.jpg){.illus}
+![Self-bow](../Images/GR-0088-weapons-self-bow.jpg){.illus}
 
+*Catalogue: GR-0088*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Intrigue & Politics
 
+![Intrigue & Politics](../Images/SK-101-skills-intrigue-and-politics.jpg){.illus}
+
+
+*Catalogue: SK-101*
 *Set: Expansion*
 
 *aka: ______________________________*

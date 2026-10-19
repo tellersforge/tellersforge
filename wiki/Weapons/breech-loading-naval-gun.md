@@ -1,5 +1,9 @@
 # Breech-Loading Naval Gun
 
+![Breech-Loading Naval Gun](../Images/GR-0013-weapons-breech-loading-naval-gun.jpg){.illus}
+
+
+*Catalogue: GR-0013*
 *Set: Expansion*
 
 *aka: ______________________________*

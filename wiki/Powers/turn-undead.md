@@ -1,7 +1,8 @@
 # Turn Undead
 
-![Turn undead](../Images/powers-turn-undead.jpg){.illus}
+![Turn undead](../Images/PW-307-powers-turn-undead.jpg){.illus}
 
+*Catalogue: PW-307*
 *Set: Core*
 
 *aka: ______________________________*

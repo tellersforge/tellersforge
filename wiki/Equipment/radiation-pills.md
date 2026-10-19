@@ -1,5 +1,9 @@
 # Radiation pills
 
+![Radiation pills](../Images/GR-0774-equipment-radiation-pills.jpg){.illus}
+
+
+*Catalogue: GR-0774*
 *Set: Expansion*
 
 *aka: ______________________________*

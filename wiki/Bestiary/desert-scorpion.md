@@ -1,5 +1,9 @@
 # Desert scorpion
 
+![Desert scorpion](../Images/BE-146-bestiary-desert-scorpion.jpg){.illus}
+
+
+*Catalogue: BE-146*
 *Set: Core*
 
 *aka: ______________________________*

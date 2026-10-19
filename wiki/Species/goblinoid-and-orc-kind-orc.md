@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 479 Half-orc civilized orc folk *(genres: classic fantasy)*
 
+![Half-orc civilized orc folk](../Images/species-half-orc-civilized-orc-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Strong, resilient orc-folk fully at home in wider society, unlike their wilder cousins. (looks like: orc; good at: strength, toughness)
 - **Attributes:** STR +1 END +1 INT −1 COU +1
@@ -45,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Resilient, and at home in polite society.
 
 ### Corrupted mannish soldiery *(NPC only)*
+
+![Corrupted mannish soldiery](../Images/species-corrupted-mannish-soldiery.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +1 INT −1 CHA −2 COU +1
@@ -56,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Forest-raiding dark elf kin *(NPC only)*
 
+![Forest-raiding dark elf kin](../Images/species-forest-raiding-dark-elf-kin.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +2 INT −1 WIS +1 PER +2 CHA −1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Diplomacy](../Skills/diplomacy.md) −1, [Court Etiquette & Protocol](../Skills/court-etiquette-and-protocol.md) −2, [Etiquette](../Skills/etiquette.md) −2
@@ -66,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Orc messenger-slaves *(NPC only)*
 
+![Orc messenger-slaves](../Images/species-orc-messenger-slaves.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 INT −1 CHA −1 COU −1
 - **Skills:** [Running](../Skills/running.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Diplomacy](../Skills/diplomacy.md) −1, [Court Etiquette & Protocol](../Skills/court-etiquette-and-protocol.md) −2, [Etiquette](../Skills/etiquette.md) −2
@@ -74,6 +86,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* The smallest orc-kin, used as runners.
 
 ### Sun-tolerant super-soldiery *(NPC only)*
+
+![Sun-tolerant super-soldiery](../Images/species-sun-tolerant-super-soldiery.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1 CHA −1 COU +2
@@ -84,6 +99,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* They take no sunlight flaw. Size and strength are attributes.
 
 ### No. 480 Fel-corrupted clan warrior orc *(genres: dark fantasy, classic fantasy)*
+
+![Fel-corrupted clan warrior orc](../Images/species-fel-corrupted-clan-warrior-orc.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Tusked green orc warriors bound by clan and honour, whose shamanic magic grows more corrupting the longer they use it. (looks like: orc; good at: strength, fighting)

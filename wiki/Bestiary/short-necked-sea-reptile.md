@@ -1,5 +1,9 @@
 # Short-necked sea reptile
 
+![Short-necked sea reptile](../Images/BE-543-bestiary-short-necked-sea-reptile.jpg){.illus}
+
+
+*Catalogue: BE-543*
 *Set: Expansion*
 
 *aka: ______________________________*

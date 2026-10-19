@@ -1,5 +1,9 @@
 # Mathematics
 
+![Mathematics](../Images/SK-123-skills-mathematics.jpg){.illus}
+
+
+*Catalogue: SK-123*
 *Set: Core · Basic skill: Technology*
 
 *aka: ______________________________*

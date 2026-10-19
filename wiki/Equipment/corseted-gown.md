@@ -1,5 +1,9 @@
 # Corseted gown
 
+![Corseted gown](../Images/GR-0304-equipment-corseted-gown.jpg){.illus}
+
+
+*Catalogue: GR-0304*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Fear of Birds
 
+![Fear of Birds](../Images/flaws-fear-of-birds.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when birds, flapping wings, flocks.

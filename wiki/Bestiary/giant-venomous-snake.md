@@ -1,5 +1,9 @@
 # Giant venomous snake
 
+![Giant venomous snake](../Images/BE-289-bestiary-giant-venomous-snake.jpg){.illus}
+
+
+*Catalogue: BE-289*
 *Set: Expansion*
 
 *aka: ______________________________*

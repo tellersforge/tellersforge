@@ -1,5 +1,9 @@
 # Geas
 
+![Geas](../Images/PW-115-powers-geas.jpg){.illus}
+
+
+*Catalogue: PW-115*
 *Set: Expansion*
 
 *aka: ______________________________*

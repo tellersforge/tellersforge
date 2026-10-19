@@ -1,7 +1,8 @@
 # Abyssal anglerfish
 
-![Abyssal anglerfish](../Images/bestiary-abyssal-anglerfish.jpg){.illus}
+![Abyssal anglerfish](../Images/BE-002-bestiary-abyssal-anglerfish.jpg){.illus}
 
+*Catalogue: BE-002*
 *Set: Expansion*
 
 *aka: ______________________________*

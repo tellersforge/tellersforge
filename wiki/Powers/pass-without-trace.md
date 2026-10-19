@@ -1,5 +1,9 @@
 # Pass Without Trace
 
+![Pass Without Trace](../Images/PW-207-powers-pass-without-trace.jpg){.illus}
+
+
+*Catalogue: PW-207*
 *Set: Expansion*
 
 *aka: ______________________________*

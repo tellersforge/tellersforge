@@ -1,5 +1,9 @@
 # Apothecary chest
 
+![Apothecary chest](../Images/GR-0185-equipment-apothecary-chest.jpg){.illus}
+
+
+*Catalogue: GR-0185*
 *Set: Expansion*
 
 *aka: ______________________________*

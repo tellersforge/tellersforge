@@ -1,7 +1,8 @@
 # Dungeon pit brute
 
-![Dungeon pit brute](../Images/bestiary-dungeon-pit-brute.jpg){.illus}
+![Dungeon pit brute](../Images/BE-166-bestiary-dungeon-pit-brute.jpg){.illus}
 
+*Catalogue: BE-166*
 *Set: Expansion*
 
 *aka: ______________________________*

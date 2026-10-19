@@ -1,5 +1,9 @@
 # Shadow sea ray
 
+![Shadow sea ray](../Images/BE-536-bestiary-shadow-sea-ray.jpg){.illus}
+
+
+*Catalogue: BE-536*
 *Set: Expansion*
 
 *aka: ______________________________*

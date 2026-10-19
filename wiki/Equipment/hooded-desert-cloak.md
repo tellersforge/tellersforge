@@ -1,5 +1,9 @@
 # Hooded desert cloak
 
+![Hooded desert cloak](../Images/GR-0545-equipment-hooded-desert-cloak.jpg){.illus}
+
+
+*Catalogue: GR-0545*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Culture Blindness
 
+![Culture Blindness](../Images/flaws-culture-blindness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when ignores or mocks foreign customs.

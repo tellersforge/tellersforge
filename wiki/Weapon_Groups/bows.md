@@ -1,5 +1,9 @@
 # Bows
 
+![Bows](../Images/WG-006-weapon-groups-bows.jpg){.illus}
+
+
+*Catalogue: WG-006*
 *Set: Core*
 
 *aka: ______________________________*

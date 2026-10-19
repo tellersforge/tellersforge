@@ -1,5 +1,9 @@
 # Memory Strike
 
+![Memory Strike](../Images/PW-176-powers-memory-strike.jpg){.illus}
+
+
+*Catalogue: PW-176*
 *Set: Expansion*
 
 *aka: ______________________________*

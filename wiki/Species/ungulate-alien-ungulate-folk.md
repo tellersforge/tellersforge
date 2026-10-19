@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Two-headed herbivore alien *(NPC only)*
 
+![Two-headed herbivore alien](../Images/species-two-headed-herbivore-alien.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +1 INT +3 COU −3
 - **Skills:** [Danger Sense](../Skills/danger-sense.md) +3, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Running](../Skills/running.md) +2, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Composure](../Skills/composure.md) −1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2

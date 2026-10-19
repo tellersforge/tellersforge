@@ -1,5 +1,9 @@
 # Sentry robot
 
+![Sentry robot](../Images/BE-531-bestiary-sentry-robot.jpg){.illus}
+
+
+*Catalogue: BE-531*
 *Set: Expansion*
 
 *aka: ______________________________*

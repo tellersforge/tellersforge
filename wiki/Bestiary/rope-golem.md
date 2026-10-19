@@ -1,5 +1,9 @@
 # Rope golem
 
+![Rope golem](../Images/BE-505-bestiary-rope-golem.jpg){.illus}
+
+
+*Catalogue: BE-505*
 *Set: Expansion*
 
 *aka: ______________________________*

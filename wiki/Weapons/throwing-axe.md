@@ -1,7 +1,8 @@
 # Throwing Axe
 
-![Throwing axe](../Images/weapons-throwing-axe.jpg){.illus}
+![Throwing axe](../Images/GR-0111-weapons-throwing-axe.jpg){.illus}
 
+*Catalogue: GR-0111*
 *Set: Expansion*
 
 *aka: ______________________________*

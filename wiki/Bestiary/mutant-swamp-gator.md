@@ -1,5 +1,9 @@
 # Mutant swamp gator
 
+![Mutant swamp gator](../Images/BE-433-bestiary-mutant-swamp-gator.jpg){.illus}
+
+
+*Catalogue: BE-433*
 *Set: Expansion*
 
 *aka: ______________________________*

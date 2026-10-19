@@ -1,5 +1,9 @@
 # Scrying
 
+![Scrying](../Images/PW-250-powers-scrying.jpg){.illus}
+
+
+*Catalogue: PW-250*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 482 Tusked alien companion-kind *(genres: space opera: near-humans)*
 
+![Tusked alien companion-kind](../Images/species-tusked-alien-companion-kind.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Green-skinned, tusked alien folk, hearty and fiercely loyal companions in any fight. (looks like: orc; good at: fighting, toughness)
 - **Attributes:** STR +1 END +1 INT −1 CHA −1 COU +1

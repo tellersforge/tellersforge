@@ -1,7 +1,8 @@
 # Pitch torch
 
-![Pitch torch](../Images/equipment-pitch-torch.jpg){.illus}
+![Pitch torch](../Images/GR-0727-equipment-pitch-torch.jpg){.illus}
 
+*Catalogue: GR-0727*
 *Set: Core*
 
 *aka: ______________________________*

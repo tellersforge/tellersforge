@@ -1,5 +1,9 @@
 # Beast Speech
 
+![Beast Speech](../Images/PW-021-powers-beast-speech.jpg){.illus}
+
+
+*Catalogue: PW-021*
 *Set: Expansion*
 
 *aka: ______________________________*

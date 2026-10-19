@@ -1,5 +1,9 @@
 # Wrapped robe
 
+![Wrapped robe](../Images/GR-1036-equipment-wrapped-robe.jpg){.illus}
+
+
+*Catalogue: GR-1036*
 *Set: Expansion*
 
 *aka: ______________________________*

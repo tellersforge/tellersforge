@@ -1,5 +1,9 @@
 # Orbital nav computer
 
+![Orbital nav computer](../Images/GR-0691-equipment-orbital-nav-computer.jpg){.illus}
+
+
+*Catalogue: GR-0691*
 *Set: Expansion*
 
 *aka: ______________________________*

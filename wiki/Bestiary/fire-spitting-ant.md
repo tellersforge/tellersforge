@@ -1,5 +1,9 @@
 # Fire-spitting ant
 
+![Fire-spitting ant](../Images/BE-195-bestiary-fire-spitting-ant.jpg){.illus}
+
+
+*Catalogue: BE-195*
 *Set: Expansion*
 
 *aka: ______________________________*

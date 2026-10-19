@@ -1,5 +1,9 @@
 # Wild rabbit
 
+![Wild rabbit](../Images/BE-673-bestiary-wild-rabbit.jpg){.illus}
+
+
+*Catalogue: BE-673*
 *Set: Core*
 
 *aka: ______________________________*

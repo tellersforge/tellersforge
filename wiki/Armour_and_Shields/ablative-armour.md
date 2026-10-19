@@ -1,7 +1,8 @@
 # Ablative armour
 
-![Ablative armour](../Images/armour-ablative-armour.jpg){.illus}
+![Ablative armour](../Images/GR-0121-armour-ablative-armour.jpg){.illus}
 
+*Catalogue: GR-0121*
 *Set: Expansion*
 
 *aka: ______________________________*

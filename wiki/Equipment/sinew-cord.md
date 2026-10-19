@@ -1,5 +1,9 @@
 # Sinew cord
 
+![Sinew cord](../Images/GR-0866-equipment-sinew-cord.jpg){.illus}
+
+
+*Catalogue: GR-0866*
 *Set: Core*
 
 *aka: ______________________________*

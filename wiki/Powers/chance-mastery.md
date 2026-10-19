@@ -1,5 +1,9 @@
 # Chance-Mastery
 
+![Chance-Mastery](../Images/PW-034-powers-chance-mastery.jpg){.illus}
+
+
+*Catalogue: PW-034*
 *Set: Expansion*
 
 *aka: ______________________________*

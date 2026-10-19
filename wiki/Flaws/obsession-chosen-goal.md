@@ -1,5 +1,8 @@
 # Obsession (chosen goal)
 
+![Obsession (chosen goal)](../Images/flaws-obsession-chosen-goal.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when chases one goal at the cost of all else.

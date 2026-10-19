@@ -1,5 +1,9 @@
 # Mutant swamp mosquito
 
+![Mutant swamp mosquito](../Images/BE-434-bestiary-mutant-swamp-mosquito.jpg){.illus}
+
+
+*Catalogue: BE-434*
 *Set: Expansion*
 
 *aka: ______________________________*

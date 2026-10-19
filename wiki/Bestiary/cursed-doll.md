@@ -1,5 +1,9 @@
 # Cursed doll
 
+![Cursed doll](../Images/BE-138-bestiary-cursed-doll.jpg){.illus}
+
+
+*Catalogue: BE-138*
 *Set: Expansion*
 
 *aka: ______________________________*

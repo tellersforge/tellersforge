@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fully-encased armored isolationist *(NPC only)*
 
+![Fully-encased armored isolationist](../Images/species-fully-encased-armored-isolationist.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Skills:** [Military Tactics](../Skills/military-tactics.md) +1
@@ -33,12 +36,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Never-seen corporate gestalt culture *(NPC only)*
 
+![Never-seen corporate gestalt culture](../Images/species-never-seen-corporate-gestalt-culture.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** none
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
 - *Note:* Its probe intermediary is gear.
 
 ### Brain-in-vessel arena keepers *(NPC only; NPC-scale)*
+
+![Brain-in-vessel arena keepers](../Images/species-brain-in-vessel-arena-keepers.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** STR −3 AGI −3 INT +3 WIS +2

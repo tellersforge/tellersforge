@@ -1,5 +1,9 @@
 # Heavy Ship's Laser
 
+![Heavy Ship's Laser](../Images/GR-0051-weapons-heavy-ship-s-laser.jpg){.illus}
+
+
+*Catalogue: GR-0051*
 *Set: Expansion*
 
 *aka: ______________________________*

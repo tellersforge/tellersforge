@@ -1,5 +1,9 @@
 # Scholar's gown
 
+![Scholar's gown](../Images/GR-0823-equipment-scholar-s-gown.jpg){.illus}
+
+
+*Catalogue: GR-0823*
 *Set: Expansion*
 
 *aka: ______________________________*

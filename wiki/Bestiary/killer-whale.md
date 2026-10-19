@@ -1,5 +1,9 @@
 # Killer whale
 
+![Killer whale](../Images/BE-377-bestiary-killer-whale.jpg){.illus}
+
+
+*Catalogue: BE-377*
 *Set: Core*
 
 *aka: ______________________________*

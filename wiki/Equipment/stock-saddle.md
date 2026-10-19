@@ -1,5 +1,9 @@
 # Stock saddle
 
+![Stock saddle](../Images/GR-0919-equipment-stock-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0919*
 *Set: Core*
 
 *aka: ______________________________*

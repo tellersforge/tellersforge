@@ -1,5 +1,9 @@
 # Conjure Food & Water
 
+![Conjure Food & Water](../Images/PW-046-powers-conjure-food-and-water.jpg){.illus}
+
+
+*Catalogue: PW-046*
 *Set: Core*
 
 *aka: ______________________________*

@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 674 Chaos rat-man horde *(genres: dark fantasy)*
 
+![Chaos rat-man horde](../Images/species-chaos-rat-man-horde.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Numerous, cunning rat-folk, twisted by dark corruption and dangerous mainly in overwhelming numbers. (looks like: rat; good at: sneaking, powers and magic)
 - **Attributes:** STR −1 AGI +1 END +1 INT +1 WIS +1 COU −1
@@ -48,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 675 Small rat-folk labourer · No. 678 Civilization-founding rat folk · Underworld rat faction folk *(genres: beast-folk: fur)*
 
+![Small rat-folk labourer](../Images/species-small-rat-folk-labourer.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, quick-breeding rat-folk labourers, resourceful and often looked down on unfairly. (looks like: rat; good at: sneaking, keen senses)
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 COU −1
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 13 · Parry 10 · Dodge 11 · Damage longsword 1d6+1; bite 1d6-1 · Armour 2 · Life 16 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Mutant rat sensei *(NPC only)*
+
+![Mutant rat sensei](../Images/species-mutant-rat-sensei.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END +1 WIS +3 COU +1
@@ -68,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mechanized rat mutant *(NPC only)*
 
+![Mechanized rat mutant](../Images/species-mechanized-rat-mutant.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +1 END +1 INT +1 WIS +1 COU −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Tracking](../Skills/tracking.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -77,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Mechanical parts are gear. NPC.
 
 ### No. 676 Sewer-dwelling rat folk *(genres: space opera: beast-like aliens)*
+
+![Sewer-dwelling rat folk](../Images/species-sewer-dwelling-rat-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Sharp-toothed rat-folk perfectly at home in the filthiest sewers and tunnels. (looks like: rat; good at: sneaking, toughness)
@@ -89,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 677 Spear-wielding rat-folk kingdom *(genres: beast-folk: fur)*
 
+![Spear-wielding rat-folk kingdom](../Images/species-spear-wielding-rat-folk-kingdom.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Spear-carrying rat-folk knights with an honourable culture that turns the usual rat stereotype on its head. (looks like: rat; good at: fighting, speed and agility)
 - **Attributes:** STR −1 AGI +1 END +1 WIS +1
@@ -100,6 +118,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Assassin-cult ratfolk clan *(NPC only)*
 
+![Assassin-cult ratfolk clan](../Images/species-assassin-cult-ratfolk-clan.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +3 END −1 WIS +1 COU −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Poisons & Antidotes](../Skills/poisons-and-antidotes.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Tracking](../Skills/tracking.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -109,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A poisoner clan with innate shadow magic.
 
 ### Beast-breeder ratfolk clan *(NPC only)*
+
+![Beast-breeder ratfolk clan](../Images/species-beast-breeder-ratfolk-clan.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +1 END +1 INT +1 WIS +1 COU −1
@@ -120,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Plague-cult ratfolk clan *(NPC only)*
 
+![Plague-cult ratfolk clan](../Images/species-plague-cult-ratfolk-clan.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +1 END +3 WIS +1 CHA −2 COU −1
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Tracking](../Skills/tracking.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -129,6 +156,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Immune to its own plagues and spreads them.
 
 ### Warlock-engineer ratfolk clan *(NPC only)*
+
+![Warlock-engineer ratfolk clan](../Images/species-warlock-engineer-ratfolk-clan.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +1 END +1 INT +2 COU −1

@@ -1,5 +1,9 @@
 # Word of Creation
 
+![Word of Creation](../Images/PW-326-powers-word-of-creation.jpg){.illus}
+
+
+*Catalogue: PW-326*
 *Set: Expansion*
 
 *aka: ______________________________*

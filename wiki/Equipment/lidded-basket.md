@@ -1,5 +1,9 @@
 # Lidded basket
 
+![Lidded basket](../Images/GR-0595-equipment-lidded-basket.jpg){.illus}
+
+
+*Catalogue: GR-0595*
 *Set: Expansion*
 
 *aka: ______________________________*

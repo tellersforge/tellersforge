@@ -1,5 +1,9 @@
 # Survival: Forest (Woodcraft)
 
+![Survival: Forest (Woodcraft)](../Images/SK-200-skills-survival-forest-woodcraft.jpg){.illus}
+
+
+*Catalogue: SK-200*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

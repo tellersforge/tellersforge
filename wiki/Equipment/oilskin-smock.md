@@ -1,5 +1,9 @@
 # Oilskin smock
 
+![Oilskin smock](../Images/GR-0690-equipment-oilskin-smock.jpg){.illus}
+
+
+*Catalogue: GR-0690*
 *Set: Expansion*
 
 *aka: ______________________________*

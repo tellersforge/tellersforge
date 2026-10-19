@@ -1,5 +1,9 @@
 # Flails & Chains
 
+![Flails & Chains](../Images/WG-012-weapon-groups-flails-and-chains.jpg){.illus}
+
+
+*Catalogue: WG-012*
 *Set: Expansion*
 
 *aka: ______________________________*

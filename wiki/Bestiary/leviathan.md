@@ -1,7 +1,8 @@
 # Leviathan
 
-![Leviathan](../Images/bestiary-leviathan.jpg){.illus}
+![Leviathan](../Images/BE-386-bestiary-leviathan.jpg){.illus}
 
+*Catalogue: BE-386*
 *Set: Expansion*
 
 *aka: ______________________________*

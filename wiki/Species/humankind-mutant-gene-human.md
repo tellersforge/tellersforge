@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 130 Underground mutant enclave folk *(genres: super-powered: mutants and the enhanced)*
 
+![Underground mutant enclave folk](../Images/species-underground-mutant-enclave-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **What it's like:** Persecuted mutants hiding in the tunnels beneath cities, each with a wildly different gift. (looks like: human; good at: powers and magic, sneaking)
 - **Attributes:** none
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The GM Sets one power per character.
 
 ### No. 131 Immortal mutant strain folk *(genres: super-powered: mutants and the enhanced)*
+
+![Immortal mutant strain folk](../Images/species-immortal-mutant-strain-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Rare, hunted mutants who barely age and heal from almost any wound. (looks like: human; good at: healing, toughness)
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Advanced mutant descendant folk · Minor cosmetic mutant folk *(same numbers as a baseline human: play as one (Species rule 18))*
 
+![Advanced mutant descendant folk](../Images/species-advanced-mutant-descendant-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
@@ -51,6 +60,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Minor cosmetic mutant folk:* Same as its species; cosmetic mutation only.
 
 ### Life-force-draining mutate folk *(NPC only)*
+
+![Life-force-draining mutate folk](../Images/species-life-force-draining-mutate-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none

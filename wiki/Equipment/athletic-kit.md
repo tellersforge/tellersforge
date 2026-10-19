@@ -1,5 +1,9 @@
 # Athletic kit
 
+![Athletic kit](../Images/GR-0193-equipment-athletic-kit.jpg){.illus}
+
+
+*Catalogue: GR-0193*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Great barracuda
 
+![Great barracuda](../Images/BE-303-bestiary-great-barracuda.jpg){.illus}
+
+
+*Catalogue: BE-303*
 *Set: Core*
 
 *aka: ______________________________*

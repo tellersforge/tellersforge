@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Winged horse *(beast)*
 
+![Winged horse](../Images/species-winged-horse.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped+winged
 - **Attributes:** STR +2 END +1 INT −3
 - **Skills:** [Running](../Skills/running.md) +3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +2, [Formation Fighting](../Skills/formation-fighting.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Jumping](../Skills/jumping.md) +1, [Acrobatics](../Skills/acrobatics.md) −1, [Stealth](../Skills/stealth.md) −2, [Climbing](../Skills/climbing.md) −3, [Riding](../Skills/riding.md) Foreign Concept

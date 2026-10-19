@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 137 Solar-empowered ascendant folk *(genres: myth and legend, heavens, hells and other planes)*
 
+![Solar-empowered ascendant folk](../Images/species-solar-empowered-ascendant-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Mortals chosen by a solar power to become supreme masters of their craft. (looks like: human; good at: knowledge, powers and magic)
 - **Attributes:** none
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 138 Fate-weaving ascendant folk *(genres: myth and legend)*
 
+![Fate-weaving ascendant folk](../Images/species-fate-weaving-ascendant-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Secretive masters chosen by fate itself, weaving destiny and a secret martial art. (looks like: human; good at: powers and magic, fighting)
 - **Attributes:** none
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carries out the species note. The secret martial art is Profession.
 
 ### Minor-god ascendant folk *(NPC only)*
+
+![Minor-god ascendant folk](../Images/species-minor-god-ascendant-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none

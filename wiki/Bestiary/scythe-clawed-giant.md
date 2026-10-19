@@ -1,5 +1,9 @@
 # Scythe-clawed giant
 
+![Scythe-clawed giant](../Images/BE-522-bestiary-scythe-clawed-giant.jpg){.illus}
+
+
+*Catalogue: BE-522*
 *Set: Expansion*
 
 *aka: ______________________________*

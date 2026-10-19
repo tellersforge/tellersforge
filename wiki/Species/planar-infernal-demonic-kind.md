@@ -35,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### True devil (lawful evil outsider) *(NPC only; NPC-scale)*
 
+![True devil (lawful evil outsider)](../Images/species-true-devil-lawful-evil-outsider.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +2 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Law](../Skills/law.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -45,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Chaotic evil outsider (demon) *(NPC only; NPC-scale)*
 
+![Chaotic evil outsider (demon)](../Images/species-chaotic-evil-outsider-demon.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +1 INT −2 WIS −1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -53,6 +59,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A feral, regenerating demon of destructive rage.
 
 ### Fallen fire-demon spirit *(NPC only; NPC-scale)*
+
+![Fallen fire-demon spirit](../Images/species-fallen-fire-demon-spirit.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped+winged
 - **Attributes:** STR +6 AGI −4 END −1 WIS +1 CHA +1 COU +3
@@ -63,6 +72,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Elemental Aura and Resist Element are fire.
 
 ### Lord of darkness *(NPC only; NPC-scale)*
+
+![Lord of darkness](../Images/species-lord-of-darkness.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped+horned
 - **Attributes:** STR +4 AGI −4 END −1 WIS +1 CHA +3 COU +3
@@ -75,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Half-demon paranormal investigator *(NPC-scale)*
 
+![Half-demon paranormal investigator](../Images/species-half-demon-paranormal-investigator.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+horned
 - **Attributes:** STR +4 AGI −2 END −1 WIS +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1
@@ -86,6 +101,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sealed ward-bound demon *(NPC only; NPC-scale)*
 
+![Sealed ward-bound demon](../Images/species-sealed-ward-bound-demon.jpg){.illus}
+
+
 - **Size:** varies · **Body:** biped
 - **Attributes:** END −1 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -94,6 +112,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Forms vary; being sealed away is story, not a line.
 
 ### Div demon *(NPC only; NPC-scale)*
+
+![Div demon](../Images/species-div-demon.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END −1 INT −1 WIS +1 CHA +1 COU +1
@@ -105,6 +126,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Descending star demon *(NPC only; NPC-scale)*
 
+![Descending star demon](../Images/species-descending-star-demon.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 END −1 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -113,6 +137,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A skeletal sky-demon that darkens the sun and moon in eclipse.
 
 ### Lesser demon *(NPC only; NPC-scale)*
+
+![Lesser demon](../Images/species-lesser-demon.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 CHA +1 COU +1
@@ -123,6 +150,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Shadow Shaping is affinity.
 
 ### Greater demon *(NPC-scale)*
+
+![Greater demon](../Images/species-greater-demon.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+winged
 - **Attributes:** STR +2 AGI −2 END −1 INT +1 WIS +1 CHA +1 COU +1
@@ -135,6 +165,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Minor scamp/imp servant *(NPC only; NPC-scale)*
 
+![Minor scamp/imp servant](../Images/species-minor-scamp-imp-servant.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 CHA +1 COU −1
 - **Skills:** [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Composure](../Skills/composure.md) −1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -144,6 +177,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Large infernal shock-troop *(NPC only; NPC-scale)*
 
+![Large infernal shock-troop](../Images/species-large-infernal-shock-troop.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END −1 INT −2 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -152,6 +188,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A brutish melee demon with a little fire magic and no guile.
 
 ### Elemental snow demon *(NPC only; NPC-scale)*
+
+![Elemental snow demon](../Images/species-elemental-snow-demon.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END −1 WIS +1 CHA +1 COU +1
@@ -163,6 +202,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Utukku demon *(NPC only; NPC-scale)*
 
+![Utukku demon](../Images/species-utukku-demon.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal
 - **Attributes:** STR −3 END −1 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -172,6 +214,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Some are protective; temperament is not a line. No hands: held weapons unusable.
 
 ### Royal deformed offshoot *(NPC only; NPC-scale)*
+
+![Royal deformed offshoot](../Images/species-royal-deformed-offshoot.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** END −1 WIS +1 CHA +1 COU +1
@@ -183,6 +228,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Resurrected hellspawn soldier *(NPC-scale)*
 
+![Resurrected hellspawn soldier](../Images/species-resurrected-hellspawn-soldier.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 END −1 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -193,6 +241,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Feral mutated hellspawn *(NPC only; NPC-scale)*
 
+![Feral mutated hellspawn](../Images/species-feral-mutated-hellspawn.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped+tailed
 - **Attributes:** STR +5 AGI −4 INT −3 WIS −1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Composure](../Skills/composure.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -202,6 +253,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A hellspawn overrun by bestial mutation: clawed, regenerating and losing its reason.
 
 ### Infernal legion overlord *(NPC only; NPC-scale)*
+
+![Infernal legion overlord](../Images/species-infernal-legion-overlord.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped+winged+tailed
 - **Attributes:** STR +4 AGI −4 END −1 INT +1 WIS +1 CHA +3 COU +2
@@ -214,6 +268,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wish-granting dungeon demon *(NPC only; NPC-scale)*
 
+![Wish-granting dungeon demon](../Images/species-wish-granting-dungeon-demon.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI −2 END −1 INT +1 WIS +1 CHA +2 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -223,6 +280,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Pocket Realm is its dungeon domain.
 
 ### True-name demon lord *(NPC-scale)*
+
+![True-name demon lord](../Images/species-true-name-demon-lord.jpg){.illus}
+
 
 - **Size:** varies · **Body:** varies
 - **Attributes:** STR +2 END −1 INT +1 WIS +1 CHA +3 COU +1
@@ -234,6 +294,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Near-omniscient demon overlord *(NPC only; NPC-scale)*
 
+![Near-omniscient demon overlord](../Images/species-near-omniscient-demon-overlord.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **Attributes:** END −1 INT +3 WIS +4 CHA +3 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -243,6 +306,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Infernal ascendant champion *(NPC only; NPC-scale)*
+
+![Infernal ascendant champion](../Images/species-infernal-ascendant-champion.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 WIS +1 CHA +1 COU +1
@@ -254,6 +320,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bound demon-knight *(NPC-scale)*
 
+![Bound demon-knight](../Images/species-bound-demon-knight.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END −1 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -263,6 +332,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Soul-bargaining devil *(NPC only; NPC-scale)*
+
+![Soul-bargaining devil](../Images/species-soul-bargaining-devil.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END −1 INT +2 WIS +2 CHA +3 COU +1
@@ -274,6 +346,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pocket-hell demon *(NPC only; NPC-scale)*
 
+![Pocket-hell demon](../Images/species-pocket-hell-demon.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END −1 WIS +1 CHA +1 COU +1
 - **Skills:** [Arcana](../Skills/arcana.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -284,6 +359,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient sealed elder demon *(NPC only; NPC-scale)*
 
+![Ancient sealed elder demon](../Images/species-ancient-sealed-elder-demon.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END −1 INT +2 WIS +1 CHA +1 COU +1
 - **Skills:** [Arcana](../Skills/arcana.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Deception](../Skills/deception.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2
@@ -293,6 +371,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Hell-lord's bound demon · Rival hell-lord's bound demon *(NPC only; NPC-scale)*
+
+![Hell-lord's bound demon](../Images/species-hell-lord-s-bound-demon.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END −1 WIS +1 CHA +1 COU +1

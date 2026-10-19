@@ -1,5 +1,8 @@
 # Working poor
 
+![Working poor](../Images/stations-working-poor.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

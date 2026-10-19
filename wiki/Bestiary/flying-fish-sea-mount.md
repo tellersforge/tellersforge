@@ -1,5 +1,9 @@
 # Flying-fish sea mount
 
+![Flying-fish sea mount](../Images/BE-207-bestiary-flying-fish-sea-mount.jpg){.illus}
+
+
+*Catalogue: BE-207*
 *Set: Expansion*
 
 *aka: ______________________________*

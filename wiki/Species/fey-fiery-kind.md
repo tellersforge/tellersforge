@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Detachable-limb pranksters *(NPC only)*
 
+![Detachable-limb pranksters](../Images/species-detachable-limb-pranksters.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +1 END −1 CHA +2
 - **Skills:** [Dance](../Skills/dance.md) +3, [Carousing](../Skills/carousing.md) +2, [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Escape Artistry](../Skills/escape-artistry.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept

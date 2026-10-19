@@ -1,5 +1,9 @@
 # Shoulder bag
 
+![Shoulder bag](../Images/GR-0849-equipment-shoulder-bag.jpg){.illus}
+
+
+*Catalogue: GR-0849*
 *Set: Expansion*
 
 *aka: ______________________________*

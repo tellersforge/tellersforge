@@ -1,5 +1,9 @@
 # Air Supply
 
+![Air Supply](../Images/PW-004-powers-air-supply.jpg){.illus}
+
+
+*Catalogue: PW-004*
 *Set: Expansion*
 
 *aka: ______________________________*

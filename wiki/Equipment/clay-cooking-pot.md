@@ -1,5 +1,9 @@
 # Clay cooking pot
 
+![Clay cooking pot](../Images/GR-0274-equipment-clay-cooking-pot.jpg){.illus}
+
+
+*Catalogue: GR-0274*
 *Set: Expansion*
 
 *aka: ______________________________*

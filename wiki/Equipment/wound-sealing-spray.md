@@ -1,5 +1,9 @@
 # Wound-sealing spray
 
+![Wound-sealing spray](../Images/GR-1033-equipment-wound-sealing-spray.jpg){.illus}
+
+
+*Catalogue: GR-1033*
 *Set: Expansion*
 
 *aka: ______________________________*

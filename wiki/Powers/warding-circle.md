@@ -1,5 +1,9 @@
 # Warding Circle
 
+![Warding Circle](../Images/PW-314-powers-warding-circle.jpg){.illus}
+
+
+*Catalogue: PW-314*
 *Set: Expansion*
 
 *aka: ______________________________*

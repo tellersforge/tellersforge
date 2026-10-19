@@ -1,5 +1,9 @@
 # Mason's tools
 
+![Mason's tools](../Images/GR-0630-equipment-mason-s-tools.jpg){.illus}
+
+
+*Catalogue: GR-0630*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 430 Neighborhood occult-cat *(genres: animal fable, gothic horror)*
 
+![Neighborhood occult-cat](../Images/species-neighborhood-occult-cat.jpg){.illus}
+
+
 - **Size:** small · **Body:** quadruped
 - **What it's like:** An independent, secretive cat with a sixth sense for the supernatural, sometimes friend and sometimes rival to the local dogs. (looks like: cat; good at: keen senses, sneaking)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +2

@@ -1,5 +1,9 @@
 # Tidal apex shark
 
+![Tidal apex shark](../Images/BE-624-bestiary-tidal-apex-shark.jpg){.illus}
+
+
+*Catalogue: BE-624*
 *Set: Expansion*
 
 *aka: ______________________________*

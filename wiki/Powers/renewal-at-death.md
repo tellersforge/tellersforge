@@ -1,5 +1,9 @@
 # Renewal at Death
 
+![Renewal at Death](../Images/PW-242-powers-renewal-at-death.jpg){.illus}
+
+
+*Catalogue: PW-242*
 *Set: Expansion*
 
 *aka: ______________________________*

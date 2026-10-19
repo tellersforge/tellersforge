@@ -1,5 +1,9 @@
 # Cross staff
 
+![Cross staff](../Images/GR-0311-equipment-cross-staff.jpg){.illus}
+
+
+*Catalogue: GR-0311*
 *Set: Expansion*
 
 *aka: ______________________________*

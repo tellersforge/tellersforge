@@ -1,7 +1,8 @@
 # Night-vision goggles
 
-![Night-vision goggles](../Images/equipment-night-vision-goggles.jpg){.illus}
+![Night-vision goggles](../Images/GR-0678-equipment-night-vision-goggles.jpg){.illus}
 
+*Catalogue: GR-0678*
 *Set: Core*
 
 *aka: ______________________________*

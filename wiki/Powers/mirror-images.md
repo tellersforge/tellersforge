@@ -1,5 +1,9 @@
 # Mirror Images
 
+![Mirror Images](../Images/PW-190-powers-mirror-images.jpg){.illus}
+
+
+*Catalogue: PW-190*
 *Set: Expansion*
 
 *aka: ______________________________*

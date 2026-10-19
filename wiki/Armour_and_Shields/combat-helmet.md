@@ -1,7 +1,8 @@
 # Combat helmet
 
-![Combat helmet](../Images/armour-combat-helmet.jpg){.illus}
+![Combat helmet](../Images/GR-0134-armour-combat-helmet.jpg){.illus}
 
+*Catalogue: GR-0134*
 *Set: Core*
 
 *aka: ______________________________*

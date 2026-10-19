@@ -1,5 +1,9 @@
 # Earrings
 
+![Earrings](../Images/GR-0360-equipment-earrings.jpg){.illus}
+
+
+*Catalogue: GR-0360*
 *Set: Expansion*
 
 *aka: ______________________________*

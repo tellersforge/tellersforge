@@ -1,5 +1,9 @@
 # Herald's tabard
 
+![Herald's tabard](../Images/GR-0521-equipment-herald-s-tabard.jpg){.illus}
+
+
+*Catalogue: GR-0521*
 *Set: Expansion*
 
 *aka: ______________________________*

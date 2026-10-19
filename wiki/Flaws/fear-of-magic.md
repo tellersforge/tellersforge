@@ -1,5 +1,8 @@
 # Fear of Magic
 
+![Fear of Magic](../Images/flaws-fear-of-magic.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when spellcasters, powers, enchantments.

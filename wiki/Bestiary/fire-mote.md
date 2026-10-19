@@ -1,5 +1,9 @@
 # Fire mote
 
+![Fire mote](../Images/BE-194-bestiary-fire-mote.jpg){.illus}
+
+
+*Catalogue: BE-194*
 *Set: Expansion*
 
 *aka: ______________________________*

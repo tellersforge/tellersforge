@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wild giant snake *(beast)*
 
+![Wild giant snake](../Images/species-wild-giant-snake.jpg){.illus}
+
+
 - **Size:** large · **Body:** serpentine
 - **Attributes:** STR +3 AGI −1 END +1 INT −3 CHA −1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Climbing](../Skills/climbing.md) +1, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Jumping](../Skills/jumping.md) −2, [Running](../Skills/running.md) −2, [Survival: Arctic](../Skills/survival-arctic.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A giant ambush constrictor.
 
 ### Hypnotic predator serpent folk *(NPC only)*
+
+![Hypnotic predator serpent folk](../Images/species-hypnotic-predator-serpent-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** serpentine
 - **Attributes:** STR +3 AGI −2 END +1 WIS +1 CHA +1
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Hold works by gaze.
 
 ### Shapeshifting lizard-dragon guardian *(NPC only)*
+
+![Shapeshifting lizard-dragon guardian](../Images/species-shapeshifting-lizard-dragon-guardian.jpg){.illus}
+
 
 - **Size:** large · **Body:** serpentine
 - **Attributes:** STR +3 AGI −2 END +1 WIS +2

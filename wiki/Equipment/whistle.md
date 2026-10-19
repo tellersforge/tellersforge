@@ -1,5 +1,9 @@
 # Whistle
 
+![Whistle](../Images/GR-1013-equipment-whistle.jpg){.illus}
+
+
+*Catalogue: GR-1013*
 *Set: Expansion*
 
 *aka: ______________________________*

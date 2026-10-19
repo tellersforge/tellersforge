@@ -1,5 +1,9 @@
 # Radiation shot
 
+![Radiation shot](../Images/GR-0775-equipment-radiation-shot.jpg){.illus}
+
+
+*Catalogue: GR-0775*
 *Set: Expansion*
 
 *aka: ______________________________*

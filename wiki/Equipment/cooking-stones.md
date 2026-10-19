@@ -1,5 +1,9 @@
 # Cooking stones
 
+![Cooking stones](../Images/GR-0299-equipment-cooking-stones.jpg){.illus}
+
+
+*Catalogue: GR-0299*
 *Set: Core*
 
 *aka: ______________________________*

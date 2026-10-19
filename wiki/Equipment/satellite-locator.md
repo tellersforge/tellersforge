@@ -1,5 +1,9 @@
 # Satellite locator
 
+![Satellite locator](../Images/GR-0818-equipment-satellite-locator.jpg){.illus}
+
+
+*Catalogue: GR-0818*
 *Set: Expansion*
 
 *aka: ______________________________*

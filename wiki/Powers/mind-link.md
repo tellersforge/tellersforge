@@ -1,5 +1,9 @@
 # Mind Link
 
+![Mind Link](../Images/PW-184-powers-mind-link.jpg){.illus}
+
+
+*Catalogue: PW-184*
 *Set: Expansion*
 
 *aka: ______________________________*

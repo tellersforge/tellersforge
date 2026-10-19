@@ -1,5 +1,9 @@
 # Great lone wolf
 
+![Great lone wolf](../Images/BE-307-bestiary-great-lone-wolf.jpg){.illus}
+
+
+*Catalogue: BE-307*
 *Set: Expansion*
 
 *aka: ______________________________*

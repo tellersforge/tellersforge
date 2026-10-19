@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 136 Mist-awakened folk *(genres: super-powered: mutants and the enhanced)*
 
+![Mist-awakened folk](../Images/species-mist-awakened-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **What it's like:** Ordinary descendants who gain one wildly random superhuman power when a strange mist touches them. (looks like: human; good at: powers and magic, toughness)
 - **Attributes:** none
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The GM Sets one power at 2 per character on awakening.
 
 ### Bred servitor caste folk *(beast)*
+
+![Bred servitor caste folk](../Images/species-bred-servitor-caste-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1 INT −2 COU −1

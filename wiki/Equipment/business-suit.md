@@ -1,5 +1,9 @@
 # Business suit
 
+![Business suit](../Images/GR-0241-equipment-business-suit.jpg){.illus}
+
+
+*Catalogue: GR-0241*
 *Set: Expansion*
 
 *aka: ______________________________*

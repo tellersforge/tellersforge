@@ -1,5 +1,9 @@
 # Formation Fighting
 
+![Formation Fighting](../Images/SK-078-skills-formation-fighting.jpg){.illus}
+
+
+*Catalogue: SK-078*
 *Set: Expansion*
 
 *aka: ______________________________*

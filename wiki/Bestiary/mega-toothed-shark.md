@@ -1,5 +1,9 @@
 # Mega-toothed shark
 
+![Mega-toothed shark](../Images/BE-412-bestiary-mega-toothed-shark.jpg){.illus}
+
+
+*Catalogue: BE-412*
 *Set: Core*
 
 *aka: ______________________________*

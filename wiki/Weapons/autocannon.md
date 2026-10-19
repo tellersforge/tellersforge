@@ -1,5 +1,9 @@
 # Autocannon
 
+![Autocannon](../Images/GR-0004-weapons-autocannon.jpg){.illus}
+
+
+*Catalogue: GR-0004*
 *Set: Expansion*
 
 *aka: ______________________________*

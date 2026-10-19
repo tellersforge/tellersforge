@@ -1,5 +1,9 @@
 # Synthetic sleeping bag
 
+![Synthetic sleeping bag](../Images/GR-0942-equipment-synthetic-sleeping-bag.jpg){.illus}
+
+
+*Catalogue: GR-0942*
 *Set: Expansion*
 
 *aka: ______________________________*

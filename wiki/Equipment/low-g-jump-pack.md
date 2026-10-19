@@ -1,5 +1,9 @@
 # Low-g jump pack
 
+![Low-g jump pack](../Images/GR-0619-equipment-low-g-jump-pack.jpg){.illus}
+
+
+*Catalogue: GR-0619*
 *Set: Expansion*
 
 *aka: ______________________________*

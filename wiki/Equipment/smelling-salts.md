@@ -1,5 +1,9 @@
 # Smelling salts
 
+![Smelling salts](../Images/GR-0882-equipment-smelling-salts.jpg){.illus}
+
+
+*Catalogue: GR-0882*
 *Set: Expansion*
 
 *aka: ______________________________*

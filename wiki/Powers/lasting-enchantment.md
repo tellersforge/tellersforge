@@ -1,5 +1,9 @@
 # Lasting Enchantment
 
+![Lasting Enchantment](../Images/PW-147-powers-lasting-enchantment.jpg){.illus}
+
+
+*Catalogue: PW-147*
 *Set: Expansion*
 
 *aka: ______________________________*

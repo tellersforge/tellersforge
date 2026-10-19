@@ -1,5 +1,9 @@
 # Jet-flying fire turtle
 
+![Jet-flying fire turtle](../Images/BE-373-bestiary-jet-flying-fire-turtle.jpg){.illus}
+
+
+*Catalogue: BE-373*
 *Set: Expansion*
 
 *aka: ______________________________*

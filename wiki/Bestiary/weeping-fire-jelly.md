@@ -1,5 +1,9 @@
 # Weeping fire jelly
 
+![Weeping fire jelly](../Images/BE-666-bestiary-weeping-fire-jelly.jpg){.illus}
+
+
+*Catalogue: BE-666*
 *Set: Expansion*
 
 *aka: ______________________________*

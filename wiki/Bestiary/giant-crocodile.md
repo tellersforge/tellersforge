@@ -1,5 +1,9 @@
 # Giant crocodile
 
+![Giant crocodile](../Images/BE-245-bestiary-giant-crocodile.jpg){.illus}
+
+
+*Catalogue: BE-245*
 *Set: Expansion*
 
 *aka: ______________________________*

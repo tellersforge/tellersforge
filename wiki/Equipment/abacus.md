@@ -1,5 +1,9 @@
 # Abacus
 
+![Abacus](../Images/GR-0170-equipment-abacus.jpg){.illus}
+
+
+*Catalogue: GR-0170*
 *Set: Expansion*
 
 *aka: ______________________________*

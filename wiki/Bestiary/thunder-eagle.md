@@ -1,5 +1,9 @@
 # Thunder eagle
 
+![Thunder eagle](../Images/BE-623-bestiary-thunder-eagle.jpg){.illus}
+
+
+*Catalogue: BE-623*
 *Set: Expansion*
 
 *aka: ______________________________*

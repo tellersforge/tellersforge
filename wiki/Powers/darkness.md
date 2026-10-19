@@ -1,5 +1,9 @@
 # Darkness
 
+![Darkness](../Images/PW-060-powers-darkness.jpg){.illus}
+
+
+*Catalogue: PW-060*
 *Set: Core*
 
 *aka: ______________________________*

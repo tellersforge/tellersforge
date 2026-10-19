@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tesseract entity *(NPC only; NPC-scale)*
 
+![Tesseract entity](../Images/species-tesseract-entity.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** INT +4 WIS +3 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry — · Dodge 8 · Damage slam 1d4 · Armour 0 · Life 15 · Threat minor ([Bestiary roles](../bestiary.md))
 
 ### Beyond-time library-keeper *(NPC only; NPC-scale)*
+
+![Beyond-time library-keeper](../Images/species-beyond-time-library-keeper.jpg){.illus}
+
 
 - **Size:** varies · **Body:** other
 - **Attributes:** INT +4 WIS +3 PER +1 CHA −1
@@ -41,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Telekinesis works across time, through objects in its structure. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Beyond-reality entity *(NPC only; NPC-scale)*
+
+![Beyond-reality entity](../Images/species-beyond-reality-entity.jpg){.illus}
+
 
 - **Size:** varies · **Body:** energy
 - **Attributes:** INT +4 WIS +3 PER +1 CHA −1

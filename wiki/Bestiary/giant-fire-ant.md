@@ -1,5 +1,9 @@
 # Giant fire ant
 
+![Giant fire ant](../Images/BE-252-bestiary-giant-fire-ant.jpg){.illus}
+
+
+*Catalogue: BE-252*
 *Set: Expansion*
 
 *aka: ______________________________*

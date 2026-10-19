@@ -1,5 +1,8 @@
 # Absent-Mindedness
 
+![Absent-Mindedness](../Images/flaws-absent-mindedness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when forgets things, gets lost in thought.

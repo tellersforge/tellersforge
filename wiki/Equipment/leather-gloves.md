@@ -1,5 +1,9 @@
 # Leather gloves
 
+![Leather gloves](../Images/GR-0587-equipment-leather-gloves.jpg){.illus}
+
+
+*Catalogue: GR-0587*
 *Set: Expansion*
 
 *aka: ______________________________*

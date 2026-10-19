@@ -1,5 +1,9 @@
 # Phantom huntsman
 
+![Phantom huntsman](../Images/BE-455-bestiary-phantom-huntsman.jpg){.illus}
+
+
+*Catalogue: BE-455*
 *Set: Core*
 
 *aka: ______________________________*

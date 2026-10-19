@@ -1,5 +1,9 @@
 # Eating utensils
 
+![Eating utensils](../Images/GR-0361-equipment-eating-utensils.jpg){.illus}
+
+
+*Catalogue: GR-0361*
 *Set: Expansion*
 
 *aka: ______________________________*

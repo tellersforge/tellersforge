@@ -1,5 +1,9 @@
 # Survival: Arctic
 
+![Survival: Arctic](../Images/SK-196-skills-survival-arctic.jpg){.illus}
+
+
+*Catalogue: SK-196*
 *Set: Expansion*
 
 *aka: ______________________________*

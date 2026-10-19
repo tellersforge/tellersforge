@@ -1,5 +1,9 @@
 # Road flare
 
+![Road flare](../Images/GR-0797-equipment-road-flare.jpg){.illus}
+
+
+*Catalogue: GR-0797*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 749 Trickster shoemaker fey *(genres: fairy tale and folklore)*
 
+![Trickster shoemaker fey](../Images/species-trickster-shoemaker-fey.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Solitary shoemaker-fey who guard hoards of gold and grant a wish if you manage to catch one. (looks like: fairy; good at: making and fixing, powers and magic)
 - **Attributes:** STR −3 AGI +2 INT +1 WIS +2 CHA +1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hearth treasure sprite *(NPC only)*
 
+![Hearth treasure sprite](../Images/species-hearth-treasure-sprite.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 WIS +2 CHA +1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Cooking](../Skills/cooking.md) +1, [Service & Hospitality](../Skills/service-and-hospitality.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Throwing](../Skills/throwing.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Farmstead house spirit *(NPC only)*
 
+![Farmstead house spirit](../Images/species-farmstead-house-spirit.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 WIS +2 CHA +1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Cooking](../Skills/cooking.md) +1, [Service & Hospitality](../Skills/service-and-hospitality.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Throwing](../Skills/throwing.md) +1, [Riding](../Skills/riding.md) −1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Guardian spirit of one house or farm.
 
 ### No. 750 Mound-dwelling earth spirit *(genres: fairy tale and folklore)*
+
+![Mound-dwelling earth spirit](../Images/species-mound-dwelling-earth-spirit.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped
 - **What it's like:** Tiny earth spirits living in mounds and gardens, bringing luck if you treat them well. (looks like: fairy; good at: powers and magic, sneaking)
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 751 Forest builder folk *(genres: fairy tale and folklore)*
 
+![Forest builder folk](../Images/species-forest-builder-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Shy, nocturnal forest folk who can finish an entire building overnight. (looks like: fairy; good at: making and fixing, sneaking)
 - **Attributes:** STR −3 AGI +2 INT +1 WIS +2 CHA +1 COU −1
@@ -73,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Nocturnal forest folk who finish great buildings in a single night.
 
 ### No. 752 Cornfield guardian spirit *(genres: fairy tale and folklore)*
+
+![Cornfield guardian spirit](../Images/species-cornfield-guardian-spirit.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped
 - **What it's like:** Tiny invisible spirits who guard the cornfields, helpful if respected and mischievous if not. (looks like: fairy; good at: powers and magic, sneaking)

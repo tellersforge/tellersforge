@@ -1,5 +1,9 @@
 # Electronic keypad lock
 
+![Electronic keypad lock](../Images/GR-0365-equipment-electronic-keypad-lock.jpg){.illus}
+
+
+*Catalogue: GR-0365*
 *Set: Expansion*
 
 *aka: ______________________________*

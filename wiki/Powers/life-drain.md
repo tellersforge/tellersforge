@@ -1,5 +1,9 @@
 # Life Drain
 
+![Life Drain](../Images/PW-151-powers-life-drain.jpg){.illus}
+
+
+*Catalogue: PW-151*
 *Set: Core*
 
 *aka: ______________________________*

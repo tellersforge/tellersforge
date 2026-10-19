@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shape-changing protoplasmic servitors *(beast)*
 
+![Shape-changing protoplasmic servitors](../Images/species-shape-changing-protoplasmic-servitors.jpg){.illus}
+
+
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR +5 AGI −1 END +2 INT −2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Can mimic any shape.
 
 ### Naturally amorphous shapeshifting invaders *(NPC only)*
+
+![Naturally amorphous shapeshifting invaders](../Images/species-naturally-amorphous-shapeshifting-invaders.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** AGI +1 END +2 INT +2 CHA −2
@@ -47,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Parasitic host-taking ooze *(NPC only)*
 
+![Parasitic host-taking ooze](../Images/species-parasitic-host-taking-ooze.jpg){.illus}
+
+
 - **Size:** small · **Body:** other
 - **Attributes:** STR −3 AGI +2 INT +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -58,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Spore threat organism *(beast)*
 
+![Spore threat organism](../Images/species-spore-threat-organism.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** AGI +1 END +2 INT −3 CHA −5
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -66,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Destroys organic matter on contact.
 
 ### Sand-pit predator *(beast)*
+
+![Sand-pit predator](../Images/species-sand-pit-predator.jpg){.illus}
+
 
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +7 AGI −4 END +2 INT −3 CHA −2
@@ -77,6 +92,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Viral plague colony *(NPC only; NPC-scale)*
 
+![Viral plague colony](../Images/species-viral-plague-colony.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** STR −3 AGI +1 END +2 INT +2 WIS +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -86,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Possession works on corpses too. NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number. It fights only through the bodies it puppets.
 
 ### Dream-nesting parasite swarm *(NPC only)*
+
+![Dream-nesting parasite swarm](../Images/species-dream-nesting-parasite-swarm.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** amorphous
 - **Attributes:** STR −3 AGI +3 END +2 WIS +1 CHA −2

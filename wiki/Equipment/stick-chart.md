@@ -1,5 +1,9 @@
 # Stick chart
 
+![Stick chart](../Images/GR-0917-equipment-stick-chart.jpg){.illus}
+
+
+*Catalogue: GR-0917*
 *Set: Expansion*
 
 *aka: ______________________________*

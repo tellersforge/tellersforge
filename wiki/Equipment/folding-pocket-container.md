@@ -1,5 +1,9 @@
 # Folding pocket container
 
+![Folding pocket container](../Images/GR-0431-equipment-folding-pocket-container.jpg){.illus}
+
+
+*Catalogue: GR-0431*
 *Set: Expansion*
 
 *aka: ______________________________*

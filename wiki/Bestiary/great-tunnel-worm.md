@@ -1,5 +1,9 @@
 # Great tunnel worm
 
+![Great tunnel worm](../Images/BE-311-bestiary-great-tunnel-worm.jpg){.illus}
+
+
+*Catalogue: BE-311*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Clicking fungal zombie
 
+![Clicking fungal zombie](../Images/BE-106-bestiary-clicking-fungal-zombie.jpg){.illus}
+
+
+*Catalogue: BE-106*
 *Set: Expansion*
 
 *aka: ______________________________*

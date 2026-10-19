@@ -1,5 +1,9 @@
 # Crossbows
 
+![Crossbows](../Images/WG-008-weapon-groups-crossbows.jpg){.illus}
+
+
+*Catalogue: WG-008*
 *Set: Core*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 487 Ascended psionic hive-mind species *(high-power: Game Master's approval; genres: space opera: strange aliens)*
 
+![Ascended psionic hive-mind species](../Images/species-ascended-psionic-hive-mind-species.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **What it's like:** A species that gave up separate minds for one shared psychic consciousness, immensely powerful together. (looks like: human; good at: powers and magic, knowledge)
 - **Attributes:** STR −1 END +1 INT +1 WIS +2 CHA −2 COU +1

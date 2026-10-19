@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Brain-controlling parasitic swarm *(NPC only; NPC-scale)*
 
+![Brain-controlling parasitic swarm](../Images/species-brain-controlling-parasitic-swarm.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +3 END −1 INT +1 WIS +1 CHA −2 COU +1
 - **Skills:** [Formation Fighting](../Skills/formation-fighting.md) +3, [Logistics](../Skills/logistics.md) +2, [Signals](../Skills/signals.md) +2, [Composure](../Skills/composure.md) +1, [Insight](../Skills/insight.md) −1, [Storytelling & Conversation](../Skills/storytelling-and-conversation.md) −1, [Deception](../Skills/deception.md) −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale.
 
 ### Parasitic infection collective *(NPC only; NPC-scale)*
+
+![Parasitic infection collective](../Images/species-parasitic-infection-collective.jpg){.illus}
+
 
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** STR −3 END −1 INT +1 WIS +1 CHA −2 COU +1

@@ -1,5 +1,9 @@
 # Sleeve guards
 
+![Sleeve guards](../Images/GR-0877-equipment-sleeve-guards.jpg){.illus}
+
+
+*Catalogue: GR-0877*
 *Set: Expansion*
 
 *aka: ______________________________*

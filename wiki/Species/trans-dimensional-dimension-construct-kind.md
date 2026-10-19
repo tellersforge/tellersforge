@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Geometric network drone *(beast)*
 
+![Geometric network drone](../Images/species-geometric-network-drone.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** END +1 INT −2 WIS +1 PER +1 CHA −2
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Insight](../Skills/insight.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A semi-mechanical drone with an armoured chrome shell.
 
 ### Network hive mind-thrall *(NPC only)*
+
+![Network hive mind-thrall](../Images/species-network-hive-mind-thrall.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +1 WIS −1 PER +1 CHA −2
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Nanite-networked replicator *(beast)*
 
+![Nanite-networked replicator](../Images/species-nanite-networked-replicator.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** END +1 INT −2 WIS +1 PER +1 CHA −2
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Insight](../Skills/insight.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -51,6 +60,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A self-replicating machine swarm that shifts its collective form.
 
 ### Summoned door-guardian *(beast)*
+
+![Summoned door-guardian](../Images/species-summoned-door-guardian.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** END +1 INT −2 WIS +1 PER +1 CHA −2

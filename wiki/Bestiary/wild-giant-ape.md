@@ -1,5 +1,9 @@
 # Wild giant ape
 
+![Wild giant ape](../Images/BE-672-bestiary-wild-giant-ape.jpg){.illus}
+
+
+*Catalogue: BE-672*
 *Set: Core*
 
 *aka: ______________________________*

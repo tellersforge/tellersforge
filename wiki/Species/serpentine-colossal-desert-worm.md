@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Venerated desert worm *(beast; NPC-scale)*
 
+![Venerated desert worm](../Images/species-venerated-desert-worm.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** serpentine
 - **Attributes:** STR +9 AGI −6 END +2 INT −3 CHA −1
 - **Skills:** [Survival: Desert](../Skills/survival-desert.md) +3, [Escape Artistry](../Skills/escape-artistry.md) +2, [Stealth](../Skills/stealth.md) +2, [Running](../Skills/running.md) −2, [Jumping](../Skills/jumping.md) −3, [Climbing](../Skills/climbing.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept

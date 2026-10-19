@@ -1,5 +1,9 @@
 # Mental Blast
 
+![Mental Blast](../Images/PW-178-powers-mental-blast.jpg){.illus}
+
+
+*Catalogue: PW-178*
 *Set: Expansion*
 
 *aka: ______________________________*

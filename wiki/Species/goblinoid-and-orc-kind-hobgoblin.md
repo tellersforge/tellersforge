@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 476 Militaristic goblinoid folk *(genres: classic fantasy)*
 
+![Militaristic goblinoid folk](../Images/species-militaristic-goblinoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Disciplined goblinoid soldiers, tougher and better organised than their lesser kin, drilled hard in battle tactics. (looks like: goblin; good at: fighting, toughness)
 - **Attributes:** STR +1 END +1 CHA −1 COU +1

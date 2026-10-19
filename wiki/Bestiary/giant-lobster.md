@@ -1,5 +1,9 @@
 # Giant lobster
 
+![Giant lobster](../Images/BE-261-bestiary-giant-lobster.jpg){.illus}
+
+
+*Catalogue: BE-261*
 *Set: Expansion*
 
 *aka: ______________________________*

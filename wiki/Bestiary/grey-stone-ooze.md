@@ -1,5 +1,9 @@
 # Grey stone ooze
 
+![Grey stone ooze](../Images/BE-318-bestiary-grey-stone-ooze.jpg){.illus}
+
+
+*Catalogue: BE-318*
 *Set: Expansion*
 
 *aka: ______________________________*

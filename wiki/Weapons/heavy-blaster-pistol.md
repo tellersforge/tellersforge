@@ -1,7 +1,8 @@
 # Heavy Blaster Pistol
 
-![Heavy blaster pistol](../Images/weapons-heavy-blaster-pistol.jpg){.illus}
+![Heavy blaster pistol](../Images/GR-0047-weapons-heavy-blaster-pistol.jpg){.illus}
 
+*Catalogue: GR-0047*
 *Set: Expansion*
 
 *aka: ______________________________*

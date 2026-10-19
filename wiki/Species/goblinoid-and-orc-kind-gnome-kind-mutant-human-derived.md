@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Brutish mutated raider folk *(NPC only)*
 
+![Brutish mutated raider folk](../Images/species-brutish-mutated-raider-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +1 INT −2 CHA −1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Diplomacy](../Skills/diplomacy.md) −1, [Court Etiquette & Protocol](../Skills/court-etiquette-and-protocol.md) −2, [Etiquette](../Skills/etiquette.md) −2
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 15 · Parry 12 · Dodge 8 · Damage longsword 1d6+2 · Armour 2 · Life 18 · Threat 2 ([Bestiary roles](../bestiary.md))
 
 ### Tribal cave gnome folk *(NPC only)*
+
+![Tribal cave gnome folk](../Images/species-tribal-cave-gnome-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END +1 INT −1 CHA −1 COU +1

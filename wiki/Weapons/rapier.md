@@ -1,7 +1,8 @@
 # Rapier
 
-![Rapier](../Images/weapons-rapier.jpg){.illus}
+![Rapier](../Images/GR-0082-weapons-rapier.jpg){.illus}
 
+*Catalogue: GR-0082*
 *Set: Expansion*
 
 *aka: ______________________________*

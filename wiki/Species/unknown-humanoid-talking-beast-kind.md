@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 830 Speech-gifted animal folk *(genres: animal fable)*
 
+![Speech-gifted animal folk](../Images/species-speech-gifted-animal-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **What it's like:** Ordinary animals of any kind, granted true speech and reasoning while keeping their natural bodies and gifts. (looks like: animal; good at: wilderness, keen senses)
 - **Attributes:** none

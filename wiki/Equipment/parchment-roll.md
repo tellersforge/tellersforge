@@ -1,5 +1,9 @@
 # Parchment roll
 
+![Parchment roll](../Images/GR-0709-equipment-parchment-roll.jpg){.illus}
+
+
+*Catalogue: GR-0709*
 *Set: Core*
 
 *aka: ______________________________*

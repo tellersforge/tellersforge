@@ -1,5 +1,9 @@
 # Tentacled swamp toad
 
+![Tentacled swamp toad](../Images/BE-616-bestiary-tentacled-swamp-toad.jpg){.illus}
+
+
+*Catalogue: BE-616*
 *Set: Expansion*
 
 *aka: ______________________________*

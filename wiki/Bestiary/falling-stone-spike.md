@@ -1,5 +1,9 @@
 # Falling stone spike
 
+![Falling stone spike](../Images/BE-184-bestiary-falling-stone-spike.jpg){.illus}
+
+
+*Catalogue: BE-184*
 *Set: Expansion*
 
 *aka: ______________________________*

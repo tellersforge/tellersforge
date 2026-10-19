@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 769 Antimatter-universe native *(genres: multiverse and time)*
 
+![Antimatter-universe native](../Images/species-antimatter-universe-native.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Reddish, demonic-looking folk from a universe where the laws of physics run backwards. (looks like: demon; good at: powers and magic, fighting)
 - **Attributes:** WIS +1 PER +1 CHA −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Antimatter physiology changes no skill or power.
 
 ### Dark-multiverse doppelganger *(NPC only)*
+
+![Dark-multiverse doppelganger](../Images/species-dark-multiverse-doppelganger.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END −2 WIS +1 PER +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 770 Mirror-universe counterpart *(genres: multiverse and time)*
 
+![Mirror-universe counterpart](../Images/species-mirror-universe-counterpart.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Physical doubles of ordinary people, shaped instead by a darker mirror-history and very different politics. (looks like: human; good at: people and talk, knowledge)
 - **Attributes:** WIS +1 PER +1 CHA −1
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Same biology as its prime-universe double; only history and politics differ (Culture step).
 
 ### Cancerverse undead-god hybrid *(beast)*
+
+![Cancerverse undead-god hybrid](../Images/species-cancerverse-undead-god-hybrid.jpg){.illus}
+
 
 - **Size:** varies · **Body:** varies
 - **Attributes:** STR +3 END +3 INT −3 WIS +1 PER +1 CHA −1 COU +3

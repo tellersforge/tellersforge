@@ -1,5 +1,9 @@
 # Water-spawned mischief beast
 
+![Water-spawned mischief beast](../Images/BE-664-bestiary-water-spawned-mischief-beast.jpg){.illus}
+
+
+*Catalogue: BE-664*
 *Set: Expansion*
 
 *aka: ______________________________*

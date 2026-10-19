@@ -1,5 +1,9 @@
 # Safecracker's kit
 
+![Safecracker's kit](../Images/GR-0813-equipment-safecracker-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0813*
 *Set: Expansion*
 
 *aka: ______________________________*

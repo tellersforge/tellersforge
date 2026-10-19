@@ -1,5 +1,8 @@
 # Forest hunter-gatherers
 
+![Forest hunter-gatherers](../Images/cultures-forest-hunter-gatherers.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

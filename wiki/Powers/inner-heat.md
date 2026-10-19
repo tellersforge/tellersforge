@@ -1,5 +1,9 @@
 # Inner Heat
 
+![Inner Heat](../Images/PW-138-powers-inner-heat.jpg){.illus}
+
+
+*Catalogue: PW-138*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Torc
 
+![Torc](../Images/GR-0966-equipment-torc.jpg){.illus}
+
+
+*Catalogue: GR-0966*
 *Set: Core*
 
 *aka: ______________________________*

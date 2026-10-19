@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Peacock-folk *(NPC only)*
 
+![Peacock-folk](../Images/species-peacock-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Stealth](../Skills/stealth.md) −1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 10 · Damage longsword 1d6+1; beak 1d6+1 · Armour 2 · Life 16 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Plumed warlord folk *(NPC only)*
+
+![Plumed warlord folk](../Images/species-plumed-warlord-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2

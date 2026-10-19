@@ -1,5 +1,9 @@
 # Blighted walking tree
 
+![Blighted walking tree](../Images/BE-050-bestiary-blighted-walking-tree.jpg){.illus}
+
+
+*Catalogue: BE-050*
 *Set: Expansion*
 
 *aka: ______________________________*

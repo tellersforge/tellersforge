@@ -1,5 +1,9 @@
 # Brass golem
 
+![Brass golem](../Images/BE-073-bestiary-brass-golem.jpg){.illus}
+
+
+*Catalogue: BE-073*
 *Set: Expansion*
 
 *aka: ______________________________*

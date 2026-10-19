@@ -1,5 +1,9 @@
 # Plated spike-tail
 
+![Plated spike-tail](../Images/BE-464-bestiary-plated-spike-tail.jpg){.illus}
+
+
+*Catalogue: BE-464*
 *Set: Expansion*
 
 *aka: ______________________________*

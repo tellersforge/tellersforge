@@ -1,5 +1,9 @@
 # Bloated zombie
 
+![Bloated zombie](../Images/BE-055-bestiary-bloated-zombie.jpg){.illus}
+
+
+*Catalogue: BE-055*
 *Set: Core*
 
 *aka: ______________________________*

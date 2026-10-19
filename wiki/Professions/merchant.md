@@ -1,5 +1,8 @@
 # Merchant
 
+![Merchant](../Images/professions-merchant.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Death bat
 
+![Death bat](../Images/BE-140-bestiary-death-bat.jpg){.illus}
+
+
+*Catalogue: BE-140*
 *Set: Core*
 
 *aka: ______________________________*

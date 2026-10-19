@@ -1,5 +1,9 @@
 # Buckskin shirt
 
+![Buckskin shirt](../Images/GR-0236-equipment-buckskin-shirt.jpg){.illus}
+
+
+*Catalogue: GR-0236*
 *Set: Core*
 
 *aka: ______________________________*

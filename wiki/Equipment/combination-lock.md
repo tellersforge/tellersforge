@@ -1,5 +1,9 @@
 # Combination lock
 
+![Combination lock](../Images/GR-0295-equipment-combination-lock.jpg){.illus}
+
+
+*Catalogue: GR-0295*
 *Set: Expansion*
 
 *aka: ______________________________*

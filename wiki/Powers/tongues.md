@@ -1,5 +1,9 @@
 # Tongues
 
+![Tongues](../Images/PW-299-powers-tongues.jpg){.illus}
+
+
+*Catalogue: PW-299*
 *Set: Core*
 
 *aka: ______________________________*

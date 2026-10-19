@@ -1,5 +1,9 @@
 # Film camera
 
+![Film camera](../Images/GR-0408-equipment-film-camera.jpg){.illus}
+
+
+*Catalogue: GR-0408*
 *Set: Expansion*
 
 *aka: ______________________________*

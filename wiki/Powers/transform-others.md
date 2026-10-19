@@ -1,5 +1,9 @@
 # Transform Others
 
+![Transform Others](../Images/PW-302-powers-transform-others.jpg){.illus}
+
+
+*Catalogue: PW-302*
 *Set: Expansion*
 
 *aka: ______________________________*

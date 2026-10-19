@@ -1,5 +1,9 @@
 # Inflated skin float
 
+![Inflated skin float](../Images/GR-0561-equipment-inflated-skin-float.jpg){.illus}
+
+
+*Catalogue: GR-0561*
 *Set: Core*
 
 *aka: ______________________________*

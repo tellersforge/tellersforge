@@ -1,5 +1,9 @@
 # Water filter cloth
 
+![Water filter cloth](../Images/GR-1001-equipment-water-filter-cloth.jpg){.illus}
+
+
+*Catalogue: GR-1001*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Implants & Prosthetics
 
+![Implants & Prosthetics](../Images/SK-096-skills-implants-and-prosthetics.jpg){.illus}
+
+
+*Catalogue: SK-096*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 819 Bestial giant folk *(genres: space opera: near-humans)*
 
+![Bestial giant folk](../Images/species-bestial-giant-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Huge, tusked, muscle-bound folk, not the sharpest but fiercely loyal to their squad. (looks like: ogre; good at: strength, toughness)
 - **Attributes:** STR +5 AGI −2 END +2 INT −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 15 · Parry 12 · Dodge 5 · Damage tusks 2d6; longsword 1d6+5 · Armour 2 · Life 23 · Threat 2 ([Bestiary roles](../bestiary.md))
 
 ### Bovine/porcine draft-abhuman *(NPC only)*
+
+![Bovine/porcine draft-abhuman](../Images/species-bovine-porcine-draft-abhuman.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −2 COU −1

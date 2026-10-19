@@ -1,5 +1,9 @@
 # Plant Animation
 
+![Plant Animation](../Images/PW-215-powers-plant-animation.jpg){.illus}
+
+
+*Catalogue: PW-215*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Stone hand axe
 
+![Stone hand axe](../Images/GR-0922-equipment-stone-hand-axe.jpg){.illus}
+
+
+*Catalogue: GR-0922*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Meddler
 
+![Meddler](../Images/flaws-meddler.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when can't stay out of other people's business.

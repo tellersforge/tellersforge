@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Arena predator crustacean *(beast)*
 
+![Arena predator crustacean](../Images/species-arena-predator-crustacean.jpg){.illus}
+
+
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +6 AGI −4 END +2 INT −3 CHA −1 COU +2
 - **Skills:** [Diving](../Skills/diving.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Swimming](../Skills/swimming.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Balance](../Skills/balance.md) −1, [Acrobatics](../Skills/acrobatics.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2

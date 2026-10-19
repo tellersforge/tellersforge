@@ -1,5 +1,9 @@
 # False-bottom case
 
+![False-bottom case](../Images/GR-0387-equipment-false-bottom-case.jpg){.illus}
+
+
+*Catalogue: GR-0387*
 *Set: Expansion*
 
 *aka: ______________________________*

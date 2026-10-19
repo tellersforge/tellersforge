@@ -1,5 +1,9 @@
 # Spears
 
+![Spears](../Images/WG-025-weapon-groups-spears.jpg){.illus}
+
+
+*Catalogue: WG-025*
 *Set: Core*
 
 *aka: ______________________________*

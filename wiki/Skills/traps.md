@@ -1,5 +1,9 @@
 # Traps
 
+![Traps](../Images/SK-216-skills-traps.jpg){.illus}
+
+
+*Catalogue: SK-216*
 *Set: Expansion*
 
 *aka: ______________________________*

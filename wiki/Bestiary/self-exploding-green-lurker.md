@@ -1,5 +1,9 @@
 # Self-exploding green lurker
 
+![Self-exploding green lurker](../Images/BE-530-bestiary-self-exploding-green-lurker.jpg){.illus}
+
+
+*Catalogue: BE-530*
 *Set: Expansion*
 
 *aka: ______________________________*

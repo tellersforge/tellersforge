@@ -1,5 +1,9 @@
 # Appraisal
 
+![Appraisal](../Images/SK-009-skills-appraisal.jpg){.illus}
+
+
+*Catalogue: SK-009*
 *Set: Expansion*
 
 *aka: ______________________________*

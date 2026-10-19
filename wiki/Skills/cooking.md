@@ -1,5 +1,9 @@
 # Cooking
 
+![Cooking](../Images/SK-042-skills-cooking.jpg){.illus}
+
+
+*Catalogue: SK-042*
 *Set: Core · Basic skill: Crafting & Repair*
 
 *aka: ______________________________*

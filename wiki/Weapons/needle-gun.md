@@ -1,7 +1,8 @@
 # Needle Gun
 
-![Needle gun](../Images/weapons-needle-gun.jpg){.illus}
+![Needle gun](../Images/GR-0070-weapons-needle-gun.jpg){.illus}
 
+*Catalogue: GR-0070*
 *Set: Expansion*
 
 *aka: ______________________________*

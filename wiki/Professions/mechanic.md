@@ -1,5 +1,8 @@
 # Mechanic
 
+![Mechanic](../Images/professions-mechanic.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

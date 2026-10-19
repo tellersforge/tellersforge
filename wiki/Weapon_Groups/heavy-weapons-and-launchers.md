@@ -1,5 +1,9 @@
 # Heavy Weapons & Launchers
 
+![Heavy Weapons & Launchers](../Images/WG-015-weapon-groups-heavy-weapons-and-launchers.jpg){.illus}
+
+
+*Catalogue: WG-015*
 *Set: Expansion*
 
 *aka: ______________________________*

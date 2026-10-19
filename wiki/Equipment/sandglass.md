@@ -1,5 +1,9 @@
 # Sandglass
 
+![Sandglass](../Images/GR-0817-equipment-sandglass.jpg){.illus}
+
+
+*Catalogue: GR-0817*
 *Set: Expansion*
 
 *aka: ______________________________*

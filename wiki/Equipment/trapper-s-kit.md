@@ -1,5 +1,9 @@
 # Trapper's kit
 
+![Trapper's kit](../Images/GR-0973-equipment-trapper-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0973*
 *Set: Expansion*
 
 *aka: ______________________________*

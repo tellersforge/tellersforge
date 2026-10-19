@@ -1,7 +1,8 @@
 # Motion tracker
 
-![Motion tracker](../Images/equipment-motion-tracker.jpg){.illus}
+![Motion tracker](../Images/GR-0662-equipment-motion-tracker.jpg){.illus}
 
+*Catalogue: GR-0662*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Powered winch
 
+![Powered winch](../Images/GR-0753-equipment-powered-winch.jpg){.illus}
+
+
+*Catalogue: GR-0753*
 *Set: Expansion*
 
 *aka: ______________________________*

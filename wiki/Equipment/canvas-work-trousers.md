@@ -1,5 +1,9 @@
 # Canvas work trousers
 
+![Canvas work trousers](../Images/GR-0258-equipment-canvas-work-trousers.jpg){.illus}
+
+
+*Catalogue: GR-0258*
 *Set: Expansion*
 
 *aka: ______________________________*

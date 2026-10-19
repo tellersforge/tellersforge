@@ -1,5 +1,8 @@
 # Frontier settlers
 
+![Frontier settlers](../Images/cultures-frontier-settlers.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Amphibious herd beast *(beast)*
 
+![Amphibious herd beast](../Images/species-amphibious-herd-beast.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +4 AGI −2 END +1 INT −3 COU −1
 - **Skills:**, [Running](../Skills/running.md) +2, [Swimming](../Skills/swimming.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Multi-humped draft beast *(beast)*
 
+![Multi-humped draft beast](../Images/species-multi-humped-draft-beast.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +4 AGI −2 END +1 INT −3
 - **Skills:**, [Running](../Skills/running.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) Foreign Concept
@@ -40,6 +46,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry — · Dodge 5 · Damage hooves 1d6+2 · Armour 0 · Life 20 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Long-necked pack beast *(beast)*
+
+![Long-necked pack beast](../Images/species-long-necked-pack-beast.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +4 AGI −2 END +1 INT −3
@@ -50,6 +59,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shaggy horned beast *(beast)*
 
+![Shaggy horned beast](../Images/species-shaggy-horned-beast.jpg){.illus}
+
+
 - **Size:** huge · **Body:** quadruped
 - **Attributes:** STR +6 AGI −4 END +1 INT −3
 - **Skills:**, [Running](../Skills/running.md) +2, [Survival: Desert](../Skills/survival-desert.md) +2, [Danger Sense](../Skills/danger-sense.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Stealth](../Skills/stealth.md) −1, [Climbing](../Skills/climbing.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) Foreign Concept
@@ -58,6 +70,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Desert-adapted.
 
 ### Cold-adapted riding beast *(beast)*
+
+![Cold-adapted riding beast](../Images/species-cold-adapted-riding-beast.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +4 AGI −2 END +1 INT −3

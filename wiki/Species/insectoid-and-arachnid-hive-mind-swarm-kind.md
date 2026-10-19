@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Uplifted ant collective mind *(NPC only)*
 
+![Uplifted ant collective mind](../Images/species-uplifted-ant-collective-mind.jpg){.illus}
+
+
 - **Size:** varies · **Body:** hive
 - **Attributes:** STR −2 END +2 INT +3 WIS +1 PER +1 CHA −3 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Mathematics](../Skills/mathematics.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 543 Collective-conscious hive folk *(genres: space opera: strange aliens)*
 
+![Collective-conscious hive folk](../Images/species-collective-conscious-hive-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Insectoid nest-dwellers whose minds are all linked into one shared consciousness. (looks like: insect; good at: powers and magic, toughness)
 - **Attributes:** STR +1 END +2 WIS +1 PER +1 CHA −3 COU +1
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 8 · Damage longsword 1d6+2; mandibles 1d6+2 · Armour 2 · Life 19 · Threat 2 ([Bestiary roles](../bestiary.md))
 
 ### Planet-scale telepathic exo-crustacean collective *(NPC only; NPC-scale)*
+
+![Planet-scale telepathic exo-crustacean collective](../Images/species-planet-scale-telepathic-exo-crustacean-collective.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +10 AGI −6 END +4 INT +3 WIS +1 PER +1 CHA −3 COU +1
@@ -59,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Devouring swarm horror *(NPC only)*
 
+![Devouring swarm horror](../Images/species-devouring-swarm-horror.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** STR +1 AGI +2 END +2 INT −3 WIS +1 PER +1 CHA −4 COU +3
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -70,6 +82,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only. No hands: held weapons unusable.
 
 ### Ravenous adaptive hive swarm folk *(NPC only)*
+
+![Ravenous adaptive hive swarm folk](../Images/species-ravenous-adaptive-hive-swarm-folk.jpg){.illus}
+
 
 - **Size:** varies · **Body:** insectoid
 - **Attributes:** STR +1 END +4 INT −1 WIS +1 PER +1 CHA −3 COU +1
@@ -83,6 +98,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hive queen-organism folk *(NPC only; NPC-scale)*
 
+![Hive queen-organism folk](../Images/species-hive-queen-organism-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** insectoid
 - **Attributes:** STR +5 AGI −4 END +2 INT +2 WIS +3 PER +1 CHA −1 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -94,6 +112,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Summon Creature calls only its own brood. NPC-scale. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Worm-parasite undead hive folk *(NPC only)*
+
+![Worm-parasite undead hive folk](../Images/species-worm-parasite-undead-hive-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** insectoid
 - **Attributes:** STR +1 END +2 INT +1 WIS +1 PER +1 CHA −3 COU +1
@@ -107,6 +128,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Undead-infected bug swarm folk *(NPC only)*
 
+![Undead-infected bug swarm folk](../Images/species-undead-infected-bug-swarm-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** insectoid
 - **Attributes:** STR +1 END +2 WIS +1 PER +1 CHA −3 COU +2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -118,6 +142,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Transform Others works only by infection. NPC only.
 
 ### Psionic hive lifeform *(beast)*
+
+![Psionic hive lifeform](../Images/species-psionic-hive-lifeform.jpg){.illus}
+
 
 - **Size:** small · **Body:** amorphous
 - **Attributes:** STR −2 AGI +2 END +2 WIS +3 PER +1 CHA −3 COU +1

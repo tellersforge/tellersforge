@@ -1,5 +1,9 @@
 # Haste & Slow
 
+![Haste & Slow](../Images/PW-124-powers-haste-and-slow.jpg){.illus}
+
+
+*Catalogue: PW-124*
 *Set: Core*
 
 *aka: ______________________________*

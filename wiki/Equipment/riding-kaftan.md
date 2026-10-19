@@ -1,5 +1,9 @@
 # Riding kaftan
 
+![Riding kaftan](../Images/GR-0791-equipment-riding-kaftan.jpg){.illus}
+
+
+*Catalogue: GR-0791*
 *Set: Expansion*
 
 *aka: ______________________________*

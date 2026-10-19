@@ -1,5 +1,9 @@
 # Mutant clawed hunter
 
+![Mutant clawed hunter](../Images/BE-429-bestiary-mutant-clawed-hunter.jpg){.illus}
+
+
+*Catalogue: BE-429*
 *Set: Expansion*
 
 *aka: ______________________________*

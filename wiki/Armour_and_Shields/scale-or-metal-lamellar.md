@@ -1,7 +1,8 @@
 # Scale or metal lamellar
 
-![Scale armour](../Images/armour-scale-or-metal-lamellar.jpg){.illus}
+![Scale armour](../Images/GR-0160-armour-scale-or-metal-lamellar.jpg){.illus}
 
+*Catalogue: GR-0160*
 *Set: Expansion*
 
 *aka: ______________________________*

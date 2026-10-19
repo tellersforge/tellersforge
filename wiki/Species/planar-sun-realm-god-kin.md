@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 601 Domain-bound sun-realm deity *(genres: super-powered: cosmic and mythic, myth and legend)*
 
+![Domain-bound sun-realm deity](../Images/species-domain-bound-sun-realm-deity.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Golden, god-like beings from a sun-worshipping pantheon, immensely strong and tough. (looks like: god; good at: strength, toughness)
 - **Attributes:** STR +1 WIS +1 CHA +1

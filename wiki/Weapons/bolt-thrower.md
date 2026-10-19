@@ -1,7 +1,8 @@
 # Bolt-Thrower
 
-![Bolt thrower](../Images/weapons-bolt-thrower.jpg){.illus}
+![Bolt thrower](../Images/GR-0012-weapons-bolt-thrower.jpg){.illus}
 
+*Catalogue: GR-0012*
 *Set: Expansion*
 
 *aka: ______________________________*

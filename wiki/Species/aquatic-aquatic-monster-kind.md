@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Many-headed strait horror *(NPC only; NPC-scale)*
 
+![Many-headed strait horror](../Images/species-many-headed-strait-horror.jpg){.illus}
+
+
 - **Size:** huge · **Body:** serpentine
 - **Attributes:** STR +7 AGI −2 END +4 INT −3 WIS +1 CHA −3 COU +2
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Hunting](../Skills/hunting.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Crocodile-elephant makara *(beast; NPC-scale)*
 
+![Crocodile-elephant makara](../Images/species-crocodile-elephant-makara.jpg){.illus}
+
+
 - **Size:** large · **Body:** aquatic
 - **Attributes:** STR +5 AGI −2 END +4 INT −3 CHA −3 COU +2
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species: a composite beast used as a mount by river and sea powers.
 
 ### Guardian taniwha *(NPC only; NPC-scale)*
+
+![Guardian taniwha](../Images/species-guardian-taniwha.jpg){.illus}
+
 
 - **Size:** huge · **Body:** aquatic
 - **Attributes:** STR +7 AGI −4 END +4 INT −1 WIS +2 CHA −3 COU +2
@@ -57,6 +66,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Swamp-dwelling bunyip *(NPC only; NPC-scale)*
 
+![Swamp-dwelling bunyip](../Images/species-swamp-dwelling-bunyip.jpg){.illus}
+
+
 - **Size:** large · **Body:** aquatic
 - **Attributes:** STR +5 AGI −2 END +4 INT −3 CHA −3 COU +2
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -67,6 +79,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale.
 
 ### Clawed ahuizotl *(NPC only; NPC-scale)*
+
+![Clawed ahuizotl](../Images/species-clawed-ahuizotl.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped+other
 - **Attributes:** STR +1 AGI +2 END +4 INT −3 CHA −3 COU +2
@@ -79,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Its hand-like tail grips and drowns victims (Wrestling & Grappling) but wields nothing.
 
 ### Robotic predator machine (aquatic) *(beast; NPC-scale)*
+
+![Robotic predator machine (aquatic)](../Images/species-robotic-predator-machine-aquatic.jpg){.illus}
+
 
 - **Size:** large · **Body:** aquatic
 - **Attributes:** STR +5 AGI −2 END +4 INT −4 CHA −3 COU +4

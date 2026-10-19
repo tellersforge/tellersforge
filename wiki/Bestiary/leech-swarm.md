@@ -1,5 +1,9 @@
 # Leech swarm
 
+![Leech swarm](../Images/BE-384-bestiary-leech-swarm.jpg){.illus}
+
+
+*Catalogue: BE-384*
 *Set: Core*
 
 *aka: ______________________________*

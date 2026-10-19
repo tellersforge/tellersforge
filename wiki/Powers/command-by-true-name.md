@@ -1,5 +1,9 @@
 # Command by True Name
 
+![Command by True Name](../Images/PW-040-powers-command-by-true-name.jpg){.illus}
+
+
+*Catalogue: PW-040*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Smudge pot
 
+![Smudge pot](../Images/GR-0887-equipment-smudge-pot.jpg){.illus}
+
+
+*Catalogue: GR-0887*
 *Set: Core*
 
 *aka: ______________________________*

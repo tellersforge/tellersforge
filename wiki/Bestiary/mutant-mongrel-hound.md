@@ -1,5 +1,9 @@
 # Mutant mongrel hound
 
+![Mutant mongrel hound](../Images/BE-430-bestiary-mutant-mongrel-hound.jpg){.illus}
+
+
+*Catalogue: BE-430*
 *Set: Expansion*
 
 *aka: ______________________________*

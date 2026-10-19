@@ -1,5 +1,9 @@
 # Gaming tiles
 
+![Gaming tiles](../Images/GR-0449-equipment-gaming-tiles.jpg){.illus}
+
+
+*Catalogue: GR-0449*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Faceless chaos-beast
 
+![Faceless chaos-beast](../Images/BE-180-bestiary-faceless-chaos-beast.jpg){.illus}
+
+
+*Catalogue: BE-180*
 *Set: Expansion*
 
 *aka: ______________________________*

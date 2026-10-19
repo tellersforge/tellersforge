@@ -1,5 +1,9 @@
 # Lever-Action Rifle
 
+![Lever-Action Rifle](../Images/GR-0060-weapons-lever-action-rifle.jpg){.illus}
+
+
+*Catalogue: GR-0060*
 *Set: Expansion*
 
 *aka: ______________________________*

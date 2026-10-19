@@ -1,5 +1,9 @@
 # Dimensional Anchor
 
+![Dimensional Anchor](../Images/PW-070-powers-dimensional-anchor.jpg){.illus}
+
+
+*Catalogue: PW-070*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Rogue war mech
 
+![Rogue war mech](../Images/BE-502-bestiary-rogue-war-mech.jpg){.illus}
+
+
+*Catalogue: BE-502*
 *Set: Expansion*
 
 *aka: ______________________________*

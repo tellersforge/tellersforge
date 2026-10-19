@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 428 Telepathic mutated jungle cat *(genres: uplifted animals)*
 
+![Telepathic mutated jungle cat](../Images/species-telepathic-mutated-jungle-cat.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped
 - **What it's like:** A genetically enhanced jungle cat with superb senses and a telepathic bond to one human partner it hunts alongside. (looks like: cat; good at: keen senses, powers and magic)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1

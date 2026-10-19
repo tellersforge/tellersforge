@@ -1,5 +1,8 @@
 # Engineer
 
+![Engineer](../Images/professions-engineer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

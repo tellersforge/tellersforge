@@ -1,5 +1,8 @@
 # Brutal Honesty
 
+![Brutal Honesty](../Images/flaws-brutal-honesty.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when can't lie or soften the truth.

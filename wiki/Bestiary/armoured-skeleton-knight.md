@@ -1,7 +1,8 @@
 # Armoured skeleton knight
 
-![Armoured skeleton knight](../Images/bestiary-armoured-skeleton-knight.jpg){.illus}
+![Armoured skeleton knight](../Images/BE-027-bestiary-armoured-skeleton-knight.jpg){.illus}
 
+*Catalogue: BE-027*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Golden eagle
 
+![Golden eagle](../Images/BE-298-bestiary-golden-eagle.jpg){.illus}
+
+
+*Catalogue: BE-298*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Griddle
 
+![Griddle](../Images/GR-0475-equipment-griddle.jpg){.illus}
+
+
+*Catalogue: GR-0475*
 *Set: Expansion*
 
 *aka: ______________________________*

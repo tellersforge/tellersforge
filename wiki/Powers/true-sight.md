@@ -1,5 +1,9 @@
 # True Sight
 
+![True Sight](../Images/PW-305-powers-true-sight.jpg){.illus}
+
+
+*Catalogue: PW-305*
 *Set: Expansion*
 
 *aka: ______________________________*

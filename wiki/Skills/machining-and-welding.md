@@ -1,5 +1,9 @@
 # Machining & Welding
 
+![Machining & Welding](../Images/SK-122-skills-machining-and-welding.jpg){.illus}
+
+
+*Catalogue: SK-122*
 *Set: Expansion*
 
 *aka: ______________________________*

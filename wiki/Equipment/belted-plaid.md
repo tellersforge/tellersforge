@@ -1,5 +1,9 @@
 # Belted plaid
 
+![Belted plaid](../Images/GR-0211-equipment-belted-plaid.jpg){.illus}
+
+
+*Catalogue: GR-0211*
 *Set: Expansion*
 
 *aka: ______________________________*

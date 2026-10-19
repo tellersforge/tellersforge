@@ -1,5 +1,9 @@
 # Cufflinks and tie pin
 
+![Cufflinks and tie pin](../Images/GR-0315-equipment-cufflinks-and-tie-pin.jpg){.illus}
+
+
+*Catalogue: GR-0315*
 *Set: Expansion*
 
 *aka: ______________________________*

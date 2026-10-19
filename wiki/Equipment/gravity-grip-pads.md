@@ -1,5 +1,9 @@
 # Gravity-grip pads
 
+![Gravity-grip pads](../Images/GR-0473-equipment-gravity-grip-pads.jpg){.illus}
+
+
+*Catalogue: GR-0473*
 *Set: Expansion*
 
 *aka: ______________________________*

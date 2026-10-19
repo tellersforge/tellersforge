@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Five-limbed mood-signaling folk *(NPC only)*
 
+![Five-limbed mood-signaling folk](../Images/species-five-limbed-mood-signaling-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 END +1 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Deception](../Skills/deception.md) −1, [Running](../Skills/running.md) −2, [Survival: Arctic](../Skills/survival-arctic.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 670 Hexapod patron-clan folk *(genres: space opera: strange aliens)*
 
+![Hexapod patron-clan folk](../Images/species-hexapod-patron-clan-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** hexapod
 - **What it's like:** Six-limbed reptile folk from an ancient, technologically advanced lineage, bound by strict clan hierarchy. (looks like: lizard; good at: knowledge, making and fixing)
 - **Attributes:** STR +3 AGI −2 END +1 INT +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Six-limbed body that can't sit a mount, in a rigid clan hierarchy.
 
 ### Wheeled tentacled trader folk *(NPC only)*
+
+![Wheeled tentacled trader folk](../Images/species-wheeled-tentacled-trader-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 END +1 WIS +1 CHA −1 COU −1
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (long-lived) is a lexicon detail, not a game number. Wrestling & Grappling is the grasping tentacles.
 
 ### No. 671 Serpentine centauroid philosopher folk *(genres: space opera: strange aliens)*
+
+![Serpentine centauroid philosopher folk](../Images/species-serpentine-centauroid-philosopher-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** centauroid+serpentine
 - **What it's like:** Four-armed philosophers with a humanoid torso on a long serpent body, endlessly methodical thinkers. (looks like: snake; good at: knowledge, fighting)

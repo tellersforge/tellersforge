@@ -1,5 +1,9 @@
 # Spine-backed brute
 
+![Spine-backed brute](../Images/BE-579-bestiary-spine-backed-brute.jpg){.illus}
+
+
+*Catalogue: BE-579*
 *Set: Core*
 
 *aka: ______________________________*

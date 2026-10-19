@@ -1,5 +1,9 @@
 # Tentacle-mouth spitter
 
+![Tentacle-mouth spitter](../Images/BE-612-bestiary-tentacle-mouth-spitter.jpg){.illus}
+
+
+*Catalogue: BE-612*
 *Set: Expansion*
 
 *aka: ______________________________*

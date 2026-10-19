@@ -1,7 +1,8 @@
 # Refuse-pit tentacle beast
 
-![Refuse-pit tentacle beast](../Images/bestiary-refuse-pit-tentacle-beast.jpg){.illus}
+![Refuse-pit tentacle beast](../Images/BE-486-bestiary-refuse-pit-tentacle-beast.jpg){.illus}
 
+*Catalogue: BE-486*
 *Set: Expansion*
 
 *aka: ______________________________*

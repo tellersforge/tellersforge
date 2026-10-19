@@ -1,5 +1,9 @@
 # Horned white ape
 
+![Horned white ape](../Images/BE-347-bestiary-horned-white-ape.jpg){.illus}
+
+
+*Catalogue: BE-347*
 *Set: Expansion*
 
 *aka: ______________________________*

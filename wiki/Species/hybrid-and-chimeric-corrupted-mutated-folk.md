@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wendigo-folk *(beast)*
 
+![Wendigo-folk](../Images/species-wendigo-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI −1 INT −2 WIS +1 CHA −1 COU +2
 - **Skills:** [Survival: Arctic](../Skills/survival-arctic.md) +2, [Tracking](../Skills/tracking.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An emaciated, deer-skulled winter hunter.
 
 ### Grotesque mutant folk *(NPC only)*
+
+![Grotesque mutant folk](../Images/species-grotesque-mutant-folk.jpg){.illus}
+
 
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** AGI −1 END +3 INT −2 CHA −2
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Drug-mutated pilot folk *(NPC only)*
 
+![Drug-mutated pilot folk](../Images/species-drug-mutated-pilot-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR −1 AGI −3 END +1 INT +2 WIS +3 CHA −1
 - **Skills:** [Astrogation](../Skills/astrogation.md) +3, [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2, [Running](../Skills/running.md) Foreign Concept
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Titan (mindless) *(beast)*
 
+![Titan (mindless)](../Images/species-titan-mindless.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +6 AGI −4 END +3 INT −3 WIS −3 CHA −1
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -65,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A colossal mindless humanoid that regenerates almost any wound.
 
 ### No. 502 Giant-sized shapeshifter folk *(genres: dark fantasy)*
+
+![Giant-sized shapeshifter folk](../Images/species-giant-sized-shapeshifter-folk.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **What it's like:** A person who can transform into a colossal giant while keeping their full mind, a power long fought over. (looks like: giant; good at: strength, powers and magic)
@@ -77,6 +92,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Alien-nanite hybrid *(NPC only)*
 
+![Alien-nanite hybrid](../Images/species-alien-nanite-hybrid.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** END +3 INT +1 CHA −2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -86,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The nanites are its body, not gear. NPC only.
 
 ### Chaos-corrupted goat-demon hybrid *(NPC only)*
+
+![Chaos-corrupted goat-demon hybrid](../Images/species-chaos-corrupted-goat-demon-hybrid.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 CHA −2
@@ -98,6 +119,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Frog-lizard swamp folk *(NPC only)*
 
+![Frog-lizard swamp folk](../Images/species-frog-lizard-swamp-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −1 END +2 INT +1 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Swimming](../Skills/swimming.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Arcana](../Skills/arcana.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -108,6 +132,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wraith folk *(NPC only)*
 
+![Wraith folk](../Images/species-wraith-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 INT +1 WIS +1 CHA −1
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -117,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* They must feed to survive; Healing Factor needs recent feeding. NPC only. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Randomized gangland mutate · No. 503 Post-nuclear bounty-hunter mutant · Dimension-warped mutant *(NPC only)*
+
+![Randomized gangland mutate](../Images/species-randomized-gangland-mutate.jpg){.illus}
+
 
 - **Size:** varies · **Body:** varies
 - **Attributes:** END +1 CHA −1
@@ -129,6 +159,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Blighted-wasteland mutant *(NPC only)*
 
+![Blighted-wasteland mutant](../Images/species-blighted-wasteland-mutant.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **Attributes:** END +2 CHA −1
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -138,6 +171,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Individual mutations are chosen for the character. NPC only.
 
 ### No. 504 Toxin-resistant undercity dweller *(genres: near future and cyberpunk)*
+
+![Toxin-resistant undercity dweller](../Images/species-toxin-resistant-undercity-dweller.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A poor, tribal undercity dweller raised amid toxic pollution, all but immune to the poisons that would fell anyone else. (looks like: human; good at: toughness, wilderness)
@@ -150,6 +186,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Demon-pact apostate *(NPC only)*
 
+![Demon-pact apostate](../Images/species-demon-pact-apostate.jpg){.illus}
+
+
 - **Size:** huge · **Body:** varies
 - **Attributes:** STR +7 AGI −4 END +3 WIS −3 CHA −1 COU +2
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Composure](../Skills/composure.md) −2, [Disguise](../Skills/disguise.md) −2
@@ -159,6 +198,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Chaos-touched mutant (major) *(NPC only)*
+
+![Chaos-touched mutant (major)](../Images/species-chaos-touched-mutant-major.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 END +1 INT −2 WIS −1 CHA −1 COU +1
@@ -171,6 +213,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ape-cult ritual warrior *(NPC only)*
 
+![Ape-cult ritual warrior](../Images/species-ape-cult-ritual-warrior.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −1 END +1 INT −1 CHA −1
 - **Skills:** [Climbing](../Skills/climbing.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -180,6 +225,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Climbing follows the Simian family. Their strength belongs to the attribute step. NPC only.
 
 ### No. 505 Cursed werewolf folk *(genres: gothic horror)*
+
+![Cursed werewolf folk](../Images/species-cursed-werewolf-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** A person cursed to become a savage wolf-beast, superhumanly strong, keen-sensed and fast-healing, though reason vanishes once transformed. (looks like: wolf; good at: strength, keen senses)
@@ -192,6 +240,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 506 Pseudo-vampire folk *(genres: super-powered: mutants and the enhanced)*
 
+![Pseudo-vampire folk](../Images/species-pseudo-vampire-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** A person turned vampire-like by a failed cure, with bat wings, echolocation and superhuman strength but no old vampire weaknesses. (looks like: bat; good at: flying, strength)
 - **Attributes:** AGI +1 END +1 WIS +1 CHA −1
@@ -202,6 +253,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Radar Sense copied from the Chiropteran family. They thirst for blood but have no mystic weaknesses.
 
 ### Rare-metal-mutated wildlife *(beast)*
+
+![Rare-metal-mutated wildlife](../Images/species-rare-metal-mutated-wildlife.jpg){.illus}
+
 
 - **Size:** medium · **Body:** varies
 - **Attributes:** END +1 INT −2 CHA −1

@@ -1,5 +1,9 @@
 # Polearms
 
+![Polearms](../Images/WG-022-weapon-groups-polearms.jpg){.illus}
+
+
+*Catalogue: WG-022*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Plane Shift
 
+![Plane Shift](../Images/PW-213-powers-plane-shift.jpg){.illus}
+
+
+*Catalogue: PW-213*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Tunnelling hive worker
 
+![Tunnelling hive worker](../Images/BE-635-bestiary-tunnelling-hive-worker.jpg){.illus}
+
+
+*Catalogue: BE-635*
 *Set: Expansion*
 
 *aka: ______________________________*

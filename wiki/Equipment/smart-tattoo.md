@@ -1,5 +1,9 @@
 # Smart tattoo
 
+![Smart tattoo](../Images/GR-0880-equipment-smart-tattoo.jpg){.illus}
+
+
+*Catalogue: GR-0880*
 *Set: Expansion*
 
 *aka: ______________________________*

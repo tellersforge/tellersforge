@@ -1,7 +1,7 @@
 # Race finder
 
 
-Every playable race on one page. Use your browser's find (Ctrl+F) for a look ("cat", "robot", "tree") or a strength ("sneaking", "flying"). There is also a **filter version** you can open on its own: [Teller's Forge Race Finder](Downloads/TellersForge_Race_Finder.html) (choose size, looks and strengths from lists). Then see the race's page for its numbers ([Rules, chapter 3, step 1](Rules/03-making-a-character.md)).
+Every playable race on one page. Use your browser's find (Ctrl+F) for a look ("cat", "robot", "tree") or a strength ("sneaking", "flying"). There is also a **filter version** you can open on its own: [the Finder](Downloads/TellersForge_Finder.html) (choose size, looks and strengths from lists; it also searches skills, powers, creatures and gear). Then see the race's page for its numbers ([Rules, chapter 3, step 1](Rules/03-making-a-character.md)).
 
 | No. | Breed/Race | Size | Looks like | Good at | What it's like |
 |---|---|---|---|---|---|

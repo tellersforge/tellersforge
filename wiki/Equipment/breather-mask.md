@@ -1,7 +1,8 @@
 # Breather mask
 
-![Breather mask](../Images/equipment-breather-mask.jpg){.illus}
+![Breather mask](../Images/GR-0226-equipment-breather-mask.jpg){.illus}
 
+*Catalogue: GR-0226*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Insectoid and arachnid
 
+![Insectoid and arachnid](../Images/species-families-insectoid-and-arachnid.jpg){.illus}
+
+
 
 Chitin, many legs and a view of the world through compound eyes. Beetles, ants, mantises, moths, spiders and scorpions give this family armoured shells, mandibles, stingers and spinnerets. Some are solitary artisans and weavers, some patient hunters who wait in the web, and many live in vast ordered colonies built around duty. Among the stars they become warrior swarms and hive empires that sweep across worlds. Most feel little need for privacy or comfort, and some for mercy. Soft-skinned peoples find them alien to the bone, and the insect folk, who have no bones, tend to agree.
 

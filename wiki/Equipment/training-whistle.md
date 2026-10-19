@@ -1,5 +1,9 @@
 # Training whistle
 
+![Training whistle](../Images/GR-0970-equipment-training-whistle.jpg){.illus}
+
+
+*Catalogue: GR-0970*
 *Set: Expansion*
 
 *aka: ______________________________*

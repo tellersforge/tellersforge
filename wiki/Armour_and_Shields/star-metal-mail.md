@@ -1,5 +1,9 @@
 # Star-metal mail
 
+![Star-metal mail](../Images/GR-0164-armour-star-metal-mail.jpg){.illus}
+
+
+*Catalogue: GR-0164*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Zombie ogre
 
+![Zombie ogre](../Images/BE-695-bestiary-zombie-ogre.jpg){.illus}
+
+
+*Catalogue: BE-695*
 *Set: Expansion*
 
 *aka: ______________________________*

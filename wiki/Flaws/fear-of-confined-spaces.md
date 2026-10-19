@@ -1,5 +1,8 @@
 # Fear of Confined Spaces
 
+![Fear of Confined Spaces](../Images/flaws-fear-of-confined-spaces.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when tunnels, cells, crowded holds.

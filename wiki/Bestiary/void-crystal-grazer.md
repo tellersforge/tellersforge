@@ -1,5 +1,9 @@
 # Void crystal grazer
 
+![Void crystal grazer](../Images/BE-654-bestiary-void-crystal-grazer.jpg){.illus}
+
+
+*Catalogue: BE-654*
 *Set: Expansion*
 
 *aka: ______________________________*

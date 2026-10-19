@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mindless shambling corpse *(beast)*
 
+![Mindless shambling corpse](../Images/species-mindless-shambling-corpse.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 INT −3 WIS −2 CHA −3 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Running](../Skills/running.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 787 Willful capable zombie *(genres: gothic horror)*
 
+![Willful capable zombie](../Images/species-willful-capable-zombie.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** The dead who keep working through sheer will and a little magic, slow of speech but surprisingly capable. (looks like: zombie; good at: toughness, knowledge)
 - **Attributes:** STR +1 AGI −2 END +2 CHA −3 COU +2
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs only in slow speech and a will that keeps a decaying body working (lexicon matters).
 
 ### No. 788 Sapient rebel undead *(genres: gothic horror)*
+
+![Sapient rebel undead](../Images/species-sapient-rebel-undead.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Undead who broke free of whoever raised them, keeping their old personality, and their old grudges. (looks like: zombie; good at: toughness, fighting)
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 789 Hollowing cursed wanderer *(genres: dark fantasy, gothic horror)*
 
+![Hollowing cursed wanderer](../Images/species-hollowing-cursed-wanderer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cursed wanderers who keep coming back from death, slowly losing a little more of themselves each time. (looks like: skeleton; good at: toughness, fighting)
 - **Attributes:** STR +1 AGI −2 END +2 CHA −3 COU +2
@@ -66,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Controlled wight corpse soldier *(beast)*
 
+![Controlled wight corpse soldier](../Images/species-controlled-wight-corpse-soldier.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 INT −3 WIS −2 CHA −3 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Running](../Skills/running.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -74,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A mindless corpse soldier that only fire or a rare enchanted weapon truly destroys.
 
 ### Vengeful intelligent wight *(NPC only)*
+
+![Vengeful intelligent wight](../Images/species-vengeful-intelligent-wight.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 CHA −3 COU +2
@@ -85,6 +103,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Life-draining reanimate *(beast)*
 
+![Life-draining reanimate](../Images/species-life-draining-reanimate.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 INT −3 WIS −2 CHA −3 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Running](../Skills/running.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -93,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A mindless revenant that devours the living's life-force.
 
 ### Cyclically-reborn swamp revenant *(NPC only)*
+
+![Cyclically-reborn swamp revenant](../Images/species-cyclically-reborn-swamp-revenant.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −2 CHA −3 COU +2
@@ -103,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Renewal at Death follows its fixed cycle; memory loss with each rebirth is a flaw.
 
 ### Hunger-plague infected zombie *(beast)*
+
+![Hunger-plague infected zombie](../Images/species-hunger-plague-infected-zombie.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2 INT −2 CHA −3 COU +2

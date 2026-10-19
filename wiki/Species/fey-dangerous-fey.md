@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hag-kind *(NPC only)*
 
+![Hag-kind](../Images/species-hag-kind.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END −1 INT +1 WIS +1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Shapechanging swamp witches of dark fey magic.
 
 ### Redcap *(NPC only)*
+
+![Redcap](../Images/species-redcap.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** AGI +2 CHA +1 COU +1
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Eyeless child-eater *(NPC only)*
 
+![Eyeless child-eater](../Images/species-eyeless-child-eater.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −1 CHA +1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -51,6 +60,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; its eyes in the palms go on the lexicon entry.
 
 ### Carnivorous tooth fairy swarm *(beast)*
+
+![Carnivorous tooth fairy swarm](../Images/species-carnivorous-tooth-fairy-swarm.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +3 END −1 INT −3 CHA +1 COU +1
@@ -61,6 +73,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Tiny flying flesh-strippers that attack in swarms.
 
 ### Malicious dwarf spirit *(NPC only)*
+
+![Malicious dwarf spirit](../Images/species-malicious-dwarf-spirit.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +3 END −1 CHA +1 COU +1

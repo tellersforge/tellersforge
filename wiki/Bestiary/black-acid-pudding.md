@@ -1,7 +1,8 @@
 # Black acid pudding
 
-![Black acid pudding](../Images/bestiary-black-acid-pudding.jpg){.illus}
+![Black acid pudding](../Images/BE-045-bestiary-black-acid-pudding.jpg){.illus}
 
+*Catalogue: BE-045*
 *Set: Expansion*
 
 *aka: ______________________________*

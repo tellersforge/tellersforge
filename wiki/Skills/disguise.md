@@ -1,5 +1,9 @@
 # Disguise
 
+![Disguise](../Images/SK-052-skills-disguise.jpg){.illus}
+
+
+*Catalogue: SK-052*
 *Set: Core · Basic skill: Deception*
 
 *aka: ______________________________*

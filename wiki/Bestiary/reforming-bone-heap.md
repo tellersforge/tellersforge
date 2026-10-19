@@ -1,5 +1,9 @@
 # Reforming bone heap
 
+![Reforming bone heap](../Images/BE-485-bestiary-reforming-bone-heap.jpg){.illus}
+
+
+*Catalogue: BE-485*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wooden skis
 
+![Wooden skis](../Images/GR-1025-equipment-wooden-skis.jpg){.illus}
+
+
+*Catalogue: GR-1025*
 *Set: Expansion*
 
 *aka: ______________________________*

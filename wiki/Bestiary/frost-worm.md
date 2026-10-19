@@ -1,5 +1,9 @@
 # Frost worm
 
+![Frost worm](../Images/BE-223-bestiary-frost-worm.jpg){.illus}
+
+
+*Catalogue: BE-223*
 *Set: Expansion*
 
 *aka: ______________________________*

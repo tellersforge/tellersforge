@@ -1,5 +1,9 @@
 # Trapping
 
+![Trapping](../Images/SK-215-skills-trapping.jpg){.illus}
+
+
+*Catalogue: SK-215*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

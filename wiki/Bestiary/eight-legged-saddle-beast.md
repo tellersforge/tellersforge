@@ -1,5 +1,9 @@
 # Eight-legged saddle beast
 
+![Eight-legged saddle beast](../Images/BE-171-bestiary-eight-legged-saddle-beast.jpg){.illus}
+
+
+*Catalogue: BE-171*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Falconry glove
 
+![Falconry glove](../Images/GR-0384-equipment-falconry-glove.jpg){.illus}
+
+
+*Catalogue: GR-0384*
 *Set: Expansion*
 
 *aka: ______________________________*

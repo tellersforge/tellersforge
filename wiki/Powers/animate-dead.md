@@ -1,7 +1,8 @@
 # Animate Dead
 
-![Animate dead](../Images/powers-animate-dead.jpg){.illus}
+![Animate dead](../Images/PW-007-powers-animate-dead.jpg){.illus}
 
+*Catalogue: PW-007*
 *Set: Expansion*
 
 *aka: ______________________________*

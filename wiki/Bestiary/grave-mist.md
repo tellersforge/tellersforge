@@ -1,5 +1,9 @@
 # Grave mist
 
+![Grave mist](../Images/BE-302-bestiary-grave-mist.jpg){.illus}
+
+
+*Catalogue: BE-302*
 *Set: Expansion*
 
 *aka: ______________________________*

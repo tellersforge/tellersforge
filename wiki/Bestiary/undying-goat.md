@@ -1,5 +1,9 @@
 # Undying goat
 
+![Undying goat](../Images/BE-645-bestiary-undying-goat.jpg){.illus}
+
+
+*Catalogue: BE-645*
 *Set: Expansion*
 
 *aka: ______________________________*

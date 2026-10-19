@@ -1,5 +1,9 @@
 # Growing
 
+![Growing](../Images/PW-120-powers-growing.jpg){.illus}
+
+
+*Catalogue: PW-120*
 *Set: Core*
 
 *aka: ______________________________*

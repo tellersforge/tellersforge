@@ -1,5 +1,8 @@
 # Grassland hunters
 
+![Grassland hunters](../Images/cultures-grassland-hunters.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

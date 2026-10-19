@@ -1,5 +1,9 @@
 # Giant burrowing worm
 
+![Giant burrowing worm](../Images/BE-241-bestiary-giant-burrowing-worm.jpg){.illus}
+
+
+*Catalogue: BE-241*
 *Set: Core*
 
 *aka: ______________________________*

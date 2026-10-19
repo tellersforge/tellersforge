@@ -1,5 +1,9 @@
 # Desert horned dragon
 
+![Desert horned dragon](../Images/BE-145-bestiary-desert-horned-dragon.jpg){.illus}
+
+
+*Catalogue: BE-145*
 *Set: Expansion*
 
 *aka: ______________________________*

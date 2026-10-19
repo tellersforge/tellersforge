@@ -1,5 +1,8 @@
 # Drunkard
 
+![Drunkard](../Images/flaws-drunkard.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when drinks when it's unwise, can't stop at one.

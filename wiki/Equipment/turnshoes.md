@@ -1,5 +1,9 @@
 # Turnshoes
 
+![Turnshoes](../Images/GR-0984-equipment-turnshoes.jpg){.illus}
+
+
+*Catalogue: GR-0984*
 *Set: Expansion*
 
 *aka: ______________________________*

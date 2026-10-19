@@ -1,5 +1,9 @@
 # Codebook
 
+![Codebook](../Images/GR-0289-equipment-codebook.jpg){.illus}
+
+
+*Catalogue: GR-0289*
 *Set: Expansion*
 
 *aka: ______________________________*

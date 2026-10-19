@@ -1,5 +1,9 @@
 # Pain Transfer
 
+![Pain Transfer](../Images/PW-206-powers-pain-transfer.jpg){.illus}
+
+
+*Catalogue: PW-206*
 *Set: Expansion*
 
 *aka: ______________________________*

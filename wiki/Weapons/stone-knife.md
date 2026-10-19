@@ -1,7 +1,8 @@
 # Stone Knife
 
-![Stone knife](../Images/weapons-stone-knife.jpg){.illus}
+![Stone knife](../Images/GR-0102-weapons-stone-knife.jpg){.illus}
 
+*Catalogue: GR-0102*
 *Set: Core*
 
 *aka: ______________________________*

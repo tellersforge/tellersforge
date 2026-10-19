@@ -1,5 +1,9 @@
 # Frilled spitter
 
+![Frilled spitter](../Images/BE-219-bestiary-frilled-spitter.jpg){.illus}
+
+
+*Catalogue: BE-219*
 *Set: Expansion*
 
 *aka: ______________________________*

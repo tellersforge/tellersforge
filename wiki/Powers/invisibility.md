@@ -1,5 +1,9 @@
 # Invisibility
 
+![Invisibility](../Images/PW-140-powers-invisibility.jpg){.illus}
+
+
+*Catalogue: PW-140*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

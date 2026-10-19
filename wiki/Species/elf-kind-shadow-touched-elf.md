@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 377 Shadow folk *(genres: heavens, hells and other planes)*
 
+![Shadow folk](../Images/species-shadow-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Quiet, melancholy elves at home in shadow, resistant to dark and mind-magic alike, and hard to spot. (looks like: elf; good at: sneaking, powers and magic)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 378 Seasonal fey-touched folk *(genres: fairy tale and folklore)*
 
+![Seasonal fey-touched folk](../Images/species-seasonal-fey-touched-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Fey-touched elves whose looks shift with the seasons, blinking short distances with a flicker of fairy magic. (looks like: elf; good at: powers and magic, sneaking)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2 CHA +1
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Seasonal changes of appearance go on the lexicon entry.
 
 ### No. 379 Shadow-plane elf heritage *(genres: heavens, hells and other planes)*
+
+![Shadow-plane elf heritage](../Images/species-shadow-plane-elf-heritage.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Elf-kin whose bloodline traces to the shadow plane rather than the usual elf lands, sharp-eyed and naturally stealthy. (looks like: elf; good at: sneaking, keen senses)

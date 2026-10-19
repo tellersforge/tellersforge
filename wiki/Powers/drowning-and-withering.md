@@ -1,5 +1,9 @@
 # Drowning & Withering
 
+![Drowning & Withering](../Images/PW-078-powers-drowning-and-withering.jpg){.illus}
+
+
+*Catalogue: PW-078*
 *Set: Expansion*
 
 *aka: ______________________________*

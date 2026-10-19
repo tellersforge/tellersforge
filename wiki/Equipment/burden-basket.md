@@ -1,5 +1,9 @@
 # Burden basket
 
+![Burden basket](../Images/GR-0238-equipment-burden-basket.jpg){.illus}
+
+
+*Catalogue: GR-0238*
 *Set: Core*
 
 *aka: ______________________________*

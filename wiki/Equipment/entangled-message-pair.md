@@ -1,5 +1,9 @@
 # Entangled message pair
 
+![Entangled message pair](../Images/GR-0375-equipment-entangled-message-pair.jpg){.illus}
+
+
+*Catalogue: GR-0375*
 *Set: Expansion*
 
 *aka: ______________________________*

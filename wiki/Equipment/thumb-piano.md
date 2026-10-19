@@ -1,5 +1,9 @@
 # Thumb piano
 
+![Thumb piano](../Images/GR-0958-equipment-thumb-piano.jpg){.illus}
+
+
+*Catalogue: GR-0958*
 *Set: Expansion*
 
 *aka: ______________________________*

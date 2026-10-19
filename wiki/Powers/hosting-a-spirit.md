@@ -1,5 +1,9 @@
 # Hosting a Spirit
 
+![Hosting a Spirit](../Images/PW-132-powers-hosting-a-spirit.jpg){.illus}
+
+
+*Catalogue: PW-132*
 *Set: Expansion*
 
 *aka: ______________________________*

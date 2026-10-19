@@ -1,5 +1,9 @@
 # Mending & Sewing
 
+![Mending & Sewing](../Images/SK-130-skills-mending-and-sewing.jpg){.illus}
+
+
+*Catalogue: SK-130*
 *Set: Core · Basic skill: Crafting & Repair*
 
 *aka: ______________________________*

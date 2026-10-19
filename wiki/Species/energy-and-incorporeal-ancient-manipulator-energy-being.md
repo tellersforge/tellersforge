@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Elder manipulator being *(NPC only; NPC-scale)*
 
+![Elder manipulator being](../Images/species-elder-manipulator-being.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** STR −3 INT +3 WIS +3 CHA +2
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept

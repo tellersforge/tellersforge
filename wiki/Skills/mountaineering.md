@@ -1,5 +1,9 @@
 # Mountaineering
 
+![Mountaineering](../Images/SK-138-skills-mountaineering.jpg){.illus}
+
+
+*Catalogue: SK-138*
 *Set: Core*
 
 *aka: ______________________________*

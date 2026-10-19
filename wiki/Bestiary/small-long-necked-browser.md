@@ -1,5 +1,9 @@
 # Small long-necked browser
 
+![Small long-necked browser](../Images/BE-564-bestiary-small-long-necked-browser.jpg){.illus}
+
+
+*Catalogue: BE-564*
 *Set: Expansion*
 
 *aka: ______________________________*

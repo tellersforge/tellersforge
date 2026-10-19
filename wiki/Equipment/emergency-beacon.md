@@ -1,5 +1,9 @@
 # Emergency beacon
 
+![Emergency beacon](../Images/GR-0372-equipment-emergency-beacon.jpg){.illus}
+
+
+*Catalogue: GR-0372*
 *Set: Core*
 
 *aka: ______________________________*

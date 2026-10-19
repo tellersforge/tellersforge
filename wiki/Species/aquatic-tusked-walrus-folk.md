@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 193 Tusked multi-eyed walrus folk *(genres: space opera: beast-like aliens)*
 
+![Tusked multi-eyed walrus folk](../Images/species-tusked-multi-eyed-walrus-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tusked, many-eyed walrus-folk with thick hides suited to icy water. (looks like: walrus; good at: swimming, toughness, fighting)
 - **Attributes:** STR +1 AGI −1 END +2 CHA −1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 7 · Damage longsword 1d6+2; tusks 1d6+2 · Armour 2 · Life 19 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 194 Docile four-eyed walrus folk *(genres: space opera: beast-like aliens)*
+
+![Docile four-eyed walrus folk](../Images/species-docile-four-eyed-walrus-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Gentle, four-eyed walrus-folk, smaller and more docile than their kin. (looks like: walrus; good at: swimming, toughness)
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Large aggressive walrus folk *(NPC only)*
 
+![Large aggressive walrus folk](../Images/species-large-aggressive-walrus-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +2 CHA −2 COU +2
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Climbing](../Skills/climbing.md) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Size is set in the attribute step. Its heavier tusks come from size class, not a higher attack.
 
 ### No. 195 Two-eyed outsider walrus folk *(genres: space opera: beast-like aliens)*
+
+![Two-eyed outsider walrus folk](../Images/species-two-eyed-outsider-walrus-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Two-eyed walrus-folk treated as outsiders by their own many-eyed clans. (looks like: walrus; good at: swimming, toughness)

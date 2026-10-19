@@ -1,7 +1,8 @@
 # Stone-Tipped Spear
 
-![Stone-tipped spear](../Images/weapons-stone-tipped-spear.jpg){.illus}
+![Stone-tipped spear](../Images/GR-0105-weapons-stone-tipped-spear.jpg){.illus}
 
+*Catalogue: GR-0105*
 *Set: Core*
 
 *aka: ______________________________*

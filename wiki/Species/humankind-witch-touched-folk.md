@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 80 Horned witch-clan folk *(genres: space opera: near-humans, dark fantasy)*
 
+![Horned witch-clan folk](../Images/species-horned-witch-clan-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Small-horned witches and warriors who move things with a flick of will. (looks like: witch; good at: powers and magic, fighting)
 - **Attributes:** none
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 81 Tough-hide horned warrior folk *(genres: space opera: near-humans)*
 
+![Tough-hide horned warrior folk](../Images/species-tough-hide-horned-warrior-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Small-horned, thick-hided warriors who shrug off hard knocks. (looks like: alien; good at: toughness, fighting)
 - **Attributes:** END +1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carries out the species note: no power Set; the species' affinity stays but grants nothing.
 
 ### No. 82 Red-skinned psychic bloodline folk *(genres: space opera: near-humans)*
+
+![Red-skinned psychic bloodline folk](../Images/species-red-skinned-psychic-bloodline-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Red-skinned, sharp-toothed bloodline strongly gifted at moving things with the mind. (looks like: alien; good at: powers and magic, fighting)
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 83 Albino psychic telepathic folk *(genres: space opera: near-humans)*
 
+![Albino psychic telepathic folk](../Images/species-albino-psychic-telepathic-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Pale-skinned folk with a natural knack for telekinesis and reading minds. (looks like: alien; good at: powers and magic, knowledge)
 - **Attributes:** none
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carries out the species note.
 
 ### No. 84 Small green sage folk *(genres: space opera: near-humans)*
+
+![Small green sage folk](../Images/species-small-green-sage-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, ancient green sages, immensely wise and gifted at moving things with the mind. (looks like: goblin; good at: powers and magic, knowledge)

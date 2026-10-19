@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Horned demon ogre *(NPC only)*
 
+![Horned demon ogre](../Images/species-horned-demon-ogre.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -47,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Horned, fanged demon-ogres.
 
 ### Brutish ogre *(NPC only)*
+
+![Brutish ogre](../Images/species-brutish-ogre.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −3
@@ -59,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 466 Half-ogre outcast *(genres: classic fantasy)*
 
+![Half-ogre outcast](../Images/species-half-ogre-outcast.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** A strong, cunning half-ogre, never quite welcomed by either side of the family. (looks like: giant; good at: strength, toughness)
 - **Attributes:** STR +4 AGI −2 END +2
@@ -69,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs only in being a smaller, cunning half-blood caught between two peoples (attribute and lexicon matters).
 
 ### No. 467 Evolved oni-kin (named ogre) *(genres: classic fantasy)*
+
+![Evolved oni-kin (named ogre)](../Images/species-evolved-oni-kin-named-ogre.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** An ogre who, once given a true name, transforms into a powerful oni-kin with great strength and magic. (looks like: giant; good at: strength, powers and magic)
@@ -82,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ogre-camp scavenger folk *(NPC only)*
 
+![Ogre-camp scavenger folk](../Images/species-ogre-camp-scavenger-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2
 - **Skills:** [Scavenging](../Skills/scavenging.md) +2, [Stealth](../Skills/stealth.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1
@@ -90,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Small body undoes the family's giant-body lines.
 
 ### Shaggy mountain ogre-kin *(NPC only)*
+
+![Shaggy mountain ogre-kin](../Images/species-shaggy-mountain-ogre-kin.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
@@ -101,6 +119,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is cold.
 
 ### Warband ogre sub-tribe *(NPC only)*
+
+![Warband ogre sub-tribe](../Images/species-warband-ogre-sub-tribe.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1

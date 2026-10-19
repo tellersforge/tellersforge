@@ -1,5 +1,9 @@
 # Hardtack
 
+![Hardtack](../Images/GR-0505-equipment-hardtack.jpg){.illus}
+
+
+*Catalogue: GR-0505*
 *Set: Core*
 
 *aka: ______________________________*

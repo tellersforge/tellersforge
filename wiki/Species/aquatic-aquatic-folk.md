@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 174 Shark-folk *(genres: beast-folk: scales, feathers and shells, sea and sky)*
 
+![Shark-folk](../Images/species-shark-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+finned
 - **What it's like:** Powerful shark-folk with endless rows of teeth and a nose for blood. (looks like: shark; good at: swimming, fighting, keen senses)
 - **Attributes:** STR +3 AGI −2 END +2 INT −1 CHA −1 COU +1
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 175 Dolphin-folk *(genres: sea and sky, uplifted animals)*
 
+![Dolphin-folk](../Images/species-dolphin-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+finned
 - **What it's like:** Clever, playful dolphin-folk who navigate by sound and swim beautifully. (looks like: dolphin; good at: swimming, knowledge)
 - **Attributes:** STR −1 END +2 INT +1
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Sea-mammal breed: cancels the family's Water Breathing, as the species note directs.
 
 ### No. 176 Whale-folk (orca) *(genres: sea and sky)*
+
+![Whale-folk (orca)](../Images/species-whale-folk-orca.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped+finned
 - **What it's like:** Enormous, pod-hunting whale-folk, mighty swimmers and apex predators of the sea. (looks like: whale; good at: swimming, strength, fighting)
@@ -59,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 177 Seal-folk *(genres: sea and sky)*
 
+![Seal-folk](../Images/species-seal-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+finned
 - **What it's like:** Blubbery seal-folk, graceful in the water but clumsy on land. (looks like: seal; good at: swimming, toughness)
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1
@@ -70,6 +82,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sea lion-folk *(NPC only)*
 
+![Sea lion-folk](../Images/species-sea-lion-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+finned
 - **Attributes:** END +2
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Running](../Skills/running.md) −1, [Riding](../Skills/riding.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -78,6 +93,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Sea-mammal breed: cancels Water Breathing.
 
 ### Manatee/dugong-folk *(NPC only)*
+
+![Manatee/dugong-folk](../Images/species-manatee-dugong-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** aquatic
 - **Attributes:** STR +2 AGI −2 END +2 CHA −1 COU −1
@@ -88,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Eel-folk *(NPC only)*
 
+![Eel-folk](../Images/species-eel-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** serpentine+finned
 - **Attributes:** STR −1 AGI +2 END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Escape Artistry](../Skills/escape-artistry.md) +1, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -97,6 +118,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lightning is affinity: electric lines Set it at character level.
 
 ### Anglerfish-folk *(NPC only)*
+
+![Anglerfish-folk](../Images/species-anglerfish-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+finned
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1
@@ -109,6 +133,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Seahorse-folk *(NPC only)*
 
+![Seahorse-folk](../Images/species-seahorse-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+finned
 - **Attributes:** STR −2 AGI +2 END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Swimming](../Skills/swimming.md) +2, [Fishing](../Skills/fishing.md) +1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -117,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An upright, slow swimmer whose prehensile tail grips reef and rock.
 
 ### Koi/goldfish-folk *(NPC only)*
+
+![Koi/goldfish-folk](../Images/species-koi-goldfish-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+finned
 - **Attributes:** END +2 CHA −1
@@ -128,6 +158,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Catfish-folk *(NPC only)*
 
+![Catfish-folk](../Images/species-catfish-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+finned
 - **Attributes:** END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -137,6 +170,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Enhanced Senses is touch and taste through the barbels, useful in murky water.
 
 ### Piranha-folk *(NPC only)*
+
+![Piranha-folk](../Images/species-piranha-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+finned
 - **Attributes:** STR −2 AGI +2 END +2 INT −2 CHA −1 COU +2
@@ -148,6 +184,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ray/manta-folk *(NPC only)*
 
+![Ray/manta-folk](../Images/species-ray-manta-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** winged biped+finned
 - **Attributes:** STR +2 AGI −1 END +2 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +4, [Diving](../Skills/diving.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -158,6 +197,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The stinger is the tail barb; venomous lines take Poison Touch at character level.
 
 ### No. 178 Communal deep-pod cetacean folk *(genres: space opera: beast-like aliens)*
+
+![Communal deep-pod cetacean folk](../Images/species-communal-deep-pod-cetacean-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** aquatic
 - **What it's like:** Long-lived, deep-diving pod-folk who navigate the ocean together by sound. (looks like: whale; good at: swimming, knowledge)

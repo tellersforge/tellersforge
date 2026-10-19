@@ -1,5 +1,9 @@
 # Brush and ink stone
 
+![Brush and ink stone](../Images/GR-0235-equipment-brush-and-ink-stone.jpg){.illus}
+
+
+*Catalogue: GR-0235*
 *Set: Expansion*
 
 *aka: ______________________________*

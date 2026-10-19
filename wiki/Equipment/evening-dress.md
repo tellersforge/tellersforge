@@ -1,5 +1,9 @@
 # Evening dress
 
+![Evening dress](../Images/GR-0377-equipment-evening-dress.jpg){.illus}
+
+
+*Catalogue: GR-0377*
 *Set: Expansion*
 
 *aka: ______________________________*

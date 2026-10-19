@@ -1,5 +1,9 @@
 # Sheepskin coat
 
+![Sheepskin coat](../Images/GR-0843-equipment-sheepskin-coat.jpg){.illus}
+
+
+*Catalogue: GR-0843*
 *Set: Expansion*
 
 *aka: ______________________________*

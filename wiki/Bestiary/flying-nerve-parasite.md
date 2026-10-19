@@ -1,5 +1,9 @@
 # Flying nerve parasite
 
+![Flying nerve parasite](../Images/BE-209-bestiary-flying-nerve-parasite.jpg){.illus}
+
+
+*Catalogue: BE-209*
 *Set: Expansion*
 
 *aka: ______________________________*

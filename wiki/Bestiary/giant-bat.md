@@ -1,5 +1,9 @@
 # Giant bat
 
+![Giant bat](../Images/BE-237-bestiary-giant-bat.jpg){.illus}
+
+
+*Catalogue: BE-237*
 *Set: Expansion*
 
 *aka: ______________________________*

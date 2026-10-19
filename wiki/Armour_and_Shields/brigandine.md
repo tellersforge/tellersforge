@@ -1,7 +1,8 @@
 # Brigandine
 
-![Brigandine](../Images/armour-brigandine.jpg){.illus}
+![Brigandine](../Images/GR-0128-armour-brigandine.jpg){.illus}
 
+*Catalogue: GR-0128*
 *Set: Expansion*
 
 *aka: ______________________________*

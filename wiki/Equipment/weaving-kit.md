@@ -1,5 +1,9 @@
 # Weaving kit
 
+![Weaving kit](../Images/GR-1007-equipment-weaving-kit.jpg){.illus}
+
+
+*Catalogue: GR-1007*
 *Set: Expansion*
 
 *aka: ______________________________*

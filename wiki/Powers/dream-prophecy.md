@@ -1,5 +1,9 @@
 # Dream Prophecy
 
+![Dream Prophecy](../Images/PW-075-powers-dream-prophecy.jpg){.illus}
+
+
+*Catalogue: PW-075*
 *Set: Expansion*
 
 *aka: ______________________________*

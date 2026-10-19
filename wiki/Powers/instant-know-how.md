@@ -1,5 +1,9 @@
 # Instant Know-How
 
+![Instant Know-How](../Images/PW-139-powers-instant-know-how.jpg){.illus}
+
+
+*Catalogue: PW-139*
 *Set: Expansion*
 
 *aka: ______________________________*

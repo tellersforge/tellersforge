@@ -1,5 +1,8 @@
 # Wallflower
 
+![Wallflower](../Images/flaws-wallflower.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when fades into the background, won't speak up even when needed.

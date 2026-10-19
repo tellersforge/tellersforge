@@ -1,5 +1,9 @@
 # Sun stone
 
+![Sun stone](../Images/GR-0931-equipment-sun-stone.jpg){.illus}
+
+
+*Catalogue: GR-0931*
 *Set: Expansion*
 
 *aka: ______________________________*

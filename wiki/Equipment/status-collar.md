@@ -1,5 +1,9 @@
 # Status collar
 
+![Status collar](../Images/GR-0913-equipment-status-collar.jpg){.illus}
+
+
+*Catalogue: GR-0913*
 *Set: Expansion*
 
 *aka: ______________________________*

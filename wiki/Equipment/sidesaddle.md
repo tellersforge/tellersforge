@@ -1,5 +1,9 @@
 # Sidesaddle
 
+![Sidesaddle](../Images/GR-0851-equipment-sidesaddle.jpg){.illus}
+
+
+*Catalogue: GR-0851*
 *Set: Expansion*
 
 *aka: ______________________________*

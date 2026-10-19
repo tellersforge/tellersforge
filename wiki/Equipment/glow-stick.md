@@ -1,5 +1,9 @@
 # Glow stick
 
+![Glow stick](../Images/GR-0461-equipment-glow-stick.jpg){.illus}
+
+
+*Catalogue: GR-0461*
 *Set: Expansion*
 
 *aka: ______________________________*

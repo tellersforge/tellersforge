@@ -1,5 +1,8 @@
 # Fear of Holy Things
 
+![Fear of Holy Things](../Images/flaws-fear-of-holy-things.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when temples, priests, sacred symbols.

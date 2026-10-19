@@ -1,5 +1,8 @@
 # Fear of Dirt and Germs
 
+![Fear of Dirt and Germs](../Images/flaws-fear-of-dirt-and-germs.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when filth, contamination, touching unclean things.

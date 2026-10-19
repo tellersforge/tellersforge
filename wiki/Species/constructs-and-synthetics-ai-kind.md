@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Distributed ship-mind body network *(NPC only)*
 
+![Distributed ship-mind body network](../Images/species-distributed-ship-mind-body-network.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +2 INT +3 WIS +1 CHA −2
 - **Skills:** [Computer Use](../Skills/computer-use.md) +3, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Spacecraft Piloting](../Skills/spacecraft-piloting.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Bilocation is the one mind acting through many bodies at once.
 
 ### Post-singularity uploaded mind-swarm *(NPC only)*
+
+![Post-singularity uploaded mind-swarm](../Images/species-post-singularity-uploaded-mind-swarm.jpg){.illus}
+
 
 - **Size:** varies · **Body:** other
 - **Attributes:** END +2 INT +5 WIS −1 CHA −3
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Starship-hull superintelligence *(NPC only; NPC-scale)*
 
+![Starship-hull superintelligence](../Images/species-starship-hull-superintelligence.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** END +2 INT +6 WIS −1
 - **Skills:** [Computer Use](../Skills/computer-use.md) +3, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Wit & Mockery](../Skills/wit-and-mockery.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 262 Awakened machine-hive intelligence *(genres: robots and synthetics)*
 
+![Awakened machine-hive intelligence](../Images/species-awakened-machine-hive-intelligence.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **What it's like:** A once-servile machine intelligence, now its own coldly efficient robot society. (looks like: robot; good at: knowledge, toughness, making and fixing)
 - **Attributes:** END +2 INT +3 WIS −1 CHA −2
@@ -63,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A former servitor machine population with a body that needs nothing and knows no poison or disease.
 
 ### Non-interventionist observer AI *(beast)*
+
+![Non-interventionist observer AI](../Images/species-non-interventionist-observer-ai.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** END +2 INT +3 WIS +1 PER +2 CHA −2

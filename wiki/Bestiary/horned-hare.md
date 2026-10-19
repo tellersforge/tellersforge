@@ -1,7 +1,8 @@
 # Horned hare
 
-![Horned hare](../Images/bestiary-horned-hare.jpg){.illus}
+![Horned hare](../Images/BE-344-bestiary-horned-hare.jpg){.illus}
 
+*Catalogue: BE-344*
 *Set: Core*
 
 *aka: ______________________________*

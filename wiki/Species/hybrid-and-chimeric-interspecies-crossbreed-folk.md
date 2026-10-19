@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 521 Half-superhuman hybrid *(genres: super-powered: cosmic and mythic)*
 
+![Half-superhuman hybrid](../Images/species-half-superhuman-hybrid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A half-superhuman with toned-down but still remarkable strength, speed and healing, ageing far more like an ordinary person. (looks like: human; good at: strength, toughness)
 - **Attributes:** END +1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 522 Dual-heritage crossbreed *(genres: space opera: near-humans)*
 
+![Dual-heritage crossbreed](../Images/species-dual-heritage-crossbreed.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A rare crossbreed of two alien bloodlines, with a little shapeshifting and the toughness of one parent line. (looks like: human; good at: toughness, powers and magic)
 - **Attributes:** END +1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Limited shapeshifting plus one parent's toughness.
 
 ### No. 523 Human-yokai hybrid *(genres: fairy tale and folklore)*
+
+![Human-yokai hybrid](../Images/species-human-yokai-hybrid.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Children of a human and a spirit-being, carrying some of the spirit parent's strength, welcomed by neither side. (looks like: human; good at: strength, keen senses)
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 524 Human-demon hybrid warrior *(genres: dark fantasy)*
 
+![Human-demon hybrid warrior](../Images/species-human-demon-hybrid-warrior.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A warrior implanted with demon flesh for superhuman strength, speed and senses, always one step from losing control for good. (looks like: human; good at: strength, speed and agility)
 - **Attributes:** END +1 WIS −1 COU +1
@@ -65,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fully-awakened hybrid monster *(NPC only)*
 
+![Fully-awakened hybrid monster](../Images/species-fully-awakened-hybrid-monster.jpg){.illus}
+
+
 - **Size:** huge · **Body:** varies
 - **Attributes:** STR +7 AGI −4 END +3 INT −2 WIS −3
 - **Skills:** [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Composure](../Skills/composure.md) −2, [Disguise](../Skills/disguise.md) −2
@@ -74,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Brood-mutant crossbreed *(NPC only)*
+
+![Brood-mutant crossbreed](../Images/species-brood-mutant-crossbreed.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 CHA −2
@@ -86,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 525 Demon-touched mutant hybrid *(genres: super-powered: mutants and the enhanced)*
 
+![Demon-touched mutant hybrid](../Images/species-demon-touched-mutant-hybrid.jpg){.illus}
+
+
 - **Size:** varies · **Body:** varies
 - **What it's like:** Exiled mutant bloodlines long mixed with demon-kind, carrying both mutant powers and a touch of something darker. (looks like: human; good at: powers and magic, toughness)
 - **Attributes:** END +1
@@ -95,6 +116,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Demon-touched traits and mutant powers are chosen for the individual.
 
 ### Celestial-spawn hybrid *(NPC only)*
+
+![Celestial-spawn hybrid](../Images/species-celestial-spawn-hybrid.jpg){.illus}
+
 
 - **Size:** varies · **Body:** varies
 - **Attributes:** END +1 WIS +1 CHA +1

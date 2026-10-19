@@ -1,5 +1,9 @@
 # Bone colossus
 
+![Bone colossus](../Images/BE-064-bestiary-bone-colossus.jpg){.illus}
+
+
+*Catalogue: BE-064*
 *Set: Expansion*
 
 *aka: ______________________________*

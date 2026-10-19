@@ -1,5 +1,8 @@
 # Fear of Omens (chosen number or sign)
 
+![Fear of Omens (chosen number or sign)](../Images/flaws-fear-of-omens-chosen-number-or-sign.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when an unlucky number, colour or sign the player picks.

@@ -1,5 +1,8 @@
 # Bloodlust
 
+![Bloodlust](../Images/flaws-bloodlust.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when goes too far in a fight, and enjoys it.

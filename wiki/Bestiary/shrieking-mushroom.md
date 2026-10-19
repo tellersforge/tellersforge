@@ -1,5 +1,9 @@
 # Shrieking mushroom
 
+![Shrieking mushroom](../Images/BE-544-bestiary-shrieking-mushroom.jpg){.illus}
+
+
+*Catalogue: BE-544*
 *Set: Expansion*
 
 *aka: ______________________________*

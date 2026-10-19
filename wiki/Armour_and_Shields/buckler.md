@@ -1,7 +1,8 @@
 # Buckler
 
-![Buckler](../Images/armour-buckler.jpg){.illus}
+![Buckler](../Images/GR-0129-armour-buckler.jpg){.illus}
 
+*Catalogue: GR-0129*
 *Set: Core*
 
 *aka: ______________________________*

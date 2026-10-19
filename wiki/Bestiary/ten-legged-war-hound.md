@@ -1,5 +1,9 @@
 # Ten-legged war hound
 
+![Ten-legged war hound](../Images/BE-611-bestiary-ten-legged-war-hound.jpg){.illus}
+
+
+*Catalogue: BE-611*
 *Set: Expansion*
 
 *aka: ______________________________*

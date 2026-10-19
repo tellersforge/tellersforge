@@ -1,5 +1,9 @@
 # Magnifying lens
 
+![Magnifying lens](../Images/GR-0624-equipment-magnifying-lens.jpg){.illus}
+
+
+*Catalogue: GR-0624*
 *Set: Expansion*
 
 *aka: ______________________________*

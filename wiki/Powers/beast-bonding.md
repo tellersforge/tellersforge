@@ -1,5 +1,9 @@
 # Beast Bonding
 
+![Beast Bonding](../Images/PW-019-powers-beast-bonding.jpg){.illus}
+
+
+*Catalogue: PW-019*
 *Set: Expansion*
 
 *aka: ______________________________*

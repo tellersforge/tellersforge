@@ -1,5 +1,9 @@
 # Bull shark
 
+![Bull shark](../Images/BE-079-bestiary-bull-shark.jpg){.illus}
+
+
+*Catalogue: BE-079*
 *Set: Core*
 
 *aka: ______________________________*

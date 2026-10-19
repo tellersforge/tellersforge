@@ -1,5 +1,9 @@
 # Colossal fire pterosaur
 
+![Colossal fire pterosaur](../Images/BE-117-bestiary-colossal-fire-pterosaur.jpg){.illus}
+
+
+*Catalogue: BE-117*
 *Set: Expansion*
 
 *aka: ______________________________*

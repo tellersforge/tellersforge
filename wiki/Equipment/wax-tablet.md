@@ -1,5 +1,9 @@
 # Wax tablet
 
+![Wax tablet](../Images/GR-1006-equipment-wax-tablet.jpg){.illus}
+
+
+*Catalogue: GR-1006*
 *Set: Expansion*
 
 *aka: ______________________________*

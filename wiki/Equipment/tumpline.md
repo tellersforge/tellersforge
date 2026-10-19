@@ -1,5 +1,9 @@
 # Tumpline
 
+![Tumpline](../Images/GR-0983-equipment-tumpline.jpg){.illus}
+
+
+*Catalogue: GR-0983*
 *Set: Core*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 385 Metahuman elf *(genres: near future and cyberpunk, classic fantasy)*
 
+![Metahuman elf](../Images/species-metahuman-elf.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sharp-eyed, long-lived elves who thrive in the boardrooms of a corporate future as much as in the wild. (looks like: elf; good at: keen senses, people and talk)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2 CHA +1

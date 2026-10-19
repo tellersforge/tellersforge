@@ -1,5 +1,9 @@
 # Folding solar panel
 
+![Folding solar panel](../Images/GR-0433-equipment-folding-solar-panel.jpg){.illus}
+
+
+*Catalogue: GR-0433*
 *Set: Expansion*
 
 *aka: ______________________________*

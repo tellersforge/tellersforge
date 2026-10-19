@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Gestalt-merging colonial being *(NPC only)*
 
+![Gestalt-merging colonial being](../Images/species-gestalt-merging-colonial-being.jpg){.illus}
+
+
 - **Size:** varies · **Body:** colonial
 - **Attributes:** END +1 WIS +1 CHA −2 COU +1
 - **Skills:** [Formation Fighting](../Skills/formation-fighting.md) +3, [Logistics](../Skills/logistics.md) +2, [Signals](../Skills/signals.md) +2, [Composure](../Skills/composure.md) +1, [Insight](../Skills/insight.md) −1, [Storytelling & Conversation](../Skills/storytelling-and-conversation.md) −1, [Deception](../Skills/deception.md) −2

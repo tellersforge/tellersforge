@@ -1,5 +1,9 @@
 # Locket
 
+![Locket](../Images/GR-0609-equipment-locket.jpg){.illus}
+
+
+*Catalogue: GR-0609*
 *Set: Expansion*
 
 *aka: ______________________________*

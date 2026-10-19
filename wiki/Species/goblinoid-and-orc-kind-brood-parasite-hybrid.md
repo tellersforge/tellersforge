@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### First-generation hybrid *(NPC only)*
 
+![First-generation hybrid](../Images/species-first-generation-hybrid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +1 CHA −1 COU +1
 - **Skills:** [Disguise](../Skills/disguise.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Scavenging](../Skills/scavenging.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Diplomacy](../Skills/diplomacy.md) −1, [Court Etiquette & Protocol](../Skills/court-etiquette-and-protocol.md) −2, [Etiquette](../Skills/etiquette.md) −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Near-human enough to pass as human.
 
 ### Mid-generation hybrid *(NPC only)*
+
+![Mid-generation hybrid](../Images/species-mid-generation-hybrid.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI +2 END +1 INT −1 CHA −2 COU +1

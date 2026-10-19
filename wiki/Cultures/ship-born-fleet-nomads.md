@@ -1,5 +1,8 @@
 # Ship-born fleet nomads
 
+![Ship-born fleet nomads](../Images/cultures-ship-born-fleet-nomads.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

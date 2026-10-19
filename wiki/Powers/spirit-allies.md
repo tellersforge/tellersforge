@@ -1,5 +1,9 @@
 # Spirit Allies
 
+![Spirit Allies](../Images/PW-270-powers-spirit-allies.jpg){.illus}
+
+
+*Catalogue: PW-270*
 *Set: Expansion*
 
 *aka: ______________________________*

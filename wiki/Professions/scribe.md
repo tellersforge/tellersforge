@@ -1,5 +1,8 @@
 # Scribe
 
+![Scribe](../Images/professions-scribe.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Herding dog
 
+![Herding dog](../Images/BE-334-bestiary-herding-dog.jpg){.illus}
+
+
+*Catalogue: BE-334*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Mastodon
 
+![Mastodon](../Images/BE-410-bestiary-mastodon.jpg){.illus}
+
+
+*Catalogue: BE-410*
 *Set: Core*
 
 *aka: ______________________________*

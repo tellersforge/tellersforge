@@ -1,5 +1,9 @@
 # Grapple launcher
 
+![Grapple launcher](../Images/GR-0469-equipment-grapple-launcher.jpg){.illus}
+
+
+*Catalogue: GR-0469*
 *Set: Expansion*
 
 *aka: ______________________________*

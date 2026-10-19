@@ -1,7 +1,8 @@
 # Bone dragon
 
-![Bone dragon](../Images/bestiary-bone-dragon.jpg){.illus}
+![Bone dragon](../Images/BE-065-bestiary-bone-dragon.jpg){.illus}
 
+*Catalogue: BE-065*
 *Set: Expansion*
 
 *aka: ______________________________*

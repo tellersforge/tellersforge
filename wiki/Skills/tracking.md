@@ -1,5 +1,9 @@
 # Tracking
 
+![Tracking](../Images/SK-210-skills-tracking.jpg){.illus}
+
+
+*Catalogue: SK-210*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

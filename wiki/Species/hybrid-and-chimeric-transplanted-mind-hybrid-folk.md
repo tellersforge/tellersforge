@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 519 Rock-shelled brain-host folk *(genres: super-powered: mutants and the enhanced)*
 
+![Rock-shelled brain-host folk](../Images/species-rock-shelled-brain-host-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** A human mind transplanted into a huge, rock-hided alien body, superhumanly strong and barely needing to breathe or eat. (looks like: rock; good at: strength, toughness)
 - **Attributes:** STR +4 AGI −3 END +2

@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### One-eyed cyclops (cursed) *(NPC only)*
 
+![One-eyed cyclops (cursed)](../Images/species-one-eyed-cyclops-cursed.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, Perception (attribute) −1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Throwing](../Skills/throwing.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### One-eyed giant shepherd *(NPC only)*
 
+![One-eyed giant shepherd](../Images/species-one-eyed-giant-shepherd.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +2 INT −3
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, Perception (attribute) −1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Throwing](../Skills/throwing.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -55,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Giant shepherds of flocks.
 
 ### No. 468 Clumsy one-eyed cyclops folk *(genres: myth and legend)*
+
+![Clumsy one-eyed cyclops folk](../Images/species-clumsy-one-eyed-cyclops-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A one-eyed cyclops, clumsy and short-sighted but strong enough to make up for it. (looks like: giant; good at: strength, toughness)

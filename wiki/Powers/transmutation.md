@@ -1,5 +1,9 @@
 # Transmutation
 
+![Transmutation](../Images/PW-303-powers-transmutation.jpg){.illus}
+
+
+*Catalogue: PW-303*
 *Set: Expansion*
 
 *aka: ______________________________*

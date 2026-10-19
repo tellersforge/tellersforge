@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 613 Photosynthetic pacifist folk *(genres: space opera: near-humans)*
 
+![Photosynthetic pacifist folk](../Images/species-photosynthetic-pacifist-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Peaceful blue-skinned plant folk, priestly and gentle, who can move objects with their minds. (looks like: plant; good at: powers and magic, people and talk)
 - **Attributes:** AGI −2 END +2 WIS +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Telekinesis stands for the psychic unbinding; Endurance Without Need is photosynthesis.
 
 ### No. 614 Regenerating plant-humanoid folk *(genres: space opera: near-humans)*
+
+![Regenerating plant-humanoid folk](../Images/species-regenerating-plant-humanoid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Green plant-folk who lay their own young, grow back lost limbs, and can even merge with their own kind. (looks like: plant; good at: healing, toughness)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Chlorophyll-based plant person *(NPC only)*
 
+![Chlorophyll-based plant person](../Images/species-chlorophyll-based-plant-person.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −3 END +2 WIS +1
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Nature Lore](../Skills/nature-lore.md) +2, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +2, [Swimming](../Skills/swimming.md) −1, [Fire-Making](../Skills/fire-making.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −2
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 615 Humanoid tree-descended race *(genres: underworld and wild places)*
 
+![Humanoid tree-descended race](../Images/species-humanoid-tree-descended-race.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Quiet, mournful tree-descended folk with root-like hair, close to the spirits of the dead. (looks like: tree; good at: powers and magic, wilderness)
 - **Attributes:** AGI −2 END +2 WIS +2 CHA −1
@@ -65,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Calm, mournful folk with a bond to the dead.
 
 ### No. 616 Giant tree-being folk *(genres: space opera: strange aliens)*
+
+![Giant tree-being folk](../Images/species-giant-tree-being-folk.jpg){.illus}
+
 
 - **Size:** varies · **Body:** biped
 - **What it's like:** Slow-spoken tree-giants who can regrow their whole body from a single twig and hit like a falling oak. (looks like: tree; good at: strength, healing)

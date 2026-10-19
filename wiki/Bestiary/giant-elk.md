@@ -1,5 +1,9 @@
 # Giant elk
 
+![Giant elk](../Images/BE-250-bestiary-giant-elk.jpg){.illus}
+
+
+*Catalogue: BE-250*
 *Set: Core*
 
 *aka: ______________________________*

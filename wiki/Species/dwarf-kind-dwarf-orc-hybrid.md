@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 341 Slave-bred hybrid folk *(genres: dark fantasy)*
 
+![Slave-bred hybrid folk](../Images/species-slave-bred-hybrid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Immensely strong dwarf-orc labourers bred for hard work, unable to have children of their own and short-lived. (looks like: dwarf; good at: strength, toughness)
 - **Attributes:** STR +1 AGI −1 END +2 INT −1 CHA −1 COU +1

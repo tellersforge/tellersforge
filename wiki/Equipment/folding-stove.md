@@ -1,5 +1,9 @@
 # Folding stove
 
+![Folding stove](../Images/GR-0434-equipment-folding-stove.jpg){.illus}
+
+
+*Catalogue: GR-0434*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 593 Asura *(genres: heavens, hells and other planes)*
 
+![Asura](../Images/species-asura.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Proud demigods of magic and war, old rivals of the radiant devas. (looks like: demon; good at: powers and magic, fighting)
 - **Attributes:** STR +3 AGI −2 CHA +1

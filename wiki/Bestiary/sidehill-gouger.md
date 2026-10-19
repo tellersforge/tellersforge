@@ -1,5 +1,9 @@
 # Sidehill gouger
 
+![Sidehill gouger](../Images/BE-548-bestiary-sidehill-gouger.jpg){.illus}
+
+
+*Catalogue: BE-548*
 *Set: Core*
 
 *aka: ______________________________*

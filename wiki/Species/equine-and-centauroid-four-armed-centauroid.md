@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 398 Four-armed centauroid warrior *(genres: space opera: strange aliens)*
 
+![Four-armed centauroid warrior](../Images/species-four-armed-centauroid-warrior.jpg){.illus}
+
+
 - **Size:** large · **Body:** centauroid
 - **What it's like:** A four-armed horse-bodied warrior race raised in a strict martial caste, formidable with a weapon in each of four hands. (looks like: horse; good at: fighting, strength)
 - **Attributes:** STR +4 AGI −2 END +1

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 818 Civic ungulate citizen *(genres: animal fable)*
 
+![Civic ungulate citizen](../Images/species-civic-ungulate-citizen.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Civilised hoofed folk of many kinds, sheep, gazelle, buffalo, all full citizens side by side. (looks like: sheep; good at: people and talk, wilderness)
 - **Attributes:** STR +1 AGI −1 END +1

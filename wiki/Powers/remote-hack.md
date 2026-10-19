@@ -1,5 +1,9 @@
 # Remote Hack
 
+![Remote Hack](../Images/PW-241-powers-remote-hack.jpg){.illus}
+
+
+*Catalogue: PW-241*
 *Set: Expansion*
 
 *aka: ______________________________*

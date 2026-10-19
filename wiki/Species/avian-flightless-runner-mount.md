@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ostrich-like runner mount *(beast)*
 
+![Ostrich-like runner mount](../Images/species-ostrich-like-runner-mount.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +1 INT −3 WIS +1 PER +2
 - **Skills:** [Running](../Skills/running.md) +3, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2

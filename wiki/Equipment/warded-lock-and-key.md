@@ -1,5 +1,9 @@
 # Warded lock and key
 
+![Warded lock and key](../Images/GR-0998-equipment-warded-lock-and-key.jpg){.illus}
+
+
+*Catalogue: GR-0998*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Fishing
 
+![Fishing](../Images/SK-073-skills-fishing.jpg){.illus}
+
+
+*Catalogue: SK-073*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

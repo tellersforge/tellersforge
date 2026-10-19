@@ -1,5 +1,9 @@
 # History
 
+![History](../Images/SK-093-skills-history.jpg){.illus}
+
+
+*Catalogue: SK-093*
 *Set: Core · Basic skill: Lore*
 
 *aka: ______________________________*

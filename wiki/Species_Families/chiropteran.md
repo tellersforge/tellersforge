@@ -1,5 +1,8 @@
 # Chiropteran
 
+![Chiropteran](../Images/species-families-chiropteran.jpg){.illus}
+
+
 
 The bat-folk: children of the dusk, the cave and the hanging roost. They have leathery wings stretched between long fingers, large mobile ears, and a way of hearing the shape of a room by shouting at it. Most sleep through the day upside down and come alive at twilight. They range from tiny fruit-eaters to great-winged hunters, and include old spirits of fortune and night as well as unlucky humans reshaped by a serum or a curse. Day-folk often mistake them for omens or for the undead, which bats find insulting. In truth they are sociable, noisy and fond of fruit.
 

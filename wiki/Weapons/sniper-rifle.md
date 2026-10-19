@@ -1,7 +1,8 @@
 # Sniper Rifle
 
-![Sniper rifle](../Images/weapons-sniper-rifle.jpg){.illus}
+![Sniper rifle](../Images/GR-0099-weapons-sniper-rifle.jpg){.illus}
 
+*Catalogue: GR-0099*
 *Set: Expansion*
 
 *aka: ______________________________*

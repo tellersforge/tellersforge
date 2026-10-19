@@ -1,5 +1,9 @@
 # Ember swarm
 
+![Ember swarm](../Images/BE-173-bestiary-ember-swarm.jpg){.illus}
+
+
+*Catalogue: BE-173*
 *Set: Expansion*
 
 *aka: ______________________________*

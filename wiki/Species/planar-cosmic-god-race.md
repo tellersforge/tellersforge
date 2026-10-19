@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 604 Tyrannical dark deity *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
 
+![Tyrannical dark deity](../Images/species-tyrannical-dark-deity.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **What it's like:** Towering, near-immortal tyrants from a hellish industrial world, able to reshape matter itself. (looks like: demon; good at: strength, powers and magic)
 - **Attributes:** STR +5 AGI −4 WIS +1 CHA +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Species note: the dark breed's matter-manipulating energy. High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### No. 605 Idealistic paradise deity *(genres: super-powered: cosmic and mythic)*
+
+![Idealistic paradise deity](../Images/species-idealistic-paradise-deity.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Noble, philosophical god-like beings from a paradise world, masters of strange, brilliant energy. (looks like: god; good at: strength, powers and magic)

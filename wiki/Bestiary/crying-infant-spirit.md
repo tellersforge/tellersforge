@@ -1,5 +1,9 @@
 # Crying infant spirit
 
+![Crying infant spirit](../Images/BE-136-bestiary-crying-infant-spirit.jpg){.illus}
+
+
+*Catalogue: BE-136*
 *Set: Core*
 
 *aka: ______________________________*

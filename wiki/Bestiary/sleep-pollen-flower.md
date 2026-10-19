@@ -1,5 +1,9 @@
 # Sleep-pollen flower
 
+![Sleep-pollen flower](../Images/BE-562-bestiary-sleep-pollen-flower.jpg){.illus}
+
+
+*Catalogue: BE-562*
 *Set: Expansion*
 
 *aka: ______________________________*

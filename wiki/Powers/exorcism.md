@@ -1,5 +1,9 @@
 # Exorcism
 
+![Exorcism](../Images/PW-095-powers-exorcism.jpg){.illus}
+
+
+*Catalogue: PW-095*
 *Set: Expansion*
 
 *aka: ______________________________*

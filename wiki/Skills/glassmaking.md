@@ -1,5 +1,9 @@
 # Glassmaking
 
+![Glassmaking](../Images/SK-083-skills-glassmaking.jpg){.illus}
+
+
+*Catalogue: SK-083*
 *Set: Expansion*
 
 *aka: ______________________________*

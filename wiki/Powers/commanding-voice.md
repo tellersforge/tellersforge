@@ -1,5 +1,9 @@
 # Commanding Voice
 
+![Commanding Voice](../Images/PW-042-powers-commanding-voice.jpg){.illus}
+
+
+*Catalogue: PW-042*
 *Set: Expansion*
 
 *aka: ______________________________*

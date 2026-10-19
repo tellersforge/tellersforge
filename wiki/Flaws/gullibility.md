@@ -1,5 +1,8 @@
 # Gullibility
 
+![Gullibility](../Images/flaws-gullibility.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when believes what they're told.

@@ -1,5 +1,9 @@
 # Lodestone
 
+![Lodestone](../Images/GR-0612-equipment-lodestone.jpg){.illus}
+
+
+*Catalogue: GR-0612*
 *Set: Expansion*
 
 *aka: ______________________________*

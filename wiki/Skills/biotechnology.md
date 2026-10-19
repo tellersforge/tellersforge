@@ -1,5 +1,9 @@
 # Biotechnology
 
+![Biotechnology](../Images/SK-018-skills-biotechnology.jpg){.illus}
+
+
+*Catalogue: SK-018*
 *Set: Expansion*
 
 *aka: ______________________________*

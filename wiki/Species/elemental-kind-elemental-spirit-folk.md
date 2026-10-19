@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 348 Fire elemental person *(genres: heavens, hells and other planes)*
 
+![Fire elemental person](../Images/species-fire-elemental-person.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A living flame given human shape, radiating heat and quick to flare up, though water can snuff them out entirely. (looks like: fire; good at: powers and magic, toughness)
 - **Attributes:** AGI +1 END +1 CHA −1 COU +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element: fire.
 
 ### No. 349 Ice elemental person *(genres: heavens, hells and other planes)*
+
+![Ice elemental person](../Images/species-ice-elemental-person.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A body of living ice and snow given human shape, wielding the cold but melting away near any real heat. (looks like: ice; good at: powers and magic, toughness)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Flame-dwelling salamander *(NPC only)*
 
+![Flame-dwelling salamander](../Images/species-flame-dwelling-salamander.jpg){.illus}
+
+
 - **Size:** small · **Body:** quadruped
 - **Attributes:** STR −2 AGI +2 END +1 INT −2 WIS +1 CHA −1
 - **Skills:** [Weather Sense](../Skills/weather-sense.md) +2, [Arcana](../Skills/arcana.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Insight](../Skills/insight.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element: fire. No hands: held weapons unusable.
 
 ### No. 350 Undine water spirit *(genres: fairy tale and folklore)*
+
+![Undine water spirit](../Images/species-undine-water-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** A water spirit in human form, gaining a true soul only by marrying and raising a mortal family. (looks like: ghost; good at: swimming, powers and magic)
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ember jotunn *(NPC only)*
 
+![Ember jotunn](../Images/species-ember-jotunn.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 END +3 INT −1 WIS +1 CHA −1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Weather Sense](../Skills/weather-sense.md) +2, [Arcana](../Skills/arcana.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Insight](../Skills/insight.md) −1
@@ -77,6 +92,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element: fire. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### Great pact-bound elemental spirit *(NPC only; NPC-scale)*
+
+![Great pact-bound elemental spirit](../Images/species-great-pact-bound-elemental-spirit.jpg){.illus}
+
 
 - **Size:** varies · **Body:** biped
 - **Attributes:** STR −2 END +1 INT +3 WIS +4 CHA +2

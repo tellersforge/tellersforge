@@ -1,5 +1,9 @@
 # Animate Object
 
+![Animate Object](../Images/PW-008-powers-animate-object.jpg){.illus}
+
+
+*Catalogue: PW-008*
 *Set: Expansion*
 
 *aka: ______________________________*

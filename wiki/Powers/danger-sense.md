@@ -1,5 +1,9 @@
 # Danger Sense
 
+![Danger Sense](../Images/PW-059-powers-danger-sense.jpg){.illus}
+
+
+*Catalogue: PW-059*
 *Set: Core*
 
 *aka: ______________________________*

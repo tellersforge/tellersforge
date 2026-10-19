@@ -1,7 +1,8 @@
 # Great pterosaur
 
-![Great pterosaur](../Images/bestiary-great-pterosaur.jpg){.illus}
+![Great pterosaur](../Images/BE-308-bestiary-great-pterosaur.jpg){.illus}
 
+*Catalogue: BE-308*
 *Set: Expansion*
 
 *aka: ______________________________*

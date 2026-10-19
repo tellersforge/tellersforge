@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sky-dwelling judge-executioner *(NPC only)*
 
+![Sky-dwelling judge-executioner](../Images/species-sky-dwelling-judge-executioner.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+winged
 - **Attributes:** STR +2 AGI −2 END −1 WIS +2 CHA +1 COU +2
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2

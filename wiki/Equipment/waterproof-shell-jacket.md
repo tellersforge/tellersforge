@@ -1,5 +1,9 @@
 # Waterproof shell jacket
 
+![Waterproof shell jacket](../Images/GR-1004-equipment-waterproof-shell-jacket.jpg){.illus}
+
+
+*Catalogue: GR-1004*
 *Set: Expansion*
 
 *aka: ______________________________*

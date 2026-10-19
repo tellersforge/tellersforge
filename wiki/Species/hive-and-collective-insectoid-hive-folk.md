@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 486 Six-limbed hive-culture folk *(genres: space opera: strange aliens, beast-folk: scales, feathers and shells)*
 
+![Six-limbed hive-culture folk](../Images/species-six-limbed-hive-culture-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **What it's like:** A six-limbed, chitin-armoured folk organised into castes of worker, soldier and queen, some surprisingly skilled diplomats. (looks like: insect; good at: toughness, people and talk)
 - **Attributes:** STR +1 AGI −1 END +2 WIS +1 CHA −2 COU +1

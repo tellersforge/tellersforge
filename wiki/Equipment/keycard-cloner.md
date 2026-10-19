@@ -1,5 +1,9 @@
 # Keycard cloner
 
+![Keycard cloner](../Images/GR-0574-equipment-keycard-cloner.jpg){.illus}
+
+
+*Catalogue: GR-0574*
 *Set: Expansion*
 
 *aka: ______________________________*

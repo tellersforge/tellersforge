@@ -1,5 +1,9 @@
 # Digging stick
 
+![Digging stick](../Images/GR-0330-equipment-digging-stick.jpg){.illus}
+
+
+*Catalogue: GR-0330*
 *Set: Core*
 
 *aka: ______________________________*

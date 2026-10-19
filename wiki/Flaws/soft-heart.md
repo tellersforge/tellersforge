@@ -1,5 +1,8 @@
 # Soft Heart
 
+![Soft Heart](../Images/flaws-soft-heart.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when can't finish a foe or refuse a sob story.

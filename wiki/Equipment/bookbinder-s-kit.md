@@ -1,5 +1,9 @@
 # Bookbinder's kit
 
+![Bookbinder's kit](../Images/GR-0224-equipment-bookbinder-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0224*
 *Set: Expansion*
 
 *aka: ______________________________*

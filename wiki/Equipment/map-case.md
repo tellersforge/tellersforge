@@ -1,5 +1,9 @@
 # Map case
 
+![Map case](../Images/GR-0627-equipment-map-case.jpg){.illus}
+
+
+*Catalogue: GR-0627*
 *Set: Expansion*
 
 *aka: ______________________________*

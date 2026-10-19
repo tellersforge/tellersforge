@@ -1,5 +1,9 @@
 # Water-Spirit Allure
 
+![Water-Spirit Allure](../Images/PW-317-powers-water-spirit-allure.jpg){.illus}
+
+
+*Catalogue: PW-317*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Mobile phone
 
+![Mobile phone](../Images/GR-0655-equipment-mobile-phone.jpg){.illus}
+
+
+*Catalogue: GR-0655*
 *Set: Core*
 
 *aka: ______________________________*

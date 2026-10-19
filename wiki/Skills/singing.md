@@ -1,5 +1,9 @@
 # Singing
 
+![Singing](../Images/SK-181-skills-singing.jpg){.illus}
+
+
+*Catalogue: SK-181*
 *Set: Expansion*
 
 *aka: ______________________________*

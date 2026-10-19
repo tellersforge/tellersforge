@@ -1,5 +1,8 @@
 # Fear of Horses
 
+![Fear of Horses](../Images/flaws-fear-of-horses.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when horses and other large mounts.

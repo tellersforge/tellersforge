@@ -1,5 +1,9 @@
 # Snow camouflage overwhites
 
+![Snow camouflage overwhites](../Images/GR-0889-equipment-snow-camouflage-overwhites.jpg){.illus}
+
+
+*Catalogue: GR-0889*
 *Set: Expansion*
 
 *aka: ______________________________*

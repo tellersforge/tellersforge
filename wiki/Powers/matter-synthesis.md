@@ -1,5 +1,9 @@
 # Matter Synthesis
 
+![Matter Synthesis](../Images/PW-170-powers-matter-synthesis.jpg){.illus}
+
+
+*Catalogue: PW-170*
 *Set: Expansion*
 
 *aka: ______________________________*

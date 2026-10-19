@@ -1,5 +1,9 @@
 # Burrowing tentacle worm
 
+![Burrowing tentacle worm](../Images/BE-086-bestiary-burrowing-tentacle-worm.jpg){.illus}
+
+
+*Catalogue: BE-086*
 *Set: Expansion*
 
 *aka: ______________________________*

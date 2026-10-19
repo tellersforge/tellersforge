@@ -1,5 +1,9 @@
 # Shaman's costume
 
+![Shaman's costume](../Images/GR-0841-equipment-shaman-s-costume.jpg){.illus}
+
+
+*Catalogue: GR-0841*
 *Set: Core*
 
 *aka: ______________________________*

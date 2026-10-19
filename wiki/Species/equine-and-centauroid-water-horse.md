@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Drowning kelpie *(NPC only)*
 
+![Drowning kelpie](../Images/species-drowning-kelpie.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped+other
 - **Attributes:** STR +4 AGI −2 END +1 CHA +2
 - **Skills:** [Running](../Skills/running.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Formation Fighting](../Skills/formation-fighting.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Jumping](../Skills/jumping.md) +1, [Acrobatics](../Skills/acrobatics.md) −1, [Stealth](../Skills/stealth.md) −2, [Climbing](../Skills/climbing.md) −3, [Riding](../Skills/riding.md) Foreign Concept

@@ -1,5 +1,9 @@
 # Diving
 
+![Diving](../Images/SK-054-skills-diving.jpg){.illus}
+
+
+*Catalogue: SK-054*
 *Set: Expansion*
 
 *aka: ______________________________*

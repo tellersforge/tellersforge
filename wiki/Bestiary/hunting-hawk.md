@@ -1,5 +1,9 @@
 # Hunting hawk
 
+![Hunting hawk](../Images/BE-357-bestiary-hunting-hawk.jpg){.illus}
+
+
+*Catalogue: BE-357*
 *Set: Core*
 
 *aka: ______________________________*

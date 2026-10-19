@@ -1,5 +1,9 @@
 # Calendar stick
 
+![Calendar stick](../Images/GR-0244-equipment-calendar-stick.jpg){.illus}
+
+
+*Catalogue: GR-0244*
 *Set: Core*
 
 *aka: ______________________________*

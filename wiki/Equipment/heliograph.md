@@ -1,5 +1,9 @@
 # Heliograph
 
+![Heliograph](../Images/GR-0518-equipment-heliograph.jpg){.illus}
+
+
+*Catalogue: GR-0518*
 *Set: Expansion*
 
 *aka: ______________________________*

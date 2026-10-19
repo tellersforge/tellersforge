@@ -1,5 +1,9 @@
 # Colossal squid
 
+![Colossal squid](../Images/BE-123-bestiary-colossal-squid.jpg){.illus}
+
+
+*Catalogue: BE-123*
 *Set: Core*
 
 *aka: ______________________________*

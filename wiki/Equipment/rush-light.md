@@ -1,5 +1,9 @@
 # Rush light
 
+![Rush light](../Images/GR-0809-equipment-rush-light.jpg){.illus}
+
+
+*Catalogue: GR-0809*
 *Set: Expansion*
 
 *aka: ______________________________*

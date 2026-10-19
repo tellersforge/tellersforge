@@ -1,7 +1,8 @@
 # Giant rat
 
-![Giant rat](../Images/bestiary-giant-rat.jpg){.illus}
+![Giant rat](../Images/BE-273-bestiary-giant-rat.jpg){.illus}
 
+*Catalogue: BE-273*
 *Set: Expansion*
 
 *aka: ______________________________*

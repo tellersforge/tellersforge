@@ -1,5 +1,8 @@
 # Troublemaker
 
+![Troublemaker](../Images/flaws-troublemaker.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when stirs up quarrels, sets people against each other.

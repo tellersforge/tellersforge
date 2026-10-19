@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 203 Gillman aquatic parahuman *(genres: near future and cyberpunk)*
 
+![Gillman aquatic parahuman](../Images/species-gillman-aquatic-parahuman.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** People engineered with gills and webbed limbs to live permanently underwater. (looks like: human; good at: swimming, wilderness)
 - **Attributes:** END +2 CHA −1

@@ -1,5 +1,9 @@
 # Loose desert robe
 
+![Loose desert robe](../Images/GR-0616-equipment-loose-desert-robe.jpg){.illus}
+
+
+*Catalogue: GR-0616*
 *Set: Expansion*
 
 *aka: ______________________________*

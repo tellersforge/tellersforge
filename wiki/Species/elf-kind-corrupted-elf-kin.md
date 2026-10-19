@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 368 Void-touched exile elf *(genres: dark fantasy)*
 
+![Void-touched exile elf](../Images/species-void-touched-exile-elf.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Purple-skinned elves warped by exposure to the void beyond the world, exiled by their own kin for their strange magic. (looks like: elf; good at: powers and magic, sneaking)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Void Drawing is affinity only.
 
 ### No. 369 Fel-corrupted elf *(genres: dark fantasy)*
+
+![Fel-corrupted elf](../Images/species-fel-corrupted-elf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Green-skinned elves hooked on dark, demonic magic, immensely powerful spellcasters but morally compromised by it. (looks like: elf; good at: powers and magic, knowledge)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Corrupted cave-dwelling elf *(NPC only)*
 
+![Corrupted cave-dwelling elf](../Images/species-corrupted-cave-dwelling-elf.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 INT −2 WIS +1 PER +2 CHA −2
 - **Skills:** [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +3, [Balance](../Skills/balance.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Stealth](../Skills/stealth.md) +1, [Carousing](../Skills/carousing.md) −1, [Intimidation](../Skills/intimidation.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Vengeful elder elf-prince *(NPC only)*
 
+![Vengeful elder elf-prince](../Images/species-vengeful-elder-elf-prince.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 INT +1 WIS +1 PER +2 CHA +1 COU +2
 - **Skills:** [Balance](../Skills/balance.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Carousing](../Skills/carousing.md) −1, [Intimidation](../Skills/intimidation.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; his swordsmanship belongs to the weapon-group pass.
 
 ### No. 370 Corrupted space-elf *(genres: space opera: near-humans)*
+
+![Corrupted space-elf](../Images/species-corrupted-space-elf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Agile, psychic space-elves turned into sadistic raiders, addicted to pain and thrilling danger among the stars. (looks like: elf; good at: powers and magic, speed and agility)
@@ -75,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Telepathy is affinity only (psychic sensitivity).
 
 ### Aether-corrupted elite warrior *(NPC only)*
+
+![Aether-corrupted elite warrior](../Images/species-aether-corrupted-elite-warrior.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 END +1 WIS −1 PER +2 CHA −1

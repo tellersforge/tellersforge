@@ -1,5 +1,9 @@
 # Legends & Folklore
 
+![Legends & Folklore](../Images/SK-111-skills-legends-and-folklore.jpg){.illus}
+
+
+*Catalogue: SK-111*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Kleptomania
 
+![Kleptomania](../Images/flaws-kleptomania.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Appetites and vices* kind. It fires when pockets small things, even from friends.

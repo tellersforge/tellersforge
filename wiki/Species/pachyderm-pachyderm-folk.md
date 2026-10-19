@@ -39,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mammoth-folk *(beast)*
 
+![Mammoth-folk](../Images/species-mammoth-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped+tailed
 - **Attributes:** STR +6 AGI −4 END +2 INT −3 WIS +1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Memory Training](../Skills/memory-training.md) +2, [Survival: Arctic](../Skills/survival-arctic.md) +2, [Insight](../Skills/insight.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Swimming](../Skills/swimming.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Stealth](../Skills/stealth.md) −3, [Jumping](../Skills/jumping.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A woolly, cold-adapted beast.
 
 ### No. 583 Rhinoceros-folk *(genres: beast-folk: fur)*
+
+![Rhinoceros-folk](../Images/species-rhinoceros-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Massive, thick-hided rhino folk who charge horn-first and can barely see past their own excellent nose. (looks like: rhino; good at: strength, toughness)
@@ -62,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 584 Hippopotamus-folk *(genres: beast-folk: fur, myth and legend)*
 
+![Hippopotamus-folk](../Images/species-hippopotamus-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped+tailed
 - **What it's like:** Enormous, short-tempered hippo folk who spend half their life in the water and bite harder than almost anyone. (looks like: hippo; good at: strength, swimming)
 - **Attributes:** STR +6 AGI −4 END +2 WIS +1 COU +1
@@ -74,6 +83,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Rhino-headed enforcer folk *(NPC only)*
 
+![Rhino-headed enforcer folk](../Images/species-rhino-headed-enforcer-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +6 AGI −3 END +2 INT −1 WIS +1 CHA −1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Memory Training](../Skills/memory-training.md) +2, [Insight](../Skills/insight.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Law](../Skills/law.md) +1, [Swimming](../Skills/swimming.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Stealth](../Skills/stealth.md) −3, [Jumping](../Skills/jumping.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept
@@ -84,6 +96,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A people of rigid, procedure-bound enforcers.
 
 ### No. 585 Round musician folk *(genres: space opera: beast-like aliens)*
+
+![Round musician folk](../Images/species-round-musician-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, round, big-eared folk with sharp hearing and a real gift for music. (looks like: seal; good at: keen senses, people and talk)
@@ -96,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Trunk-snouted folk *(NPC only)*
 
+![Trunk-snouted folk](../Images/species-trunk-snouted-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −3 END +2 WIS +1
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Memory Training](../Skills/memory-training.md) +2, [Composure](../Skills/composure.md) +1, [Insight](../Skills/insight.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Swimming](../Skills/swimming.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Stealth](../Skills/stealth.md) −3, [Jumping](../Skills/jumping.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept
@@ -105,6 +123,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Slow and deliberate by temperament.
 
 ### Armored siege beast *(beast)*
+
+![Armored siege beast](../Images/species-armored-siege-beast.jpg){.illus}
+
 
 - **Size:** huge · **Body:** quadruped
 - **Attributes:** STR +6 AGI −4 END +2 INT −3 WIS +1

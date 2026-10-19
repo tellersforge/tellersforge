@@ -1,5 +1,9 @@
 # Pick gun
 
+![Pick gun](../Images/GR-0722-equipment-pick-gun.jpg){.illus}
+
+
+*Catalogue: GR-0722*
 *Set: Expansion*
 
 *aka: ______________________________*

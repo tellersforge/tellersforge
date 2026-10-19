@@ -1,5 +1,8 @@
 # Unknown humanoid
 
+![Unknown humanoid](../Images/species-families-unknown-humanoid.jpg){.illus}
+
+
 
 The family for those who fit nowhere else. Some hide their true form behind armour, robes or suits and never take them off. Some are tiny pilots steering a borrowed body. Others are ancient star-farers who seeded worlds and left, talking beasts of no clear kind, conjured beings summoned from nothing, or generic travellers from the far side of the sky. What they share is that nobody quite knows what they are, and sometimes they do not either. Others fill in the blanks with rumour and fear. The wise ask politely and accept whatever answer they are given.
 

@@ -1,5 +1,9 @@
 # Tailoring
 
+![Tailoring](../Images/SK-206-skills-tailoring.jpg){.illus}
+
+
+*Catalogue: SK-206*
 *Set: Expansion*
 
 *aka: ______________________________*

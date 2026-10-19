@@ -1,5 +1,9 @@
 # Camouflage
 
+![Camouflage](../Images/SK-027-skills-camouflage.jpg){.illus}
+
+
+*Catalogue: SK-027*
 *Set: Expansion*
 
 *aka: ______________________________*

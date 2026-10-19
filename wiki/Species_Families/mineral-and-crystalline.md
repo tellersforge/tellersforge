@@ -1,5 +1,8 @@
 # Mineral and crystalline
 
+![Mineral and crystalline](../Images/species-families-mineral-and-crystalline.jpg){.illus}
+
+
 
 Life made of stone, gem and glowing crystal. Some of these beings are small and musical, chiming as they move. Others are stone folk slow to anger and slower to forget, statues that wake to guard or to hunt, molten beings that pour across the ground, and tunnellers that swim through solid rock. At the largest scale the family holds living worlds and ancient rock-minds that think in ages. They eat minerals or light rather than bread, heal by growing, and can go centuries without moving. Soft-bodied peoples find them hard to read and harder to hurt, and stone folk find everyone else alarmingly brief.
 

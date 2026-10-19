@@ -1,5 +1,9 @@
 # Flintlock Musket
 
+![Flintlock Musket](../Images/GR-0037-weapons-flintlock-musket.jpg){.illus}
+
+
+*Catalogue: GR-0037*
 *Set: Core*
 
 *aka: ______________________________*

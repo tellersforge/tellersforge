@@ -1,5 +1,9 @@
 # Snow & Ice Travel
 
+![Snow & Ice Travel](../Images/SK-184-skills-snow-and-ice-travel.jpg){.illus}
+
+
+*Catalogue: SK-184*
 *Set: Expansion*
 
 *aka: ______________________________*

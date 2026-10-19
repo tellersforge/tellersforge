@@ -1,5 +1,9 @@
 # Harm Touch
 
+![Harm Touch](../Images/PW-123-powers-harm-touch.jpg){.illus}
+
+
+*Catalogue: PW-123*
 *Set: Expansion*
 
 *aka: ______________________________*

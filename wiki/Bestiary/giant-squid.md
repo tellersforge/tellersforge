@@ -1,5 +1,9 @@
 # Giant squid
 
+![Giant squid](../Images/BE-284-bestiary-giant-squid.jpg){.illus}
+
+
+*Catalogue: BE-284*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 718 Animate story-fragment folk *(genres: fairy tale and folklore)*
 
+![Animate story-fragment folk](../Images/species-animate-story-fragment-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Living story-fragments given form, their features quietly shifting to fit whatever role the tale needs. (looks like: human; good at: powers and magic, people and talk)
 - **Attributes:** AGI +1 WIS −1 CHA +2

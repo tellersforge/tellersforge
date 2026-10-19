@@ -1,5 +1,9 @@
 # Chemical sniffer
 
+![Chemical sniffer](../Images/GR-0270-equipment-chemical-sniffer.jpg){.illus}
+
+
+*Catalogue: GR-0270*
 *Set: Expansion*
 
 *aka: ______________________________*

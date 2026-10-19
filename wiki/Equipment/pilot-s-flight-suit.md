@@ -1,5 +1,9 @@
 # Pilot's flight suit
 
+![Pilot's flight suit](../Images/GR-0724-equipment-pilot-s-flight-suit.jpg){.illus}
+
+
+*Catalogue: GR-0724*
 *Set: Expansion*
 
 *aka: ______________________________*

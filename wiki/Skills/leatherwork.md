@@ -1,5 +1,9 @@
 # Leatherwork
 
+![Leatherwork](../Images/SK-110-skills-leatherwork.jpg){.illus}
+
+
+*Catalogue: SK-110*
 *Set: Expansion*
 
 *aka: ______________________________*

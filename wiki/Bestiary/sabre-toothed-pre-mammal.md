@@ -1,5 +1,9 @@
 # Sabre-toothed pre-mammal
 
+![Sabre-toothed pre-mammal](../Images/BE-509-bestiary-sabre-toothed-pre-mammal.jpg){.illus}
+
+
+*Catalogue: BE-509*
 *Set: Expansion*
 
 *aka: ______________________________*

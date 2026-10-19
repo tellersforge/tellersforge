@@ -1,5 +1,9 @@
 # Vacuum flask
 
+![Vacuum flask](../Images/GR-0988-equipment-vacuum-flask.jpg){.illus}
+
+
+*Catalogue: GR-0988*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Automatic Weapons
 
+![Automatic Weapons](../Images/WG-002-weapon-groups-automatic-weapons.jpg){.illus}
+
+
+*Catalogue: WG-002*
 *Set: Expansion*
 
 *aka: ______________________________*

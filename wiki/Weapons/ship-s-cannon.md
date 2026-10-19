@@ -1,5 +1,9 @@
 # Ship's Cannon
 
+![Ship's Cannon](../Images/GR-0090-weapons-ship-s-cannon.jpg){.illus}
+
+
+*Catalogue: GR-0090*
 *Set: Expansion*
 
 *aka: ______________________________*

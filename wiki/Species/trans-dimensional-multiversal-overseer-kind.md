@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Emotionless universe-warden *(NPC only; NPC-scale)*
 
+![Emotionless universe-warden](../Images/species-emotionless-universe-warden.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 INT +3 WIS +4 PER +1 CHA −3
 - **Skills:** [Composure](../Skills/composure.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Antimatter universe-devourer *(NPC only; NPC-scale)*
+
+![Antimatter universe-devourer](../Images/species-antimatter-universe-devourer.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 INT +3 WIS +4 PER +1 CHA −3

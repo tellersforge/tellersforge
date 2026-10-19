@@ -1,5 +1,9 @@
 # Wind Control
 
+![Wind Control](../Images/PW-322-powers-wind-control.jpg){.illus}
+
+
+*Catalogue: PW-322*
 *Set: Core*
 
 *aka: ______________________________*

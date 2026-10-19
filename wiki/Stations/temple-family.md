@@ -1,5 +1,8 @@
 # Temple family
 
+![Temple family](../Images/stations-temple-family.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

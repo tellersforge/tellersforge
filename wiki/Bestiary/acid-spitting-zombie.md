@@ -1,5 +1,9 @@
 # Acid-spitting zombie
 
+![Acid-spitting zombie](../Images/BE-007-bestiary-acid-spitting-zombie.jpg){.illus}
+
+
+*Catalogue: BE-007*
 *Set: Core*
 
 *aka: ______________________________*

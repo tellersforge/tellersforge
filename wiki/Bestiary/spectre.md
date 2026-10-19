@@ -1,5 +1,9 @@
 # Spectre
 
+![Spectre](../Images/BE-578-bestiary-spectre.jpg){.illus}
+
+
+*Catalogue: BE-578*
 *Set: Core*
 
 *aka: ______________________________*

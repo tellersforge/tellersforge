@@ -1,5 +1,9 @@
 # Heavy Javelin
 
+![Heavy Javelin](../Images/GR-0049-weapons-heavy-javelin.jpg){.illus}
+
+
+*Catalogue: GR-0049*
 *Set: Core*
 
 *aka: ______________________________*

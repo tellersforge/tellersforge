@@ -1,5 +1,9 @@
 # Slave or servant collar
 
+![Slave or servant collar](../Images/GR-0872-equipment-slave-or-servant-collar.jpg){.illus}
+
+
+*Catalogue: GR-0872*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Doorway lurker
 
+![Doorway lurker](../Images/BE-155-bestiary-doorway-lurker.jpg){.illus}
+
+
+*Catalogue: BE-155*
 *Set: Expansion*
 
 *aka: ______________________________*

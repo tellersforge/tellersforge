@@ -1,5 +1,9 @@
 # Spine-hurling hive serpent
 
+![Spine-hurling hive serpent](../Images/BE-581-bestiary-spine-hurling-hive-serpent.jpg){.illus}
+
+
+*Catalogue: BE-581*
 *Set: Expansion*
 
 *aka: ______________________________*

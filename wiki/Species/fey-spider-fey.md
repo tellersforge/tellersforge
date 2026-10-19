@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Widow of the web *(NPC only)*
 
+![Widow of the web](../Images/species-widow-of-the-web.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+other
 - **Attributes:** STR +1 END −1 INT +1 WIS +1 CHA +2
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Climbing](../Skills/climbing.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Traps](../Skills/traps.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept

@@ -1,5 +1,9 @@
 # Night-hunting bone flyer
 
+![Night-hunting bone flyer](../Images/BE-437-bestiary-night-hunting-bone-flyer.jpg){.illus}
+
+
+*Catalogue: BE-437*
 *Set: Expansion*
 
 *aka: ______________________________*

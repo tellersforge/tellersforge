@@ -1,5 +1,9 @@
 # Exploding puffball
 
+![Exploding puffball](../Images/BE-177-bestiary-exploding-puffball.jpg){.illus}
+
+
+*Catalogue: BE-177*
 *Set: Expansion*
 
 *aka: ______________________________*

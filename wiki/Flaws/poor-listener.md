@@ -1,5 +1,8 @@
 # Poor Listener
 
+![Poor Listener](../Images/flaws-poor-listener.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when doesn't hear what others say, forgets what they asked.

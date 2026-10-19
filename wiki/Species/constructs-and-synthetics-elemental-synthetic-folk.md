@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 311 Metal-shifting elemental synthetic *(genres: super-powered: mutants and the enhanced)*
 
+![Metal-shifting elemental synthetic](../Images/species-metal-shifting-elemental-synthetic.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** A robot with living metal for a body, flowing and reshaping itself, its strength shifting with the metal. (looks like: robot; good at: making and fixing, toughness)
 - **Attributes:** STR +1 AGI +1 END +2 INT +1 WIS −1 CHA −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A body of living metal that stretches, flows and reshapes.
 
 ### No. 312 Air-elemental android *(genres: super-powered: mutants and the enhanced)*
+
+![Air-elemental android](../Images/species-air-elemental-android.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** An android built to channel the wind, turning intangible and stirring up storms, unsure who it really is. (looks like: robot; good at: powers and magic, flying)

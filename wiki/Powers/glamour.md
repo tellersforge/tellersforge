@@ -1,5 +1,9 @@
 # Glamour
 
+![Glamour](../Images/PW-117-powers-glamour.jpg){.illus}
+
+
+*Catalogue: PW-117*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Living shadow
 
+![Living shadow](../Images/BE-393-bestiary-living-shadow.jpg){.illus}
+
+
+*Catalogue: BE-393*
 *Set: Expansion*
 
 *aka: ______________________________*

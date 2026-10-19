@@ -1,5 +1,9 @@
 # Aircraft Piloting
 
+![Aircraft Piloting](../Images/SK-005-skills-aircraft-piloting.jpg){.illus}
+
+
+*Catalogue: SK-005*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Angle-hunting hound
 
+![Angle-hunting hound](../Images/BE-017-bestiary-angle-hunting-hound.jpg){.illus}
+
+
+*Catalogue: BE-017*
 *Set: Core*
 
 *aka: ______________________________*

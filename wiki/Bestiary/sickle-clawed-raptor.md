@@ -1,7 +1,8 @@
 # Sickle-clawed raptor
 
-![Sickle-clawed raptor](../Images/bestiary-sickle-clawed-raptor.jpg){.illus}
+![Sickle-clawed raptor](../Images/BE-546-bestiary-sickle-clawed-raptor.jpg){.illus}
 
+*Catalogue: BE-546*
 *Set: Core*
 
 *aka: ______________________________*

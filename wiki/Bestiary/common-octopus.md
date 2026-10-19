@@ -1,5 +1,9 @@
 # Common octopus
 
+![Common octopus](../Images/BE-127-bestiary-common-octopus.jpg){.illus}
+
+
+*Catalogue: BE-127*
 *Set: Core*
 
 *aka: ______________________________*

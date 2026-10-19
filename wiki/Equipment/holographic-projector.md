@@ -1,7 +1,8 @@
 # Holographic projector
 
-![Holographic projector](../Images/equipment-holographic-projector.jpg){.illus}
+![Holographic projector](../Images/GR-0538-equipment-holographic-projector.jpg){.illus}
 
+*Catalogue: GR-0538*
 *Set: Expansion*
 
 *aka: ______________________________*

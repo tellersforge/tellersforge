@@ -1,7 +1,8 @@
 # Nightmare horse
 
-![Nightmare horse](../Images/bestiary-nightmare-horse.jpg){.illus}
+![Nightmare horse](../Images/BE-438-bestiary-nightmare-horse.jpg){.illus}
 
+*Catalogue: BE-438*
 *Set: Core*
 
 *aka: ______________________________*

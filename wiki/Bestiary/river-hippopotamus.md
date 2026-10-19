@@ -1,5 +1,9 @@
 # River hippopotamus
 
+![River hippopotamus](../Images/BE-493-bestiary-river-hippopotamus.jpg){.illus}
+
+
+*Catalogue: BE-493*
 *Set: Core*
 
 *aka: ______________________________*

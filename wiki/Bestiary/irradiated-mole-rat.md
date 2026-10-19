@@ -1,5 +1,9 @@
 # Irradiated mole rat
 
+![Irradiated mole rat](../Images/BE-368-bestiary-irradiated-mole-rat.jpg){.illus}
+
+
+*Catalogue: BE-368*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Great crocodile
 
-![Great crocodile](../Images/bestiary-great-crocodile.jpg){.illus}
+![Great crocodile](../Images/BE-305-bestiary-great-crocodile.jpg){.illus}
 
+*Catalogue: BE-305*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Typewriter
 
+![Typewriter](../Images/GR-0985-equipment-typewriter.jpg){.illus}
+
+
+*Catalogue: GR-0985*
 *Set: Expansion*
 
 *aka: ______________________________*

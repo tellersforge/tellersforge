@@ -1,5 +1,9 @@
 # Hunting cheetah
 
+![Hunting cheetah](../Images/BE-356-bestiary-hunting-cheetah.jpg){.illus}
+
+
+*Catalogue: BE-356*
 *Set: Core*
 
 *aka: ______________________________*

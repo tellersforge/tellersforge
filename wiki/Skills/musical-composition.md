@@ -1,5 +1,9 @@
 # Musical Composition
 
+![Musical Composition](../Images/SK-140-skills-musical-composition.jpg){.illus}
+
+
+*Catalogue: SK-140*
 *Set: Expansion*
 
 *aka: ______________________________*

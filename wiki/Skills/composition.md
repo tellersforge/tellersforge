@@ -1,5 +1,9 @@
 # Composition
 
+![Composition](../Images/SK-038-skills-composition.jpg){.illus}
+
+
+*Catalogue: SK-038*
 *Set: Expansion*
 
 *aka: ______________________________*

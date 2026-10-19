@@ -1,5 +1,9 @@
 # Linen shift
 
+![Linen shift](../Images/GR-0603-equipment-linen-shift.jpg){.illus}
+
+
+*Catalogue: GR-0603*
 *Set: Expansion*
 
 *aka: ______________________________*

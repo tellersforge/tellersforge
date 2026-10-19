@@ -1,5 +1,9 @@
 # Sonar set
 
+![Sonar set](../Images/GR-0895-equipment-sonar-set.jpg){.illus}
+
+
+*Catalogue: GR-0895*
 *Set: Expansion*
 
 *aka: ______________________________*

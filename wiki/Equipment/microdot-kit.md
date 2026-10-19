@@ -1,5 +1,9 @@
 # Microdot kit
 
+![Microdot kit](../Images/GR-0648-equipment-microdot-kit.jpg){.illus}
+
+
+*Catalogue: GR-0648*
 *Set: Expansion*
 
 *aka: ______________________________*

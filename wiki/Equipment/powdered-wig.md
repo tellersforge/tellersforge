@@ -1,5 +1,9 @@
 # Powdered wig
 
+![Powdered wig](../Images/GR-0749-equipment-powdered-wig.jpg){.illus}
+
+
+*Catalogue: GR-0749*
 *Set: Expansion*
 
 *aka: ______________________________*

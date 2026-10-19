@@ -1,5 +1,9 @@
 # Courage-Giving
 
+![Courage-Giving](../Images/PW-054-powers-courage-giving.jpg){.illus}
+
+
+*Catalogue: PW-054*
 *Set: Expansion*
 
 *aka: ______________________________*

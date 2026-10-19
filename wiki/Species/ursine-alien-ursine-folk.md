@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Stocky ursine merchant folk *(NPC only)*
 
+![Stocky ursine merchant folk](../Images/species-stocky-ursine-merchant-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +2 INT −1 WIS +1
 - **Skills:**, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Composure](../Skills/composure.md) +1, [Foraging](../Skills/foraging.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Acrobatics](../Skills/acrobatics.md) −2

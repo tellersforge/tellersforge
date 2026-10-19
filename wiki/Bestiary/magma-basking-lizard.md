@@ -1,5 +1,9 @@
 # Magma basking lizard
 
+![Magma basking lizard](../Images/BE-404-bestiary-magma-basking-lizard.jpg){.illus}
+
+
+*Catalogue: BE-404*
 *Set: Expansion*
 
 *aka: ______________________________*

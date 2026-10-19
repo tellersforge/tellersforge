@@ -1,5 +1,9 @@
 # Offering bowl
 
+![Offering bowl](../Images/GR-0686-equipment-offering-bowl.jpg){.illus}
+
+
+*Catalogue: GR-0686*
 *Set: Expansion*
 
 *aka: ______________________________*

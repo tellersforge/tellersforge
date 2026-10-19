@@ -1,5 +1,9 @@
 # Weapon Empowerment
 
+![Weapon Empowerment](../Images/PW-320-powers-weapon-empowerment.jpg){.illus}
+
+
+*Catalogue: PW-320*
 *Set: Expansion*
 
 *aka: ______________________________*

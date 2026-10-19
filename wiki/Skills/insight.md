@@ -1,5 +1,9 @@
 # Insight
 
+![Insight](../Images/SK-097-skills-insight.jpg){.illus}
+
+
+*Catalogue: SK-097*
 *Set: Core · Basic skill: Insight*
 
 *aka: ______________________________*

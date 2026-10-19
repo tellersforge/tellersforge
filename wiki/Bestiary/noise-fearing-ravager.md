@@ -1,5 +1,9 @@
 # Noise-fearing ravager
 
+![Noise-fearing ravager](../Images/BE-440-bestiary-noise-fearing-ravager.jpg){.illus}
+
+
+*Catalogue: BE-440*
 *Set: Expansion*
 
 *aka: ______________________________*

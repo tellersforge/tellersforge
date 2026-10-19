@@ -1,5 +1,9 @@
 # River dragon-fish
 
+![River dragon-fish](../Images/BE-491-bestiary-river-dragon-fish.jpg){.illus}
+
+
+*Catalogue: BE-491*
 *Set: Expansion*
 
 *aka: ______________________________*

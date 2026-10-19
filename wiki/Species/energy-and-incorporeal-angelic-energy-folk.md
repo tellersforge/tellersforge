@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Winged energy-being folk *(NPC only)*
 
+![Winged energy-being folk](../Images/species-winged-energy-being-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal+winged
 - **Attributes:** STR −3 INT +1 WIS +2 CHA +1
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Composure](../Skills/composure.md) +1, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept

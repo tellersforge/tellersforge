@@ -1,5 +1,9 @@
 # Future Seeing (Precognition)
 
+![Future Seeing (Precognition)](../Images/PW-114-powers-future-seeing-precognition.jpg){.illus}
+
+
+*Catalogue: PW-114*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Wyvern
 
-![Wyvern](../Images/vehicles-wyvern.jpg){.illus}
+![Wyvern](../Images/GR-1133-vehicles-wyvern.jpg){.illus}
 
+*Catalogue: GR-1133*
 *Set: Expansion*
 
 

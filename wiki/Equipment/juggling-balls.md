@@ -1,5 +1,9 @@
 # Juggling balls
 
+![Juggling balls](../Images/GR-0572-equipment-juggling-balls.jpg){.illus}
+
+
+*Catalogue: GR-0572*
 *Set: Core*
 
 *aka: ______________________________*

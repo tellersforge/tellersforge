@@ -1,5 +1,9 @@
 # Honey salve jar
 
+![Honey salve jar](../Images/GR-0543-equipment-honey-salve-jar.jpg){.illus}
+
+
+*Catalogue: GR-0543*
 *Set: Expansion*
 
 *aka: ______________________________*

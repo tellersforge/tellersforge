@@ -1,5 +1,9 @@
 # River jaguar
 
+![River jaguar](../Images/BE-494-bestiary-river-jaguar.jpg){.illus}
+
+
+*Catalogue: BE-494*
 *Set: Core*
 
 *aka: ______________________________*

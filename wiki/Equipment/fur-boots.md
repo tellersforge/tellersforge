@@ -1,5 +1,9 @@
 # Fur boots
 
+![Fur boots](../Images/GR-0444-equipment-fur-boots.jpg){.illus}
+
+
+*Catalogue: GR-0444*
 *Set: Core*
 
 *aka: ______________________________*

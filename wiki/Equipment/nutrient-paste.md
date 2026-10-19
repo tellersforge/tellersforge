@@ -1,5 +1,9 @@
 # Nutrient paste
 
+![Nutrient paste](../Images/GR-0684-equipment-nutrient-paste.jpg){.illus}
+
+
+*Catalogue: GR-0684*
 *Set: Expansion*
 
 *aka: ______________________________*

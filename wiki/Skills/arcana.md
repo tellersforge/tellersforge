@@ -1,5 +1,9 @@
 # Arcana
 
+![Arcana](../Images/SK-010-skills-arcana.jpg){.illus}
+
+
+*Catalogue: SK-010*
 *Set: Expansion*
 
 *aka: ______________________________*

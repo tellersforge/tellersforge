@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 68 Large-eared mercantile trader folk · Profit-renouncing ascetic order *(genres: space opera: near-humans)*
 
+![Large-eared mercantile trader folk](../Images/species-large-eared-mercantile-trader-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Sharp-eared little traders who never miss a whispered deal or a hidden profit. (looks like: goblin; good at: keen senses, people and talk)
 - **Attributes:** STR −2 AGI +2
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 69 Gaunt financier folk *(genres: space opera: near-humans)*
 
+![Gaunt financier folk](../Images/species-gaunt-financier-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, gaunt, grey-skinned bankers, shrewd with every coin that crosses their desk. (looks like: alien; good at: people and talk, knowledge)
 - **Attributes:** STR +1 AGI −2 END −1
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; tall and gaunt, which is an attribute matter.
 
 ### Information-broker folk · Roaming trader/spice-cartel folk *(same numbers as a baseline human: play as one (Species rule 18))*
+
+![Information-broker folk](../Images/species-information-broker-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none

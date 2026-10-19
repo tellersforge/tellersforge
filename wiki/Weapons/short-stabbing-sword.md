@@ -1,7 +1,8 @@
 # Short Stabbing Sword
 
-![Short stabbing sword](../Images/weapons-short-stabbing-sword.jpg){.illus}
+![Short stabbing sword](../Images/GR-0094-weapons-short-stabbing-sword.jpg){.illus}
 
+*Catalogue: GR-0094*
 *Set: Expansion*
 
 *aka: ______________________________*

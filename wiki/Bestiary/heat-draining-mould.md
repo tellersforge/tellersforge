@@ -1,5 +1,9 @@
 # Heat-draining mould
 
+![Heat-draining mould](../Images/BE-332-bestiary-heat-draining-mould.jpg){.illus}
+
+
+*Catalogue: BE-332*
 *Set: Expansion*
 
 *aka: ______________________________*

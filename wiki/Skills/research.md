@@ -1,5 +1,9 @@
 # Research
 
+![Research](../Images/SK-161-skills-research.jpg){.illus}
+
+
+*Catalogue: SK-161*
 *Set: Core · Basic skill: Investigation*
 
 *aka: ______________________________*

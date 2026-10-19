@@ -1,5 +1,9 @@
 # Satire
 
+![Satire](../Images/PW-248-powers-satire.jpg){.illus}
+
+
+*Catalogue: PW-248*
 *Set: Expansion*
 
 *aka: ______________________________*

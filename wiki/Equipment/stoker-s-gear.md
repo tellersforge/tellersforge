@@ -1,5 +1,9 @@
 # Stoker's gear
 
+![Stoker's gear](../Images/GR-0920-equipment-stoker-s-gear.jpg){.illus}
+
+
+*Catalogue: GR-0920*
 *Set: Expansion*
 
 *aka: ______________________________*

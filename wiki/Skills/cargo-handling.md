@@ -1,5 +1,9 @@
 # Cargo Handling
 
+![Cargo Handling](../Images/SK-029-skills-cargo-handling.jpg){.illus}
+
+
+*Catalogue: SK-029*
 *Set: Expansion*
 
 *aka: ______________________________*

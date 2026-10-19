@@ -1,5 +1,9 @@
 # Midwifery
 
+![Midwifery](../Images/SK-132-skills-midwifery.jpg){.illus}
+
+
+*Catalogue: SK-132*
 *Set: Expansion*
 
 *aka: ______________________________*

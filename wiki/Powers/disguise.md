@@ -1,5 +1,9 @@
 # Disguise
 
+![Disguise](../Images/PW-072-powers-disguise.jpg){.illus}
+
+
+*Catalogue: PW-072*
 *Set: Expansion*
 
 *aka: ______________________________*

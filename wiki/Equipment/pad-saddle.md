@@ -1,5 +1,9 @@
 # Pad saddle
 
+![Pad saddle](../Images/GR-0698-equipment-pad-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0698*
 *Set: Core*
 
 *aka: ______________________________*

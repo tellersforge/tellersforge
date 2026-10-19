@@ -1,5 +1,9 @@
 # Knives & Daggers
 
+![Knives & Daggers](../Images/WG-017-weapon-groups-knives-and-daggers.jpg){.illus}
+
+
+*Catalogue: WG-017*
 *Set: Core*
 
 *aka: ______________________________*

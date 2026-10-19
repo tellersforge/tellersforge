@@ -1,5 +1,9 @@
 # Scrap golem
 
+![Scrap golem](../Images/BE-520-bestiary-scrap-golem.jpg){.illus}
+
+
+*Catalogue: BE-520*
 *Set: Core*
 
 *aka: ______________________________*

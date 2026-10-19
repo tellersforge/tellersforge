@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 688 Big-eared scavenger folk *(genres: space opera: beast-like aliens)*
 
+![Big-eared scavenger folk](../Images/species-big-eared-scavenger-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Big-eared, long-tailed rodent folk who can't resist scavenging and trading anything they find. (looks like: rat; good at: sneaking, people and talk)
 - **Attributes:** STR −2 AGI +2 END +1 WIS +1 PER +1 COU −1

@@ -1,5 +1,9 @@
 # Pack cart
 
+![Pack cart](../Images/GR-0695-equipment-pack-cart.jpg){.illus}
+
+
+*Catalogue: GR-0695*
 *Set: Core*
 
 *aka: ______________________________*

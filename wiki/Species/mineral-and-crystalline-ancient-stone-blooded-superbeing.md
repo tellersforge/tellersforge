@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pillar man *(NPC only; NPC-scale)*
 
+![Pillar man](../Images/species-pillar-man.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +7 AGI −2 END +2 INT +2 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Composure](../Skills/composure.md) +1, [Stealth](../Skills/stealth.md) −2

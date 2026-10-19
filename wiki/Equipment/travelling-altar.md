@@ -1,5 +1,9 @@
 # Travelling altar
 
+![Travelling altar](../Images/GR-0976-equipment-travelling-altar.jpg){.illus}
+
+
+*Catalogue: GR-0976*
 *Set: Expansion*
 
 *aka: ______________________________*

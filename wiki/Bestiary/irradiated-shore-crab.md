@@ -1,5 +1,9 @@
 # Irradiated shore crab
 
+![Irradiated shore crab](../Images/BE-369-bestiary-irradiated-shore-crab.jpg){.illus}
+
+
+*Catalogue: BE-369*
 *Set: Expansion*
 
 *aka: ______________________________*

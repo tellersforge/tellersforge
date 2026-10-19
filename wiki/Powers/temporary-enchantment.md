@@ -1,5 +1,9 @@
 # Temporary Enchantment
 
+![Temporary Enchantment](../Images/PW-295-powers-temporary-enchantment.jpg){.illus}
+
+
+*Catalogue: PW-295*
 *Set: Expansion*
 
 *aka: ______________________________*

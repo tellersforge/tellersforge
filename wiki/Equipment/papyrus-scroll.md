@@ -1,5 +1,9 @@
 # Papyrus scroll
 
+![Papyrus scroll](../Images/GR-0705-equipment-papyrus-scroll.jpg){.illus}
+
+
+*Catalogue: GR-0705*
 *Set: Expansion*
 
 *aka: ______________________________*

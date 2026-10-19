@@ -1,5 +1,9 @@
 # Black mamba
 
+![Black mamba](../Images/BE-048-bestiary-black-mamba.jpg){.illus}
+
+
+*Catalogue: BE-048*
 *Set: Core*
 
 *aka: ______________________________*

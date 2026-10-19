@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 442 Goat-legged fey *(genres: myth and legend)*
 
+![Goat-legged fey](../Images/species-goat-legged-fey.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** A goat-legged fey reveller, resistant to others' charm magic and often gifted with music of their own. (looks like: goat; good at: people and talk, powers and magic)
 - **Attributes:** STR −1 AGI +1 CHA +2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Resist charms and are often gifted musicians.
 
 ### Ancient faun guardian *(NPC only)*
+
+![Ancient faun guardian](../Images/species-ancient-faun-guardian.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +1 AGI −1 INT +1 WIS +2 CHA +2

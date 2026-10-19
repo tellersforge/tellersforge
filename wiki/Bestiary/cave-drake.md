@@ -1,7 +1,8 @@
 # Cave drake
 
-![Cave drake](../Images/bestiary-cave-drake.jpg){.illus}
+![Cave drake](../Images/BE-094-bestiary-cave-drake.jpg){.illus}
 
+*Catalogue: BE-094*
 *Set: Expansion*
 
 *aka: ______________________________*

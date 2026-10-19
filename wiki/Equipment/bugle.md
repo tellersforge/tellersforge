@@ -1,5 +1,9 @@
 # Bugle
 
+![Bugle](../Images/GR-0237-equipment-bugle.jpg){.illus}
+
+
+*Catalogue: GR-0237*
 *Set: Expansion*
 
 *aka: ______________________________*

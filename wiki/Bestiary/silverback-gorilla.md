@@ -1,5 +1,9 @@
 # Silverback gorilla
 
+![Silverback gorilla](../Images/BE-550-bestiary-silverback-gorilla.jpg){.illus}
+
+
+*Catalogue: BE-550*
 *Set: Core*
 
 *aka: ______________________________*

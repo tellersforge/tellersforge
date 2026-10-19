@@ -1,5 +1,9 @@
 # Instrument (per instrument)
 
+![Instrument (per instrument)](../Images/SK-098-skills-instrument-per-instrument.jpg){.illus}
+
+
+*Catalogue: SK-098*
 *Set: Expansion*
 
 *aka: ______________________________*

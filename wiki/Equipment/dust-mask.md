@@ -1,5 +1,9 @@
 # Dust mask
 
+![Dust mask](../Images/GR-0357-equipment-dust-mask.jpg){.illus}
+
+
+*Catalogue: GR-0357*
 *Set: Expansion*
 
 *aka: ______________________________*

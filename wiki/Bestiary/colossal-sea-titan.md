@@ -1,5 +1,9 @@
 # Colossal sea titan
 
+![Colossal sea titan](../Images/BE-122-bestiary-colossal-sea-titan.jpg){.illus}
+
+
+*Catalogue: BE-122*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Dromedary camel
 
+![Dromedary camel](../Images/BE-162-bestiary-dromedary-camel.jpg){.illus}
+
+
+*Catalogue: BE-162*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Stonemasonry
 
+![Stonemasonry](../Images/SK-190-skills-stonemasonry.jpg){.illus}
+
+
+*Catalogue: SK-190*
 *Set: Expansion*
 
 *aka: ______________________________*

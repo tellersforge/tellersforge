@@ -1,5 +1,9 @@
 # Giant eyed trilobite
 
+![Giant eyed trilobite](../Images/BE-251-bestiary-giant-eyed-trilobite.jpg){.illus}
+
+
+*Catalogue: BE-251*
 *Set: Expansion*
 
 *aka: ______________________________*

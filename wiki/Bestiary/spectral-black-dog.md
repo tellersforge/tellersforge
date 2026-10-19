@@ -1,5 +1,9 @@
 # Spectral black dog
 
+![Spectral black dog](../Images/BE-577-bestiary-spectral-black-dog.jpg){.illus}
+
+
+*Catalogue: BE-577*
 *Set: Core*
 
 *aka: ______________________________*

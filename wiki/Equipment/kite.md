@@ -1,5 +1,9 @@
 # Kite
 
+![Kite](../Images/GR-0575-equipment-kite.jpg){.illus}
+
+
+*Catalogue: GR-0575*
 *Set: Expansion*
 
 *aka: ______________________________*

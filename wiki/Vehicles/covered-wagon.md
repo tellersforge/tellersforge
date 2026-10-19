@@ -1,7 +1,8 @@
 # Covered Wagon
 
-![Covered wagon](../Images/vehicles-covered-wagon.jpg){.illus}
+![Covered wagon](../Images/GR-1059-vehicles-covered-wagon.jpg){.illus}
 
+*Catalogue: GR-1059*
 *Set: Core*
 
 

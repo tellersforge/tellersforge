@@ -1,5 +1,8 @@
 # Fear of Loud Noises
 
+![Fear of Loud Noises](../Images/flaws-fear-of-loud-noises.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when gunfire, explosions, bangs.

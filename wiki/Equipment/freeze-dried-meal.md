@@ -1,5 +1,9 @@
 # Freeze-dried meal
 
+![Freeze-dried meal](../Images/GR-0440-equipment-freeze-dried-meal.jpg){.illus}
+
+
+*Catalogue: GR-0440*
 *Set: Expansion*
 
 *aka: ______________________________*

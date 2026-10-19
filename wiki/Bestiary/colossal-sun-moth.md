@@ -1,5 +1,9 @@
 # Colossal sun moth
 
+![Colossal sun moth](../Images/BE-124-bestiary-colossal-sun-moth.jpg){.illus}
+
+
+*Catalogue: BE-124*
 *Set: Expansion*
 
 *aka: ______________________________*

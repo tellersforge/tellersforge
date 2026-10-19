@@ -1,5 +1,9 @@
 # Grooming kit
 
+![Grooming kit](../Images/GR-0477-equipment-grooming-kit.jpg){.illus}
+
+
+*Catalogue: GR-0477*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Animal Training
 
+![Animal Training](../Images/SK-008-skills-animal-training.jpg){.illus}
+
+
+*Catalogue: SK-008*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Confusion
 
+![Confusion](../Images/PW-045-powers-confusion.jpg){.illus}
+
+
+*Catalogue: PW-045*
 *Set: Expansion*
 
 *aka: ______________________________*

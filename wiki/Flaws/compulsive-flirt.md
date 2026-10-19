@@ -1,5 +1,8 @@
 # Compulsive Flirt
 
+![Compulsive Flirt](../Images/flaws-compulsive-flirt.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when flirts with anyone, at any time.

@@ -1,5 +1,9 @@
 # Singing-horn antelope
 
+![Singing-horn antelope](../Images/BE-551-bestiary-singing-horn-antelope.jpg){.illus}
+
+
+*Catalogue: BE-551*
 *Set: Expansion*
 
 *aka: ______________________________*

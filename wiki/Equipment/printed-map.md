@@ -1,5 +1,9 @@
 # Printed map
 
+![Printed map](../Images/GR-0762-equipment-printed-map.jpg){.illus}
+
+
+*Catalogue: GR-0762*
 *Set: Core*
 
 *aka: ______________________________*

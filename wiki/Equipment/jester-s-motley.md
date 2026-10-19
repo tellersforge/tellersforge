@@ -1,5 +1,9 @@
 # Jester's motley
 
+![Jester's motley](../Images/GR-0569-equipment-jester-s-motley.jpg){.illus}
+
+
+*Catalogue: GR-0569*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Assistant intelligence
 
+![Assistant intelligence](../Images/GR-0189-equipment-assistant-intelligence.jpg){.illus}
+
+
+*Catalogue: GR-0189*
 *Set: Expansion*
 
 *aka: ______________________________*

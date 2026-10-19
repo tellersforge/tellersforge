@@ -1,5 +1,9 @@
 # Walking staff
 
+![Walking staff](../Images/GR-0995-equipment-walking-staff.jpg){.illus}
+
+
+*Catalogue: GR-0995*
 *Set: Core*
 
 *aka: ______________________________*

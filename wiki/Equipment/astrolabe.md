@@ -1,7 +1,8 @@
 # Astrolabe
 
-![Astrolabe](../Images/equipment-astrolabe.jpg){.illus}
+![Astrolabe](../Images/GR-0190-equipment-astrolabe.jpg){.illus}
 
+*Catalogue: GR-0190*
 *Set: Expansion*
 
 *aka: ______________________________*

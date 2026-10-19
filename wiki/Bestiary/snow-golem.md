@@ -1,5 +1,9 @@
 # Snow golem
 
+![Snow golem](../Images/BE-573-bestiary-snow-golem.jpg){.illus}
+
+
+*Catalogue: BE-573*
 *Set: Expansion*
 
 *aka: ______________________________*

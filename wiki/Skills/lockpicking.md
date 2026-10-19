@@ -1,5 +1,9 @@
 # Lockpicking
 
+![Lockpicking](../Images/SK-118-skills-lockpicking.jpg){.illus}
+
+
+*Catalogue: SK-118*
 *Set: Core · Basic skill: Thievery*
 
 *aka: ______________________________*

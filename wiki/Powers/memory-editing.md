@@ -1,5 +1,9 @@
 # Memory Editing
 
+![Memory Editing](../Images/PW-171-powers-memory-editing.jpg){.illus}
+
+
+*Catalogue: PW-171*
 *Set: Expansion*
 
 *aka: ______________________________*

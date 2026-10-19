@@ -1,5 +1,9 @@
 # Tinned food
 
+![Tinned food](../Images/GR-0960-equipment-tinned-food.jpg){.illus}
+
+
+*Catalogue: GR-0960*
 *Set: Expansion*
 
 *aka: ______________________________*

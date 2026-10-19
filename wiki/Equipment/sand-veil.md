@@ -1,5 +1,9 @@
 # Sand veil
 
+![Sand veil](../Images/GR-0816-equipment-sand-veil.jpg){.illus}
+
+
+*Catalogue: GR-0816*
 *Set: Core*
 
 *aka: ______________________________*

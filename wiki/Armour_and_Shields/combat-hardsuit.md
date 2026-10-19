@@ -1,7 +1,8 @@
 # Combat hardsuit
 
-![Combat hardsuit](../Images/armour-combat-hardsuit.jpg){.illus}
+![Combat hardsuit](../Images/GR-0133-armour-combat-hardsuit.jpg){.illus}
 
+*Catalogue: GR-0133*
 *Set: Expansion*
 
 *aka: ______________________________*

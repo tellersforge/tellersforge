@@ -1,5 +1,9 @@
 # Through-wall scanner
 
+![Through-wall scanner](../Images/GR-0957-equipment-through-wall-scanner.jpg){.illus}
+
+
+*Catalogue: GR-0957*
 *Set: Expansion*
 
 *aka: ______________________________*

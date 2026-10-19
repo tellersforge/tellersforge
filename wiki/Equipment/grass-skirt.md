@@ -1,5 +1,9 @@
 # Grass skirt
 
+![Grass skirt](../Images/GR-0471-equipment-grass-skirt.jpg){.illus}
+
+
+*Catalogue: GR-0471*
 *Set: Expansion*
 
 *aka: ______________________________*

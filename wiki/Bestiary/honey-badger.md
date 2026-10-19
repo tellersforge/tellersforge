@@ -1,5 +1,9 @@
 # Honey badger
 
+![Honey badger](../Images/BE-339-bestiary-honey-badger.jpg){.illus}
+
+
+*Catalogue: BE-339*
 *Set: Core*
 
 *aka: ______________________________*

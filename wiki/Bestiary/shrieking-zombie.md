@@ -1,5 +1,9 @@
 # Shrieking zombie
 
+![Shrieking zombie](../Images/BE-545-bestiary-shrieking-zombie.jpg){.illus}
+
+
+*Catalogue: BE-545*
 *Set: Core*
 
 *aka: ______________________________*

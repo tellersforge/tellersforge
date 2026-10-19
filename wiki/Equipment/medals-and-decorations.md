@@ -1,5 +1,9 @@
 # Medals and decorations
 
+![Medals and decorations](../Images/GR-0638-equipment-medals-and-decorations.jpg){.illus}
+
+
+*Catalogue: GR-0638*
 *Set: Expansion*
 
 *aka: ______________________________*

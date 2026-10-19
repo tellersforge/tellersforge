@@ -1,5 +1,9 @@
 # Poltergeist
 
+![Poltergeist](../Images/BE-468-bestiary-poltergeist.jpg){.illus}
+
+
+*Catalogue: BE-468*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Fear of Another Animal (chosen)
 
+![Fear of Another Animal (chosen)](../Images/flaws-fear-of-another-animal-chosen.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when one other kind of creature.

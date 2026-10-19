@@ -1,5 +1,9 @@
 # Climate shroud
 
+![Climate shroud](../Images/GR-0282-equipment-climate-shroud.jpg){.illus}
+
+
+*Catalogue: GR-0282*
 *Set: Expansion*
 
 *aka: ______________________________*

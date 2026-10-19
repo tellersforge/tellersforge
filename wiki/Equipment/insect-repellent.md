@@ -1,5 +1,9 @@
 # Insect repellent
 
+![Insect repellent](../Images/GR-0564-equipment-insect-repellent.jpg){.illus}
+
+
+*Catalogue: GR-0564*
 *Set: Expansion*
 
 *aka: ______________________________*

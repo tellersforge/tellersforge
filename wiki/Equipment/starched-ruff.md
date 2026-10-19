@@ -1,5 +1,9 @@
 # Starched ruff
 
+![Starched ruff](../Images/GR-0908-equipment-starched-ruff.jpg){.illus}
+
+
+*Catalogue: GR-0908*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Light-dwelling elder folk *(NPC only)*
 
+![Light-dwelling elder folk](../Images/species-light-dwelling-elder-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +2 PER +2 COU +1
 - **Skills:** [Balance](../Skills/balance.md) +1, [Composure](../Skills/composure.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Carousing](../Skills/carousing.md) −1, [Intimidation](../Skills/intimidation.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shadow-dwelling elder folk *(NPC only)*
 
+![Shadow-dwelling elder folk](../Images/species-shadow-dwelling-elder-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +3 END −1 INT +1 WIS +1 PER +2
 - **Skills:** [Balance](../Skills/balance.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Stealth](../Skills/stealth.md) +1, [Carousing](../Skills/carousing.md) −1, [Intimidation](../Skills/intimidation.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1
@@ -41,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Bound to the realm of shadow, which answers to them.
 
 ### Storm-realm elder folk *(NPC only)*
+
+![Storm-realm elder folk](../Images/species-storm-realm-elder-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +2 END −1 WIS +1 PER +2 CHA −1 COU +1

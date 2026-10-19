@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Guiding light-spirit *(NPC only)*
 
+![Guiding light-spirit](../Images/species-guiding-light-spirit.jpg){.illus}
+
+
 - **Size:** small · **Body:** incorporeal
 - **Attributes:** STR −3 AGI +2 INT +1 WIS +2
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2, [Mending & Sewing](../Skills/mending-and-sewing.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Lifting & Carrying](../Skills/lifting-and-carrying.md) Foreign Concept

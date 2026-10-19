@@ -1,5 +1,9 @@
 # Pavilion
 
+![Pavilion](../Images/GR-0711-equipment-pavilion.jpg){.illus}
+
+
+*Catalogue: GR-0711*
 *Set: Expansion*
 
 *aka: ______________________________*

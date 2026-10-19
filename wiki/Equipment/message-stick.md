@@ -1,5 +1,9 @@
 # Message stick
 
+![Message stick](../Images/GR-0645-equipment-message-stick.jpg){.illus}
+
+
+*Catalogue: GR-0645*
 *Set: Core*
 
 *aka: ______________________________*

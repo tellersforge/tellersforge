@@ -1,5 +1,8 @@
 # Compulsive Sarcasm
 
+![Compulsive Sarcasm](../Images/flaws-compulsive-sarcasm.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when can't answer anything straight.

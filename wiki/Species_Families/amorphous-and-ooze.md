@@ -1,5 +1,8 @@
 # Amorphous and ooze
 
+![Amorphous and ooze](../Images/species-families-amorphous-and-ooze.jpg){.illus}
+
+
 
 Nothing in this family keeps its shape for long. Its members are jelly, slime, water, smoke, sand, tar, flowing metal or clouds of tiny machines, held together by will, hunger or chemistry. Some are thoughtless things that creep along dungeon floors, dissolving whatever they cover. Others are patient, clever peoples who pour themselves into a borrowed form to talk with the solid folk, and find that form faintly ridiculous. A few live inside other creatures as partners or parasites. Bones, walls and locks mean little to them. They slip through gratings, reshape a limb to fit a task and heal by simply closing up. Most other peoples find them unsettling, mainly because they are so hard to hit.
 

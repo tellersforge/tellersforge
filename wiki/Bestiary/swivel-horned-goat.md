@@ -1,5 +1,9 @@
 # Swivel-horned goat
 
+![Swivel-horned goat](../Images/BE-606-bestiary-swivel-horned-goat.jpg){.illus}
+
+
+*Catalogue: BE-606*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Chair, stool, bottle
 
+![Chair, stool, bottle](../Images/GR-0018-weapons-chair-stool-bottle.jpg){.illus}
+
+
+*Catalogue: GR-0018*
 *Set: Expansion*
 
 *aka: ______________________________*

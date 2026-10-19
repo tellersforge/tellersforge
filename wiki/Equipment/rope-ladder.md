@@ -1,5 +1,9 @@
 # Rope ladder
 
+![Rope ladder](../Images/GR-0802-equipment-rope-ladder.jpg){.illus}
+
+
+*Catalogue: GR-0802*
 *Set: Expansion*
 
 *aka: ______________________________*

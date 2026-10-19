@@ -1,5 +1,9 @@
 # Giant wasp
 
+![Giant wasp](../Images/BE-291-bestiary-giant-wasp.jpg){.illus}
+
+
+*Catalogue: BE-291*
 *Set: Expansion*
 
 *aka: ______________________________*

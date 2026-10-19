@@ -1,5 +1,9 @@
 # Flint and pyrite
 
+![Flint and pyrite](../Images/GR-0419-equipment-flint-and-pyrite.jpg){.illus}
+
+
+*Catalogue: GR-0419*
 *Set: Expansion*
 
 *aka: ______________________________*

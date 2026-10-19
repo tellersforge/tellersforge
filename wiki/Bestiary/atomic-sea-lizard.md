@@ -1,7 +1,8 @@
 # Atomic sea lizard
 
-![Atomic sea lizard](../Images/bestiary-atomic-sea-lizard.jpg){.illus}
+![Atomic sea lizard](../Images/BE-031-bestiary-atomic-sea-lizard.jpg){.illus}
 
+*Catalogue: BE-031*
 *Set: Expansion*
 
 *aka: ______________________________*

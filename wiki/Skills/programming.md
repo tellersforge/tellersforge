@@ -1,5 +1,9 @@
 # Programming
 
+![Programming](../Images/SK-156-skills-programming.jpg){.illus}
+
+
+*Catalogue: SK-156*
 *Set: Expansion*
 
 *aka: ______________________________*

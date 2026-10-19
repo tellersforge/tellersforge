@@ -1,5 +1,9 @@
 # Machine Speech
 
+![Machine Speech](../Images/PW-164-powers-machine-speech.jpg){.illus}
+
+
+*Catalogue: PW-164*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Divination sticks
 
+![Divination sticks](../Images/GR-0338-equipment-divination-sticks.jpg){.illus}
+
+
+*Catalogue: GR-0338*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Colony work suit
 
+![Colony work suit](../Images/GR-0293-equipment-colony-work-suit.jpg){.illus}
+
+
+*Catalogue: GR-0293*
 *Set: Expansion*
 
 *aka: ______________________________*

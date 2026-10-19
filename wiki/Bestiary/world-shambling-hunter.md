@@ -1,5 +1,9 @@
 # World-shambling hunter
 
+![World-shambling hunter](../Images/BE-687-bestiary-world-shambling-hunter.jpg){.illus}
+
+
+*Catalogue: BE-687*
 *Set: Expansion*
 
 *aka: ______________________________*

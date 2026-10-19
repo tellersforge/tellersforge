@@ -39,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Squid-folk *(NPC only)*
 
+![Squid-folk](../Images/species-squid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other+tentacled
 - **Attributes:** AGI +1 END −2 INT +2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Swimming](../Skills/swimming.md) +3, [Camouflage](../Skills/camouflage.md) +2, [Diving](../Skills/diving.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Running](../Skills/running.md) −3, [Survival: Desert](../Skills/survival-desert.md) Foreign Concept
@@ -51,6 +54,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cuttlefish-folk *(NPC only)*
 
+![Cuttlefish-folk](../Images/species-cuttlefish-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** other+tentacled
 - **Attributes:** STR −2 AGI +2 END −2 INT +2
 - **Skills:** [Camouflage](../Skills/camouflage.md) +3, [Escape Artistry](../Skills/escape-artistry.md) +3, [Swimming](../Skills/swimming.md) +2, [Diving](../Skills/diving.md) +1, [Signals](../Skills/signals.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Running](../Skills/running.md) −3, [Survival: Desert](../Skills/survival-desert.md) Foreign Concept
@@ -61,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Masters of rapid colour and pattern change, used both to hide and to signal.
 
 ### Nautilus-folk *(NPC only)*
+
+![Nautilus-folk](../Images/species-nautilus-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other+shelled
 - **Attributes:** AGI +1 END −1 INT +1

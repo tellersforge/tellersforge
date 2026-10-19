@@ -1,7 +1,8 @@
 # Giant scorpion
 
-![Giant scorpion](../Images/bestiary-giant-scorpion.jpg){.illus}
+![Giant scorpion](../Images/BE-274-bestiary-giant-scorpion.jpg){.illus}
 
+*Catalogue: BE-274*
 *Set: Core*
 
 *aka: ______________________________*

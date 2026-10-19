@@ -1,5 +1,9 @@
 # Riot shield
 
+![Riot shield](../Images/GR-0158-armour-riot-shield.jpg){.illus}
+
+
+*Catalogue: GR-0158*
 *Set: Expansion*
 
 *aka: ______________________________*

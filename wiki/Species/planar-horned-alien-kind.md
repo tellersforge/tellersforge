@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 598 Persecuted horned alien race *(genres: space opera: strange aliens)*
 
+![Persecuted horned alien race](../Images/species-persecuted-horned-alien-race.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged+tailed
 - **What it's like:** Horned, clawed people who look like demons but aren't, hunted nearly to extinction for their powerful magic. (looks like: demon; good at: powers and magic, fighting)
 - **Attributes:** END −1 INT +1 WIS +1 CHA +1

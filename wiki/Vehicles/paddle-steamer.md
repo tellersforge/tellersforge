@@ -1,7 +1,8 @@
 # Paddle Steamer
 
-![Paddle steamer](../Images/vehicles-paddle-steamer.jpg){.illus}
+![Paddle steamer](../Images/GR-1099-vehicles-paddle-steamer.jpg){.illus}
 
+*Catalogue: GR-1099*
 *Set: Expansion*
 
 

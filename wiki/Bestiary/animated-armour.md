@@ -1,7 +1,8 @@
 # Animated armour
 
-![Animated armour](../Images/bestiary-animated-armour.jpg){.illus}
+![Animated armour](../Images/BE-018-bestiary-animated-armour.jpg){.illus}
 
+*Catalogue: BE-018*
 *Set: Expansion*
 
 *aka: ______________________________*

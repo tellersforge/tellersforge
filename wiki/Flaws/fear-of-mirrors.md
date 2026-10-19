@@ -1,5 +1,8 @@
 # Fear of Mirrors
 
+![Fear of Mirrors](../Images/flaws-fear-of-mirrors.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when mirrors and reflections.

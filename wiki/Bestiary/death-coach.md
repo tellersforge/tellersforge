@@ -1,5 +1,9 @@
 # Death coach
 
+![Death coach](../Images/BE-141-bestiary-death-coach.jpg){.illus}
+
+
+*Catalogue: BE-141*
 *Set: Core*
 
 *aka: ______________________________*

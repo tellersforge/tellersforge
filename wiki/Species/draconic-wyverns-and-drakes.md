@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Venomous-tailed wyvern *(beast)*
 
+![Venomous-tailed wyvern](../Images/species-venomous-tailed-wyvern.jpg){.illus}
+
+
 - **Size:** large · **Body:** winged biped
 - **Attributes:** STR +4 AGI −1 END +1 INT −3 WIS −1 CHA −2 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Composure](../Skills/composure.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Flies and stings with a venomous tail.
 
 ### Feral quadruped drake *(beast)*
+
+![Feral quadruped drake](../Images/species-feral-quadruped-drake.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped+winged
 - **Attributes:** STR +2 INT −3 WIS −1 CHA −2 COU +2
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Feral elemental-breath drake *(beast)*
 
+![Feral elemental-breath drake](../Images/species-feral-elemental-breath-drake.jpg){.illus}
+
+
 - **Size:** large · **Body:** winged biped
 - **Attributes:** STR +4 AGI −2 INT −3 WIS −1 CHA −2 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Composure](../Skills/composure.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Flies and still breathes elemental damage, weaker than a true dragon's.
 
 ### Two-headed guardian dragon-beast *(beast)*
+
+![Two-headed guardian dragon-beast](../Images/species-two-headed-guardian-dragon-beast.jpg){.illus}
+
 
 - **Size:** huge · **Body:** quadruped+winged
 - **Attributes:** STR +6 AGI −4 END +2 INT −3 WIS +1 PER +1 CHA −2 COU +1
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Desert pearl-producing dragon-beast *(beast)*
 
+![Desert pearl-producing dragon-beast](../Images/species-desert-pearl-producing-dragon-beast.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** quadruped
 - **Attributes:** STR +8 AGI −6 END +3 INT −3 WIS −1 CHA −2 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +3, [Survival: Desert](../Skills/survival-desert.md) +2, [Composure](../Skills/composure.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -79,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cliff-climbing saurian mount *(beast)*
 
+![Cliff-climbing saurian mount](../Images/species-cliff-climbing-saurian-mount.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+winged
 - **Attributes:** STR +4 INT −3 WIS −1 CHA −2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Intimidation](../Skills/intimidation.md) +3, [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Composure](../Skills/composure.md) +1, [Disguise](../Skills/disguise.md) −2, [Stealth](../Skills/stealth.md) −2, [Riding](../Skills/riding.md) Foreign Concept
@@ -89,6 +107,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Feathered mount that climbs sheer cliffs and glides.
 
 ### Guardian temple dragon-beast *(beast)*
+
+![Guardian temple dragon-beast](../Images/species-guardian-temple-dragon-beast.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped+tailed
 - **Attributes:** STR +4 AGI −2 INT −3 WIS +1 CHA −2 COU +3

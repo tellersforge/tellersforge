@@ -1,7 +1,8 @@
 # Starfighter
 
-![Starfighter](../Images/vehicles-starfighter.jpg){.illus}
+![Starfighter](../Images/GR-1123-vehicles-starfighter.jpg){.illus}
 
+*Catalogue: GR-1123*
 *Set: Expansion*
 
 

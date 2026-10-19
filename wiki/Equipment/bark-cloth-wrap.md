@@ -1,5 +1,9 @@
 # Bark cloth wrap
 
+![Bark cloth wrap](../Images/GR-0201-equipment-bark-cloth-wrap.jpg){.illus}
+
+
+*Catalogue: GR-0201*
 *Set: Core*
 
 *aka: ______________________________*

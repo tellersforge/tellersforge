@@ -1,5 +1,9 @@
 # Voice-mimic hyena
 
+![Voice-mimic hyena](../Images/BE-652-bestiary-voice-mimic-hyena.jpg){.illus}
+
+
+*Catalogue: BE-652*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wall-crawling jelly
 
+![Wall-crawling jelly](../Images/BE-658-bestiary-wall-crawling-jelly.jpg){.illus}
+
+
+*Catalogue: BE-658*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Giant flying eyeball
 
+![Giant flying eyeball](../Images/BE-254-bestiary-giant-flying-eyeball.jpg){.illus}
+
+
+*Catalogue: BE-254*
 *Set: Expansion*
 
 *aka: ______________________________*

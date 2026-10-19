@@ -1,5 +1,8 @@
 # Panic
 
+![Panic](../Images/flaws-panic.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when loses their head in a crisis.

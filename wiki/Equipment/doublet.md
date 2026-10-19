@@ -1,5 +1,9 @@
 # Doublet
 
+![Doublet](../Images/GR-0346-equipment-doublet.jpg){.illus}
+
+
+*Catalogue: GR-0346*
 *Set: Expansion*
 
 *aka: ______________________________*

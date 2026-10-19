@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 164 Turtle-beaked folk *(genres: space opera: beast-like aliens)*
 
+![Turtle-beaked folk](../Images/species-turtle-beaked-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Beaked, bug-eyed folk equally at home in water and on land. (looks like: turtle; good at: swimming, wilderness)
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 9 · Damage longsword 1d6+2; beak 1d6+1 · Armour 2 · Life 18 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Water-dish kappa *(NPC only)*
+
+![Water-dish kappa](../Images/species-water-dish-kappa.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** AGI +2 END +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* The water-filled head dish is a Flaw: spill it and they weaken.
 
 ### No. 165 Risk-averse duckbilled folk *(genres: space opera: beast-like aliens)*
+
+![Risk-averse duckbilled folk](../Images/species-risk-averse-duckbilled-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cautious duck-billed traders who never take a risk they don't have to. (looks like: duck; good at: swimming, people and talk)

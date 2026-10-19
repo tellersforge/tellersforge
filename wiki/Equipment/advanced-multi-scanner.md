@@ -1,5 +1,9 @@
 # Advanced multi-scanner
 
+![Advanced multi-scanner](../Images/GR-0176-equipment-advanced-multi-scanner.jpg){.illus}
+
+
+*Catalogue: GR-0176*
 *Set: Expansion*
 
 *aka: ______________________________*

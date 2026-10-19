@@ -1,5 +1,9 @@
 # Young wild dragon
 
+![Young wild dragon](../Images/BE-693-bestiary-young-wild-dragon.jpg){.illus}
+
+
+*Catalogue: BE-693*
 *Set: Expansion*
 
 *aka: ______________________________*

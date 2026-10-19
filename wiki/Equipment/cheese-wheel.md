@@ -1,5 +1,9 @@
 # Cheese wheel
 
+![Cheese wheel](../Images/GR-0268-equipment-cheese-wheel.jpg){.illus}
+
+
+*Catalogue: GR-0268*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Round shield
 
-![Round shield](../Images/armour-round-shield.jpg){.illus}
+![Round shield](../Images/GR-0159-armour-round-shield.jpg){.illus}
 
+*Catalogue: GR-0159*
 *Set: Core*
 
 *aka: ______________________________*

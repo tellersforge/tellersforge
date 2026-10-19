@@ -1,5 +1,9 @@
 # Hand drill
 
+![Hand drill](../Images/GR-0491-equipment-hand-drill.jpg){.illus}
+
+
+*Catalogue: GR-0491*
 *Set: Core*
 
 *aka: ______________________________*

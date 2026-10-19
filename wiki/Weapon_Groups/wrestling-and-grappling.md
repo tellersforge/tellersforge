@@ -1,5 +1,9 @@
 # Wrestling & Grappling
 
+![Wrestling & Grappling](../Images/WG-032-weapon-groups-wrestling-and-grappling.jpg){.illus}
+
+
+*Catalogue: WG-032*
 *Set: Expansion*
 
 *aka: ______________________________*

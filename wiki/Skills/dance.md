@@ -1,5 +1,9 @@
 # Dance
 
+![Dance](../Images/SK-048-skills-dance.jpg){.illus}
+
+
+*Catalogue: SK-048*
 *Set: Expansion*
 
 *aka: ______________________________*

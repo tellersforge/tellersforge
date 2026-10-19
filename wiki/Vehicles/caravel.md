@@ -1,7 +1,8 @@
 # Caravel
 
-![Caravel](../Images/vehicles-caravel.jpg){.illus}
+![Caravel](../Images/GR-1053-vehicles-caravel.jpg){.illus}
 
+*Catalogue: GR-1053*
 *Set: Expansion*
 
 

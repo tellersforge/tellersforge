@@ -1,7 +1,8 @@
 # Riding Camel
 
-![Riding camel](../Images/vehicles-riding-camel.jpg){.illus}
+![Riding camel](../Images/GR-1105-vehicles-riding-camel.jpg){.illus}
 
+*Catalogue: GR-1105*
 *Set: Core*
 
 

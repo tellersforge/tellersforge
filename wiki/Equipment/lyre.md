@@ -1,5 +1,9 @@
 # Lyre
 
+![Lyre](../Images/GR-0622-equipment-lyre.jpg){.illus}
+
+
+*Catalogue: GR-0622*
 *Set: Expansion*
 
 *aka: ______________________________*

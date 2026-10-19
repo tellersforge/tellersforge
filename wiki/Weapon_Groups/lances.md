@@ -1,5 +1,9 @@
 # Lances
 
+![Lances](../Images/WG-018-weapon-groups-lances.jpg){.illus}
+
+
+*Catalogue: WG-018*
 *Set: Expansion*
 
 *aka: ______________________________*

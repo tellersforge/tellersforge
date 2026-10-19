@@ -1,5 +1,9 @@
 # Scout Drone
 
+![Scout Drone](../Images/GR-1114-vehicles-scout-drone.jpg){.illus}
+
+
+*Catalogue: GR-1114*
 *Set: Expansion*
 
 

@@ -1,7 +1,8 @@
 # Bronze-Age Trading Ship
 
-![Bronze-age trading ship](../Images/vehicles-bronze-age-trading-ship.jpg){.illus}
+![Bronze-age trading ship](../Images/GR-1049-vehicles-bronze-age-trading-ship.jpg){.illus}
 
+*Catalogue: GR-1049*
 *Set: Expansion*
 
 

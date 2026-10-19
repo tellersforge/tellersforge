@@ -1,5 +1,9 @@
 # Rebreather
 
+![Rebreather](../Images/GR-0783-equipment-rebreather.jpg){.illus}
+
+
+*Catalogue: GR-0783*
 *Set: Core*
 
 *aka: ______________________________*

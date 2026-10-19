@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 720 Totemic beast-avatar *(genres: super-powered: cosmic and mythic)*
 
+![Totemic beast-avatar](../Images/species-totemic-beast-avatar.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **What it's like:** Champions linked to a great web of animal life, able to borrow the traits of any beast on it. (looks like: human; good at: powers and magic, wilderness)
 - **Attributes:** AGI +1 CHA +1

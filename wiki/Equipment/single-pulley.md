@@ -1,5 +1,9 @@
 # Single pulley
 
+![Single pulley](../Images/GR-0868-equipment-single-pulley.jpg){.illus}
+
+
+*Catalogue: GR-0868*
 *Set: Core*
 
 *aka: ______________________________*

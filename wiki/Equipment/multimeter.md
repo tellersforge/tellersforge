@@ -1,5 +1,9 @@
 # Multimeter
 
+![Multimeter](../Images/GR-0668-equipment-multimeter.jpg){.illus}
+
+
+*Catalogue: GR-0668*
 *Set: Expansion*
 
 *aka: ______________________________*

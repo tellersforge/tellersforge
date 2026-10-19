@@ -1,5 +1,9 @@
 # Split-jawed wasteland hound
 
+![Split-jawed wasteland hound](../Images/BE-583-bestiary-split-jawed-wasteland-hound.jpg){.illus}
+
+
+*Catalogue: BE-583*
 *Set: Expansion*
 
 *aka: ______________________________*

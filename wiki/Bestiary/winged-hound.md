@@ -1,5 +1,9 @@
 # Winged hound
 
+![Winged hound](../Images/BE-678-bestiary-winged-hound.jpg){.illus}
+
+
+*Catalogue: BE-678*
 *Set: Expansion*
 
 *aka: ______________________________*

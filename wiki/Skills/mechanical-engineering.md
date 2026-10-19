@@ -1,5 +1,9 @@
 # Mechanical Engineering
 
+![Mechanical Engineering](../Images/SK-124-skills-mechanical-engineering.jpg){.illus}
+
+
+*Catalogue: SK-124*
 *Set: Expansion*
 
 *aka: ______________________________*

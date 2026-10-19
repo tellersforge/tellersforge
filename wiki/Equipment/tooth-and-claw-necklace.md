@@ -1,5 +1,9 @@
 # Tooth and claw necklace
 
+![Tooth and claw necklace](../Images/GR-0964-equipment-tooth-and-claw-necklace.jpg){.illus}
+
+
+*Catalogue: GR-0964*
 *Set: Expansion*
 
 *aka: ______________________________*

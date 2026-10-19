@@ -1,5 +1,9 @@
 # Earthquake
 
+![Earthquake](../Images/PW-081-powers-earthquake.jpg){.illus}
+
+
+*Catalogue: PW-081*
 *Set: Expansion*
 
 *aka: ______________________________*

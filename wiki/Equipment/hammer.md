@@ -1,5 +1,9 @@
 # Hammer
 
+![Hammer](../Images/GR-0487-equipment-hammer.jpg){.illus}
+
+
+*Catalogue: GR-0487*
 *Set: Expansion*
 
 *aka: ______________________________*

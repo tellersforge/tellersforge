@@ -1,5 +1,9 @@
 # Steppe pony
 
+![Steppe pony](../Images/BE-595-bestiary-steppe-pony.jpg){.illus}
+
+
+*Catalogue: BE-595*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Giant irradiated roach
 
-![Giant irradiated roach](../Images/bestiary-giant-irradiated-roach.jpg){.illus}
+![Giant irradiated roach](../Images/BE-259-bestiary-giant-irradiated-roach.jpg){.illus}
 
+*Catalogue: BE-259*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient toad-frog progenitor race *(NPC only; NPC-scale)*
 
+![Ancient toad-frog progenitor race](../Images/species-ancient-toad-frog-progenitor-race.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 END +1 INT +3 WIS +2 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, Endurance (attribute) −1, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3

@@ -1,7 +1,8 @@
 # Tentacled void horror
 
-![Tentacled void horror](../Images/bestiary-tentacled-void-horror.jpg){.illus}
+![Tentacled void horror](../Images/BE-617-bestiary-tentacled-void-horror.jpg){.illus}
 
+*Catalogue: BE-617*
 *Set: Core*
 
 *aka: ______________________________*

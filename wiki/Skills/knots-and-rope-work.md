@@ -1,5 +1,9 @@
 # Knots & Rope Work
 
+![Knots & Rope Work](../Images/SK-106-skills-knots-and-rope-work.jpg){.illus}
+
+
+*Catalogue: SK-106*
 *Set: Core · Basic skill: Crafting & Repair*
 
 *aka: ______________________________*

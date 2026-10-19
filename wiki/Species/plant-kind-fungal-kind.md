@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 618 Dryad/shroomling ancestry *(genres: underworld and wild places)*
 
+![Dryad/shroomling ancestry](../Images/species-dryad-shroomling-ancestry.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small plant-or-mushroom folk who can live off sunlight, puff sleepy spores, and shrug off poison. (looks like: mushroom; good at: toughness, powers and magic)
 - **Attributes:** STR −2 END +3 WIS +1

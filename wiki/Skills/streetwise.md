@@ -1,5 +1,9 @@
 # Streetwise
 
+![Streetwise](../Images/SK-193-skills-streetwise.jpg){.illus}
+
+
+*Catalogue: SK-193*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Gloom
 
+![Gloom](../Images/flaws-gloom.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Temper and emotion* kind. It fires when loses hope and gives up.

@@ -1,7 +1,8 @@
 # Disguise kit
 
-![Disguise kit](../Images/equipment-disguise-kit.jpg){.illus}
+![Disguise kit](../Images/GR-0333-equipment-disguise-kit.jpg){.illus}
 
+*Catalogue: GR-0333*
 *Set: Expansion*
 
 *aka: ______________________________*

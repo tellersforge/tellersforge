@@ -1,5 +1,8 @@
 # Cephalopod and mollusc
 
+![Cephalopod and mollusc](../Images/species-families-cephalopod-and-mollusc.jpg){.illus}
+
+
 
 Soft, boneless and far cleverer than they look. Octopus, squid, snail and slug give this family its bodies: arms lined with suckers, eyes that see colours others cannot, skin that blushes or fades to match the rock, and shells carried like a house. Most need water or at least damp. Many think in ways others struggle to follow, handling several problems at once, one for each arm. The family also holds the stuff of nightmares: tentacle-faced beings who feed on thought and invaders from beyond the sky. Other peoples tend to judge them by those horrors, which the gentle mollusc farmers and octopus scholars find very tiring.
 

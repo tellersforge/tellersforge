@@ -1,5 +1,9 @@
 # Imprison
 
+![Imprison](../Images/PW-137-powers-imprison.jpg){.illus}
+
+
+*Catalogue: PW-137*
 *Set: Expansion*
 
 *aka: ______________________________*

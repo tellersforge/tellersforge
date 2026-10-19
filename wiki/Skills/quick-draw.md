@@ -1,5 +1,9 @@
 # Quick-Draw
 
+![Quick-Draw](../Images/SK-158-skills-quick-draw.jpg){.illus}
+
+
+*Catalogue: SK-158*
 *Set: Expansion*
 
 *aka: ______________________________*

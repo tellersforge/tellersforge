@@ -1,5 +1,9 @@
 # River otter
 
+![River otter](../Images/BE-495-bestiary-river-otter.jpg){.illus}
+
+
+*Catalogue: BE-495*
 *Set: Core*
 
 *aka: ______________________________*

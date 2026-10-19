@@ -1,5 +1,9 @@
 # Nine-headed bird
 
+![Nine-headed bird](../Images/BE-439-bestiary-nine-headed-bird.jpg){.illus}
+
+
+*Catalogue: BE-439*
 *Set: Core*
 
 *aka: ______________________________*

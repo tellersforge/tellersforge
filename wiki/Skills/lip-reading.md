@@ -1,5 +1,9 @@
 # Lip Reading
 
+![Lip Reading](../Images/SK-115-skills-lip-reading.jpg){.illus}
+
+
+*Catalogue: SK-115*
 *Set: Expansion*
 
 *aka: ______________________________*

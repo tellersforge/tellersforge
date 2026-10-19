@@ -1,5 +1,8 @@
 # Dwarf-kind
 
+![Dwarf-kind](../Images/species-families-dwarf-kind.jpg){.illus}
+
+
 
 Stout, hardy folk of the mountain and the deep earth. They are short, broad and heavy-boned, bearded more often than not, and built to carry stone, swing hammers and outlast everyone else at the table. Their halls are cut into rock, lit by forges, and older than most kingdoms above. They are famous as miners, smiths and builders, and just as famous for holding grudges across generations and keeping written lists of them. The family also holds rough mountain clans, hill folk who never went underground, and stone-hided trolls that share the same deep roads. Other peoples buy their steel, admire their walls and rarely win an argument with them.
 

@@ -1,5 +1,9 @@
 # Pincered tentacle crab
 
+![Pincered tentacle crab](../Images/BE-460-bestiary-pincered-tentacle-crab.jpg){.illus}
+
+
+*Catalogue: BE-460*
 *Set: Expansion*
 
 *aka: ______________________________*

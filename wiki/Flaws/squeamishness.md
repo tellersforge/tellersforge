@@ -1,5 +1,8 @@
 # Squeamishness
 
+![Squeamishness](../Images/flaws-squeamishness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Habits and body* kind. It fires when faints or gags at gore, filth or injury.

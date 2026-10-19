@@ -1,5 +1,9 @@
 # Spine-flinging cactus
 
+![Spine-flinging cactus](../Images/BE-580-bestiary-spine-flinging-cactus.jpg){.illus}
+
+
+*Catalogue: BE-580*
 *Set: Expansion*
 
 *aka: ______________________________*

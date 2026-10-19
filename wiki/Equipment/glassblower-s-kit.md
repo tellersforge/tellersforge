@@ -1,5 +1,9 @@
 # Glassblower's kit
 
+![Glassblower's kit](../Images/GR-0460-equipment-glassblower-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0460*
 *Set: Expansion*
 
 *aka: ______________________________*

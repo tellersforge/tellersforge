@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 150 Toad-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Toad-folk](../Images/species-toad-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailless
 - **What it's like:** Warty, poison-skinned toad-folk, slower than frogs but tougher and better at burrowing. (looks like: toad; good at: toughness, swimming, wilderness)
 - **Attributes:** END +2 CHA −1
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tree frog-folk *(NPC only)*
 
+![Tree frog-folk](../Images/species-tree-frog-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailless
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Climbing](../Skills/climbing.md) +1, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Sticky toe pads for canopy life.
 
 ### Poison dart frog-folk *(NPC only)*
+
+![Poison dart frog-folk](../Images/species-poison-dart-frog-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailless
 - **Attributes:** STR −2 AGI +2 END −1 CHA −1
@@ -68,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Toad-folk wanderer *(NPC only)*
 
+![Toad-folk wanderer](../Images/species-toad-folk-wanderer.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +2 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Jumping](../Skills/jumping.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Wayfinding](../Skills/wayfinding.md) +1, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -76,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Squat, slower-leaping toads with a wandering hermit-trader way.
 
 ### No. 151 Gourmand frog-folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Gourmand frog-folk](../Images/species-gourmand-frog-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, food-obsessed frog-folk who hop everywhere chasing the next great meal. (looks like: frog; good at: swimming, speed and agility, making and fixing)
@@ -87,6 +102,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 152 Warty swamp folk *(genres: space opera: beast-like aliens)*
 
+![Warty swamp folk](../Images/species-warty-swamp-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Warty, wide-mouthed swamp-dwellers perfectly at home in the muck and water. (looks like: toad; good at: swimming, wilderness)
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -96,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Even more at home in swamps.
 
 ### No. 153 Calm toad-skinned folk *(genres: space opera: beast-like aliens)*
+
+![Calm toad-skinned folk](../Images/species-calm-toad-skinned-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Calm, patient toad-skinned folk who need to keep their skin damp to feel right. (looks like: toad; good at: swimming, wilderness)
@@ -108,6 +129,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Rubbery entertainer folk *(NPC only)*
 
+![Rubbery entertainer folk](../Images/species-rubbery-entertainer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Acting](../Skills/acting.md) +1, [Singing](../Skills/singing.md) +1, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -116,6 +140,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Elastic faces capable of extreme expression, in an entertainer culture.
 
 ### Small green shock-trooper *(NPC only)*
+
+![Small green shock-trooper](../Images/species-small-green-shock-trooper.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 CHA −1
@@ -126,6 +153,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hardy frontier frog-folk *(NPC only)*
 
+![Hardy frontier frog-folk](../Images/species-hardy-frontier-frog-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +2 CHA −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -134,6 +164,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Resilient frontier guards, tougher than the family norm.
 
 ### No. 154 Dual-cognition amphibian folk *(genres: space opera: beast-like aliens)*
+
+![Dual-cognition amphibian folk](../Images/species-dual-cognition-amphibian-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Amphibian folk with two working minds at once and a feel for the ground's tremors. (looks like: frog; good at: swimming, knowledge, keen senses)
@@ -146,6 +179,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 155 Psychic amphibian mutant *(genres: after the fall)*
 
+![Psychic amphibian mutant](../Images/species-psychic-amphibian-mutant.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Mutated amphibian folk who read minds as easily as they swim. (looks like: frog; good at: swimming, powers and magic)
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -155,6 +191,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Post-apocalyptic mutants with psionic ability.
 
 ### No. 156 Toxic amphibian-reptile hybrid *(genres: space opera: beast-like aliens)*
+
+![Toxic amphibian-reptile hybrid](../Images/species-toxic-amphibian-reptile-hybrid.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Hardy, toxic-skinned hybrids who take any chance that comes their way. (looks like: lizard; good at: swimming, toughness, fighting)
@@ -166,6 +205,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Frozen frog-folk *(NPC only)*
 
+![Frozen frog-folk](../Images/species-frozen-frog-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Arctic](../Skills/survival-arctic.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -174,6 +216,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Freeze-tolerant bodies that survived a thousand years frozen solid.
 
 ### No. 157 Short toad-emperor folk *(genres: space opera: beast-like aliens)*
+
+![Short toad-emperor folk](../Images/species-short-toad-emperor-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Short toad-like folk descended from emperors, still commanding a room by presence alone. (looks like: toad; good at: swimming, people and talk)
@@ -186,6 +231,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 158 Gloomy wetland folk *(genres: fairy tale and folklore)*
 
+![Gloomy wetland folk](../Images/species-gloomy-wetland-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tall, gloomy marsh-dwellers, famously pessimistic but fiercely loyal to their own. (looks like: frog; good at: swimming, wilderness)
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -195,6 +243,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Dour, loyal marsh-dwellers.
 
 ### Fish-frog hybrid coastal folk *(NPC only)*
+
+![Fish-frog hybrid coastal folk](../Images/species-fish-frog-hybrid-coastal-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 END +1 CHA −1
@@ -206,6 +257,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Aquatic frog-toad water-shapers *(NPC only)*
 
+![Aquatic frog-toad water-shapers](../Images/species-aquatic-frog-toad-water-shapers.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1 CHA −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Construction](../Skills/construction.md) +1, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -216,6 +270,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Murky bog fish-frog folk *(NPC only)*
 
+![Murky bog fish-frog folk](../Images/species-murky-bog-fish-frog-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1 COU −2
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Scavenging](../Skills/scavenging.md) +1, [Composure](../Skills/composure.md) −1, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -224,6 +281,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Cowardly, opportunistic bog scavengers.
 
 ### No. 159 Scientist amphibian race *(genres: space opera: beast-like aliens)*
+
+![Scientist amphibian race](../Images/species-scientist-amphibian-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Short-lived, brilliant amphibian scientists who think and swim equally fast. (looks like: frog; good at: swimming, knowledge)
@@ -236,6 +296,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 160 Amphibious empath *(genres: super-powered: mutants and the enhanced)*
 
+![Amphibious empath](../Images/species-amphibious-empath.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Gentle, gilled empaths who sense feelings as easily as they breathe water. (looks like: frog; good at: swimming, powers and magic)
 - **Attributes:** AGI +1 END +1 WIS +1 CHA −1
@@ -247,6 +310,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cult-transformed frog hybrid *(NPC only)*
 
+![Cult-transformed frog hybrid](../Images/species-cult-transformed-frog-hybrid.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +2 INT −1 CHA −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -257,6 +323,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 161 Noir-city amphibian citizen · Swamp/wetland alien humanoid *(genres: animal fable)*
 
+![Noir-city amphibian citizen](../Images/species-noir-city-amphibian-citizen.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** City-dwelling toad-folk who fit right into any working-class neighbourhood. (looks like: frog; good at: swimming, wilderness)
 - **Attributes:** AGI +1 END +1 CHA −1
@@ -266,6 +335,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note (Noir-city amphibian citizen):* Their city roles are Culture/Profession.
 
 ### No. 162 Tongue-lashing toad ancestry *(genres: beast-folk: scales, feathers and shells)*
+
+![Tongue-lashing toad ancestry](../Images/species-tongue-lashing-toad-ancestry.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small toad-folk with a sticky tongue and skin that vanishes against leaves. (looks like: toad; good at: swimming, sneaking, speed and agility)
@@ -278,6 +350,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Servile tadpole-featured underclass *(NPC only)*
 
+![Servile tadpole-featured underclass](../Images/species-servile-tadpole-featured-underclass.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −2 AGI +1 END +1 CHA −1 COU −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -286,6 +361,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Their servile status is social; weakness is an attribute matter.
 
 ### No. 163 Stout toad-faced brawler *(genres: space opera: beast-like aliens)*
+
+![Stout toad-faced brawler](../Images/species-stout-toad-faced-brawler.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Squat, thick-hided toad-brawlers with a strong jaw and a gruff temper. (looks like: toad; good at: swimming, toughness, fighting)
@@ -297,6 +375,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Thick hide and a strong jaw.
 
 ### Toad alien conqueror *(NPC only)*
+
+![Toad alien conqueror](../Images/species-toad-alien-conqueror.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 END +1 CHA −1

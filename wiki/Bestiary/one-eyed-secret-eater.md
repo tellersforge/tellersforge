@@ -1,5 +1,9 @@
 # One-eyed secret-eater
 
+![One-eyed secret-eater](../Images/BE-445-bestiary-one-eyed-secret-eater.jpg){.illus}
+
+
+*Catalogue: BE-445*
 *Set: Expansion*
 
 *aka: ______________________________*

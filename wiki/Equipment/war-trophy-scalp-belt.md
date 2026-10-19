@@ -1,5 +1,9 @@
 # War trophy scalp belt
 
+![War trophy scalp belt](../Images/GR-0997-equipment-war-trophy-scalp-belt.jpg){.illus}
+
+
+*Catalogue: GR-0997*
 *Set: Expansion*
 
 *aka: ______________________________*

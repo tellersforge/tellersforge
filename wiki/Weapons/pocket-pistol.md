@@ -1,5 +1,9 @@
 # Pocket Pistol
 
+![Pocket Pistol](../Images/GR-0077-weapons-pocket-pistol.jpg){.illus}
+
+
+*Catalogue: GR-0077*
 *Set: Expansion*
 
 *aka: ______________________________*

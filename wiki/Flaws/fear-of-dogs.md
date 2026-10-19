@@ -1,5 +1,8 @@
 # Fear of Dogs
 
+![Fear of Dogs](../Images/flaws-fear-of-dogs.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when dogs, wolves, hounds.

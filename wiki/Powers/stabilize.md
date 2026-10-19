@@ -1,5 +1,9 @@
 # Stabilize
 
+![Stabilize](../Images/PW-274-powers-stabilize.jpg){.illus}
+
+
+*Catalogue: PW-274*
 *Set: Core*
 
 *aka: ______________________________*

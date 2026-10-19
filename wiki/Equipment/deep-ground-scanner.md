@@ -1,5 +1,9 @@
 # Deep-ground scanner
 
+![Deep-ground scanner](../Images/GR-0324-equipment-deep-ground-scanner.jpg){.illus}
+
+
+*Catalogue: GR-0324*
 *Set: Expansion*
 
 *aka: ______________________________*

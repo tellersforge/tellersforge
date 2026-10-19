@@ -1,5 +1,9 @@
 # Tactical light
 
+![Tactical light](../Images/GR-0944-equipment-tactical-light.jpg){.illus}
+
+
+*Catalogue: GR-0944*
 *Set: Expansion*
 
 *aka: ______________________________*

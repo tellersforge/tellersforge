@@ -1,5 +1,9 @@
 # Railway Carriage (ticket)
 
+![Railway Carriage (ticket)](../Images/GR-1104-vehicles-railway-carriage-ticket.jpg){.illus}
+
+
+*Catalogue: GR-1104*
 *Set: Expansion*
 
 

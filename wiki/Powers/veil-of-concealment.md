@@ -1,5 +1,9 @@
 # Veil of Concealment
 
+![Veil of Concealment](../Images/PW-309-powers-veil-of-concealment.jpg){.illus}
+
+
+*Catalogue: PW-309*
 *Set: Expansion*
 
 *aka: ______________________________*

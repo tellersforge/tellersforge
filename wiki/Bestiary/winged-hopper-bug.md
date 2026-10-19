@@ -1,5 +1,9 @@
 # Winged hopper bug
 
+![Winged hopper bug](../Images/BE-677-bestiary-winged-hopper-bug.jpg){.illus}
+
+
+*Catalogue: BE-677*
 *Set: Expansion*
 
 *aka: ______________________________*

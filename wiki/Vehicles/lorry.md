@@ -1,5 +1,9 @@
 # Lorry
 
+![Lorry](../Images/GR-1090-vehicles-lorry.jpg){.illus}
+
+
+*Catalogue: GR-1090*
 *Set: Core*
 
 

@@ -1,5 +1,9 @@
 # Radiation
 
+![Radiation](../Images/PW-237-powers-radiation.jpg){.illus}
+
+
+*Catalogue: PW-237*
 *Set: Expansion*
 
 *aka: ______________________________*

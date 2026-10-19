@@ -1,5 +1,8 @@
 # Chief's or elder's kin
 
+![Chief's or elder's kin](../Images/stations-chief-s-or-elder-s-kin.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

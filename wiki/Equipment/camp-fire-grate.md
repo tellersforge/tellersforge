@@ -1,5 +1,9 @@
 # Camp fire grate
 
+![Camp fire grate](../Images/GR-0251-equipment-camp-fire-grate.jpg){.illus}
+
+
+*Catalogue: GR-0251*
 *Set: Expansion*
 
 *aka: ______________________________*

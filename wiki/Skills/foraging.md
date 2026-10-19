@@ -1,5 +1,9 @@
 # Foraging
 
+![Foraging](../Images/SK-075-skills-foraging.jpg){.illus}
+
+
+*Catalogue: SK-075*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

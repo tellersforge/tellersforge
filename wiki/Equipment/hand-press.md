@@ -1,5 +1,9 @@
 # Hand press
 
+![Hand press](../Images/GR-0493-equipment-hand-press.jpg){.illus}
+
+
+*Catalogue: GR-0493*
 *Set: Expansion*
 
 *aka: ______________________________*

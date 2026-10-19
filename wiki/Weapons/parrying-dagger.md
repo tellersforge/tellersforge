@@ -1,5 +1,9 @@
 # Parrying Dagger
 
+![Parrying Dagger](../Images/GR-0072-weapons-parrying-dagger.jpg){.illus}
+
+
+*Catalogue: GR-0072*
 *Set: Expansion*
 
 *aka: ______________________________*

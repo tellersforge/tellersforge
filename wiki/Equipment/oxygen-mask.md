@@ -1,5 +1,9 @@
 # Oxygen mask
 
+![Oxygen mask](../Images/GR-0694-equipment-oxygen-mask.jpg){.illus}
+
+
+*Catalogue: GR-0694*
 *Set: Expansion*
 
 *aka: ______________________________*

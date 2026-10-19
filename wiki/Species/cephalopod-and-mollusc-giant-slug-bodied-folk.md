@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 257 Sessile sluglike crimelord folk *(genres: space opera: strange aliens)*
 
+![Sessile sluglike crimelord folk](../Images/species-sessile-sluglike-crimelord-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** other
 - **What it's like:** Massive, ancient slug-bodied crime-lords, shrewd and nearly impossible to poison. (looks like: slug; good at: knowledge, toughness)
 - **Attributes:** STR +4 AGI −4 END +1 INT +2 WIS +1

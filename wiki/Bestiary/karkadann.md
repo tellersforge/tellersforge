@@ -1,7 +1,8 @@
 # Karkadann
 
-![Karkadann](../Images/bestiary-karkadann.jpg){.illus}
+![Karkadann](../Images/BE-375-bestiary-karkadann.jpg){.illus}
 
+*Catalogue: BE-375*
 *Set: Core*
 
 *aka: ______________________________*

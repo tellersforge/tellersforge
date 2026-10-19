@@ -1,5 +1,9 @@
 # Common chimpanzee
 
+![Common chimpanzee](../Images/BE-126-bestiary-common-chimpanzee.jpg){.illus}
+
+
+*Catalogue: BE-126*
 *Set: Core*
 
 *aka: ______________________________*

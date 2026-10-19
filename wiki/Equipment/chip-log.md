@@ -1,5 +1,9 @@
 # Chip log
 
+![Chip log](../Images/GR-0272-equipment-chip-log.jpg){.illus}
+
+
+*Catalogue: GR-0272*
 *Set: Expansion*
 
 *aka: ______________________________*

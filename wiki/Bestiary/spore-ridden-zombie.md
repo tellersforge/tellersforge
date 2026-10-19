@@ -1,5 +1,9 @@
 # Spore-ridden zombie
 
+![Spore-ridden zombie](../Images/BE-587-bestiary-spore-ridden-zombie.jpg){.illus}
+
+
+*Catalogue: BE-587*
 *Set: Core*
 
 *aka: ______________________________*

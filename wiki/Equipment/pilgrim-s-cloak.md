@@ -1,5 +1,9 @@
 # Pilgrim's cloak
 
+![Pilgrim's cloak](../Images/GR-0723-equipment-pilgrim-s-cloak.jpg){.illus}
+
+
+*Catalogue: GR-0723*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Familiar
 
+![Familiar](../Images/PW-097-powers-familiar.jpg){.illus}
+
+
+*Catalogue: PW-097*
 *Set: Core*
 
 *aka: ______________________________*

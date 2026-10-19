@@ -1,5 +1,9 @@
 # Divination ✦
 
+![Divination ✦](../Images/SK-053-skills-divination.jpg){.illus}
+
+
+*Catalogue: SK-053*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Snail-folk *(NPC only)*
 
+![Snail-folk](../Images/species-snail-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+shelled
 - **Attributes:** STR −2 AGI +1 INT +1 WIS +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Diving](../Skills/diving.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Running](../Skills/running.md) −3, [Survival: Desert](../Skills/survival-desert.md) Foreign Concept
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Land snails that retreat into a spiral shell and do not breathe water.
 
 ### Slug-folk *(NPC only)*
+
+![Slug-folk](../Images/species-slug-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** amorphous
 - **Attributes:** STR −2 AGI +1 END −1 INT +1 WIS +1
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Clam/bivalve-folk *(NPC only)*
 
+![Clam/bivalve-folk](../Images/species-clam-bivalve-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** other+shelled
 - **Attributes:** STR −2 AGI −2 END −1 INT −1 WIS +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Diving](../Skills/diving.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Running](../Skills/running.md) Foreign Concept, [Survival: Desert](../Skills/survival-desert.md) Foreign Concept
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* No hands: held weapons unusable.
 
 ### Shelled amphibious mollusc folk *(NPC only)*
+
+![Shelled amphibious mollusc folk](../Images/species-shelled-amphibious-mollusc-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −1 INT +1 WIS +1
@@ -63,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ancient slug sorcerer folk *(NPC only)*
 
+![Ancient slug sorcerer folk](../Images/species-ancient-slug-sorcerer-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** amorphous
 - **Attributes:** STR +2 AGI −2 END −1 INT +4 WIS +3
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Arcana](../Skills/arcana.md) +2, [Diving](../Skills/diving.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Running](../Skills/running.md) −3, [Survival: Desert](../Skills/survival-desert.md) Foreign Concept
@@ -72,6 +87,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Arcana is a culture line. Their spellcasting is chosen per individual. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 253 Shelled/tentacled hive-culture folk *(genres: space opera: strange aliens)*
+
+![Shelled/tentacled hive-culture folk](../Images/species-shelled-tentacled-hive-culture-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Soft-bodied, shelled or tentacled folk with a methodical, hive-like culture. (looks like: octopus; good at: knowledge, sneaking)

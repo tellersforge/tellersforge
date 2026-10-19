@@ -1,5 +1,9 @@
 # Swimming
 
+![Swimming](../Images/SK-205-skills-swimming.jpg){.illus}
+
+
+*Catalogue: SK-205*
 *Set: Core · Basic skill: Athletics*
 
 *aka: ______________________________*

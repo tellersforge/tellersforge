@@ -1,5 +1,9 @@
 # Sled dog
 
+![Sled dog](../Images/BE-561-bestiary-sled-dog.jpg){.illus}
+
+
+*Catalogue: BE-561*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Kinetic Charging
 
+![Kinetic Charging](../Images/PW-144-powers-kinetic-charging.jpg){.illus}
+
+
+*Catalogue: PW-144*
 *Set: Expansion*
 
 *aka: ______________________________*

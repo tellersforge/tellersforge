@@ -1,5 +1,8 @@
 # Awkwardness
 
+![Awkwardness](../Images/flaws-awkwardness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when says the wrong thing at the wrong moment.

@@ -1,5 +1,9 @@
 # Phantom legion
 
+![Phantom legion](../Images/BE-456-bestiary-phantom-legion.jpg){.illus}
+
+
+*Catalogue: BE-456*
 *Set: Expansion*
 
 *aka: ______________________________*

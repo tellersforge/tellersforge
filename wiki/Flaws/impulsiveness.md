@@ -1,5 +1,8 @@
 # Impulsiveness
 
+![Impulsiveness](../Images/flaws-impulsiveness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when acts on the first idea.

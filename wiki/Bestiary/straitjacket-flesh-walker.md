@@ -1,5 +1,9 @@
 # Straitjacket flesh walker
 
+![Straitjacket flesh walker](../Images/BE-599-bestiary-straitjacket-flesh-walker.jpg){.illus}
+
+
+*Catalogue: BE-599*
 *Set: Expansion*
 
 *aka: ______________________________*

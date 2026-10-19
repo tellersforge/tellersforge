@@ -1,5 +1,9 @@
 # Walk-through detector
 
+![Walk-through detector](../Images/GR-0993-equipment-walk-through-detector.jpg){.illus}
+
+
+*Catalogue: GR-0993*
 *Set: Expansion*
 
 *aka: ______________________________*

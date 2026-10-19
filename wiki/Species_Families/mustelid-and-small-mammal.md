@@ -1,5 +1,8 @@
 # Mustelid and small mammal
 
+![Mustelid and small mammal](../Images/species-families-mustelid-and-small-mammal.jpg){.illus}
+
+
 
 Otters, badgers, weasels, stoats, ferrets and their furred cousins, along with a few other small mammals that share their build. They are long-bodied, quick, sharp-toothed and far fiercer than their size suggests. River swimmers play in the current and fish with their hands. Burrowers dig tidy homes under banks and hedges. Hunters slip into places no one else can reach and come out with dinner. They tend to be curious, restless and stubborn, and badger-folk in particular never back down. Larger peoples often dismiss them as vermin or pets, and only once.
 

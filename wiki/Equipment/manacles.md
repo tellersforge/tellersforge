@@ -1,7 +1,8 @@
 # Manacles
 
-![Manacles](../Images/equipment-manacles.jpg){.illus}
+![Manacles](../Images/GR-0625-equipment-manacles.jpg){.illus}
 
+*Catalogue: GR-0625*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Pride
 
+![Pride](../Images/flaws-pride.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Pride and ego* kind. It fires when can't swallow their pride: won't apologise, ask for help or accept charity.

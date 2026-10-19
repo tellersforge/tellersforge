@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 126 Extended-reach limb folk *(genres: classic fantasy)*
 
+![Extended-reach limb folk](../Images/species-extended-reach-limb-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tropical islanders with wonderfully long arms, perfect for reaching and climbing. (looks like: human; good at: climbing, wilderness)
 - **Attributes:** none
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 127 Extended-stride limb folk *(genres: classic fantasy)*
 
+![Extended-stride limb folk](../Images/species-extended-stride-limb-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tropical islanders with astonishingly long legs, tall and fast on their feet. (looks like: human; good at: speed and agility, wilderness)
 - **Attributes:** AGI +1
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 128 Extended-reach neck folk *(genres: classic fantasy)*
 
+![Extended-reach neck folk](../Images/species-extended-reach-neck-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tropical islanders with a long, flexible neck for a perfect high vantage point. (looks like: human; good at: keen senses, wilderness)
 - **Attributes:** PER +1
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A long neck gives a high vantage.
 
 ### No. 129 Ancient-script third-eye folk *(genres: classic fantasy, myth and legend)*
+
+![Ancient-script third-eye folk](../Images/species-ancient-script-third-eye-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Rare, hunted folk born with a third eye that can read any ancient script. (looks like: human; good at: knowledge, powers and magic)
@@ -62,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Tongues covers reading the ancient script only.
 
 ### Vestigial-winged sky folk *(same numbers as a baseline human: play as one (Species rule 18))*
+
+![Vestigial-winged sky folk *(same numbers as a baseline human: play as one (Species rule 18))](../Images/species-vestigial-winged-sky-folk-same-numbers-as-a-baseline-human-play-as-one-species-rule-18.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none

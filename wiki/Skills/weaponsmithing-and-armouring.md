@@ -1,5 +1,9 @@
 # Weaponsmithing & Armouring
 
+![Weaponsmithing & Armouring](../Images/SK-220-skills-weaponsmithing-and-armouring.jpg){.illus}
+
+
+*Catalogue: SK-220*
 *Set: Expansion*
 
 *aka: ______________________________*

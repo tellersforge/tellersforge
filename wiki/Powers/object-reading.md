@@ -1,5 +1,9 @@
 # Object Reading
 
+![Object Reading](../Images/PW-201-powers-object-reading.jpg){.illus}
+
+
+*Catalogue: PW-201*
 *Set: Expansion*
 
 *aka: ______________________________*

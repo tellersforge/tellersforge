@@ -1,7 +1,8 @@
 # Long-necked sea reptile
 
-![Long-necked sea reptile](../Images/bestiary-long-necked-sea-reptile.jpg){.illus}
+![Long-necked sea reptile](../Images/BE-401-bestiary-long-necked-sea-reptile.jpg){.illus}
 
+*Catalogue: BE-401*
 *Set: Expansion*
 
 *aka: ______________________________*

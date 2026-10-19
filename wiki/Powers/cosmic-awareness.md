@@ -1,5 +1,9 @@
 # Cosmic Awareness
 
+![Cosmic Awareness](../Images/PW-051-powers-cosmic-awareness.jpg){.illus}
+
+
+*Catalogue: PW-051*
 *Set: Expansion*
 
 *aka: ______________________________*

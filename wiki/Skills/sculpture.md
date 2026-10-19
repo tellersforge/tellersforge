@@ -1,5 +1,9 @@
 # Sculpture
 
+![Sculpture](../Images/SK-171-skills-sculpture.jpg){.illus}
+
+
+*Catalogue: SK-171*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Ballistic shield
 
-![Ballistic shield](../Images/armour-ballistic-shield.jpg){.illus}
+![Ballistic shield](../Images/GR-0123-armour-ballistic-shield.jpg){.illus}
 
+*Catalogue: GR-0123*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Hide map
 
+![Hide map](../Images/GR-0526-equipment-hide-map.jpg){.illus}
+
+
+*Catalogue: GR-0526*
 *Set: Core*
 
 *aka: ______________________________*

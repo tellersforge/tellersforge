@@ -1,5 +1,8 @@
 # Wasteland survivors
 
+![Wasteland survivors](../Images/cultures-wasteland-survivors.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Love Magic
 
+![Love Magic](../Images/PW-159-powers-love-magic.jpg){.illus}
+
+
+*Catalogue: PW-159*
 *Set: Expansion*
 
 *aka: ______________________________*

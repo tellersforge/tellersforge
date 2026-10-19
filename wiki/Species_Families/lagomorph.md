@@ -1,5 +1,8 @@
 # Lagomorph
 
+![Lagomorph](../Images/species-families-lagomorph.jpg){.illus}
+
+
 
 Rabbits and hares, and the peoples shaped from them. They have long ears that turn toward every sound, strong hind legs built for bursts of speed, and noses that never stop working. Most are quick, watchful and sociable, living in warrens where everyone knows everyone else's business. They are often underestimated as prey, which is a mistake, because a cornered hare kicks hard and a warren defends itself as one. The family also holds the rabbits of the moon from old tales, pounding medicine in a mortar far above the world. Others think them timid; lagomorph folk prefer the word careful.
 

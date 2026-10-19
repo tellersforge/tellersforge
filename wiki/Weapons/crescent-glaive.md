@@ -1,7 +1,8 @@
 # Crescent Glaive
 
-![Crescent glaive](../Images/weapons-crescent-glaive.jpg){.illus}
+![Crescent glaive](../Images/GR-0023-weapons-crescent-glaive.jpg){.illus}
 
+*Catalogue: GR-0023*
 *Set: Expansion*
 
 *aka: ______________________________*

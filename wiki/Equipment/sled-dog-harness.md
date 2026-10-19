@@ -1,5 +1,9 @@
 # Sled dog harness
 
+![Sled dog harness](../Images/GR-0873-equipment-sled-dog-harness.jpg){.illus}
+
+
+*Catalogue: GR-0873*
 *Set: Core*
 
 *aka: ______________________________*

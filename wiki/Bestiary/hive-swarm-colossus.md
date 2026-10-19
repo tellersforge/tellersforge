@@ -1,5 +1,9 @@
 # Hive-swarm colossus
 
+![Hive-swarm colossus](../Images/BE-338-bestiary-hive-swarm-colossus.jpg){.illus}
+
+
+*Catalogue: BE-338*
 *Set: Expansion*
 
 *aka: ______________________________*

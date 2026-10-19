@@ -1,5 +1,9 @@
 # Travel trunk
 
+![Travel trunk](../Images/GR-0975-equipment-travel-trunk.jpg){.illus}
+
+
+*Catalogue: GR-0975*
 *Set: Expansion*
 
 *aka: ______________________________*

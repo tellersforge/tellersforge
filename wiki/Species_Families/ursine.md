@@ -1,5 +1,8 @@
 # Ursine
 
+![Ursine](../Images/species-families-ursine.jpg){.illus}
+
+
 
 Bears and bear-shaped folk. They are big, heavily furred, thick-clawed and powerful, and most are calmer than their size would suggest. Many sleep through the long winter, eat almost anything and wander widely in search of it. The family holds lumbering forest bear-folk, bamboo-munching pandas, arctic herders wrapped in fur, small woodland tribes, uplifted bears and furry traders from other worlds, and a hard warrior caste from after the fall. They are slow to anger and famously dangerous once they get there. Other peoples like them best from a respectful distance, or in their debt.
 

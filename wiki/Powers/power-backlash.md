@@ -1,5 +1,9 @@
 # Power Backlash
 
+![Power Backlash](../Images/PW-226-powers-power-backlash.jpg){.illus}
+
+
+*Catalogue: PW-226*
 *Set: Expansion*
 
 *aka: ______________________________*

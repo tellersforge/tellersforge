@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Reclusive swamp humanoid people *(NPC only)*
 
+![Reclusive swamp humanoid people](../Images/species-reclusive-swamp-humanoid-people.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Diving](../Skills/diving.md) +2, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, Endurance (attribute) −1, [Survival: Desert](../Skills/survival-desert.md) −3

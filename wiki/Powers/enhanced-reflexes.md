@@ -1,5 +1,9 @@
 # Enhanced Reflexes
 
+![Enhanced Reflexes](../Images/PW-089-powers-enhanced-reflexes.jpg){.illus}
+
+
+*Catalogue: PW-089*
 *Set: Expansion*
 
 *aka: ______________________________*

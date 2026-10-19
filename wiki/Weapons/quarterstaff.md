@@ -1,7 +1,8 @@
 # Quarterstaff
 
-![Quarterstaff](../Images/weapons-quarterstaff.jpg){.illus}
+![Quarterstaff](../Images/GR-0081-weapons-quarterstaff.jpg){.illus}
 
+*Catalogue: GR-0081*
 *Set: Core*
 
 *aka: ______________________________*

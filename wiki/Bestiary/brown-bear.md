@@ -1,7 +1,8 @@
 # Brown bear
 
-![Brown bear](../Images/bestiary-brown-bear.jpg){.illus}
+![Brown bear](../Images/BE-076-bestiary-brown-bear.jpg){.illus}
 
+*Catalogue: BE-076*
 *Set: Core*
 
 *aka: ______________________________*

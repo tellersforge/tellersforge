@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tar-pit lurker folk *(NPC only)*
 
+![Tar-pit lurker folk](../Images/species-tar-pit-lurker-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR +1 AGI −1 END +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Running](../Skills/running.md) −2, [Riding](../Skills/riding.md) Foreign Concept

@@ -1,5 +1,9 @@
 # Pencil
 
+![Pencil](../Images/GR-0715-equipment-pencil.jpg){.illus}
+
+
+*Catalogue: GR-0715*
 *Set: Expansion*
 
 *aka: ______________________________*

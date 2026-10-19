@@ -1,5 +1,9 @@
 # Pack Llama
 
+![Pack Llama](../Images/GR-1097-vehicles-pack-llama.jpg){.illus}
+
+
+*Catalogue: GR-1097*
 *Set: Expansion*
 
 

@@ -1,5 +1,9 @@
 # Military Dagger
 
+![Military Dagger](../Images/GR-0066-weapons-military-dagger.jpg){.illus}
+
+
+*Catalogue: GR-0066*
 *Set: Expansion*
 
 *aka: ______________________________*

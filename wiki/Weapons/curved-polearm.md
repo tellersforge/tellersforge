@@ -1,5 +1,9 @@
 # Curved Polearm
 
+![Curved Polearm](../Images/GR-0025-weapons-curved-polearm.jpg){.illus}
+
+
+*Catalogue: GR-0025*
 *Set: Expansion*
 
 *aka: ______________________________*

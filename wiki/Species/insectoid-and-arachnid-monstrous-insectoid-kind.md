@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fungoid mind-harvester folk *(NPC only)*
 
+![Fungoid mind-harvester folk](../Images/species-fungoid-mind-harvester-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +1 AGI +1 END +2 INT +3 PER +1 CHA −3 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Surgery](../Skills/surgery.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Parasitoid drone *(beast)*
 
+![Parasitoid drone](../Images/species-parasitoid-drone.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +4 END +2 INT −2 PER +1 CHA −3 COU +2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Stealth](../Skills/stealth.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -47,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Parasitoid hive queen *(beast)*
 
+![Parasitoid hive queen](../Images/species-parasitoid-hive-queen.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped+tailed
 - **Attributes:** STR +8 AGI −4 END +5 INT −1 PER +1 CHA −3 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -57,6 +66,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A huge acid-blooded egg-layer that directs its drones.
 
 ### Colossal armoured insect *(NPC only; NPC-scale)*
+
+![Colossal armoured insect](../Images/species-colossal-armoured-insect.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** other
 - **Attributes:** STR +10 AGI −6 END +5 INT −2 PER +1 CHA −3 COU +1
@@ -70,6 +82,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Giant hive-swarm insect (non-sentient) *(beast)*
 
+![Giant hive-swarm insect (non-sentient)](../Images/species-giant-hive-swarm-insect-non-sentient.jpg){.illus}
+
+
 - **Size:** medium · **Body:** insectoid
 - **Attributes:** STR +1 END +2 INT −2 PER +1 CHA −3 COU +2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -80,6 +95,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A hive-minded swarm insect.
 
 ### Corrupted god-spawn insectoid folk *(NPC only)*
+
+![Corrupted god-spawn insectoid folk](../Images/species-corrupted-god-spawn-insectoid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** insectoid
 - **Attributes:** STR +1 END +2 WIS −2 PER +1 CHA −3 COU +2
@@ -92,6 +110,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Parasitic hive warrior drone *(NPC only)*
+
+![Parasitic hive warrior drone](../Images/species-parasitic-hive-warrior-drone.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 END +2 INT −2 PER +1 CHA −3 COU +1

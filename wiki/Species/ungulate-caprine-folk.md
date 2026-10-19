@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 796 Goat-folk *(genres: beast-folk: fur)*
 
+![Goat-folk](../Images/species-goat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Sure-footed, stubborn goat folk who'll eat almost anything and head-butt first. (looks like: goat; good at: climbing, fighting)
 - **Attributes:** STR +1 END +1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Eats almost anything and finds food where others starve.
 
 ### No. 797 Woodland goat-man *(genres: myth and legend)*
+
+![Woodland goat-man](../Images/species-woodland-goat-man.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Goat-legged, horned woodland folk, natural musicians who love a good revel and carry a touch of nature magic. (looks like: goat; good at: people and talk, powers and magic)
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 798 Ram/sheep-folk *(genres: beast-folk: fur)*
 
+![Ram/sheep-folk](../Images/species-ram-sheep-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Woolly, curl-horned sheep folk who head-butt hard and always feel safest in a flock. (looks like: sheep; good at: fighting, toughness)
 - **Attributes:** STR +1 END +1
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is cold.
 
 ### Goat-headed chaos raider *(NPC only)*
+
+![Goat-headed chaos raider](../Images/species-goat-headed-chaos-raider.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +1 INT −1 CHA −1

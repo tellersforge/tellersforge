@@ -1,5 +1,9 @@
 # Hoofed tentacle tree
 
+![Hoofed tentacle tree](../Images/BE-341-bestiary-hoofed-tentacle-tree.jpg){.illus}
+
+
+*Catalogue: BE-341*
 *Set: Expansion*
 
 *aka: ______________________________*

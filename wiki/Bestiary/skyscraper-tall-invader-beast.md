@@ -1,5 +1,9 @@
 # Skyscraper-tall invader beast
 
+![Skyscraper-tall invader beast](../Images/BE-560-bestiary-skyscraper-tall-invader-beast.jpg){.illus}
+
+
+*Catalogue: BE-560*
 *Set: Expansion*
 
 *aka: ______________________________*

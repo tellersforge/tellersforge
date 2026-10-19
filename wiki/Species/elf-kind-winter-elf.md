@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 374 Winter/ice folk *(genres: classic fantasy)*
 
+![Winter/ice folk](../Images/species-winter-ice-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Cold-proof elves of the frozen north with a natural gift for ice magic. (looks like: elf; good at: powers and magic, wilderness)
 - **Attributes:** STR −1 AGI +2 WIS +1 PER +2

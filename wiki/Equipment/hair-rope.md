@@ -1,5 +1,9 @@
 # Hair rope
 
+![Hair rope](../Images/GR-0485-equipment-hair-rope.jpg){.illus}
+
+
+*Catalogue: GR-0485*
 *Set: Expansion*
 
 *aka: ______________________________*

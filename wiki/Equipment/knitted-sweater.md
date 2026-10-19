@@ -1,5 +1,9 @@
 # Knitted sweater
 
+![Knitted sweater](../Images/GR-0576-equipment-knitted-sweater.jpg){.illus}
+
+
+*Catalogue: GR-0576*
 *Set: Expansion*
 
 *aka: ______________________________*

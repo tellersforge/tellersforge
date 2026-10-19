@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Winged bird-humanoid alien empire · Extinct winged faction · No. 222 Sky-nomad bird-folk · City-dwelling birdfolk *(NPC only)*
 
+![Winged bird-humanoid alien empire](../Images/species-winged-bird-humanoid-alien-empire.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -37,6 +40,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Militant crested avian *(NPC only)*
 
+![Militant crested avian](../Images/species-militant-crested-avian.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2 COU +1
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Ritual & Liturgy](../Skills/ritual-and-liturgy.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Scholarly avian *(NPC only)*
 
+![Scholarly avian](../Images/species-scholarly-avian.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR −2 AGI +2 END −1 INT +1 WIS +1 PER +2
 - **Skills:** [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Wayfinding](../Skills/wayfinding.md) +2, [Balance](../Skills/balance.md) +1, [Danger Sense](../Skills/danger-sense.md) +1, [Research](../Skills/research.md) +1, [Weather Sense](../Skills/weather-sense.md) +1, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A peaceable, scholarly people.
 
 ### Low-gravity winged flight folk *(NPC only)*
+
+![Low-gravity winged flight folk](../Images/species-low-gravity-winged-flight-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR −3 AGI +2 END −2 WIS +1 PER +2
@@ -66,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 220 Beaked feather-crested officer folk *(genres: space opera: beast-like aliens)*
 
+![Beaked feather-crested officer folk](../Images/species-beaked-feather-crested-officer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Beaked, feather-crested officers, quick and sharp-eyed in any crisis. (looks like: bird; good at: keen senses, speed and agility)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2
@@ -75,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Wingless beaked folk with feather crests.
 
 ### No. 221 Arcane bird-folk *(genres: beast-folk: scales, feathers and shells)*
+
+![Arcane bird-folk](../Images/species-arcane-bird-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Feathered folk of a fallen civilisation, still touched by strange old magic. (looks like: bird; good at: knowledge, keen senses)
@@ -87,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 223 Rock-dwelling flight-capable folk *(genres: sea and sky)*
 
+![Rock-dwelling flight-capable folk](../Images/species-rock-dwelling-flight-capable-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Brave feathered courier-warriors at home flying high over cold mountain crags. (looks like: bird; good at: flying, fighting)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2 COU +1
@@ -97,6 +118,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* High-altitude, cold-hardy fliers.
 
 ### No. 224 Winged ancient noble race · Winged ancient precursor race *(genres: sea and sky)*
+
+![Winged ancient noble race](../Images/species-winged-ancient-noble-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Pointed-eared, wing-crested nobles of a once-great civilisation now much diminished. (looks like: elf; good at: keen senses, speed and agility)
@@ -110,6 +134,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 225 Scientist bird-folk empire *(genres: space opera: beast-like aliens)*
 
+![Scientist bird-folk empire](../Images/species-scientist-bird-folk-empire.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Methodical feathered scientists who run their empire on careful reason. (looks like: bird; good at: knowledge, keen senses)
 - **Attributes:** STR −2 AGI +2 END −1 INT +1 WIS +1 PER +2
@@ -119,6 +146,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A rational, methodical scientific people.
 
 ### Cliffside dynasty birds *(NPC only)*
+
+![Cliffside dynasty birds](../Images/species-cliffside-dynasty-birds.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1 PER +2

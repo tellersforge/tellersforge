@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cloud-giant floater folk *(NPC only)*
 
+![Cloud-giant floater folk](../Images/species-cloud-giant-floater-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +2 AGI −3 END −2 WIS +1 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Stealth](../Skills/stealth.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Riding](../Skills/riding.md) Foreign Concept, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Living black-cloud entity *(NPC only; NPC-scale)*
 
+![Living black-cloud entity](../Images/species-living-black-cloud-entity.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** amorphous
 - **Attributes:** STR +4 AGI −5 END +1 INT +3 WIS +4 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Signals](../Skills/signals.md) +2, [Stealth](../Skills/stealth.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2, [Hand Tools](../Skills/hand-tools.md) −3, [Riding](../Skills/riding.md) Foreign Concept, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number. No hands: held weapons unusable. Size set to gigantic: an interstellar cloud vast enough to shade a sun.
 
 ### No. 147 Drifting mist-folk *(genres: fairy tale and folklore)*
+
+![Drifting mist-folk](../Images/species-drifting-mist-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Living fog that drifts under doors and through cracks, scattered by a strong wind. (looks like: ghost; good at: sneaking, powers and magic)

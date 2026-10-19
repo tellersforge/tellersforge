@@ -1,5 +1,8 @@
 # Jinxed
 
+![Jinxed](../Images/flaws-jinxed.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when trouble seems to follow them; the Game Master adds a mishap.

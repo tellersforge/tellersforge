@@ -1,7 +1,8 @@
 # Jetpack
 
-![Jetpack](../Images/vehicles-jetpack.jpg){.illus}
+![Jetpack](../Images/GR-1085-vehicles-jetpack.jpg){.illus}
 
+*Catalogue: GR-1085*
 *Set: Expansion*
 
 

@@ -1,5 +1,9 @@
 # Skin kayak
 
+![Skin kayak](../Images/GR-0870-equipment-skin-kayak.jpg){.illus}
+
+
+*Catalogue: GR-0870*
 *Set: Expansion*
 
 *aka: ______________________________*

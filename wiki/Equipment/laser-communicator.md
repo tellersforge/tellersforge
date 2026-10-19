@@ -1,5 +1,9 @@
 # Laser communicator
 
+![Laser communicator](../Images/GR-0582-equipment-laser-communicator.jpg){.illus}
+
+
+*Catalogue: GR-0582*
 *Set: Expansion*
 
 *aka: ______________________________*

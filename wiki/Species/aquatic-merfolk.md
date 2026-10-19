@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 180 Tail-bearing merfolk nobility *(genres: sea and sky)*
 
+![Tail-bearing merfolk nobility](../Images/species-tail-bearing-merfolk-nobility.jpg){.illus}
+
+
 - **Size:** medium · **Body:** aquatic
 - **What it's like:** Gentle merfolk nobility who grow legs at adulthood to walk on land. (looks like: mermaid; good at: swimming, powers and magic)
 - **Attributes:** END +2
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 181 Kelp-haired merrow *(genres: fairy tale and folklore, sea and sky)*
 
+![Kelp-haired merrow](../Images/species-kelp-haired-merrow.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Kelp-haired sea-folk who don an enchanted cap to travel far out to sea. (looks like: mermaid; good at: swimming, powers and magic)
 - **Attributes:** END +2
@@ -58,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs from its species in appearance and homeland; its sea-travelling cap is gear.
 
 ### No. 182 Sea-singing sirena *(genres: sea and sky)*
+
+![Sea-singing sirena](../Images/species-sea-singing-sirena.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Beautiful-voiced sea guardians who sing to warn sailors of danger. (looks like: mermaid; good at: swimming, people and talk)
@@ -69,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 183 Coastal mermaid-merman *(genres: sea and sky)*
 
+![Coastal mermaid-merman](../Images/species-coastal-mermaid-merman.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Fish-tailed sea-folk who sing beautifully and sometimes glimpse the future. (looks like: mermaid; good at: swimming, powers and magic)
 - **Attributes:** END +2
@@ -78,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A singing sea people with a gift of prophecy.
 
 ### No. 184 Fish-sage apkallu *(genres: myth and legend, sea and sky)*
+
+![Fish-sage apkallu](../Images/species-fish-sage-apkallu.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Wise, ancient fish-sages who once taught humankind the arts of civilisation. (looks like: mermaid; good at: swimming, knowledge)
@@ -90,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Plague-warding amabie *(NPC only)*
 
+![Plague-warding amabie](../Images/species-plague-warding-amabie.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** END +2
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -99,6 +117,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A beaked, three-legged sea being that rises to foretell plague and harvest.
 
 ### No. 185 River-guardian mami wata *(genres: myth and legend)*
+
+![River-guardian mami wata](../Images/species-river-guardian-mami-wata.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** River spirits who grant wealth or beauty to those who show them devotion. (looks like: mermaid; good at: swimming, powers and magic)
@@ -110,6 +131,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 186 Amphibious noble merfolk *(genres: sea and sky)*
 
+![Amphibious noble merfolk](../Images/species-amphibious-noble-merfolk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived merfolk who keep working legs on land, whatever their calling. (looks like: mermaid; good at: swimming, wilderness)
 - **Attributes:** END +2
@@ -120,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Legs vary by lineage; a tail-only lineage uses the classic merfolk block. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 187 Guild-organised merfolk *(genres: sea and sky)*
+
+![Guild-organised merfolk](../Images/species-guild-organised-merfolk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** aquatic
 - **What it's like:** Industrious, guild-organised merfolk who trade and build beneath the waves. (looks like: mermaid; good at: swimming, people and talk)

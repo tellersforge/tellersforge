@@ -1,5 +1,8 @@
 # Fear of Blood
 
+![Fear of Blood](../Images/flaws-fear-of-blood.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when blood and open wounds.

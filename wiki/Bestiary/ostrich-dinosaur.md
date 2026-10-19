@@ -1,5 +1,9 @@
 # Ostrich dinosaur
 
+![Ostrich dinosaur](../Images/BE-448-bestiary-ostrich-dinosaur.jpg){.illus}
+
+
+*Catalogue: BE-448*
 *Set: Expansion*
 
 *aka: ______________________________*

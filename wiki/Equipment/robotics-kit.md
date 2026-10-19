@@ -1,5 +1,9 @@
 # Robotics kit
 
+![Robotics kit](../Images/GR-0800-equipment-robotics-kit.jpg){.illus}
+
+
+*Catalogue: GR-0800*
 *Set: Expansion*
 
 *aka: ______________________________*

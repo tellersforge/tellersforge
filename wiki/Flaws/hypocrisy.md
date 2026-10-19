@@ -1,5 +1,8 @@
 # Hypocrisy
 
+![Hypocrisy](../Images/flaws-hypocrisy.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when tells others how to behave but doesn't do it themselves, and gets caught.

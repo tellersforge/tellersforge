@@ -1,5 +1,9 @@
 # Floating beaked brain
 
+![Floating beaked brain](../Images/BE-204-bestiary-floating-beaked-brain.jpg){.illus}
+
+
+*Catalogue: BE-204*
 *Set: Expansion*
 
 *aka: ______________________________*

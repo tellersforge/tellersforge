@@ -1,5 +1,9 @@
 # Whips
 
+![Whips](../Images/WG-031-weapon-groups-whips.jpg){.illus}
+
+
+*Catalogue: WG-031*
 *Set: Expansion*
 
 *aka: ______________________________*

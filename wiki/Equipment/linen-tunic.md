@@ -1,5 +1,9 @@
 # Linen tunic
 
+![Linen tunic](../Images/GR-0604-equipment-linen-tunic.jpg){.illus}
+
+
+*Catalogue: GR-0604*
 *Set: Expansion*
 
 *aka: ______________________________*

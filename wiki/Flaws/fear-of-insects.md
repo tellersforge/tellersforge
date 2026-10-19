@@ -1,5 +1,8 @@
 # Fear of Insects
 
+![Fear of Insects](../Images/flaws-fear-of-insects.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when insects, swarms, crawling things.

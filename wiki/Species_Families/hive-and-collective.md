@@ -1,5 +1,8 @@
 # Hive and collective
 
+![Hive and collective](../Images/species-families-hive-and-collective.jpg){.illus}
+
+
 
 Peoples for whom the self is plural. In this family many bodies share one mind, or one mind rides many bodies. Some are insect hives, with a queen at the heart and drones who do not fear death because they barely notice it. Others are machine collectives that absorb whoever they touch, parasites that settle in a host and steer it, or psychic orders where every thought is heard by all. A few are gentle colonial folk who merge and part again as easily as a crowd. Individual peoples find them terrifying, because arguing with one of them is arguing with all of them.
 

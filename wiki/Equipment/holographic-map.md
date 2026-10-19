@@ -1,7 +1,8 @@
 # Holographic map
 
-![Holographic map](../Images/equipment-holographic-map.jpg){.illus}
+![Holographic map](../Images/GR-0537-equipment-holographic-map.jpg){.illus}
 
+*Catalogue: GR-0537*
 *Set: Expansion*
 
 *aka: ______________________________*

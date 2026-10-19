@@ -1,5 +1,9 @@
 # Colour-shifting garment
 
+![Colour-shifting garment](../Images/GR-0294-equipment-colour-shifting-garment.jpg){.illus}
+
+
+*Catalogue: GR-0294*
 *Set: Expansion*
 
 *aka: ______________________________*

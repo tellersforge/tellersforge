@@ -1,5 +1,9 @@
 # Hide tent
 
+![Hide tent](../Images/GR-0528-equipment-hide-tent.jpg){.illus}
+
+
+*Catalogue: GR-0528*
 *Set: Core*
 
 *aka: ______________________________*

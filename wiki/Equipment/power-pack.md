@@ -1,5 +1,9 @@
 # Power pack
 
+![Power pack](../Images/GR-0751-equipment-power-pack.jpg){.illus}
+
+
+*Catalogue: GR-0751*
 *Set: Core*
 
 *aka: ______________________________*

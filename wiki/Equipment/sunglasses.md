@@ -1,5 +1,9 @@
 # Sunglasses
 
+![Sunglasses](../Images/GR-0933-equipment-sunglasses.jpg){.illus}
+
+
+*Catalogue: GR-0933*
 *Set: Core*
 
 *aka: ______________________________*

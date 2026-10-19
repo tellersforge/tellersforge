@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Predator-crossed hunter folk *(beast)*
 
+![Predator-crossed hunter folk](../Images/species-predator-crossed-hunter-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +4 END +2 INT −1 CHA −3 COU +2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Stealth](../Skills/stealth.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Crossed with a predator-hunter host: extra mandibles make it even deadlier.
 
 ### Runner-host hunter folk *(beast)*
+
+![Runner-host hunter folk](../Images/species-runner-host-hunter-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped+tailed
 - **Attributes:** AGI +3 END +2 CHA −3 COU +2

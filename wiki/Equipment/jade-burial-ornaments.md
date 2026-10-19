@@ -1,5 +1,9 @@
 # Jade burial ornaments
 
+![Jade burial ornaments](../Images/GR-0567-equipment-jade-burial-ornaments.jpg){.illus}
+
+
+*Catalogue: GR-0567*
 *Set: Core*
 
 *aka: ______________________________*

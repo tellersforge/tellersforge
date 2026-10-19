@@ -1,5 +1,9 @@
 # Copper bangles
 
+![Copper bangles](../Images/GR-0301-equipment-copper-bangles.jpg){.illus}
+
+
+*Catalogue: GR-0301*
 *Set: Core*
 
 *aka: ______________________________*

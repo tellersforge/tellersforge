@@ -1,5 +1,9 @@
 # Literacy (per script)
 
+![Literacy (per script)](../Images/SK-116-skills-literacy-per-script.jpg){.illus}
+
+
+*Catalogue: SK-116*
 *Set: Core · Basic skill: Lore*
 
 *aka: ______________________________*

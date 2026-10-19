@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 386 Rabbit-eared tall elf *(genres: classic fantasy)*
 
+![Rabbit-eared tall elf](../Images/species-rabbit-eared-tall-elf.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Very tall elves with long rabbit-like ears and keen hearing, agile and known as fine archers and mages. (looks like: elf; good at: keen senses, powers and magic)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Enhanced Senses is hearing. Height is a size matter.
 
 ### No. 387 Tall reserved elf *(genres: classic fantasy)*
+
+![Tall reserved elf](../Images/species-tall-reserved-elf.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Tall, formal, long-lived elves who balance battle skill and magic in equal measure. (looks like: elf; good at: fighting, powers and magic)

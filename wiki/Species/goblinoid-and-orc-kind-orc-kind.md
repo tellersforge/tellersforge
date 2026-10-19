@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 484 Stocky metahuman orc · No. 485 Tribal orc *(genres: near future and cyberpunk, classic fantasy)*
 
+![Stocky metahuman orc](../Images/species-stocky-metahuman-orc.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Stocky, strong, tusked orc-blooded folk who live shorter lives and often face unfair prejudice. (looks like: orc; good at: strength, toughness)
 - **Attributes:** STR +2 END +1 INT −1 CHA −1 COU +1

@@ -1,7 +1,8 @@
 # Laser Rifle
 
-![Laser rifle](../Images/weapons-laser-rifle.jpg){.illus}
+![Laser rifle](../Images/GR-0057-weapons-laser-rifle.jpg){.illus}
 
+*Catalogue: GR-0057*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Forest tribes
 
+![Forest tribes](../Images/cultures-forest-tribes.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

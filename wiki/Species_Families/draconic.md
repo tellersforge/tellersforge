@@ -1,5 +1,8 @@
 # Draconic
 
+![Draconic](../Images/species-families-draconic.jpg){.illus}
+
+
 
 The dragons and everything that carries their blood. At the top stand the true dragons: vast, clever, long-lived and proud, hoarding gold or knowledge or storms, and speaking to lesser peoples as a lord speaks to a stray dog. Below them come world-coiling serpents old enough to be landscape, feral wyverns and drakes with more teeth than thought, and folk of mixed blood who carry scales and a spark of that ancient fire. Scales, great strength and a sense of their own importance unite them. Kingdoms pay dragons, pray to them or hire people to kill them, and the dragons remember which.
 

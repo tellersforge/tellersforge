@@ -1,5 +1,8 @@
 # Gentry
 
+![Gentry](../Images/stations-gentry.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

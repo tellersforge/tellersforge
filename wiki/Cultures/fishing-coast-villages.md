@@ -1,5 +1,8 @@
 # Fishing coast villages
 
+![Fishing coast villages](../Images/cultures-fishing-coast-villages.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

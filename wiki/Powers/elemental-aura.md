@@ -1,5 +1,9 @@
 # Elemental Aura
 
+![Elemental Aura](../Images/PW-083-powers-elemental-aura.jpg){.illus}
+
+
+*Catalogue: PW-083*
 *Set: Expansion*
 
 *aka: ______________________________*

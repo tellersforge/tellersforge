@@ -1,5 +1,9 @@
 # All-knowing white beast
 
+![All-knowing white beast](../Images/BE-012-bestiary-all-knowing-white-beast.jpg){.illus}
+
+
+*Catalogue: BE-012*
 *Set: Expansion*
 
 *aka: ______________________________*

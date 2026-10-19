@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Undercover observer alien *(NPC only)*
 
+![Undercover observer alien](../Images/species-undercover-observer-alien.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 INT +1 WIS −2 CHA +1
 - **Skills:** [Disguise](../Skills/disguise.md) +2, [Acting](../Skills/acting.md) +1, [Deception](../Skills/deception.md) +1, [Mimicry](../Skills/mimicry.md) +1, [Composure](../Skills/composure.md) −1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2

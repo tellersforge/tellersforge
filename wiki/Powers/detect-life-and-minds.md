@@ -1,5 +1,9 @@
 # Detect Life & Minds
 
+![Detect Life & Minds](../Images/PW-068-powers-detect-life-and-minds.jpg){.illus}
+
+
+*Catalogue: PW-068*
 *Set: Expansion*
 
 *aka: ______________________________*

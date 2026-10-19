@@ -1,7 +1,8 @@
 # Giant spider
 
-![Giant spider](../Images/bestiary-giant-spider.jpg){.illus}
+![Giant spider](../Images/BE-283-bestiary-giant-spider.jpg){.illus}
 
+*Catalogue: BE-283*
 *Set: Expansion*
 
 *aka: ______________________________*

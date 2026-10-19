@@ -1,5 +1,9 @@
 # Police uniform
 
+![Police uniform](../Images/GR-0741-equipment-police-uniform.jpg){.illus}
+
+
+*Catalogue: GR-0741*
 *Set: Expansion*
 
 *aka: ______________________________*

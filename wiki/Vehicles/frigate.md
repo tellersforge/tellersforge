@@ -1,5 +1,9 @@
 # Frigate
 
+![Frigate](../Images/GR-1072-vehicles-frigate.jpg){.illus}
+
+
+*Catalogue: GR-1072*
 *Set: Expansion*
 
 

@@ -1,5 +1,9 @@
 # Bone-setting splints
 
+![Bone-setting splints](../Images/GR-0223-equipment-bone-setting-splints.jpg){.illus}
+
+
+*Catalogue: GR-0223*
 *Set: Core*
 
 *aka: ______________________________*

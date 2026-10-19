@@ -1,5 +1,9 @@
 # Wooden chest
 
+![Wooden chest](../Images/GR-1022-equipment-wooden-chest.jpg){.illus}
+
+
+*Catalogue: GR-1022*
 *Set: Core*
 
 *aka: ______________________________*

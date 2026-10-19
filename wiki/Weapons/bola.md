@@ -1,7 +1,8 @@
 # Bola
 
-![Bola](../Images/weapons-bola.jpg){.illus}
+![Bola](../Images/GR-0010-weapons-bola.jpg){.illus}
 
+*Catalogue: GR-0010*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # War mastiff
 
+![War mastiff](../Images/BE-662-bestiary-war-mastiff.jpg){.illus}
+
+
+*Catalogue: BE-662*
 *Set: Core*
 
 *aka: ______________________________*

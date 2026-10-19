@@ -1,7 +1,8 @@
 # Counterweight Engine
 
-![Counterweight engine](../Images/weapons-counterweight-engine.jpg){.illus}
+![Counterweight engine](../Images/GR-0022-weapons-counterweight-engine.jpg){.illus}
 
+*Catalogue: GR-0022*
 *Set: Expansion*
 
 *aka: ______________________________*

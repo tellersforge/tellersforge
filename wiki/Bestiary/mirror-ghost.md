@@ -1,5 +1,9 @@
 # Mirror ghost
 
+![Mirror ghost](../Images/BE-415-bestiary-mirror-ghost.jpg){.illus}
+
+
+*Catalogue: BE-415*
 *Set: Core*
 
 *aka: ______________________________*

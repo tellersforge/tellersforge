@@ -1,5 +1,9 @@
 # Steel-toed boots
 
+![Steel-toed boots](../Images/GR-0914-equipment-steel-toed-boots.jpg){.illus}
+
+
+*Catalogue: GR-0914*
 *Set: Expansion*
 
 *aka: ______________________________*

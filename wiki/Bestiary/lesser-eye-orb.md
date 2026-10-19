@@ -1,5 +1,9 @@
 # Lesser eye orb
 
+![Lesser eye orb](../Images/BE-385-bestiary-lesser-eye-orb.jpg){.illus}
+
+
+*Catalogue: BE-385*
 *Set: Expansion*
 
 *aka: ______________________________*

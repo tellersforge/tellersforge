@@ -1,5 +1,9 @@
 # Blessing
 
+![Blessing](../Images/PW-024-powers-blessing.jpg){.illus}
+
+
+*Catalogue: PW-024*
 *Set: Core*
 
 *aka: ______________________________*

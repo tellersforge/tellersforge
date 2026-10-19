@@ -1,5 +1,9 @@
 # Light-up jewellery
 
+![Light-up jewellery](../Images/GR-0600-equipment-light-up-jewellery.jpg){.illus}
+
+
+*Catalogue: GR-0600*
 *Set: Expansion*
 
 *aka: ______________________________*

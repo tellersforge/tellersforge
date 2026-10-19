@@ -1,5 +1,9 @@
 # Crag drake
 
+![Crag drake](../Images/BE-132-bestiary-crag-drake.jpg){.illus}
+
+
+*Catalogue: BE-132*
 *Set: Expansion*
 
 *aka: ______________________________*

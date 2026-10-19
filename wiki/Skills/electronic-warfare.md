@@ -1,5 +1,9 @@
 # Electronic Warfare
 
+![Electronic Warfare](../Images/SK-059-skills-electronic-warfare.jpg){.illus}
+
+
+*Catalogue: SK-059*
 *Set: Expansion*
 
 *aka: ______________________________*

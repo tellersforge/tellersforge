@@ -1,7 +1,8 @@
 # Fire-breathing bull
 
-![Fire-breathing bull](../Images/bestiary-fire-breathing-bull.jpg){.illus}
+![Fire-breathing bull](../Images/BE-191-bestiary-fire-breathing-bull.jpg){.illus}
 
+*Catalogue: BE-191*
 *Set: Expansion*
 
 *aka: ______________________________*

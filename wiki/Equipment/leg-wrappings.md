@@ -1,5 +1,9 @@
 # Leg wrappings
 
+![Leg wrappings](../Images/GR-0593-equipment-leg-wrappings.jpg){.illus}
+
+
+*Catalogue: GR-0593*
 *Set: Expansion*
 
 *aka: ______________________________*

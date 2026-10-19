@@ -1,5 +1,8 @@
 # Obliviousness
 
+![Obliviousness](../Images/flaws-obliviousness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when misses hints, moods and social cues.

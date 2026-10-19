@@ -1,7 +1,8 @@
 # Stun Gun
 
-![Stun gun](../Images/weapons-stun-gun.jpg){.illus}
+![Stun gun](../Images/GR-0107-weapons-stun-gun.jpg){.illus}
 
+*Catalogue: GR-0107*
 *Set: Expansion*
 
 *aka: ______________________________*

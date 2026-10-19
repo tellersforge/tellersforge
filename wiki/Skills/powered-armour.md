@@ -1,5 +1,9 @@
 # Powered Armour
 
+![Powered Armour](../Images/SK-154-skills-powered-armour.jpg){.illus}
+
+
+*Catalogue: SK-154*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Self-assembling nanite-swarm folk *(NPC only)*
 
+![Self-assembling nanite-swarm folk](../Images/species-self-assembling-nanite-swarm-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** colonial
 - **Attributes:** AGI +1 END +2 INT +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Hand Tools](../Skills/hand-tools.md) +1, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Riding](../Skills/riding.md) Foreign Concept

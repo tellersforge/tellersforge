@@ -1,7 +1,8 @@
 # Tower shield or large pavise
 
-![Tower shield or pavise](../Images/armour-tower-shield-or-large-pavise.jpg){.illus}
+![Tower shield or pavise](../Images/GR-0166-armour-tower-shield-or-large-pavise.jpg){.illus}
 
+*Catalogue: GR-0166*
 *Set: Core*
 
 *aka: ______________________________*

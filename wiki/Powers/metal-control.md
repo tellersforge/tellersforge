@@ -1,5 +1,9 @@
 # Metal Control
 
+![Metal Control](../Images/PW-180-powers-metal-control.jpg){.illus}
+
+
+*Catalogue: PW-180*
 *Set: Expansion*
 
 *aka: ______________________________*

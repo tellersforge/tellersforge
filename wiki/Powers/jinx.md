@@ -1,5 +1,9 @@
 # Jinx
 
+![Jinx](../Images/PW-142-powers-jinx.jpg){.illus}
+
+
+*Catalogue: PW-142*
 *Set: Expansion*
 
 *aka: ______________________________*

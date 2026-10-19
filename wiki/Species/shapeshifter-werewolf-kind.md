@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 719 Self-governing werewolf folk *(genres: gothic horror)*
 
+![Self-governing werewolf folk](../Images/species-self-governing-werewolf-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Wolf-shifting folk with heightened senses in wolf form and fierce loyalty to their pack. (looks like: wolf; good at: keen senses, fighting)
 - **Attributes:** STR +1 AGI +1 END +1 WIS −1 CHA +1

@@ -1,5 +1,8 @@
 # Fear of Machines
 
+![Fear of Machines](../Images/flaws-fear-of-machines.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when engines, robots, strange technology.

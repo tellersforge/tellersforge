@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Venomous serpent-mutate *(NPC only)*
 
+![Venomous serpent-mutate](../Images/species-venomous-serpent-mutate.jpg){.illus}
+
+
 - **Size:** medium · **Body:** serpentine
 - **Attributes:** AGI +2 END −1 CHA +1
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Hypnotism](../Skills/hypnotism.md) +1

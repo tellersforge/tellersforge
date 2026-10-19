@@ -1,5 +1,9 @@
 # Bull moose
 
+![Bull moose](../Images/BE-078-bestiary-bull-moose.jpg){.illus}
+
+
+*Catalogue: BE-078*
 *Set: Core*
 
 *aka: ______________________________*

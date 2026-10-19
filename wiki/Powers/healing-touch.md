@@ -1,7 +1,8 @@
 # Healing Touch
 
-![Healing touch](../Images/powers-healing-touch.jpg){.illus}
+![Healing touch](../Images/PW-126-powers-healing-touch.jpg){.illus}
 
+*Catalogue: PW-126*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

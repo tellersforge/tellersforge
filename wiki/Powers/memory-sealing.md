@@ -1,5 +1,9 @@
 # Memory Sealing
 
+![Memory Sealing](../Images/PW-175-powers-memory-sealing.jpg){.illus}
+
+
+*Catalogue: PW-175*
 *Set: Expansion*
 
 *aka: ______________________________*

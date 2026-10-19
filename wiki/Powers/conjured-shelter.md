@@ -1,5 +1,9 @@
 # Conjured Shelter
 
+![Conjured Shelter](../Images/PW-049-powers-conjured-shelter.jpg){.illus}
+
+
+*Catalogue: PW-049*
 *Set: Expansion*
 
 *aka: ______________________________*

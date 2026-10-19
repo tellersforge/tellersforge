@@ -1,5 +1,9 @@
 # Nanite injector
 
+![Nanite injector](../Images/GR-0672-equipment-nanite-injector.jpg){.illus}
+
+
+*Catalogue: GR-0672*
 *Set: Expansion*
 
 *aka: ______________________________*

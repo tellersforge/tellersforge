@@ -1,5 +1,9 @@
 # Handheld game device
 
+![Handheld game device](../Images/GR-0498-equipment-handheld-game-device.jpg){.illus}
+
+
+*Catalogue: GR-0498*
 *Set: Expansion*
 
 *aka: ______________________________*

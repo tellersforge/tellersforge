@@ -1,7 +1,8 @@
 # Dragon-scale armour
 
-![Dragon-scale armour](../Images/armour-dragon-scale-armour.jpg){.illus}
+![Dragon-scale armour](../Images/GR-0135-armour-dragon-scale-armour.jpg){.illus}
 
+*Catalogue: GR-0135*
 *Set: Expansion*
 
 *aka: ______________________________*

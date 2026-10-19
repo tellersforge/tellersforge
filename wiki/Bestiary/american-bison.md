@@ -1,5 +1,9 @@
 # American bison
 
+![American bison](../Images/BE-014-bestiary-american-bison.jpg){.illus}
+
+
+*Catalogue: BE-014*
 *Set: Core*
 
 *aka: ______________________________*

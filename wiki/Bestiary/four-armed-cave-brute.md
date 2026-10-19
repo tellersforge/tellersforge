@@ -1,5 +1,9 @@
 # Four-armed cave brute
 
+![Four-armed cave brute](../Images/BE-214-bestiary-four-armed-cave-brute.jpg){.illus}
+
+
+*Catalogue: BE-214*
 *Set: Expansion*
 
 *aka: ______________________________*

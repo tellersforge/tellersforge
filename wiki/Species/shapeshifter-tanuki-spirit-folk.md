@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tanuki *(NPC only)*
 
+![Tanuki](../Images/species-tanuki.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed(shift)
 - **Attributes:** AGI +1 END +1 WIS −1 CHA +1
 - **Skills:** [Deception](../Skills/deception.md) +2, [Disguise](../Skills/disguise.md) +2, [Acting](../Skills/acting.md) +1, [Carousing](../Skills/carousing.md) +1, [Mimicry](../Skills/mimicry.md) +1, [Composure](../Skills/composure.md) −1

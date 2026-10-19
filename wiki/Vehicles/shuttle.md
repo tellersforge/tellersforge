@@ -1,7 +1,8 @@
 # Shuttle
 
-![Shuttle](../Images/vehicles-shuttle.jpg){.illus}
+![Shuttle](../Images/GR-1117-vehicles-shuttle.jpg){.illus}
 
+*Catalogue: GR-1117*
 *Set: Core*
 
 

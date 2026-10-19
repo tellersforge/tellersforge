@@ -1,5 +1,9 @@
 # Race board game
 
+![Race board game](../Images/GR-0770-equipment-race-board-game.jpg){.illus}
+
+
+*Catalogue: GR-0770*
 *Set: Expansion*
 
 *aka: ______________________________*

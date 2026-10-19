@@ -1,5 +1,8 @@
 # Healer
 
+![Healer](../Images/professions-healer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Remote beast collar
 
+![Remote beast collar](../Images/GR-0786-equipment-remote-beast-collar.jpg){.illus}
+
+
+*Catalogue: GR-0786*
 *Set: Expansion*
 
 *aka: ______________________________*

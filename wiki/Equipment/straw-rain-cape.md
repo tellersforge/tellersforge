@@ -1,5 +1,9 @@
 # Straw rain cape
 
+![Straw rain cape](../Images/GR-0926-equipment-straw-rain-cape.jpg){.illus}
+
+
+*Catalogue: GR-0926*
 *Set: Expansion*
 
 *aka: ______________________________*

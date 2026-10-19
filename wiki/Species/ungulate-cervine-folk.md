@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 805 Deer-folk (stag) · No. 807 Prey-caste deer-folk *(genres: beast-folk: fur)*
 
+![Deer-folk (stag)](../Images/species-deer-folk-stag.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Gentle, antlered deer folk, forest-dwelling sprinters with sharp ears for danger. (looks like: deer; good at: speed and agility, keen senses)
 - **Attributes:** END +1 WIS +1 PER +1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note (Prey-caste deer-folk):* Modern city dwellers; leadership roles are cultural.
 
 ### No. 806 Reindeer-folk *(genres: beast-folk: fur)*
+
+![Reindeer-folk](../Images/species-reindeer-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Cold-hardy reindeer folk with antlers on every adult, built for long migrations across the arctic. (looks like: reindeer; good at: wilderness, toughness)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is cold.
 
 ### Moose/elk-folk *(NPC only)*
+
+![Moose/elk-folk](../Images/species-moose-elk-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +3 AGI −2 END +1 WIS +1 PER +1

@@ -1,5 +1,9 @@
 # Log Raft
 
+![Log Raft](../Images/GR-1088-vehicles-log-raft.jpg){.illus}
+
+
+*Catalogue: GR-1088*
 *Set: Expansion*
 
 

@@ -1,5 +1,8 @@
 # Carelessness
 
+![Carelessness](../Images/flaws-carelessness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Habits and body* kind. It fires when skips checks, leaves doors open, misses details.

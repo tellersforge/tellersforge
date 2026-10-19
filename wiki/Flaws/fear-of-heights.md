@@ -1,5 +1,8 @@
 # Fear of Heights
 
+![Fear of Heights](../Images/flaws-fear-of-heights.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when ledges, cliffs, towers, rigging.

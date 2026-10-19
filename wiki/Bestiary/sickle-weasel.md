@@ -1,5 +1,9 @@
 # Sickle weasel
 
+![Sickle weasel](../Images/BE-547-bestiary-sickle-weasel.jpg){.illus}
+
+
+*Catalogue: BE-547*
 *Set: Expansion*
 
 *aka: ______________________________*

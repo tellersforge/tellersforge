@@ -1,5 +1,9 @@
 # Coincidence rangefinder
 
+![Coincidence rangefinder](../Images/GR-0291-equipment-coincidence-rangefinder.jpg){.illus}
+
+
+*Catalogue: GR-0291*
 *Set: Expansion*
 
 *aka: ______________________________*

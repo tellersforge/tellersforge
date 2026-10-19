@@ -1,5 +1,9 @@
 # Giant bison
 
+![Giant bison](../Images/BE-240-bestiary-giant-bison.jpg){.illus}
+
+
+*Catalogue: BE-240*
 *Set: Core*
 
 *aka: ______________________________*

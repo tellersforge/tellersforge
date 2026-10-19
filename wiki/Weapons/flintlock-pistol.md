@@ -1,7 +1,8 @@
 # Flintlock Pistol
 
-![Flintlock pistol](../Images/weapons-flintlock-pistol.jpg){.illus}
+![Flintlock pistol](../Images/GR-0038-weapons-flintlock-pistol.jpg){.illus}
 
+*Catalogue: GR-0038*
 *Set: Core*
 
 *aka: ______________________________*

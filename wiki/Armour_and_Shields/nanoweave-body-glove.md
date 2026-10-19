@@ -1,7 +1,8 @@
 # Nanoweave body glove
 
-![Nanoweave body glove](../Images/armour-nanoweave-body-glove.jpg){.illus}
+![Nanoweave body glove](../Images/GR-0151-armour-nanoweave-body-glove.jpg){.illus}
 
+*Catalogue: GR-0151*
 *Set: Expansion*
 
 *aka: ______________________________*

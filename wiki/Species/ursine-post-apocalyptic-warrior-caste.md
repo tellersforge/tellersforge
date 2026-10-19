@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Heavy bear-warrior *(NPC only)*
 
+![Heavy bear-warrior](../Images/species-heavy-bear-warrior.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −3 END +3 INT −1 COU +1
 - **Skills:**, [Fishing](../Skills/fishing.md) +2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Foraging](../Skills/foraging.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Running](../Skills/running.md) −1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Acrobatics](../Skills/acrobatics.md) −2

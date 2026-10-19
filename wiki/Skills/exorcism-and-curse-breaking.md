@@ -1,5 +1,9 @@
 # Exorcism & Curse-Breaking ✦
 
+![Exorcism & Curse-Breaking ✦](../Images/SK-064-skills-exorcism-and-curse-breaking.jpg){.illus}
+
+
+*Catalogue: SK-064*
 *Set: Expansion*
 
 *aka: ______________________________*

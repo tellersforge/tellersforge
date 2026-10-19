@@ -1,5 +1,8 @@
 # Fanaticism
 
+![Fanaticism](../Images/flaws-fanaticism.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Mind and belief* kind. It fires when puts a cause or faith above everything.

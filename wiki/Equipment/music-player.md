@@ -1,5 +1,9 @@
 # Music player
 
+![Music player](../Images/GR-0670-equipment-music-player.jpg){.illus}
+
+
+*Catalogue: GR-0670*
 *Set: Expansion*
 
 *aka: ______________________________*

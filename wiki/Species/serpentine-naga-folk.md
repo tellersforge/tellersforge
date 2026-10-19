@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 694 Naga *(genres: myth and legend)*
 
+![Naga](../Images/species-naga.jpg){.illus}
+
+
 - **Size:** medium · **Body:** serpentine
 - **What it's like:** Cobra-hooded snake-folk who guard treasure and sacred waters for centuries, gifted with natural spellcasting. (looks like: snake; good at: powers and magic, swimming)
 - **Attributes:** AGI +1 END −1 WIS +1 CHA +1
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Ward is the default innate spell; the Game Master may swap it for another minor power at Set 1.
 
 ### No. 695 Shapeshifting naga sorceress *(genres: myth and legend)*
+
+![Shapeshifting naga sorceress](../Images/species-shapeshifting-naga-sorceress.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Naga sorceresses who can walk fully as human, tied to fertility and the guardianship of sacred waters. (looks like: snake; good at: powers and magic, swimming)

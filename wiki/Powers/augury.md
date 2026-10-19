@@ -1,5 +1,9 @@
 # Augury
 
+![Augury](../Images/PW-012-powers-augury.jpg){.illus}
+
+
+*Catalogue: PW-012*
 *Set: Expansion*
 
 *aka: ______________________________*

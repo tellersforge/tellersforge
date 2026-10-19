@@ -1,5 +1,9 @@
 # Mutant stinging wasp
 
+![Mutant stinging wasp](../Images/BE-432-bestiary-mutant-stinging-wasp.jpg){.illus}
+
+
+*Catalogue: BE-432*
 *Set: Expansion*
 
 *aka: ______________________________*

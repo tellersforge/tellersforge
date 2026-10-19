@@ -1,5 +1,9 @@
 # Survival: Caves & Underground
 
+![Survival: Caves & Underground](../Images/SK-197-skills-survival-caves-and-underground.jpg){.illus}
+
+
+*Catalogue: SK-197*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Tidal surge elemental
 
+![Tidal surge elemental](../Images/BE-625-bestiary-tidal-surge-elemental.jpg){.illus}
+
+
+*Catalogue: BE-625*
 *Set: Expansion*
 
 *aka: ______________________________*

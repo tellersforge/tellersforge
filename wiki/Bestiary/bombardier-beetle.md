@@ -1,5 +1,9 @@
 # Bombardier beetle
 
+![Bombardier beetle](../Images/BE-063-bestiary-bombardier-beetle.jpg){.illus}
+
+
+*Catalogue: BE-063*
 *Set: Expansion*
 
 *aka: ______________________________*

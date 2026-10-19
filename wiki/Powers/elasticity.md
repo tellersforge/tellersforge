@@ -1,5 +1,9 @@
 # Elasticity
 
+![Elasticity](../Images/PW-082-powers-elasticity.jpg){.illus}
+
+
+*Catalogue: PW-082*
 *Set: Expansion*
 
 *aka: ______________________________*

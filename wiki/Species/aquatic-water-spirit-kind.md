@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Freshwater nymph *(NPC only)*
 
+![Freshwater nymph](../Images/species-freshwater-nymph.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** WIS +1 CHA +2
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A spring or river spirit with minor water magic and the power to bless.
 
 ### Ocean nymph *(NPC only)*
+
+![Ocean nymph](../Images/species-ocean-nymph.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** WIS +2 CHA +1
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Stream nix *(NPC only)*
 
+![Stream nix](../Images/species-stream-nix.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 WIS +1 CHA +1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Instrument (per instrument)](../Skills/instrument-per-instrument.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pond vodyanoy *(NPC only)*
 
+![Pond vodyanoy](../Images/species-pond-vodyanoy.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 WIS +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -62,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Lake nakki *(NPC only)*
 
+![Lake nakki](../Images/species-lake-nakki.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 WIS +1 CHA +1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -70,6 +85,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A malevolent spirit that drags swimmers under near dangerous currents.
 
 ### Ice-hole spirit *(NPC only)*
+
+![Ice-hole spirit](../Images/species-ice-hole-spirit.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −1 AGI +2 WIS +1 CHA +1
@@ -81,6 +99,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 188 Riverine dolphin shapeshifter *(genres: fairy tale and folklore)*
 
+![Riverine dolphin shapeshifter](../Images/species-riverine-dolphin-shapeshifter.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** River-dolphin folk who become charming humans by night and slip home by dawn. (looks like: dolphin; good at: swimming, powers and magic)
 - **Attributes:** WIS +1 CHA +1
@@ -91,6 +112,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Self-Alteration is dolphin to human and back; it must return to the river by dawn.
 
 ### No. 189 Sealskin selkie *(genres: fairy tale and folklore, sea and sky)*
+
+![Sealskin selkie](../Images/species-sealskin-selkie.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Seal-folk who shed their skin to walk as humans on land. (looks like: seal; good at: swimming, powers and magic)

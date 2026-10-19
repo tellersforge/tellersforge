@@ -1,7 +1,8 @@
 # Grappling hook
 
-![Grappling hook](../Images/equipment-grappling-hook.jpg){.illus}
+![Grappling hook](../Images/GR-0470-equipment-grappling-hook.jpg){.illus}
 
+*Catalogue: GR-0470*
 *Set: Expansion*
 
 *aka: ______________________________*

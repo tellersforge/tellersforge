@@ -1,5 +1,9 @@
 # Monofilament rope
 
+![Monofilament rope](../Images/GR-0659-equipment-monofilament-rope.jpg){.illus}
+
+
+*Catalogue: GR-0659*
 *Set: Expansion*
 
 *aka: ______________________________*

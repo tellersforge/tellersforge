@@ -1,5 +1,8 @@
 # Fear of the Dead
 
+![Fear of the Dead](../Images/flaws-fear-of-the-dead.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when corpses, graves, cemeteries.

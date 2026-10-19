@@ -1,5 +1,9 @@
 # Star lore cord
 
+![Star lore cord](../Images/GR-0907-equipment-star-lore-cord.jpg){.illus}
+
+
+*Catalogue: GR-0907*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Attention-Seeker
 
+![Attention-Seeker](../Images/flaws-attention-seeker.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when must be the centre of every room.

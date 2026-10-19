@@ -1,5 +1,9 @@
 # Canteen
 
+![Canteen](../Images/GR-0256-equipment-canteen.jpg){.illus}
+
+
+*Catalogue: GR-0256*
 *Set: Core*
 
 *aka: ______________________________*

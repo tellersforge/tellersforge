@@ -1,5 +1,9 @@
 # Faceless horned flyer
 
+![Faceless horned flyer](../Images/BE-181-bestiary-faceless-horned-flyer.jpg){.illus}
+
+
+*Catalogue: BE-181*
 *Set: Expansion*
 
 *aka: ______________________________*

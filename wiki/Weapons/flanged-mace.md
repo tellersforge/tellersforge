@@ -1,7 +1,8 @@
 # Flanged Mace
 
-![Flanged mace](../Images/weapons-flanged-mace.jpg){.illus}
+![Flanged mace](../Images/GR-0036-weapons-flanged-mace.jpg){.illus}
 
+*Catalogue: GR-0036*
 *Set: Expansion*
 
 *aka: ______________________________*

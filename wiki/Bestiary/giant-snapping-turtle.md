@@ -1,5 +1,9 @@
 # Giant snapping turtle
 
+![Giant snapping turtle](../Images/BE-282-bestiary-giant-snapping-turtle.jpg){.illus}
+
+
+*Catalogue: BE-282*
 *Set: Expansion*
 
 *aka: ______________________________*

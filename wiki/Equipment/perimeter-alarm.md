@@ -1,5 +1,9 @@
 # Perimeter alarm
 
+![Perimeter alarm](../Images/GR-0718-equipment-perimeter-alarm.jpg){.illus}
+
+
+*Catalogue: GR-0718*
 *Set: Expansion*
 
 *aka: ______________________________*

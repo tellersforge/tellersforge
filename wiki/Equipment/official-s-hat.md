@@ -1,5 +1,9 @@
 # Official's hat
 
+![Official's hat](../Images/GR-0687-equipment-official-s-hat.jpg){.illus}
+
+
+*Catalogue: GR-0687*
 *Set: Expansion*
 
 *aka: ______________________________*

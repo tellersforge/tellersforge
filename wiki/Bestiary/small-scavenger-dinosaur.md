@@ -1,5 +1,9 @@
 # Small scavenger dinosaur
 
+![Small scavenger dinosaur](../Images/BE-567-bestiary-small-scavenger-dinosaur.jpg){.illus}
+
+
+*Catalogue: BE-567*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Ceremonial wig
 
+![Ceremonial wig](../Images/GR-0267-equipment-ceremonial-wig.jpg){.illus}
+
+
+*Catalogue: GR-0267*
 *Set: Core*
 
 *aka: ______________________________*

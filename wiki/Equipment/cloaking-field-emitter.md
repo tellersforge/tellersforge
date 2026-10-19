@@ -1,7 +1,8 @@
 # Cloaking field emitter
 
-![Cloaking field emitter](../Images/equipment-cloaking-field-emitter.jpg){.illus}
+![Cloaking field emitter](../Images/GR-0287-equipment-cloaking-field-emitter.jpg){.illus}
 
+*Catalogue: GR-0287*
 *Set: Expansion*
 
 *aka: ______________________________*

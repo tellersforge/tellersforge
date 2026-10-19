@@ -1,7 +1,8 @@
 # Gas mask
 
-![Gas mask](../Images/equipment-gas-mask.jpg){.illus}
+![Gas mask](../Images/GR-0451-equipment-gas-mask.jpg){.illus}
 
+*Catalogue: GR-0451*
 *Set: Expansion*
 
 *aka: ______________________________*

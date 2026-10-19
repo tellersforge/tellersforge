@@ -1,5 +1,9 @@
 # Improvised Weapons
 
+![Improvised Weapons](../Images/WG-016-weapon-groups-improvised-weapons.jpg){.illus}
+
+
+*Catalogue: WG-016*
 *Set: Expansion*
 
 *aka: ______________________________*

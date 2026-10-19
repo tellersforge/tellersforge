@@ -1,5 +1,9 @@
 # Guardian Projection
 
+![Guardian Projection](../Images/PW-121-powers-guardian-projection.jpg){.illus}
+
+
+*Catalogue: PW-121*
 *Set: Expansion*
 
 *aka: ______________________________*

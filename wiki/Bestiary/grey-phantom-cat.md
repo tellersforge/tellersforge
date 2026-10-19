@@ -1,5 +1,9 @@
 # Grey phantom cat
 
+![Grey phantom cat](../Images/BE-317-bestiary-grey-phantom-cat.jpg){.illus}
+
+
+*Catalogue: BE-317*
 *Set: Core*
 
 *aka: ______________________________*

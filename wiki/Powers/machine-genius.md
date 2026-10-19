@@ -1,5 +1,9 @@
 # Machine Genius
 
+![Machine Genius](../Images/PW-163-powers-machine-genius.jpg){.illus}
+
+
+*Catalogue: PW-163*
 *Set: Expansion*
 
 *aka: ______________________________*

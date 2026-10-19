@@ -1,5 +1,9 @@
 # Cold Blast
 
+![Cold Blast](../Images/PW-039-powers-cold-blast.jpg){.illus}
+
+
+*Catalogue: PW-039*
 *Set: Expansion*
 
 *aka: ______________________________*

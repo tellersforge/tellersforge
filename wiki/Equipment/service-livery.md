@@ -1,5 +1,9 @@
 # Service livery
 
+![Service livery](../Images/GR-0838-equipment-service-livery.jpg){.illus}
+
+
+*Catalogue: GR-0838*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Armoured jaw fish
 
+![Armoured jaw fish](../Images/BE-026-bestiary-armoured-jaw-fish.jpg){.illus}
+
+
+*Catalogue: BE-026*
 *Set: Expansion*
 
 *aka: ______________________________*

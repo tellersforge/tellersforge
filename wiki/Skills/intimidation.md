@@ -1,5 +1,9 @@
 # Intimidation
 
+![Intimidation](../Images/SK-100-skills-intimidation.jpg){.illus}
+
+
+*Catalogue: SK-100*
 *Set: Core · Basic skill: Intimidation*
 
 *aka: ______________________________*

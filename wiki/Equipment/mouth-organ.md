@@ -1,5 +1,9 @@
 # Mouth organ
 
+![Mouth organ](../Images/GR-0667-equipment-mouth-organ.jpg){.illus}
+
+
+*Catalogue: GR-0667*
 *Set: Expansion*
 
 *aka: ______________________________*

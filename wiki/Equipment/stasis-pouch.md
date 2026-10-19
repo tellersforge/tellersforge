@@ -1,5 +1,9 @@
 # Stasis pouch
 
+![Stasis pouch](../Images/GR-0912-equipment-stasis-pouch.jpg){.illus}
+
+
+*Catalogue: GR-0912*
 *Set: Expansion*
 
 *aka: ______________________________*

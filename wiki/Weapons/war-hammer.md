@@ -1,7 +1,8 @@
 # War Hammer
 
-![War hammer](../Images/weapons-war-hammer.jpg){.illus}
+![War hammer](../Images/GR-0116-weapons-war-hammer.jpg){.illus}
 
+*Catalogue: GR-0116*
 *Set: Expansion*
 
 *aka: ______________________________*

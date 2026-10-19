@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 208 Corvid folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Corvid folk](../Images/species-corvid-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Clever, chatty crow-folk who mimic any voice and scavenge cleverly. (looks like: crow; good at: knowledge, people and talk, keen senses)
 - **Attributes:** STR −2 AGI +2 END −1 INT +2 WIS +1 PER +2

@@ -1,5 +1,9 @@
 # Throwing
 
+![Throwing](../Images/SK-209-skills-throwing.jpg){.illus}
+
+
+*Catalogue: SK-209*
 *Set: Core*
 
 *aka: ______________________________*

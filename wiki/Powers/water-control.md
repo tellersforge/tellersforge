@@ -1,5 +1,9 @@
 # Water Control
 
+![Water Control](../Images/PW-316-powers-water-control.jpg){.illus}
+
+
+*Catalogue: PW-316*
 *Set: Core*
 
 *aka: ______________________________*

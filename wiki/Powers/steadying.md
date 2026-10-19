@@ -1,5 +1,9 @@
 # Steadying
 
+![Steadying](../Images/PW-276-powers-steadying.jpg){.illus}
+
+
+*Catalogue: PW-276*
 *Set: Expansion*
 
 *aka: ______________________________*

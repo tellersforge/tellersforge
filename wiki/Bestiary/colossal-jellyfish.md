@@ -1,5 +1,9 @@
 # Colossal jellyfish
 
+![Colossal jellyfish](../Images/BE-120-bestiary-colossal-jellyfish.jpg){.illus}
+
+
+*Catalogue: BE-120*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Arming doublet
 
+![Arming doublet](../Images/GR-0188-equipment-arming-doublet.jpg){.illus}
+
+
+*Catalogue: GR-0188*
 *Set: Expansion*
 
 *aka: ______________________________*

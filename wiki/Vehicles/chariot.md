@@ -1,7 +1,8 @@
 # Chariot
 
-![Chariot](../Images/vehicles-chariot.jpg){.illus}
+![Chariot](../Images/GR-1055-vehicles-chariot.jpg){.illus}
 
+*Catalogue: GR-1055*
 *Set: Core*
 
 

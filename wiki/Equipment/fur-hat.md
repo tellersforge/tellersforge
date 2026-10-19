@@ -1,5 +1,9 @@
 # Fur hat
 
+![Fur hat](../Images/GR-0445-equipment-fur-hat.jpg){.illus}
+
+
+*Catalogue: GR-0445*
 *Set: Core*
 
 *aka: ______________________________*

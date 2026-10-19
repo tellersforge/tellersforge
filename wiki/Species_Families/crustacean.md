@@ -1,5 +1,8 @@
 # Crustacean
 
+![Crustacean](../Images/species-families-crustacean.jpg){.illus}
+
+
 
 Shelled, jointed and armed with claws. Crab, lobster, shrimp and their cousins give this family hard plates instead of skin, stalked eyes, and many legs that scuttle sideways as easily as forward. They grow by splitting their shells and hiding soft for a while, which makes them cautious and fond of good, deep cover. Crustacean folk are shore scavengers, reef traders, deep-sea labourers and very stubborn negotiators. Some are beasts: huge armoured predators that are kept for the arena or simply avoided. Other peoples think them slow-witted, until they see how quickly a claw closes and how long a crab holds a grudge.
 

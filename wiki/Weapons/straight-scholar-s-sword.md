@@ -1,7 +1,8 @@
 # Straight Scholar's Sword
 
-![Straight scholar's sword](../Images/weapons-straight-scholar-s-sword.jpg){.illus}
+![Straight scholar's sword](../Images/GR-0106-weapons-straight-scholar-s-sword.jpg){.illus}
 
+*Catalogue: GR-0106*
 *Set: Expansion*
 
 *aka: ______________________________*

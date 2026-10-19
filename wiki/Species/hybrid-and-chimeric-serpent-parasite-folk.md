@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Serpent parasite (dominator strain) *(NPC only)*
 
+![Serpent parasite (dominator strain)](../Images/species-serpent-parasite-dominator-strain.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** serpentine
 - **Attributes:** STR −3 AGI +3 INT +2 CHA +2 COU +1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Animal Handling](../Skills/animal-handling.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Disguise](../Skills/disguise.md) −2, [Running](../Skills/running.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Serpent parasite (cooperative strain) *(NPC only)*
+
+![Serpent parasite (cooperative strain)](../Images/species-serpent-parasite-cooperative-strain.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** serpentine
 - **Attributes:** STR −3 AGI +3 INT +2 WIS +1 CHA +1

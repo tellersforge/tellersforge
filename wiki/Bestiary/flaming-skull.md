@@ -1,7 +1,8 @@
 # Flaming skull
 
-![Flaming skull](../Images/bestiary-flaming-skull.jpg){.illus}
+![Flaming skull](../Images/BE-201-bestiary-flaming-skull.jpg){.illus}
 
+*Catalogue: BE-201*
 *Set: Expansion*
 
 *aka: ______________________________*

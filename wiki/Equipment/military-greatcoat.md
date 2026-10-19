@@ -1,5 +1,9 @@
 # Military greatcoat
 
+![Military greatcoat](../Images/GR-0651-equipment-military-greatcoat.jpg){.illus}
+
+
+*Catalogue: GR-0651*
 *Set: Expansion*
 
 *aka: ______________________________*

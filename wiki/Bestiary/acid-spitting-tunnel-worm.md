@@ -1,5 +1,9 @@
 # Acid-spitting tunnel worm
 
+![Acid-spitting tunnel worm](../Images/BE-006-bestiary-acid-spitting-tunnel-worm.jpg){.illus}
+
+
+*Catalogue: BE-006*
 *Set: Expansion*
 
 *aka: ______________________________*

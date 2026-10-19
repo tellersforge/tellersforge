@@ -1,5 +1,9 @@
 # Cartography
 
+![Cartography](../Images/SK-032-skills-cartography.jpg){.illus}
+
+
+*Catalogue: SK-032*
 *Set: Expansion*
 
 *aka: ______________________________*

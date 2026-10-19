@@ -1,5 +1,9 @@
 # Ox-headed spider
 
+![Ox-headed spider](../Images/BE-450-bestiary-ox-headed-spider.jpg){.illus}
+
+
+*Catalogue: BE-450*
 *Set: Core*
 
 *aka: ______________________________*

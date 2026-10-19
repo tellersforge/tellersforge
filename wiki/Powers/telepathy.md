@@ -1,5 +1,9 @@
 # Telepathy
 
+![Telepathy](../Images/PW-294-powers-telepathy.jpg){.illus}
+
+
+*Catalogue: PW-294*
 *Set: Core*
 
 *aka: ______________________________*

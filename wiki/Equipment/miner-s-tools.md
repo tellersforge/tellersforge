@@ -1,7 +1,8 @@
 # Miner's tools
 
-![Miner's tools](../Images/equipment-miner-s-tools.jpg){.illus}
+![Miner's tools](../Images/GR-0654-equipment-miner-s-tools.jpg){.illus}
 
+*Catalogue: GR-0654*
 *Set: Expansion*
 
 *aka: ______________________________*

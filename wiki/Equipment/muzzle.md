@@ -1,5 +1,9 @@
 # Muzzle
 
+![Muzzle](../Images/GR-0671-equipment-muzzle.jpg){.illus}
+
+
+*Catalogue: GR-0671*
 *Set: Expansion*
 
 *aka: ______________________________*

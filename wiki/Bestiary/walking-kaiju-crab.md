@@ -1,5 +1,9 @@
 # Walking kaiju crab
 
+![Walking kaiju crab](../Images/BE-656-bestiary-walking-kaiju-crab.jpg){.illus}
+
+
+*Catalogue: BE-656*
 *Set: Expansion*
 
 *aka: ______________________________*

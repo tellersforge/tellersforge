@@ -1,5 +1,8 @@
 # Hidden mages' enclave
 
+![Hidden mages' enclave](../Images/cultures-hidden-mages-enclave.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

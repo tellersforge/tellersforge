@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 48 Half-elf hybrid folk *(genres: classic fantasy; starter)*
 
+![Half-elf hybrid folk](../Images/species-half-elf-hybrid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Children of human and elf, at home in both worlds and in neither. (looks like: elf; good at: speed and agility, keen senses)
 - **Attributes:** AGI +1 PER +1
@@ -46,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 49 Half-orc hybrid folk *(genres: classic fantasy; starter)*
+
+![Half-orc hybrid folk](../Images/species-half-orc-hybrid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Children of human and orc: strong, tough, and often misjudged. (looks like: orc; good at: strength, fighting, keen senses)
@@ -58,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 50 War-wizard bloodline folk *(genres: classic fantasy)*
 
+![War-wizard bloodline folk](../Images/species-war-wizard-bloodline-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A rare, hunted bloodline gifted with both battle magic and healing hands. (looks like: human; good at: powers and magic, healing)
 - **Attributes:** none
@@ -66,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Born with both destructive and healing magic.
 
 ### No. 51 Sorcerer-blooded longlived folk *(genres: classic fantasy)*
+
+![Sorcerer-blooded longlived folk](../Images/species-sorcerer-blooded-longlived-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived sorcerers who move objects with nothing but a thought. (looks like: human; good at: powers and magic, knowledge)
@@ -77,6 +89,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 52 Half-giant folk *(genres: myth and legend, classic fantasy)*
 
+![Half-giant folk](../Images/species-half-giant-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Gentle-natured half-giants, taller and stronger than any ordinary person. (looks like: giant; good at: strength, toughness)
 - **Attributes:** STR +3 AGI −2
@@ -87,6 +102,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Half-beast assassin folk *(NPC only)*
 
+![Half-beast assassin folk](../Images/species-half-beast-assassin-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END +1
 - **Powers:** [Toughness](../Powers/toughness.md) 1
@@ -95,6 +113,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Assassin training is Profession.
 
 ### No. 53 Divinity-touched hybrid folk *(genres: myth and legend, heavens, hells and other planes)*
+
+![Divinity-touched hybrid folk](../Images/species-divinity-touched-hybrid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Outsiders marked by faint divine blood, with glowing eyes and a touch of foresight. (looks like: human; good at: powers and magic, keen senses)
@@ -106,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 54 Death-marked revenant folk *(genres: dark fantasy, gothic horror)*
 
+![Death-marked revenant folk](../Images/species-death-marked-revenant-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Dark-marked outcasts who keep rising again after they die. (looks like: human; good at: powers and magic, toughness)
 - **Attributes:** none
@@ -114,6 +138,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Marked by dark power, they come back after death.
 
 ### No. 55 Reincarnating crystal-lineage folk *(genres: super-powered: cosmic and mythic, myth and legend)*
+
+![Reincarnating crystal-lineage folk](../Images/species-reincarnating-crystal-lineage-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Descendants of a lost kingdom, reborn again and again across the centuries. (looks like: human; good at: powers and magic, knowledge)
@@ -125,6 +152,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 56 Spirit-hunter bloodline folk *(genres: gothic horror)*
 
+![Spirit-hunter bloodline folk](../Images/species-spirit-hunter-bloodline-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A hunted bloodline who conjure spirit-bows and armour out of thin air. (looks like: human; good at: powers and magic, fighting)
 - **Attributes:** none
@@ -133,6 +163,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A hereditary gift for shaping spirit particles into bows and arrows, and for seeing spirits.
 
 ### No. 57 Half-Atlantean hybrid folk *(genres: super-powered: cosmic and mythic, sea and sky)*
+
+![Half-Atlantean hybrid folk](../Images/species-half-atlantean-hybrid-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Half-sea-kingdom folk carrying a little of the deep ocean's strength and breath. (looks like: human; good at: swimming, strength)

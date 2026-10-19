@@ -1,5 +1,9 @@
 # Military Tactics
 
+![Military Tactics](../Images/SK-133-skills-military-tactics.jpg){.illus}
+
+
+*Catalogue: SK-133*
 *Set: Expansion*
 
 *aka: ______________________________*

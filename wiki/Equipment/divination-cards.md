@@ -1,5 +1,9 @@
 # Divination cards
 
+![Divination cards](../Images/GR-0337-equipment-divination-cards.jpg){.illus}
+
+
+*Catalogue: GR-0337*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 313 Animate stuffed-toy ancestry *(genres: fairy tale and folklore)*
 
+![Animate stuffed-toy ancestry](../Images/species-animate-stuffed-toy-ancestry.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** A small stuffed toy brought to life by someone's love, immune to poison and illness but easily torn or singed. (looks like: toy; good at: sneaking, people and talk)
 - **Attributes:** STR −2 AGI +2 INT +1 WIS −1 CHA +1

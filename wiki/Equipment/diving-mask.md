@@ -1,5 +1,9 @@
 # Diving mask
 
+![Diving mask](../Images/GR-0341-equipment-diving-mask.jpg){.illus}
+
+
+*Catalogue: GR-0341*
 *Set: Expansion*
 
 *aka: ______________________________*

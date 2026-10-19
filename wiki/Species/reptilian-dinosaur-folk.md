@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 668 Raptor-folk *(genres: beast-folk: scales, feathers and shells, pulp planets and lost worlds)*
 
+![Raptor-folk](../Images/species-raptor-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Fast, feathered raptor folk who hunt in coordinated packs and strike with a sickle-shaped claw. (looks like: dinosaur; good at: speed and agility, fighting)
 - **Attributes:** STR +1 AGI +2 CHA −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Sickle-clawed sprinters who hunt in packs.
 
 ### Horned herd dinosaur folk *(NPC only)*
+
+![Horned herd dinosaur folk](../Images/species-horned-herd-dinosaur-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped+tailed
 - **Attributes:** STR +4 AGI −2 END +1 CHA −1
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sauropod-folk *(NPC only)*
 
+![Sauropod-folk](../Images/species-sauropod-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** quadruped+tailed
 - **Attributes:** STR +5 AGI −4 END +1 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Survival: Arctic](../Skills/survival-arctic.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -53,6 +62,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Size and slowness are size-class matters. Herbivore: no biting weapon. No hands: held weapons unusable.
 
 ### Tyrannosaur-folk *(NPC only)*
+
+![Tyrannosaur-folk](../Images/species-tyrannosaur-folk.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped+tailed
 - **Attributes:** STR +7 AGI −4 END +1 INT −1 CHA −1
@@ -65,6 +77,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Armoured dinosaur folk *(NPC only)*
 
+![Armoured dinosaur folk](../Images/species-armoured-dinosaur-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped+tailed
 - **Attributes:** STR +3 AGI −2 END +2 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Survival: Arctic](../Skills/survival-arctic.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -76,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Pterosaur-folk *(NPC only)*
 
+![Pterosaur-folk](../Images/species-pterosaur-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **Attributes:** STR −1 AGI +2 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) +1, [Fishing](../Skills/fishing.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Survival: Arctic](../Skills/survival-arctic.md) −3
@@ -85,6 +103,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Membrane-winged fliers that fish from the air.
 
 ### Horned warrior dinosaur folk *(NPC only)*
+
+![Horned warrior dinosaur folk](../Images/species-horned-warrior-dinosaur-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +1 CHA −1 COU +1
@@ -96,6 +117,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 669 Sentient dinosaur folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Sentient dinosaur folk](../Images/species-sentient-dinosaur-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Sapient dinosaur folk of many kinds, hiding an advanced civilisation most outsiders never suspect. (looks like: dinosaur; good at: strength, knowledge)
 - **Attributes:** STR +3 AGI −2 END +1 CHA −1
@@ -106,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Soul-harvesting raptor folk *(NPC only)*
 
+![Soul-harvesting raptor folk](../Images/species-soul-harvesting-raptor-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +1 END +1 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Survival: Arctic](../Skills/survival-arctic.md) −3
@@ -115,6 +142,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Dinosaur-descended starfarer folk *(NPC only)*
 
+![Dinosaur-descended starfarer folk](../Images/species-dinosaur-descended-starfarer-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +1 CHA −1
 - **Skills:** [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Swimming](../Skills/swimming.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Survival: Arctic](../Skills/survival-arctic.md) −3
@@ -123,6 +153,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Their spacefaring is Culture and era; nothing differs in the body.
 
 ### Subterranean dinosaur-soldier folk *(NPC only)*
+
+![Subterranean dinosaur-soldier folk](../Images/species-subterranean-dinosaur-soldier-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +1 INT −1 CHA −1

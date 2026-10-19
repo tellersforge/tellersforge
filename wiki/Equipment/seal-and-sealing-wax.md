@@ -1,5 +1,9 @@
 # Seal and sealing wax
 
+![Seal and sealing wax](../Images/GR-0829-equipment-seal-and-sealing-wax.jpg){.illus}
+
+
+*Catalogue: GR-0829*
 *Set: Expansion*
 
 *aka: ______________________________*

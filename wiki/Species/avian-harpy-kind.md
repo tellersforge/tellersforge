@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 216 Harpy folk *(genres: myth and legend)*
 
+![Harpy folk](../Images/species-harpy-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** Foul-tempered, wind-swift harpies with a bird's wings and wicked talons. (looks like: harpy; good at: flying, fighting)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2 CHA −2 COU +1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 10 · Damage longsword 1d6+2; talons 1d6+2 · Armour 2 · Life 16 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Death-singing siren *(NPC only)*
+
+![Death-singing siren](../Images/species-death-singing-siren.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2 CHA +1 COU +1

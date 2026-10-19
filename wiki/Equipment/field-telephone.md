@@ -1,5 +1,9 @@
 # Field telephone
 
+![Field telephone](../Images/GR-0407-equipment-field-telephone.jpg){.illus}
+
+
+*Catalogue: GR-0407*
 *Set: Expansion*
 
 *aka: ______________________________*

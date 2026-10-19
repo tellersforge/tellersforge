@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Primal formless folk *(NPC only)*
 
+![Primal formless folk](../Images/species-primal-formless-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** amorphous
 - **Attributes:** AGI +1 END +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept

@@ -1,5 +1,9 @@
 # Drowned revenant
 
+![Drowned revenant](../Images/BE-164-bestiary-drowned-revenant.jpg){.illus}
+
+
+*Catalogue: BE-164*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Mountain terrace empire
 
+![Mountain terrace empire](../Images/cultures-mountain-terrace-empire.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

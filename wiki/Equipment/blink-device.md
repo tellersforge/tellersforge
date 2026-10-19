@@ -1,7 +1,8 @@
 # Blink device
 
-![Blink device](../Images/equipment-blink-device.jpg){.illus}
+![Blink device](../Images/GR-0218-equipment-blink-device.jpg){.illus}
 
+*Catalogue: GR-0218*
 *Set: Expansion*
 
 *aka: ______________________________*

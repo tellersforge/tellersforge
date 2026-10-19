@@ -1,5 +1,9 @@
 # Toughness
 
+![Toughness](../Images/PW-300-powers-toughness.jpg){.illus}
+
+
+*Catalogue: PW-300*
 *Set: Core*
 
 *aka: ______________________________*

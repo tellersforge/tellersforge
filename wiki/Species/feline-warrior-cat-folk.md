@@ -40,6 +40,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 414 Towering strong feline warrior folk *(genres: space opera: beast-like aliens)*
 
+![Towering strong feline warrior folk](../Images/species-towering-strong-feline-warrior-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+furred
 - **What it's like:** Towering, powerfully built cat-folk warriors trained from birth in a proud fighting tradition. (looks like: cat; good at: strength, fighting)
 - **Attributes:** STR +2 AGI −1 END +1 WIS +1
@@ -52,6 +55,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Agile raider cat-folk *(NPC only)*
 
+![Agile raider cat-folk](../Images/species-agile-raider-cat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+furred+tailed
 - **Attributes:** STR −1 AGI +3 END −1 WIS +1
 - **Skills:** [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -62,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Especially agile raiders.
 
 ### Feline slaver folk · Mercenary cat-folk *(NPC only)*
+
+![Feline slaver folk](../Images/species-feline-slaver-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+furred+tailed
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1
@@ -75,6 +84,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 415 Noble warrior refugee cat-folk *(genres: space opera: beast-like aliens)*
 
+![Noble warrior refugee cat-folk](../Images/species-noble-warrior-refugee-cat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Noble cat-folk warriors, refugees of a lost homeland, with sharp senses and a proud fighting tradition. (looks like: cat; good at: fighting, keen senses)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1
@@ -86,6 +98,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Heightened senses.
 
 ### No. 416 Civilized feline officer folk *(genres: space opera: beast-like aliens)*
+
+![Civilized feline officer folk](../Images/species-civilized-feline-officer-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Disciplined cat-folk officers with quick reflexes and sharp claws, serving in an orderly, professional force. (looks like: cat; good at: speed and agility, fighting)
@@ -99,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Large feline warrior-conqueror *(NPC only)*
 
+![Large feline warrior-conqueror](../Images/species-large-feline-warrior-conqueror.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +2 WIS +1 COU +1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Intimidation](../Skills/intimidation.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -110,6 +128,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Monk-warrior beastman cat-folk *(NPC only)*
 
+![Monk-warrior beastman cat-folk](../Images/species-monk-warrior-beastman-cat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +2 END −1 WIS +2
 - **Skills:** [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Composure](../Skills/composure.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -120,6 +141,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Guardian monks who can take full beast form.
 
 ### No. 417 Industrial militarist cat-folk *(genres: space opera: beast-like aliens)*
+
+![Industrial militarist cat-folk](../Images/species-industrial-militarist-cat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Feline citizens of a highly industrial empire, raised in a strict military tradition and skilled with its machines. (looks like: cat; good at: fighting, making and fixing)
@@ -133,6 +157,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 418 Tribal striped cat-folk *(genres: beast-folk: fur)*
 
+![Tribal striped cat-folk](../Images/species-tribal-striped-cat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Striped cat-folk warriors organised into fierce, close-knit clans, agile and always ready for a fight. (looks like: cat; good at: fighting, speed and agility)
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1
@@ -144,6 +171,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Striped fur that hides them well.
 
 ### No. 419 Predatory sci-fi cat-folk *(genres: space opera: beast-like aliens; starter)*
+
+![Predatory sci-fi cat-folk](../Images/species-predatory-sci-fi-cat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Fierce, graceful cat people from the stars who hunt and fight with honour. (looks like: cat; good at: sneaking, climbing, speed and agility)
@@ -157,6 +187,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 420 Small merchant cat-folk *(genres: space opera: beast-like aliens)*
 
+![Small merchant cat-folk](../Images/species-small-merchant-cat-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Small, curious cat-folk traders, quick on their feet and always sniffing out a good deal. (looks like: cat; good at: speed and agility, people and talk)
 - **Attributes:** STR −2 AGI +2 END −1 WIS +1
@@ -168,6 +201,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Human-like apart from cat ears and tail: no claws or fangs.
 
 ### No. 421 Inventor nomad cat-folk *(genres: space opera: beast-like aliens, multiverse and time)*
+
+![Inventor nomad cat-folk](../Images/species-inventor-nomad-cat-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Big-eared, long-lived cat-folk inventors who wander between worlds, endlessly tinkering with clever gadgets. (looks like: cat; good at: making and fixing, speed and agility)
@@ -182,6 +218,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Militaristic occupier cat-folk *(NPC only)*
 
+![Militaristic occupier cat-folk](../Images/species-militaristic-occupier-cat-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Formation Fighting](../Skills/formation-fighting.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Swimming](../Skills/swimming.md) −2
@@ -193,6 +232,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Maned lion-warrior folk (large) *(NPC only)*
 
+![Maned lion-warrior folk (large)](../Images/species-maned-lion-warrior-folk-large.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **Attributes:** STR +2 END −1 WIS +1 COU +1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -203,6 +245,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Fanged, fierce warrior folk.
 
 ### Matriarchal lion-folk *(NPC only)*
+
+![Matriarchal lion-folk](../Images/species-matriarchal-lion-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1

@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 322 Half-dragon noble *(genres: classic fantasy)*
 
+![Half-dragon noble](../Images/species-half-dragon-noble.jpg){.illus}
+
+
 - **Size:** medium · **Body:** winged biped
 - **What it's like:** A noble with dragon blood in their veins: scaled skin, a little breath weapon, and sometimes the gift of flight. (looks like: dragon; good at: fighting, powers and magic)
 - **Attributes:** STR +2 AGI −1 END +1 WIS −1 COU +1
@@ -50,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 323 Dragon-form shapeshifter folk *(genres: classic fantasy)*
 
+![Dragon-form shapeshifter folk](../Images/species-dragon-form-shapeshifter-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Someone who looks entirely human until the moment they transform into a true dragon, carrying an ancient, long-lived bloodline. (looks like: human; good at: powers and magic, fighting)
 - **Attributes:** STR +1 COU +1
@@ -60,6 +66,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Monstrous Form is the full dragon form. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### No. 324 Dragon-aspect servitor folk *(genres: classic fantasy)*
+
+![Dragon-aspect servitor folk](../Images/species-dragon-aspect-servitor-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** A long-lived servant folk who can shift between a human shape and a full winged dragon form at will. (looks like: dragon; good at: powers and magic, flying)
@@ -72,6 +81,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 325 Dragon-touched mythic folk *(genres: myth and legend)*
 
+![Dragon-touched mythic folk](../Images/species-dragon-touched-mythic-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Folk touched by dragon-blessing, with a few scales and a proud culture of mythic heroes. (looks like: human with scales; good at: fighting, powers and magic)
 - **Attributes:** STR +1 WIS −1 COU +1
@@ -82,6 +94,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 326 Scholarly dragon-descended folk *(genres: classic fantasy)*
 
+![Scholarly dragon-descended folk](../Images/species-scholarly-dragon-descended-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Scaled descendants of dragons who prize discipline and scholarship, building a great and expanding civilisation. (looks like: human with scales; good at: knowledge, fighting)
 - **Attributes:** STR +1 AGI −1 INT +2 WIS −1 COU +1
@@ -91,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A disciplined scholarly people.
 
 ### No. 327 Kobold-kin tinkerer folk *(genres: classic fantasy)*
+
+![Kobold-kin tinkerer folk](../Images/species-kobold-kin-tinkerer-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **What it's like:** Small dragon-kin who see in the dark and love building clever traps, living in tribes with scales of every colour. (looks like: lizard; good at: making and fixing, keen senses)

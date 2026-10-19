@@ -1,5 +1,9 @@
 # Mourning jewellery
 
+![Mourning jewellery](../Images/GR-0666-equipment-mourning-jewellery.jpg){.illus}
+
+
+*Catalogue: GR-0666*
 *Set: Expansion*
 
 *aka: ______________________________*

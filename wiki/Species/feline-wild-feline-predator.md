@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Small wild feline predator *(beast)*
 
+![Small wild feline predator](../Images/species-small-wild-feline-predator.jpg){.illus}
+
+
 - **Size:** small · **Body:** quadruped
 - **Attributes:** STR −2 AGI +2 END −1 INT −3 WIS +1 CHA −2
 - **Skills:** [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Formation Fighting](../Skills/formation-fighting.md) −1, [Swimming](../Skills/swimming.md) −2, [Hand Tools](../Skills/hand-tools.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; smaller size is a size-class matter.
 
 ### Arena predator feline *(beast)*
+
+![Arena predator feline](../Images/species-arena-predator-feline.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +1 END −1 INT −3 WIS +1 PER +1 CHA −2

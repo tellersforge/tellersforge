@@ -1,7 +1,8 @@
 # Blowgun
 
-![Blowgun](../Images/weapons-blowgun.jpg){.illus}
+![Blowgun](../Images/GR-0008-weapons-blowgun.jpg){.illus}
 
+*Catalogue: GR-0008*
 *Set: Core*
 
 *aka: ______________________________*

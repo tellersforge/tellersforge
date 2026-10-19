@@ -1,7 +1,8 @@
 # Walker Mech
 
-![Walker mech](../Images/vehicles-walker-mech.jpg){.illus}
+![Walker mech](../Images/GR-1128-vehicles-walker-mech.jpg){.illus}
 
+*Catalogue: GR-1128*
 *Set: Expansion*
 
 

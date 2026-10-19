@@ -1,5 +1,9 @@
 # Kelp strangler
 
+![Kelp strangler](../Images/BE-376-bestiary-kelp-strangler.jpg){.illus}
+
+
+*Catalogue: BE-376*
 *Set: Expansion*
 
 *aka: ______________________________*

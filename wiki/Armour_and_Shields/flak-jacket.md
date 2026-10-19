@@ -1,5 +1,9 @@
 # Flak jacket
 
+![Flak jacket](../Images/GR-0137-armour-flak-jacket.jpg){.illus}
+
+
+*Catalogue: GR-0137*
 *Set: Expansion*
 
 *aka: ______________________________*

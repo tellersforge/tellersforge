@@ -1,5 +1,9 @@
 # Priest's vestments
 
+![Priest's vestments](../Images/GR-0760-equipment-priest-s-vestments.jpg){.illus}
+
+
+*Catalogue: GR-0760*
 *Set: Expansion*
 
 *aka: ______________________________*

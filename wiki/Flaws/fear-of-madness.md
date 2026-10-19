@@ -1,5 +1,8 @@
 # Fear of Madness
 
+![Fear of Madness](../Images/flaws-fear-of-madness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when losing one's mind.

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Primate faction folk *(NPC only)*
 
+![Primate faction folk](../Images/species-primate-faction-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 WIS −1 CHA +2
 - **Skills:** [Acrobatics](../Skills/acrobatics.md) +2, [Balance](../Skills/balance.md) +1, [Climbing](../Skills/climbing.md) +1, [Intrigue & Politics](../Skills/intrigue-and-politics.md) +1, [Throwing](../Skills/throwing.md) +1, [Composure](../Skills/composure.md) −1, [Etiquette](../Skills/etiquette.md) −1, [Swimming](../Skills/swimming.md) −2
@@ -31,6 +34,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Human-like politicians, little given to climbing.
 
 ### Arboreal faction folk *(NPC only)*
+
+![Arboreal faction folk](../Images/species-arboreal-faction-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI +1 INT −1 WIS +1

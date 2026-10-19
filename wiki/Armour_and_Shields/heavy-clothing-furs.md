@@ -1,5 +1,9 @@
 # Heavy clothing, furs
 
+![Heavy clothing, furs](../Images/GR-0141-armour-heavy-clothing-furs.jpg){.illus}
+
+
+*Catalogue: GR-0141*
 *Set: Core*
 
 *aka: ______________________________*

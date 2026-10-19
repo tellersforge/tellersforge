@@ -1,5 +1,9 @@
 # Straw snow boots
 
+![Straw snow boots](../Images/GR-0927-equipment-straw-snow-boots.jpg){.illus}
+
+
+*Catalogue: GR-0927*
 *Set: Expansion*
 
 *aka: ______________________________*

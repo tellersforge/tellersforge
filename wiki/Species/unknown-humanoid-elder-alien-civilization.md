@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Barrel-shaped star-faring ancients *(NPC only; NPC-scale)*
 
+![Barrel-shaped star-faring ancients](../Images/species-barrel-shaped-star-faring-ancients.jpg){.illus}
+
+
 - **Size:** large · **Body:** other
 - **Attributes:** STR +3 AGI −2 END +2 INT +3
 - **Skills:** [Life Sciences](../Skills/life-sciences.md) +1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Life Sciences is a culture line. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Cone-shaped time-traveling mind-swappers *(NPC only; NPC-scale)*
+
+![Cone-shaped time-traveling mind-swappers](../Images/species-cone-shaped-time-traveling-mind-swappers.jpg){.illus}
+
 
 - **Size:** large · **Body:** other
 - **Attributes:** STR +2 AGI −2 INT +3 WIS +2

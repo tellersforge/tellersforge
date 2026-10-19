@@ -1,5 +1,9 @@
 # Nets, Bolas & Lassos
 
+![Nets, Bolas & Lassos](../Images/WG-021-weapon-groups-nets-bolas-and-lassos.jpg){.illus}
+
+
+*Catalogue: WG-021*
 *Set: Expansion*
 
 *aka: ______________________________*

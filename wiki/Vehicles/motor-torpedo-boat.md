@@ -1,5 +1,9 @@
 # Motor Torpedo Boat
 
+![Motor Torpedo Boat](../Images/GR-1092-vehicles-motor-torpedo-boat.jpg){.illus}
+
+
+*Catalogue: GR-1092*
 *Set: Expansion*
 
 

@@ -1,5 +1,9 @@
 # Mountain tent
 
+![Mountain tent](../Images/GR-0663-equipment-mountain-tent.jpg){.illus}
+
+
+*Catalogue: GR-0663*
 *Set: Expansion*
 
 *aka: ______________________________*

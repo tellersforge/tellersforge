@@ -1,5 +1,9 @@
 # Lightning hawk
 
+![Lightning hawk](../Images/BE-389-bestiary-lightning-hawk.jpg){.illus}
+
+
+*Catalogue: BE-389*
 *Set: Core*
 
 *aka: ______________________________*

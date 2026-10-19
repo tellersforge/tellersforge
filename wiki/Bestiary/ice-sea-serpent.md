@@ -1,5 +1,9 @@
 # Ice sea serpent
 
+![Ice sea serpent](../Images/BE-359-bestiary-ice-sea-serpent.jpg){.illus}
+
+
+*Catalogue: BE-359*
 *Set: Expansion*
 
 *aka: ______________________________*

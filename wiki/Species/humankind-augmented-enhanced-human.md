@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 5 Mutation-hardened monster hunter folk *(genres: dark fantasy, gothic horror)*
 
+![Mutation-hardened monster hunter folk](../Images/species-mutation-hardened-monster-hunter-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Alchemically hardened monster hunters with lightning reflexes and sharp senses. (looks like: human; good at: fighting, speed and agility, keen senses)
 - **Attributes:** CHA −1 COU +1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 6 Cosmic warrior empire folk *(genres: super-powered: cosmic and mythic)*
 
+![Cosmic warrior empire folk](../Images/species-cosmic-warrior-empire-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Disciplined warrior-empire people, tougher than most and fiercely militaristic. (looks like: alien; good at: toughness, fighting)
 - **Attributes:** END +1
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Super Strength affinity from the species stays.
 
 ### No. 7 Solar-powered warrior folk *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
+
+![Solar-powered warrior folk](../Images/species-solar-powered-warrior-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Mighty sun-fuelled warriors who fly, shrug off harm and blast pure energy. (looks like: alien; good at: flying, strength, powers and magic)
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 8 Genetically-superior offshoot folk *(genres: space opera: near-humans)*
 
+![Genetically-superior offshoot folk](../Images/species-genetically-superior-offshoot-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Proud, powerfully built offshoot humans with keen senses and fast healing. (looks like: human; good at: strength, keen senses, healing)
 - **Attributes:** STR +2 AGI −2
@@ -63,6 +75,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Human-derived warrior-empire folk *(NPC-scale)*
 
+![Human-derived warrior-empire folk](../Images/species-human-derived-warrior-empire-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Powers:** [Flight](../Powers/flight.md) 3, [Super Strength](../Powers/super-strength.md) 3, [Invulnerability](../Powers/invulnerability.md) 2, [Super Speed](../Powers/super-speed.md) 2
@@ -71,6 +86,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Close to NPC-scale; suited to high-powered games. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### No. 9 Monkey-tailed transforming warrior race *(genres: super-powered: cosmic and mythic)*
+
+![Monkey-tailed transforming warrior race](../Images/species-monkey-tailed-transforming-warrior-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tailed warrior folk who grow monstrously strong and huge under a full moon. (looks like: monkey; good at: strength, powers and magic)
@@ -82,6 +100,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 10 Genetically-engineered superhuman folk *(genres: space opera: near-humans, near future and cyberpunk; starter)*
 
+![Genetically-engineered superhuman folk](../Images/species-genetically-engineered-superhuman-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Humans built in a lab to be stronger, faster and smarter than anyone. (looks like: human; good at: strength, speed and agility, knowledge)
 - **Attributes:** INT +2
@@ -91,6 +112,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Their enhanced intelligence belongs in the attribute step.
 
 ### No. 11 Ancient enhanced near-immortal folk *(genres: super-powered: cosmic and mythic)*
+
+![Ancient enhanced near-immortal folk](../Images/species-ancient-enhanced-near-immortal-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Ancient, near-immortal giants of tremendous strength and near-unbreakable bodies. (looks like: giant; good at: strength, toughness)
@@ -102,6 +126,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 12 Reversed-power duplicate folk *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
 
+![Reversed-power duplicate folk](../Images/species-reversed-power-duplicate-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Flawed magical copies with mighty, mismatched powers: flight, great strength and icy blasts. (looks like: clone; good at: flying, strength, powers and magic)
 - **Attributes:** INT −2
@@ -111,6 +138,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Powers follow the template being and can be unstable; short, unstable lifespan is a flaw, not a line. High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### Duplicate-world citizenry folk · Powerless red-sun colonist folk · Human-passing outcast caste folk · Potion-empowered villager folk · Demon-hunting warrior order folk · Cybernetic elite enforcer folk *(NPC only)*
+
+![Duplicate-world citizenry folk](../Images/species-duplicate-world-citizenry-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
@@ -128,6 +158,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 13 Lead-vulnerable solar warrior folk *(high-power: Game Master's approval; genres: super-powered: cosmic and mythic)*
 
+![Lead-vulnerable solar warrior folk](../Images/species-lead-vulnerable-solar-warrior-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Decadent sun-powered royals: immensely strong, near-unbreakable and able to fly. (looks like: alien; good at: flying, strength, toughness)
 - **Attributes:** none
@@ -138,12 +171,18 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Armored judge-corps enforcer folk *(NPC only)*
 
+![Armored judge-corps enforcer folk](../Images/species-armored-judge-corps-enforcer-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 5 · Damage longsword 1d6+2 · Armour 2 · Life 22 · Threat 2 ([Bestiary roles](../bestiary.md))
 - *Why:* Same as its species; the elite caste's hammers and armour are gear and its size is an attribute matter.
 
 ### No. 14 Nanotech-regenerating folk *(genres: super-powered: mutants and the enhanced)*
+
+![Nanotech-regenerating folk](../Images/species-nanotech-regenerating-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Nanotech-altered folk who heal fast, wield fire-hot power and link their minds to machines. (looks like: cyborg; good at: healing, powers and magic, making and fixing)
@@ -153,6 +192,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An injected agent grants rapid regeneration, body heat that can burn, and a direct brain-machine link.
 
 ### No. 15 Gamma-irradiated brute folk *(genres: super-powered: mutants and the enhanced)*
+
+![Gamma-irradiated brute folk](../Images/species-gamma-irradiated-brute-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** varies
 - **What it's like:** Radiation-changed brutes who grow huge and furious, tough-skinned and fast-healing. (looks like: monster; good at: strength, toughness, healing)
@@ -164,6 +206,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Super Strength scales with rage; size is an attribute matter. Results vary by dose. Size Set large: the transformed brute is always a hulking giant; only the degree of strength varies with rage and dose.
 
 ### No. 16 Sunlight-depleting powered folk *(genres: super-powered: cosmic and mythic)*
+
+![Sunlight-depleting powered folk](../Images/species-sunlight-depleting-powered-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sun-fuelled refugees who fly, blast light and shield themselves, weaker in the dark. (looks like: alien; good at: flying, powers and magic)

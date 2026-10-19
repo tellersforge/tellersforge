@@ -1,7 +1,8 @@
 # Half plate
 
-![Half-plate](../Images/armour-half-plate.jpg){.illus}
+![Half-plate](../Images/GR-0140-armour-half-plate.jpg){.illus}
 
+*Catalogue: GR-0140*
 *Set: Core*
 
 *aka: ______________________________*

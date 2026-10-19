@@ -1,5 +1,9 @@
 # Gene-sculpted feature
 
+![Gene-sculpted feature](../Images/GR-0455-equipment-gene-sculpted-feature.jpg){.illus}
+
+
+*Catalogue: GR-0455*
 *Set: Expansion*
 
 *aka: ______________________________*

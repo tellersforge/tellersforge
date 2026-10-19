@@ -1,7 +1,8 @@
 # Robotic tool arm
 
-![Robotic tool arm](../Images/equipment-robotic-tool-arm.jpg){.illus}
+![Robotic tool arm](../Images/GR-0799-equipment-robotic-tool-arm.jpg){.illus}
 
+*Catalogue: GR-0799*
 *Set: Expansion*
 
 *aka: ______________________________*

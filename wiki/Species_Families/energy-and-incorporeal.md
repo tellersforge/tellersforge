@@ -1,5 +1,8 @@
 # Energy and incorporeal
 
+![Energy and incorporeal](../Images/species-families-energy-and-incorporeal.jpg){.illus}
+
+
 
 Beings with no body worth mentioning. Some are small and homely: a hearth spirit, a wisp of marsh light leading travellers astray, a gentle glow that guides the lost. Others are vast and old, minds of pure force that shed their flesh ages ago and now meddle with lesser peoples from boredom or duty. The family holds ghosts of a sort, dream-shapes, heralds of unknown powers, and faceless things from beyond the sky. Swords pass through them and walls do not stop them, but they are bound by their own strange rules. Mortals see a flicker of light or feel a cold presence, and rarely understand what is looking back.
 

@@ -1,5 +1,8 @@
 # Fear of Crowds
 
+![Fear of Crowds](../Images/flaws-fear-of-crowds.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when crowds, mobs, packed markets.

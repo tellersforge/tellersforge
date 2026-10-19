@@ -1,7 +1,8 @@
 # Anti-grav sled
 
-![Anti-grav sled](../Images/equipment-anti-grav-sled.jpg){.illus}
+![Anti-grav sled](../Images/GR-0182-equipment-anti-grav-sled.jpg){.illus}
 
+*Catalogue: GR-0182*
 *Set: Expansion*
 
 *aka: ______________________________*

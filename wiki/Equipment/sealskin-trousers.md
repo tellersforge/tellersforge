@@ -1,5 +1,9 @@
 # Sealskin trousers
 
+![Sealskin trousers](../Images/GR-0831-equipment-sealskin-trousers.jpg){.illus}
+
+
+*Catalogue: GR-0831*
 *Set: Expansion*
 
 *aka: ______________________________*

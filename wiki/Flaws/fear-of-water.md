@@ -1,5 +1,8 @@
 # Fear of Water
 
+![Fear of Water](../Images/flaws-fear-of-water.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when water, swimming, drowning.

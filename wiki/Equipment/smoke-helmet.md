@@ -1,5 +1,9 @@
 # Smoke helmet
 
+![Smoke helmet](../Images/GR-0885-equipment-smoke-helmet.jpg){.illus}
+
+
+*Catalogue: GR-0885*
 *Set: Expansion*
 
 *aka: ______________________________*

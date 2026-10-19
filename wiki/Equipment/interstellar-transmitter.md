@@ -1,5 +1,9 @@
 # Interstellar transmitter
 
+![Interstellar transmitter](../Images/GR-0566-equipment-interstellar-transmitter.jpg){.illus}
+
+
+*Catalogue: GR-0566*
 *Set: Expansion*
 
 *aka: ______________________________*

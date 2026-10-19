@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Undying threshold caretaker *(NPC only; NPC-scale)*
 
+![Undying threshold caretaker](../Images/species-undying-threshold-caretaker.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Storytelling & Conversation](../Skills/storytelling-and-conversation.md) +2, [Composure](../Skills/composure.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept

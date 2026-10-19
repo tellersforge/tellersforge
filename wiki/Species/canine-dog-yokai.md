@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 250 Noble inu-yokai (dog demon) *(genres: fairy tale and folklore, heavens, hells and other planes)*
 
+![Noble inu-yokai (dog demon)](../Images/species-noble-inu-yokai-dog-demon.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived, aristocratic dog-demon clans holding vast stores of demonic power. (looks like: dog; good at: powers and magic, people and talk)
 - **Attributes:** END +1 PER +1 CHA +1 COU +1

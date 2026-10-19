@@ -1,5 +1,9 @@
 # Hand Tools
 
+![Hand Tools](../Images/SK-088-skills-hand-tools.jpg){.illus}
+
+
+*Catalogue: SK-088*
 *Set: Core · Basic skill: Crafting & Repair*
 
 *aka: ______________________________*

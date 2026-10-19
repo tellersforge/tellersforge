@@ -1,7 +1,8 @@
 # Great white shark
 
-![Great white shark](../Images/bestiary-great-white-shark.jpg){.illus}
+![Great white shark](../Images/BE-314-bestiary-great-white-shark.jpg){.illus}
 
+*Catalogue: BE-314*
 *Set: Core*
 
 *aka: ______________________________*

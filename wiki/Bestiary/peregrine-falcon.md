@@ -1,5 +1,9 @@
 # Peregrine falcon
 
+![Peregrine falcon](../Images/BE-454-bestiary-peregrine-falcon.jpg){.illus}
+
+
+*Catalogue: BE-454*
 *Set: Core*
 
 *aka: ______________________________*

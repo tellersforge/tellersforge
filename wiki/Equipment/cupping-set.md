@@ -1,5 +1,9 @@
 # Cupping set
 
+![Cupping set](../Images/GR-0316-equipment-cupping-set.jpg){.illus}
+
+
+*Catalogue: GR-0316*
 *Set: Core*
 
 *aka: ______________________________*

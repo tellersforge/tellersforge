@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 715 Living-weapon-bonded host · No. 716 Reality-bending mask wearer *(genres: super-powered: mutants and the enhanced)*
 
+![Living-weapon-bonded host](../Images/species-living-weapon-bonded-host.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ordinary people bonded to an ancient living relic, gaining organic armour, blades and reality-bending power. (looks like: human; good at: fighting, powers and magic)
 - **Attributes:** AGI +1 WIS −1 CHA +1

@@ -1,5 +1,9 @@
 # Wedding dress
 
+![Wedding dress](../Images/GR-1009-equipment-wedding-dress.jpg){.illus}
+
+
+*Catalogue: GR-1009*
 *Set: Expansion*
 
 *aka: ______________________________*

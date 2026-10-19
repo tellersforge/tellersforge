@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Faceless one *(NPC only)*
 
+![Faceless one](../Images/species-faceless-one.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +2 CHA −2
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2

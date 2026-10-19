@@ -1,5 +1,9 @@
 # Inflatable sleeping pad
 
+![Inflatable sleeping pad](../Images/GR-0560-equipment-inflatable-sleeping-pad.jpg){.illus}
+
+
+*Catalogue: GR-0560*
 *Set: Expansion*
 
 *aka: ______________________________*

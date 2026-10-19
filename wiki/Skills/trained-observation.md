@@ -1,5 +1,9 @@
 # Trained Observation
 
+![Trained Observation](../Images/SK-213-skills-trained-observation.jpg){.illus}
+
+
+*Catalogue: SK-213*
 *Set: Expansion*
 
 *aka: ______________________________*

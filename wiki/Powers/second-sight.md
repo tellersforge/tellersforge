@@ -1,5 +1,9 @@
 # Second Sight
 
+![Second Sight](../Images/PW-251-powers-second-sight.jpg){.illus}
+
+
+*Catalogue: PW-251*
 *Set: Expansion*
 
 *aka: ______________________________*

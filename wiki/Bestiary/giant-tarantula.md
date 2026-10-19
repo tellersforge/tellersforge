@@ -1,5 +1,9 @@
 # Giant tarantula
 
+![Giant tarantula](../Images/BE-285-bestiary-giant-tarantula.jpg){.illus}
+
+
+*Catalogue: BE-285*
 *Set: Core*
 
 *aka: ______________________________*

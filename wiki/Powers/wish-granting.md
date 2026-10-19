@@ -1,5 +1,9 @@
 # Wish Granting
 
+![Wish Granting](../Images/PW-324-powers-wish-granting.jpg){.illus}
+
+
+*Catalogue: PW-324*
 *Set: Expansion*
 
 *aka: ______________________________*

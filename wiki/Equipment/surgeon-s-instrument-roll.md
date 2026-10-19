@@ -1,5 +1,9 @@
 # Surgeon's instrument roll
 
+![Surgeon's instrument roll](../Images/GR-0935-equipment-surgeon-s-instrument-roll.jpg){.illus}
+
+
+*Catalogue: GR-0935*
 *Set: Core*
 
 *aka: ______________________________*

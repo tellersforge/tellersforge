@@ -1,5 +1,9 @@
 # Regeneration gel
 
+![Regeneration gel](../Images/GR-0785-equipment-regeneration-gel.jpg){.illus}
+
+
+*Catalogue: GR-0785*
 *Set: Expansion*
 
 *aka: ______________________________*

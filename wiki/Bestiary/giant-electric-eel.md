@@ -1,5 +1,9 @@
 # Giant electric eel
 
+![Giant electric eel](../Images/BE-249-bestiary-giant-electric-eel.jpg){.illus}
+
+
+*Catalogue: BE-249*
 *Set: Expansion*
 
 *aka: ______________________________*

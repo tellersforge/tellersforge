@@ -1,5 +1,8 @@
 # Clinginess
 
+![Clinginess](../Images/flaws-clinginess.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when won't leave people alone, needs constant reassurance.

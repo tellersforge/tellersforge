@@ -1,5 +1,9 @@
 # Black bear
 
+![Black bear](../Images/BE-046-bestiary-black-bear.jpg){.illus}
+
+
+*Catalogue: BE-046*
 *Set: Core*
 
 *aka: ______________________________*

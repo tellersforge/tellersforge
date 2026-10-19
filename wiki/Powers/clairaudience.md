@@ -1,5 +1,9 @@
 # Clairaudience
 
+![Clairaudience](../Images/PW-038-powers-clairaudience.jpg){.illus}
+
+
+*Catalogue: PW-038*
 *Set: Expansion*
 
 *aka: ______________________________*

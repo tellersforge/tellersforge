@@ -39,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 665 Tortoise-folk *(genres: beast-folk: scales, feathers and shells)*
 
+![Tortoise-folk](../Images/species-tortoise-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+shelled
 - **What it's like:** Domed, heavily-shelled tortoise folk who live for centuries but never seem to be in a rush. (looks like: tortoise; good at: toughness, knowledge)
 - **Attributes:** STR +1 AGI −2 END +2 WIS +1 CHA −1
@@ -51,6 +54,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sea turtle-folk *(NPC only)*
 
+![Sea turtle-folk](../Images/species-sea-turtle-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** aquatic+shelled
 - **Attributes:** STR +3 AGI −2 END +2 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +3, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +2, [Composure](../Skills/composure.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Wayfinding](../Skills/wayfinding.md) +1, [Carousing](../Skills/carousing.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −1, [Running](../Skills/running.md) −2, [Survival: Arctic](../Skills/survival-arctic.md) −3
@@ -61,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Flipper limbs. No hands: held weapons unusable.
 
 ### No. 667 Swift turtle-folk *(high-power: Game Master's approval; genres: super-powered: mutants and the enhanced)*
+
+![Swift turtle-folk](../Images/species-swift-turtle-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Shelled turtle folk who defy the slow stereotype completely, running at superhuman speed. (looks like: turtle; good at: speed and agility, toughness)

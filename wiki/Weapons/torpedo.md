@@ -1,5 +1,9 @@
 # Torpedo
 
+![Torpedo](../Images/GR-0114-weapons-torpedo.jpg){.illus}
+
+
+*Catalogue: GR-0114*
 *Set: Expansion*
 
 *aka: ______________________________*

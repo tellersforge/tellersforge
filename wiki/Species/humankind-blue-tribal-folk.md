@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 63 Reef clan tribal folk *(genres: pulp planets and lost worlds, space opera: near-humans)*
 
+![Reef clan tribal folk](../Images/species-reef-clan-tribal-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Webbed, glowing reef-dwellers who swim beautifully and bond with sea creatures. (looks like: alien; good at: swimming, wilderness, powers and magic)
 - **Attributes:** STR +2 AGI −1

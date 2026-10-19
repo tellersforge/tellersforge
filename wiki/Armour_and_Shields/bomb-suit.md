@@ -1,5 +1,9 @@
 # Bomb suit
 
+![Bomb suit](../Images/GR-0126-armour-bomb-suit.jpg){.illus}
+
+
+*Catalogue: GR-0126*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Black-Powder Guns
 
+![Black-Powder Guns](../Images/WG-004-weapon-groups-black-powder-guns.jpg){.illus}
+
+
+*Catalogue: WG-004*
 *Set: Core*
 
 *aka: ______________________________*

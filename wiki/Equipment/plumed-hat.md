@@ -1,5 +1,9 @@
 # Plumed hat
 
+![Plumed hat](../Images/GR-0734-equipment-plumed-hat.jpg){.illus}
+
+
+*Catalogue: GR-0734*
 *Set: Expansion*
 
 *aka: ______________________________*

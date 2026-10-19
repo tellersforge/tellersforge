@@ -1,5 +1,9 @@
 # Rune & Sigil Magic
 
+![Rune & Sigil Magic](../Images/PW-246-powers-rune-and-sigil-magic.jpg){.illus}
+
+
+*Catalogue: PW-246*
 *Set: Expansion*
 
 *aka: ______________________________*

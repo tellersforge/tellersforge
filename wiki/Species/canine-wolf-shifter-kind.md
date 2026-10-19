@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 245 Hereditary wolf-shifter *(genres: gothic horror)*
 
+![Hereditary wolf-shifter](../Images/species-hereditary-wolf-shifter.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Pack-bonded folk who transform into a giant wolf when a rival threatens the tribe. (looks like: wolf; good at: strength, powers and magic, healing)
 - **Attributes:** STR +3 AGI −2 END +1 WIS +1 PER +1 CHA −1 COU +1
@@ -37,6 +40,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 246 Cursed wolf-shifter *(genres: gothic horror)*
 
+![Cursed wolf-shifter](../Images/species-cursed-wolf-shifter.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Cursed folk who turn into a wolf-humanoid, and spread the curse with a bite. (looks like: wolf; good at: strength, fighting, powers and magic)
 - **Attributes:** STR +4 AGI −2 END +1 WIS +1 PER +1 CHA −2 COU +1
@@ -49,6 +55,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Transform Others works only by bite, passing on the curse.
 
 ### No. 247 Wolf-tribe beastfolk *(genres: beast-folk: fur)*
+
+![Wolf-tribe beastfolk](../Images/species-wolf-tribe-beastfolk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Tribal wolf-warriors who go fully beast-shaped when the fight turns serious. (looks like: wolf; good at: fighting, powers and magic)

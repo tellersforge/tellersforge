@@ -1,5 +1,9 @@
 # Sage bird
 
+![Sage bird](../Images/BE-510-bestiary-sage-bird.jpg){.illus}
+
+
+*Catalogue: BE-510*
 *Set: Expansion*
 
 *aka: ______________________________*

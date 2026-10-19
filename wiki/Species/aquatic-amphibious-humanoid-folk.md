@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 196 Salmon-headed shipwright folk *(genres: space opera: beast-like aliens)*
 
+![Salmon-headed shipwright folk](../Images/species-salmon-headed-shipwright-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Salmon-headed craftsfolk who build fine ships and see clearly above and below the water. (looks like: fish; good at: swimming, making and fixing)
 - **Attributes:** END +2 INT +1 PER +1 CHA −1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Blunt shark-headed folk *(NPC only)*
 
+![Blunt shark-headed folk](../Images/species-blunt-shark-headed-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +2 INT −1 CHA −2 COU +1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Shark teeth and a tough grey hide.
 
 ### No. 197 Blue-skinned tressed folk *(genres: space opera: near-humans)*
+
+![Blue-skinned tressed folk](../Images/species-blue-skinned-tressed-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Blue-skinned folk whose head-tresses sense the world around them. (looks like: mermaid; good at: swimming, keen senses)
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Buoyant aquatic gas-giant folk *(NPC only)*
 
+![Buoyant aquatic gas-giant folk](../Images/species-buoyant-aquatic-gas-giant-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** aquatic
 - **Attributes:** STR −2 END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Levitation works only in a dense atmosphere or cloud-ocean.
 
 ### No. 198 Whale-bodied pilot folk *(genres: space opera: beast-like aliens)*
+
+![Whale-bodied pilot folk](../Images/species-whale-bodied-pilot-folk.jpg){.illus}
+
 
 - **Size:** huge · **Body:** other
 - **What it's like:** Enormous whale-bodied folk, surprisingly nimble and famous as pilots and gamblers. (looks like: whale; good at: swimming, strength, knowledge)
@@ -76,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Gilled amphibious faction · Blue-skinned aquatic-world folk *(NPC only)*
 
+![Gilled amphibious faction](../Images/species-gilled-amphibious-faction.jpg){.illus}
+
+
 - **Size:** medium · **Body:** aquatic
 - **Attributes:** END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -86,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Luminous deep-ocean colonist culture *(NPC only)*
 
+![Luminous deep-ocean colonist culture](../Images/species-luminous-deep-ocean-colonist-culture.jpg){.illus}
+
+
 - **Size:** medium · **Body:** aquatic
 - **Attributes:** END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Signals](../Skills/signals.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -94,6 +115,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Glowing skin patches used to signal in deep water.
 
 ### No. 199 Graceful river and sea folk *(genres: sea and sky)*
+
+![Graceful river and sea folk](../Images/species-graceful-river-and-sea-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Graceful, gilled river-and-sea folk who swim beautifully but wilt in the heat. (looks like: fish; good at: swimming, wilderness)
@@ -106,6 +130,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Walrus-like coastal folk *(NPC only)*
 
+![Walrus-like coastal folk](../Images/species-walrus-like-coastal-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -117,6 +144,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fish-headed river folk *(NPC only)*
 
+![Fish-headed river folk](../Images/species-fish-headed-river-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +2 CHA −1
 - **Skills:** [Diving](../Skills/diving.md) +3, [Swimming](../Skills/swimming.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Farming](../Skills/farming.md) +1, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -125,6 +155,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A peaceful river people who farm the banks.
 
 ### Deep-sea grotesque folk *(NPC only)*
+
+![Deep-sea grotesque folk](../Images/species-deep-sea-grotesque-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +2 INT −3 CHA −2
@@ -135,6 +168,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Low intelligence is set in the attribute step. Mildly hostile.
 
 ### Ancient precursor alien race *(NPC only)*
+
+![Ancient precursor alien race](../Images/species-ancient-precursor-alien-race.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** END +2 INT +3 CHA −1

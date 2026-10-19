@@ -1,5 +1,9 @@
 # Monitor lizard
 
+![Monitor lizard](../Images/BE-418-bestiary-monitor-lizard.jpg){.illus}
+
+
+*Catalogue: BE-418*
 *Set: Core*
 
 *aka: ______________________________*

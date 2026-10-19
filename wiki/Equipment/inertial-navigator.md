@@ -1,5 +1,9 @@
 # Inertial navigator
 
+![Inertial navigator](../Images/GR-0557-equipment-inertial-navigator.jpg){.illus}
+
+
+*Catalogue: GR-0557*
 *Set: Expansion*
 
 *aka: ______________________________*

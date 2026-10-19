@@ -1,5 +1,9 @@
 # Heavy Machinery
 
+![Heavy Machinery](../Images/SK-089-skills-heavy-machinery.jpg){.illus}
+
+
+*Catalogue: SK-089*
 *Set: Expansion*
 
 *aka: ______________________________*

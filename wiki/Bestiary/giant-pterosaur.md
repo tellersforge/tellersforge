@@ -1,5 +1,9 @@
 # Giant pterosaur
 
+![Giant pterosaur](../Images/BE-271-bestiary-giant-pterosaur.jpg){.illus}
+
+
+*Catalogue: BE-271*
 *Set: Expansion*
 
 *aka: ______________________________*

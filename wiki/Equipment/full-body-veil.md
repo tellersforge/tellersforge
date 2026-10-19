@@ -1,5 +1,9 @@
 # Full-body veil
 
+![Full-body veil](../Images/GR-0443-equipment-full-body-veil.jpg){.illus}
+
+
+*Catalogue: GR-0443*
 *Set: Expansion*
 
 *aka: ______________________________*

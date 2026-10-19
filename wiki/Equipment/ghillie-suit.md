@@ -1,5 +1,9 @@
 # Ghillie suit
 
+![Ghillie suit](../Images/GR-0456-equipment-ghillie-suit.jpg){.illus}
+
+
+*Catalogue: GR-0456*
 *Set: Expansion*
 
 *aka: ______________________________*

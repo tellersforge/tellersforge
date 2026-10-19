@@ -1,7 +1,8 @@
 # Dragon hatchling
 
-![Dragon hatchling](../Images/bestiary-dragon-hatchling.jpg){.illus}
+![Dragon hatchling](../Images/BE-158-bestiary-dragon-hatchling.jpg){.illus}
 
+*Catalogue: BE-158*
 *Set: Expansion*
 
 *aka: ______________________________*

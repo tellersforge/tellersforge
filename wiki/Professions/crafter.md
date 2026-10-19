@@ -1,5 +1,8 @@
 # Crafter
 
+![Crafter](../Images/professions-crafter.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

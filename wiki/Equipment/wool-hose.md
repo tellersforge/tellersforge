@@ -1,5 +1,9 @@
 # Wool hose
 
+![Wool hose](../Images/GR-1029-equipment-wool-hose.jpg){.illus}
+
+
+*Catalogue: GR-1029*
 *Set: Expansion*
 
 *aka: ______________________________*

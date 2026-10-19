@@ -1,7 +1,8 @@
 # Pack robot
 
-![Pack robot](../Images/equipment-pack-robot.jpg){.illus}
+![Pack robot](../Images/GR-0696-equipment-pack-robot.jpg){.illus}
 
+*Catalogue: GR-0696*
 *Set: Expansion*
 
 *aka: ______________________________*

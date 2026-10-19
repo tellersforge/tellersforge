@@ -1,5 +1,9 @@
 # Skeleton key
 
+![Skeleton key](../Images/GR-0869-equipment-skeleton-key.jpg){.illus}
+
+
+*Catalogue: GR-0869*
 *Set: Expansion*
 
 *aka: ______________________________*

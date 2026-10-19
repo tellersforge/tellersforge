@@ -1,5 +1,9 @@
 # Giant vulture
 
+![Giant vulture](../Images/BE-290-bestiary-giant-vulture.jpg){.illus}
+
+
+*Catalogue: BE-290*
 *Set: Expansion*
 
 *aka: ______________________________*

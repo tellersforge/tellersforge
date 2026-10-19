@@ -1,7 +1,8 @@
 # Carnival clown horror
 
-![Carnival clown horror](../Images/bestiary-carnival-clown-horror.jpg){.illus}
+![Carnival clown horror](../Images/BE-088-bestiary-carnival-clown-horror.jpg){.illus}
 
+*Catalogue: BE-088*
 *Set: Expansion*
 
 *aka: ______________________________*

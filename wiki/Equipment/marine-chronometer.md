@@ -1,5 +1,9 @@
 # Marine chronometer
 
+![Marine chronometer](../Images/GR-0628-equipment-marine-chronometer.jpg){.illus}
+
+
+*Catalogue: GR-0628*
 *Set: Expansion*
 
 *aka: ______________________________*

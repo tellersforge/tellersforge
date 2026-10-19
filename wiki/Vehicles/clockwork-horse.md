@@ -1,7 +1,8 @@
 # Clockwork Horse
 
-![Clockwork horse](../Images/vehicles-clockwork-horse.jpg){.illus}
+![Clockwork horse](../Images/GR-1056-vehicles-clockwork-horse.jpg){.illus}
 
+*Catalogue: GR-1056*
 *Set: Expansion*
 
 

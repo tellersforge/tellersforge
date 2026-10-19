@@ -1,5 +1,8 @@
 # Fear of Sleep and Dreams
 
+![Fear of Sleep and Dreams](../Images/flaws-fear-of-sleep-and-dreams.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when falling asleep, nightmares.

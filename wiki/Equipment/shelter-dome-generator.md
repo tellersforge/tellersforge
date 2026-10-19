@@ -1,5 +1,9 @@
 # Shelter dome generator
 
+![Shelter dome generator](../Images/GR-0847-equipment-shelter-dome-generator.jpg){.illus}
+
+
+*Catalogue: GR-0847*
 *Set: Expansion*
 
 *aka: ______________________________*

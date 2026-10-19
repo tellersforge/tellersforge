@@ -1,5 +1,9 @@
 # Coat of plates
 
+![Coat of plates](../Images/GR-0132-armour-coat-of-plates.jpg){.illus}
+
+
+*Catalogue: GR-0132*
 *Set: Expansion*
 
 *aka: ______________________________*

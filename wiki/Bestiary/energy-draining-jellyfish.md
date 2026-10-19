@@ -1,5 +1,9 @@
 # Energy-draining jellyfish
 
+![Energy-draining jellyfish](../Images/BE-175-bestiary-energy-draining-jellyfish.jpg){.illus}
+
+
+*Catalogue: BE-175*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Moccasins
 
+![Moccasins](../Images/GR-0656-equipment-moccasins.jpg){.illus}
+
+
+*Catalogue: GR-0656*
 *Set: Expansion*
 
 *aka: ______________________________*

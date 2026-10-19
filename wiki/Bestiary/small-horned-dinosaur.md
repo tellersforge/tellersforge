@@ -1,5 +1,9 @@
 # Small horned dinosaur
 
+![Small horned dinosaur](../Images/BE-563-bestiary-small-horned-dinosaur.jpg){.illus}
+
+
+*Catalogue: BE-563*
 *Set: Expansion*
 
 *aka: ______________________________*

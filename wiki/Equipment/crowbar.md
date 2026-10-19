@@ -1,5 +1,9 @@
 # Crowbar
 
+![Crowbar](../Images/GR-0312-equipment-crowbar.jpg){.illus}
+
+
+*Catalogue: GR-0312*
 *Set: Expansion*
 
 *aka: ______________________________*

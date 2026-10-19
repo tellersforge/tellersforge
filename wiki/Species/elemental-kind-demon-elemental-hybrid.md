@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fire-touched half-demon warriors *(NPC only)*
 
+![Fire-touched half-demon warriors](../Images/species-fire-touched-half-demon-warriors.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +1 WIS +1 CHA −1 COU +2
 - **Skills:** [Weather Sense](../Skills/weather-sense.md) +2, [Arcana](../Skills/arcana.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Insight](../Skills/insight.md) −1

@@ -1,5 +1,9 @@
 # Strategy board game
 
+![Strategy board game](../Images/GR-0925-equipment-strategy-board-game.jpg){.illus}
+
+
+*Catalogue: GR-0925*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Rolling head
 
+![Rolling head](../Images/BE-504-bestiary-rolling-head.jpg){.illus}
+
+
+*Catalogue: BE-504*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Amphiptere
 
+![Amphiptere](../Images/BE-016-bestiary-amphiptere.jpg){.illus}
+
+
+*Catalogue: BE-016*
 *Set: Expansion*
 
 *aka: ______________________________*

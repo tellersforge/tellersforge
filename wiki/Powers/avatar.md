@@ -1,5 +1,9 @@
 # Avatar
 
+![Avatar](../Images/PW-013-powers-avatar.jpg){.illus}
+
+
+*Catalogue: PW-013*
 *Set: Expansion*
 
 *aka: ______________________________*

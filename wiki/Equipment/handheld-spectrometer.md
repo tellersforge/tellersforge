@@ -1,5 +1,9 @@
 # Handheld spectrometer
 
+![Handheld spectrometer](../Images/GR-0500-equipment-handheld-spectrometer.jpg){.illus}
+
+
+*Catalogue: GR-0500*
 *Set: Expansion*
 
 *aka: ______________________________*

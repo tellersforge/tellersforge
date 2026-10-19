@@ -1,5 +1,9 @@
 # Power Granting
 
+![Power Granting](../Images/PW-227-powers-power-granting.jpg){.illus}
+
+
+*Catalogue: PW-227*
 *Set: Expansion*
 
 *aka: ______________________________*

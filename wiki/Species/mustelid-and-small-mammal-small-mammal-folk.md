@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 578 Skunk-folk *(genres: beast-folk: fur)*
 
+![Skunk-folk](../Images/species-skunk-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Bold black-and-white skunk folk who see well in the dark and blast enemies with a foul, blinding spray. (looks like: skunk; good at: sneaking, keen senses)
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1 COU +1
@@ -36,6 +39,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 579 Raccoon-folk *(genres: beast-folk: fur)*
 
+![Raccoon-folk](../Images/species-raccoon-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Clever, nimble-fingered raccoon folk who can pick a lock as easily as they can pick a fight. (looks like: raccoon; good at: sneaking, keen senses)
 - **Attributes:** STR −1 AGI +1 END +1 INT +1 CHA −1 COU +1
@@ -47,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 580 Red panda-folk *(genres: beast-folk: fur)*
 
+![Red panda-folk](../Images/species-red-panda-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small, gentle red panda folk, shy and sweet-natured but astonishing climbers. (looks like: panda; good at: climbing, sneaking)
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1 COU +1
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Excellent climbers.
 
 ### Mongoose folk *(beast)*
+
+![Mongoose folk](../Images/species-mongoose-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** quadruped
 - **Attributes:** STR −2 AGI +3 END +1 INT −3 CHA −1 COU +2
@@ -67,6 +79,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tunneling mole folk *(NPC only)*
 
+![Tunneling mole folk](../Images/species-tunneling-mole-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1 COU +1
 - **Skills:** [Stealth](../Skills/stealth.md) +2, [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +2, [Climbing](../Skills/climbing.md) +1, [Escape Artistry](../Skills/escape-artistry.md) +1, [Mining & Quarrying](../Skills/mining-and-quarrying.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Swimming](../Skills/swimming.md) +1, [Intimidation](../Skills/intimidation.md) −2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -77,6 +92,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Enhanced Senses is smell only; poor eyesight is a flaw.
 
 ### Hedgehog folk *(NPC only)*
+
+![Hedgehog folk](../Images/species-hedgehog-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1 COU +1

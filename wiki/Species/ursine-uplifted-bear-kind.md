@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 829 Genetically uplifted bear citizen *(genres: uplifted animals)*
 
+![Genetically uplifted bear citizen](../Images/species-genetically-uplifted-bear-citizen.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Genetically uplifted bear folk of great strength, loyal partners to their human patrons even if not the quickest thinkers. (looks like: bear; good at: strength, toughness)
 - **Attributes:** STR +4 AGI −2 END +2 INT −2

@@ -1,5 +1,9 @@
 # Microscope
 
+![Microscope](../Images/GR-0649-equipment-microscope.jpg){.illus}
+
+
+*Catalogue: GR-0649*
 *Set: Expansion*
 
 *aka: ______________________________*

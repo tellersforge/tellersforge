@@ -1,5 +1,9 @@
 # Horse-Drawn Omnibus
 
+![Horse-Drawn Omnibus](../Images/GR-1077-vehicles-horse-drawn-omnibus.jpg){.illus}
+
+
+*Catalogue: GR-1077*
 *Set: Expansion*
 
 

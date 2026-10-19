@@ -1,5 +1,9 @@
 # Giant ape
 
+![Giant ape](../Images/BE-236-bestiary-giant-ape.jpg){.illus}
+
+
+*Catalogue: BE-236*
 *Set: Core*
 
 *aka: ______________________________*

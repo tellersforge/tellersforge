@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Dark-sorcery druid lord *(NPC only)*
 
+![Dark-sorcery druid lord](../Images/species-dark-sorcery-druid-lord.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
 - **Powers:** [Animate Dead](../Powers/animate-dead.md) 2, [Life Drain](../Powers/life-drain.md) 2

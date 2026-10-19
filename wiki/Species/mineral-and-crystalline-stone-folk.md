@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 565 Rock-textured musician folk *(genres: space opera: strange aliens)*
 
+![Rock-textured musician folk](../Images/species-rock-textured-musician-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Slow, rock-skinned folk who make some of the finest music around despite their stony hides. (looks like: rock; good at: toughness, people and talk)
 - **Attributes:** STR +2 AGI −4 END +2 WIS +1
@@ -37,6 +40,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Walking boulder folk *(NPC only)*
 
+![Walking boulder folk](../Images/species-walking-boulder-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −4 END +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Composure](../Skills/composure.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Running](../Skills/running.md) −2, [Stealth](../Skills/stealth.md) −2, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -47,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; it is larger, slower and mineral-eating, which are attribute and lexicon matters.
 
 ### No. 566 Stone-skinned giant folk *(genres: underworld and wild places)*
+
+![Stone-skinned giant folk](../Images/species-stone-skinned-giant-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Giant folk built from living rock, immensely strong and tough, though never in a hurry. (looks like: rock; good at: strength, toughness)

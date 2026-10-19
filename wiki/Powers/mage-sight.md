@@ -1,5 +1,9 @@
 # Mage-Sight
 
+![Mage-Sight](../Images/PW-166-powers-mage-sight.jpg){.illus}
+
+
+*Catalogue: PW-166*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Spirit-woven robe
 
-![Spirit-woven robe](../Images/armour-spirit-woven-robe.jpg){.illus}
+![Spirit-woven robe](../Images/GR-0162-armour-spirit-woven-robe.jpg){.illus}
 
+*Catalogue: GR-0162*
 *Set: Expansion*
 
 *aka: ______________________________*

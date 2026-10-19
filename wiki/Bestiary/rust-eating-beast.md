@@ -1,7 +1,8 @@
 # Rust-eating beast
 
-![Rust-eating beast](../Images/bestiary-rust-eating-beast.jpg){.illus}
+![Rust-eating beast](../Images/BE-507-bestiary-rust-eating-beast.jpg){.illus}
 
+*Catalogue: BE-507*
 *Set: Expansion*
 
 *aka: ______________________________*

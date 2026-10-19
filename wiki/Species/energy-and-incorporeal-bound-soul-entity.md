@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bodiless soul-bound spirit-entity *(NPC only)*
 
+![Bodiless soul-bound spirit-entity](../Images/species-bodiless-soul-bound-spirit-entity.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal
 - **Attributes:** STR −1 INT +1 WIS +2
 - **Skills:** [Stealth](../Skills/stealth.md) +3, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +2

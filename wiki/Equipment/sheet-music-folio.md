@@ -1,5 +1,9 @@
 # Sheet music folio
 
+![Sheet music folio](../Images/GR-0845-equipment-sheet-music-folio.jpg){.illus}
+
+
+*Catalogue: GR-0845*
 *Set: Expansion*
 
 *aka: ______________________________*

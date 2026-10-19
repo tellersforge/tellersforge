@@ -1,5 +1,9 @@
 # Riddling
 
+![Riddling](../Images/SK-163-skills-riddling.jpg){.illus}
+
+
+*Catalogue: SK-163*
 *Set: Expansion*
 
 *aka: ______________________________*

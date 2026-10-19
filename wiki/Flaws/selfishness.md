@@ -1,5 +1,8 @@
 # Selfishness
 
+![Selfishness](../Images/flaws-selfishness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Conscience and conduct* kind. It fires when puts themselves first every time.

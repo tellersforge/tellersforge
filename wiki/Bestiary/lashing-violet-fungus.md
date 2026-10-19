@@ -1,5 +1,9 @@
 # Lashing violet fungus
 
+![Lashing violet fungus](../Images/BE-380-bestiary-lashing-violet-fungus.jpg){.illus}
+
+
+*Catalogue: BE-380*
 *Set: Expansion*
 
 *aka: ______________________________*

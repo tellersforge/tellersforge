@@ -1,5 +1,8 @@
 # Fear of Public Speaking
 
+![Fear of Public Speaking](../Images/flaws-fear-of-public-speaking.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when speaking or performing before others.

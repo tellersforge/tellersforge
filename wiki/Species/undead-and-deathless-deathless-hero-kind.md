@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 794 Death-blessed undead-adjacent hero *(genres: dark fantasy, gothic horror)*
 
+![Death-blessed undead-adjacent hero](../Images/species-death-blessed-undead-adjacent-hero.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Tragic heroes touched by necromantic power, forever resonating with death itself. (looks like: ghost; good at: powers and magic, fighting)
 - **Attributes:** AGI −1 END +2 CHA −1 COU +2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 7 · Damage longsword 1d6+2 · Armour 2 · Life 19 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### Death-forged reborn champion *(NPC only)*
+
+![Death-forged reborn champion](../Images/species-death-forged-reborn-champion.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +3 CHA −1 COU +2

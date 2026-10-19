@@ -1,5 +1,9 @@
 # Fist
 
+![Fist](../Images/GR-0033-weapons-fist.jpg){.illus}
+
+
+*Catalogue: GR-0033*
 *Set: Core*
 
 *aka: ______________________________*

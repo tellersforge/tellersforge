@@ -1,5 +1,9 @@
 # Chain golem
 
+![Chain golem](../Images/BE-101-bestiary-chain-golem.jpg){.illus}
+
+
+*Catalogue: BE-101*
 *Set: Expansion*
 
 *aka: ______________________________*

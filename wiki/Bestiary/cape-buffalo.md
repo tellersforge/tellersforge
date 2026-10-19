@@ -1,5 +1,9 @@
 # Cape buffalo
 
+![Cape buffalo](../Images/BE-087-bestiary-cape-buffalo.jpg){.illus}
+
+
+*Catalogue: BE-087*
 *Set: Core*
 
 *aka: ______________________________*

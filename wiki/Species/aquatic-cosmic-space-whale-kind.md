@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cosmic space-whale *(NPC only; NPC-scale)*
 
+![Cosmic space-whale](../Images/species-cosmic-space-whale.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** aquatic
 - **Attributes:** STR +9 AGI −6 END +5 INT +1 WIS +3 CHA −1
 - **Skills:** [Astrogation](../Skills/astrogation.md) +3, [Diving](../Skills/diving.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Swimming](../Skills/swimming.md) +3, [Singing](../Skills/singing.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3

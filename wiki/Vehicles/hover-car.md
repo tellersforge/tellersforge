@@ -1,7 +1,8 @@
 # Hover-Car
 
-![Hover-car](../Images/vehicles-hover-car.jpg){.illus}
+![Hover-car](../Images/GR-1080-vehicles-hover-car.jpg){.illus}
 
+*Catalogue: GR-1080*
 *Set: Expansion*
 
 

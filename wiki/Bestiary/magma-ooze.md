@@ -1,5 +1,9 @@
 # Magma ooze
 
+![Magma ooze](../Images/BE-406-bestiary-magma-ooze.jpg){.illus}
+
+
+*Catalogue: BE-406*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Driving
 
+![Driving](../Images/SK-056-skills-driving.jpg){.illus}
+
+
+*Catalogue: SK-056*
 *Set: Core · Basic skill: Vehicles*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Gong
 
+![Gong](../Images/GR-0465-equipment-gong.jpg){.illus}
+
+
+*Catalogue: GR-0465*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Letter-opening kit
 
+![Letter-opening kit](../Images/GR-0594-equipment-letter-opening-kit.jpg){.illus}
+
+
+*Catalogue: GR-0594*
 *Set: Expansion*
 
 *aka: ______________________________*

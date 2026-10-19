@@ -1,7 +1,8 @@
 # Hook-armed cave hunter
 
-![Hook-armed cave hunter](../Images/bestiary-hook-armed-cave-hunter.jpg){.illus}
+![Hook-armed cave hunter](../Images/BE-342-bestiary-hook-armed-cave-hunter.jpg){.illus}
 
+*Catalogue: BE-342*
 *Set: Expansion*
 
 *aka: ______________________________*

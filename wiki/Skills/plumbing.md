@@ -1,5 +1,9 @@
 # Plumbing
 
+![Plumbing](../Images/SK-151-skills-plumbing.jpg){.illus}
+
+
+*Catalogue: SK-151*
 *Set: Expansion*
 
 *aka: ______________________________*

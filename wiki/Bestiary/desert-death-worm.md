@@ -1,7 +1,8 @@
 # Desert death worm
 
-![Desert death worm](../Images/bestiary-desert-death-worm.jpg){.illus}
+![Desert death worm](../Images/BE-144-bestiary-desert-death-worm.jpg){.illus}
 
+*Catalogue: BE-144*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Medical scanner
 
-![Medical scanner](../Images/equipment-medical-scanner.jpg){.illus}
+![Medical scanner](../Images/GR-0640-equipment-medical-scanner.jpg){.illus}
 
+*Catalogue: GR-0640*
 *Set: Expansion*
 
 *aka: ______________________________*

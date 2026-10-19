@@ -1,5 +1,8 @@
 # Duellist
 
+![Duellist](../Images/professions-duellist.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

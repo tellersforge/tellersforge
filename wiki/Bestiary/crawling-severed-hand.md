@@ -1,5 +1,9 @@
 # Crawling severed hand
 
+![Crawling severed hand](../Images/BE-134-bestiary-crawling-severed-hand.jpg){.illus}
+
+
+*Catalogue: BE-134*
 *Set: Expansion*
 
 *aka: ______________________________*

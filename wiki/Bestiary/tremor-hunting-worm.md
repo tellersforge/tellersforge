@@ -1,7 +1,8 @@
 # Tremor-hunting worm
 
-![Tremor-hunting worm](../Images/bestiary-tremor-hunting-worm.jpg){.illus}
+![Tremor-hunting worm](../Images/BE-630-bestiary-tremor-hunting-worm.jpg){.illus}
 
+*Catalogue: BE-630*
 *Set: Expansion*
 
 *aka: ______________________________*

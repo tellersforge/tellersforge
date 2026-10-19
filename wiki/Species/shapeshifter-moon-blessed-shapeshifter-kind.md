@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 713 Moon-blessed shapeshifting hero *(genres: myth and legend)*
 
+![Moon-blessed shapeshifting hero](../Images/species-moon-blessed-shapeshifting-hero.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Moon-blessed folk who shapeshift into animal form and draw divine strength from the lunar cycle. (looks like: human; good at: powers and magic, strength)
 - **Attributes:** AGI +1 END +1 WIS −1 CHA +1 COU +1

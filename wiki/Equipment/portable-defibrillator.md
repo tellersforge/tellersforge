@@ -1,5 +1,9 @@
 # Portable defibrillator
 
+![Portable defibrillator](../Images/GR-0744-equipment-portable-defibrillator.jpg){.illus}
+
+
+*Catalogue: GR-0744*
 *Set: Expansion*
 
 *aka: ______________________________*

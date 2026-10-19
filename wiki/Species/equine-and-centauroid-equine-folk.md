@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 391 Horse-folk *(genres: beast-folk: fur)*
 
+![Horse-folk](../Images/species-horse-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Sturdy horse-bodied folk who run for miles at a stretch, reading each other's mood in flicks of ear and tail. (looks like: horse; good at: speed and agility, strength)
 - **Attributes:** STR +2 AGI −1 END +1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 7 · Damage longsword 1d6+2; hooves 1d6+3 · Armour 2 · Life 18 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 392 Pony-folk *(genres: beast-folk: fur)*
+
+![Pony-folk](../Images/species-pony-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small, sturdy pony-folk, surprisingly strong for their size and at home on the roughest ground. (looks like: horse; good at: strength, wilderness)
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Hardy in rough, hilly country.
 
 ### No. 393 Zebra-folk *(genres: beast-folk: fur)*
+
+![Zebra-folk](../Images/species-zebra-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Striped, savanna-born zebra-folk whose dazzling pattern confuses predators, and whose kick can floor an attacker. (looks like: horse; good at: fighting, wilderness)
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 394 Donkey/mule-folk *(genres: beast-folk: fur)*
 
+![Donkey/mule-folk](../Images/species-donkey-mule-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Stubborn, sure-footed donkey-folk who can carry heavy loads for hours over the roughest tracks. (looks like: horse; good at: strength, wilderness)
 - **Attributes:** STR +2 AGI −1 END +1 CHA −1 COU +1
@@ -64,6 +76,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 395 Draft horse-folk *(genres: beast-folk: fur)*
 
+![Draft horse-folk](../Images/species-draft-horse-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Huge, calm draft-horse folk built for heavy hauling, with feathery tufts of hair around sturdy legs. (looks like: horse; good at: strength, toughness)
 - **Attributes:** STR +5 AGI −2 END +2
@@ -73,6 +88,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; heavy build and hauling strength are attribute matters.
 
 ### Rational governing horse-folk *(NPC only)*
+
+![Rational governing horse-folk](../Images/species-rational-governing-horse-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** STR +2 AGI −2 END +1 INT +2 WIS +1

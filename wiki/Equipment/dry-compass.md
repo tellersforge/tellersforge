@@ -1,7 +1,8 @@
 # Dry compass
 
-![Compass](../Images/equipment-dry-compass.jpg){.illus}
+![Compass](../Images/GR-0356-equipment-dry-compass.jpg){.illus}
 
+*Catalogue: GR-0356*
 *Set: Core*
 
 *aka: ______________________________*

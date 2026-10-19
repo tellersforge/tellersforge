@@ -1,7 +1,8 @@
 # Animal Form
 
-![Animal form](../Images/powers-animal-form.jpg){.illus}
+![Animal form](../Images/PW-005-powers-animal-form.jpg){.illus}
 
+*Catalogue: PW-005*
 *Set: Core*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 251 Clumsy loyal hound-alien *(genres: space opera: beast-like aliens)*
 
+![Clumsy loyal hound-alien](../Images/species-clumsy-loyal-hound-alien.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Clumsy but fiercely loyal dog-faced folk with a superb sense of smell. (looks like: dog; good at: keen senses, fighting)
 - **Attributes:** AGI −1 END +1 INT −1 WIS +1 PER +1 CHA −1 COU +2

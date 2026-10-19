@@ -1,5 +1,9 @@
 # Leather jerkin
 
+![Leather jerkin](../Images/GR-0588-equipment-leather-jerkin.jpg){.illus}
+
+
+*Catalogue: GR-0588*
 *Set: Expansion*
 
 *aka: ______________________________*

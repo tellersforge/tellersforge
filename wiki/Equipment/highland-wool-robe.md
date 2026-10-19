@@ -1,5 +1,9 @@
 # Highland wool robe
 
+![Highland wool robe](../Images/GR-0530-equipment-highland-wool-robe.jpg){.illus}
+
+
+*Catalogue: GR-0530*
 *Set: Expansion*
 
 *aka: ______________________________*

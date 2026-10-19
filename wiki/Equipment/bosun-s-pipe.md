@@ -1,5 +1,9 @@
 # Bosun's pipe
 
+![Bosun's pipe](../Images/GR-0225-equipment-bosun-s-pipe.jpg){.illus}
+
+
+*Catalogue: GR-0225*
 *Set: Expansion*
 
 *aka: ______________________________*

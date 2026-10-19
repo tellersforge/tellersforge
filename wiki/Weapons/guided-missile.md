@@ -1,5 +1,9 @@
 # Guided Missile
 
+![Guided Missile](../Images/GR-0044-weapons-guided-missile.jpg){.illus}
+
+
+*Catalogue: GR-0044*
 *Set: Expansion*
 
 *aka: ______________________________*

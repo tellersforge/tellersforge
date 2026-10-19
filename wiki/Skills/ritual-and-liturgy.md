@@ -1,5 +1,9 @@
 # Ritual & Liturgy
 
+![Ritual & Liturgy](../Images/SK-165-skills-ritual-and-liturgy.jpg){.illus}
+
+
+*Catalogue: SK-165*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Evil Eye
 
+![Evil Eye](../Images/PW-094-powers-evil-eye.jpg){.illus}
+
+
+*Catalogue: PW-094*
 *Set: Expansion*
 
 *aka: ______________________________*

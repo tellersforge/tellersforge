@@ -1,5 +1,9 @@
 # Hunting
 
+![Hunting](../Images/SK-094-skills-hunting.jpg){.illus}
+
+
+*Catalogue: SK-094*
 *Set: Core · Basic skill: Survival*
 
 *aka: ______________________________*

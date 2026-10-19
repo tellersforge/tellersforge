@@ -1,7 +1,8 @@
 # Trident
 
-![Trident](../Images/weapons-trident.jpg){.illus}
+![Trident](../Images/GR-0115-weapons-trident.jpg){.illus}
 
+*Catalogue: GR-0115*
 *Set: Expansion*
 
 *aka: ______________________________*

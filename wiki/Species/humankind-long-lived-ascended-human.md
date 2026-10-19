@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 29 Post-scarcity engineered utopian folk *(genres: near future and cyberpunk, space opera: near-humans)*
 
+![Post-scarcity engineered utopian folk](../Images/species-post-scarcity-engineered-utopian-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-living engineered people who control their own bodies completely at will. (looks like: human; good at: powers and magic, healing)
 - **Attributes:** none
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Engineered glands let them make drugs in their own bodies at will.
 
 ### No. 30 Regenerating time-traveler folk *(genres: multiverse and time, space opera: near-humans)*
+
+![Regenerating time-traveler folk](../Images/species-regenerating-time-traveler-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Near-human wanderers reborn in a new body every time they die. (looks like: human; good at: powers and magic, healing)
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 31 Radiation-blessed slow-aging folk *(genres: space opera: near-humans)*
 
+![Radiation-blessed slow-aging folk](../Images/species-radiation-blessed-slow-aging-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** People blessed by strange radiation to age slowly and heal quickly. (looks like: human; good at: healing, toughness)
 - **Attributes:** none
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Both only while they live under that radiation. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Accelerated-aging splinter folk · Ascended precursor folk · Long-lived elder-statesman folk · Mortal precursor ancestor folk · Mystic city longevity folk *(same numbers as a baseline human: play as one (Species rule 18))*
+
+![Accelerated-aging splinter folk](../Images/species-accelerated-aging-splinter-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** none
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Diminutive ordered elder folk *(NPC only; NPC-scale)*
 
+![Diminutive ordered elder folk](../Images/species-diminutive-ordered-elder-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 INT +2 WIS +3
 - **Skills:** [Composure](../Skills/composure.md) +1
@@ -76,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Diminutive loving elder folk *(NPC only; NPC-scale)*
+
+![Diminutive loving elder folk](../Images/species-diminutive-loving-elder-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 WIS +2 CHA +2
@@ -86,6 +104,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Schismatic technocrat elder folk *(NPC only; NPC-scale)*
 
+![Schismatic technocrat elder folk](../Images/species-schismatic-technocrat-elder-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 INT +2 WIS +2
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 11 · Damage longsword 1d6+1 · Armour 2 · Life 15 · Threat 1 ([Bestiary roles](../bestiary.md))
@@ -93,6 +114,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Their androids and agents are gear and followers. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### Cosmic observer folk *(NPC only; NPC-scale)*
+
+![Cosmic observer folk](../Images/species-cosmic-observer-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 AGI −2 INT +3 WIS +3
@@ -102,6 +126,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (ageless or immortal) is a lexicon detail, not a game number.
 
 ### No. 32 Meteorite-touched immortal folk *(genres: super-powered: mutants and the enhanced)*
+
+![Meteorite-touched immortal folk](../Images/species-meteorite-touched-immortal-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Ancient, effectively immortal people who keep coming back to life, wiser each time. (looks like: human; good at: powers and magic, knowledge)

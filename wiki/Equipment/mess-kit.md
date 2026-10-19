@@ -1,5 +1,9 @@
 # Mess kit
 
+![Mess kit](../Images/GR-0644-equipment-mess-kit.jpg){.illus}
+
+
+*Catalogue: GR-0644*
 *Set: Core*
 
 *aka: ______________________________*

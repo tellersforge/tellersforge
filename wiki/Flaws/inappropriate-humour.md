@@ -1,5 +1,8 @@
 # Inappropriate Humour
 
+![Inappropriate Humour](../Images/flaws-inappropriate-humour.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social ineptitudes* kind. It fires when jokes at funerals, laughs at the wrong time.

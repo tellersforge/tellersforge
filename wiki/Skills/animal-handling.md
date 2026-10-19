@@ -1,5 +1,9 @@
 # Animal Handling
 
+![Animal Handling](../Images/SK-007-skills-animal-handling.jpg){.illus}
+
+
+*Catalogue: SK-007*
 *Set: Core · Basic skill: Animal Handling*
 
 *aka: ______________________________*

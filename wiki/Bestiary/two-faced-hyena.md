@@ -1,5 +1,9 @@
 # Two-faced hyena
 
+![Two-faced hyena](../Images/BE-639-bestiary-two-faced-hyena.jpg){.illus}
+
+
+*Catalogue: BE-639*
 *Set: Core*
 
 *aka: ______________________________*

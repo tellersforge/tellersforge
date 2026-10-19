@@ -1,5 +1,9 @@
 # Ceiling slime
 
+![Ceiling slime](../Images/BE-097-bestiary-ceiling-slime.jpg){.illus}
+
+
+*Catalogue: BE-097*
 *Set: Expansion*
 
 *aka: ______________________________*

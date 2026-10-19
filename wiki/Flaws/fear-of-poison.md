@@ -1,5 +1,8 @@
 # Fear of Poison
 
+![Fear of Poison](../Images/flaws-fear-of-poison.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when poison, strange food and drink.

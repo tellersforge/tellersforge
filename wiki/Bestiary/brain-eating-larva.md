@@ -1,5 +1,9 @@
 # Brain-eating larva
 
+![Brain-eating larva](../Images/BE-070-bestiary-brain-eating-larva.jpg){.illus}
+
+
+*Catalogue: BE-070*
 *Set: Expansion*
 
 *aka: ______________________________*

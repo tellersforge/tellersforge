@@ -1,5 +1,9 @@
 # Diadem
 
+![Diadem](../Images/GR-0328-equipment-diadem.jpg){.illus}
+
+
+*Catalogue: GR-0328*
 *Set: Expansion*
 
 *aka: ______________________________*

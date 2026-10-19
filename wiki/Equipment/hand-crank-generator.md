@@ -1,5 +1,9 @@
 # Hand-crank generator
 
+![Hand-crank generator](../Images/GR-0490-equipment-hand-crank-generator.jpg){.illus}
+
+
+*Catalogue: GR-0490*
 *Set: Expansion*
 
 *aka: ______________________________*

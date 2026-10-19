@@ -1,5 +1,9 @@
 # Clay jar
 
+![Clay jar](../Images/GR-0275-equipment-clay-jar.jpg){.illus}
+
+
+*Catalogue: GR-0275*
 *Set: Core*
 
 *aka: ______________________________*

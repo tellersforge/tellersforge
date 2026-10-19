@@ -1,5 +1,9 @@
 # Burning wicker giant
 
+![Burning wicker giant](../Images/BE-082-bestiary-burning-wicker-giant.jpg){.illus}
+
+
+*Catalogue: BE-082*
 *Set: Core*
 
 *aka: ______________________________*

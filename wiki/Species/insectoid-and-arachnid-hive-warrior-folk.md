@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hive-mind drone warrior folk *(NPC only)*
 
+![Hive-mind drone warrior folk](../Images/species-hive-mind-drone-warrior-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT −1 PER +1 CHA −2 COU +2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -49,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hive drone soldier *(beast)*
 
+![Hive drone soldier](../Images/species-hive-drone-soldier.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +2 INT −2 PER +1 CHA −2 COU +3
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -59,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A hive-directed drone.
 
 ### Hive commander caste *(NPC only)*
+
+![Hive commander caste](../Images/species-hive-commander-caste.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +3 AGI −2 END +2 INT +2 WIS +1 PER +1 CHA −2 COU +1
@@ -71,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### No. 542 Sonic-tech hive warrior folk *(genres: space opera: strange aliens)*
+
+![Sonic-tech hive warrior folk](../Images/species-sonic-tech-hive-warrior-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Winged insectoid hive-warriors organised into castes, wielding a whole technology built on sound. (looks like: insect; good at: fighting, making and fixing)
@@ -85,6 +97,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bio-engineered swarm soldier folk *(NPC only)*
 
+![Bio-engineered swarm soldier folk](../Images/species-bio-engineered-swarm-soldier-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 INT −1 PER +1 CHA −2 COU +2
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -96,6 +111,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Parasitic warrior insectoid folk *(NPC only)*
+
+![Parasitic warrior insectoid folk](../Images/species-parasitic-warrior-insectoid-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −2 END +2 PER +1 CHA −2 COU +2
@@ -109,6 +127,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Converted harvester drone folk *(NPC only)*
 
+![Converted harvester drone folk](../Images/species-converted-harvester-drone-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** insectoid
 - **Attributes:** STR +1 END +2 INT −1 PER +1 CHA −3 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -121,6 +142,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Winged stinging soldier caste folk *(NPC only)*
 
+![Winged stinging soldier caste folk](../Images/species-winged-stinging-soldier-caste-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** insectoid
 - **Attributes:** STR +1 AGI +1 END +2 PER +1 CHA −2 COU +1
 - **Skills:** [Climbing](../Skills/climbing.md) +3, [Formation Fighting](../Skills/formation-fighting.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Pain Tolerance](../Skills/pain-tolerance.md) +1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -132,6 +156,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC only.
 
 ### Advanced hive conqueror folk *(NPC only)*
+
+![Advanced hive conqueror folk](../Images/species-advanced-hive-conqueror-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR +1 END +2 INT +2 PER +1 CHA −2 COU +1

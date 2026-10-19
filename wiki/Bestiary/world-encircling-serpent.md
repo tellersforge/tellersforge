@@ -1,5 +1,9 @@
 # World-encircling serpent
 
+![World-encircling serpent](../Images/BE-686-bestiary-world-encircling-serpent.jpg){.illus}
+
+
+*Catalogue: BE-686*
 *Set: Expansion*
 
 *aka: ______________________________*

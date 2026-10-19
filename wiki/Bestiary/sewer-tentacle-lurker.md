@@ -1,5 +1,9 @@
 # Sewer tentacle lurker
 
+![Sewer tentacle lurker](../Images/BE-534-bestiary-sewer-tentacle-lurker.jpg){.illus}
+
+
+*Catalogue: BE-534*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Submachine Gun
 
+![Submachine Gun](../Images/GR-0108-weapons-submachine-gun.jpg){.illus}
+
+
+*Catalogue: GR-0108*
 *Set: Expansion*
 
 *aka: ______________________________*

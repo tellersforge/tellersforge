@@ -1,5 +1,9 @@
 # Magma & Plasma
 
+![Magma & Plasma](../Images/PW-167-powers-magma-and-plasma.jpg){.illus}
+
+
+*Catalogue: PW-167*
 *Set: Expansion*
 
 *aka: ______________________________*

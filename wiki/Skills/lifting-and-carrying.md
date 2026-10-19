@@ -1,5 +1,9 @@
 # Lifting & Carrying
 
+![Lifting & Carrying](../Images/SK-113-skills-lifting-and-carrying.jpg){.illus}
+
+
+*Catalogue: SK-113*
 *Set: Core*
 
 *aka: ______________________________*

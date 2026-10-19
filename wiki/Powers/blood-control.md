@@ -1,5 +1,9 @@
 # Blood Control
 
+![Blood Control](../Images/PW-027-powers-blood-control.jpg){.illus}
+
+
+*Catalogue: PW-027*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Bone giant
 
+![Bone giant](../Images/BE-066-bestiary-bone-giant.jpg){.illus}
+
+
+*Catalogue: BE-066*
 *Set: Core*
 
 *aka: ______________________________*

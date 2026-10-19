@@ -1,5 +1,9 @@
 # Nano-cosmetic spray
 
+![Nano-cosmetic spray](../Images/GR-0673-equipment-nano-cosmetic-spray.jpg){.illus}
+
+
+*Catalogue: GR-0673*
 *Set: Expansion*
 
 *aka: ______________________________*

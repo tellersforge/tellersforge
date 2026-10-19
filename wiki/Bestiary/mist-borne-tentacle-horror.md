@@ -1,5 +1,9 @@
 # Mist-borne tentacle horror
 
+![Mist-borne tentacle horror](../Images/BE-416-bestiary-mist-borne-tentacle-horror.jpg){.illus}
+
+
+*Catalogue: BE-416*
 *Set: Expansion*
 
 *aka: ______________________________*

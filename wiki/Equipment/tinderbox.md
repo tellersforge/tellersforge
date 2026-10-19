@@ -1,5 +1,9 @@
 # Tinderbox
 
+![Tinderbox](../Images/GR-0959-equipment-tinderbox.jpg){.illus}
+
+
+*Catalogue: GR-0959*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Shrinking
 
+![Shrinking](../Images/PW-260-powers-shrinking.jpg){.illus}
+
+
+*Catalogue: PW-260*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Drifting spore orb
 
+![Drifting spore orb](../Images/BE-161-bestiary-drifting-spore-orb.jpg){.illus}
+
+
+*Catalogue: BE-161*
 *Set: Expansion*
 
 *aka: ______________________________*

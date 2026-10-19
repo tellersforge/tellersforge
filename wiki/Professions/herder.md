@@ -1,5 +1,8 @@
 # Herder
 
+![Herder](../Images/professions-herder.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

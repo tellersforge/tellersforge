@@ -1,5 +1,9 @@
 # Bioluminescent lamp
 
+![Bioluminescent lamp](../Images/GR-0214-equipment-bioluminescent-lamp.jpg){.illus}
+
+
+*Catalogue: GR-0214*
 *Set: Expansion*
 
 *aka: ______________________________*

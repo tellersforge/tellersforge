@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 397 Wise centaur *(genres: myth and legend)*
 
+![Wise centaur](../Images/species-wise-centaur.jpg){.illus}
+
+
 - **Size:** large · **Body:** centauroid
 - **What it's like:** Wise, scholarly centaurs who once taught heroes medicine and swordplay, gifted stargazers, archers and nature-mages. (looks like: horse; good at: knowledge, fighting)
 - **Attributes:** STR +4 AGI −2 END +1 WIS +1

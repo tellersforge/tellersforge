@@ -1,5 +1,9 @@
 # Oratory & Debate
 
+![Oratory & Debate](../Images/SK-142-skills-oratory-and-debate.jpg){.illus}
+
+
+*Catalogue: SK-142*
 *Set: Expansion*
 
 *aka: ______________________________*

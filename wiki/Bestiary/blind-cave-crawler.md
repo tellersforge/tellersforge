@@ -1,5 +1,9 @@
 # Blind cave crawler
 
+![Blind cave crawler](../Images/BE-051-bestiary-blind-cave-crawler.jpg){.illus}
+
+
+*Catalogue: BE-051*
 *Set: Expansion*
 
 *aka: ______________________________*

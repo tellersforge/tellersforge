@@ -1,5 +1,9 @@
 # Colossal centipede
 
+![Colossal centipede](../Images/BE-116-bestiary-colossal-centipede.jpg){.illus}
+
+
+*Catalogue: BE-116*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Ceremonial headdress
 
+![Ceremonial headdress](../Images/GR-0266-equipment-ceremonial-headdress.jpg){.illus}
+
+
+*Catalogue: GR-0266*
 *Set: Core*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Interdimensional demon-warlord *(NPC only; NPC-scale)*
 
+![Interdimensional demon-warlord](../Images/species-interdimensional-demon-warlord.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +7 AGI −4 INT +1 WIS +1 PER +1 CHA +1 COU +2
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### Mind-warping rift horror *(NPC only; NPC-scale)*
+
+![Mind-warping rift horror](../Images/species-mind-warping-rift-horror.jpg){.illus}
+
 
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +4 AGI −4 INT +3 WIS +1 PER +1 CHA +1
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Faceless rift stalker *(beast)*
 
+![Faceless rift stalker](../Images/species-faceless-rift-stalker.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +4 AGI −1 INT −2 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -55,6 +64,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A faceless predator that hunts by sound and heat and steps through rifts.
 
 ### Wasteland grub parasite *(beast)*
+
+![Wasteland grub parasite](../Images/species-wasteland-grub-parasite.jpg){.illus}
+
 
 - **Size:** small · **Body:** other
 - **Attributes:** STR −2 AGI +2 INT −2 WIS +1 PER +1 CHA −1
@@ -66,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wasteland grunt invader *(NPC only)*
 
+![Wasteland grunt invader](../Images/species-wasteland-grunt-invader.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Survival: Ruins & Wasteland](../Skills/survival-ruins-and-wasteland.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -75,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Mind Link is to their overlord only.
 
 ### Border-dimension overlord brain *(NPC only; NPC-scale)*
+
+![Border-dimension overlord brain](../Images/species-border-dimension-overlord-brain.jpg){.illus}
+
 
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +1 AGI −4 INT +4 WIS +2 PER +1 CHA −1
@@ -87,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hell-dimension war-demon *(NPC only)*
 
+![Hell-dimension war-demon](../Images/species-hell-dimension-war-demon.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END +2 INT +1 WIS +1 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -97,6 +118,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### Hell-dimension flesh-hound *(beast)*
+
+![Hell-dimension flesh-hound](../Images/species-hell-dimension-flesh-hound.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +2 AGI −1 INT −2 WIS +1 PER +1 CHA −1

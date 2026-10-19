@@ -1,5 +1,9 @@
 # Mind Transfer
 
+![Mind Transfer](../Images/PW-187-powers-mind-transfer.jpg){.illus}
+
+
+*Catalogue: PW-187*
 *Set: Expansion*
 
 *aka: ______________________________*

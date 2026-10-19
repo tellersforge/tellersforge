@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 132 Island warrior-priestess folk · No. 133 Exiled desert-raider sisterhood folk · No. 134 Brother-tribe warrior folk *(high-power: Game Master's approval; genres: myth and legend)*
 
+![Island warrior-priestess folk](../Images/species-island-warrior-priestess-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Goddess-blessed warrior women, immensely strong, fast and nearly impossible to kill. (looks like: human; good at: strength, speed and agility, toughness)
 - **Attributes:** none

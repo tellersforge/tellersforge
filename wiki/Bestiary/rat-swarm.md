@@ -1,5 +1,9 @@
 # Rat swarm
 
+![Rat swarm](../Images/BE-479-bestiary-rat-swarm.jpg){.illus}
+
+
+*Catalogue: BE-479*
 *Set: Core*
 
 *aka: ______________________________*

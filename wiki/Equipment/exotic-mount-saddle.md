@@ -1,5 +1,9 @@
 # Exotic mount saddle
 
+![Exotic mount saddle](../Images/GR-0379-equipment-exotic-mount-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0379*
 *Set: Expansion*
 
 *aka: ______________________________*

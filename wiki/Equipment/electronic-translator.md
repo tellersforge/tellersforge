@@ -1,5 +1,9 @@
 # Electronic translator
 
+![Electronic translator](../Images/GR-0366-equipment-electronic-translator.jpg){.illus}
+
+
+*Catalogue: GR-0366*
 *Set: Expansion*
 
 *aka: ______________________________*
@@ -18,5 +22,5 @@ A small handheld box that listens to speech, pauses, and then speaks the words b
 
 ## Not to be confused with
 
-the *[All-Language Translator](all-language-translator.md)*, which learns any language it hears and speaks fluently.
+the *[Adaptive Language Translator](all-language-translator.md)*, which learns any language it hears and speaks fluently.
 

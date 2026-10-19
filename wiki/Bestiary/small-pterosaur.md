@@ -1,5 +1,9 @@
 # Small pterosaur
 
+![Small pterosaur](../Images/BE-565-bestiary-small-pterosaur.jpg){.illus}
+
+
+*Catalogue: BE-565*
 *Set: Expansion*
 
 *aka: ______________________________*

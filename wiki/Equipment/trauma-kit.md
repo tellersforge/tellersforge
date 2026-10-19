@@ -1,5 +1,9 @@
 # Trauma kit
 
+![Trauma kit](../Images/GR-0974-equipment-trauma-kit.jpg){.illus}
+
+
+*Catalogue: GR-0974*
 *Set: Core*
 
 *aka: ______________________________*

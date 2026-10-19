@@ -1,5 +1,9 @@
 # Ship Command
 
+![Ship Command](../Images/SK-177-skills-ship-command.jpg){.illus}
+
+
+*Catalogue: SK-177*
 *Set: Expansion*
 
 *aka: ______________________________*

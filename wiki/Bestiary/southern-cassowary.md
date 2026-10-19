@@ -1,5 +1,9 @@
 # Southern cassowary
 
+![Southern cassowary](../Images/BE-576-bestiary-southern-cassowary.jpg){.illus}
+
+
+*Catalogue: BE-576*
 *Set: Core*
 
 *aka: ______________________________*

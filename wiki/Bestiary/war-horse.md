@@ -1,5 +1,9 @@
 # War horse
 
+![War horse](../Images/BE-661-bestiary-war-horse.jpg){.illus}
+
+
+*Catalogue: BE-661*
 *Set: Core*
 
 *aka: ______________________________*

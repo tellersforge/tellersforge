@@ -1,5 +1,9 @@
 # Storm wyvern
 
+![Storm wyvern](../Images/BE-598-bestiary-storm-wyvern.jpg){.illus}
+
+
+*Catalogue: BE-598*
 *Set: Expansion*
 
 *aka: ______________________________*

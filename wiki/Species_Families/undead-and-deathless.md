@@ -1,5 +1,8 @@
 # Undead and deathless
 
+![Undead and deathless](../Images/species-families-undead-and-deathless.jpg){.illus}
+
+
 
 Those who should have died and did not, or died and did not stay down. Vampires drink the living, zombies shamble and hunger, skeletons march at a necromancer's word, and ghosts linger over unfinished business. Liches hide their souls to cheat the grave, mummies guard old tombs, and wailing spirits foretell a death in the family. The family also holds immortal heroes, cursed wanderers, spirit-bound armour and corrupted thralls. What unites them is the broken bargain with death. The living fear them, hunt them, and on some quiet nights go to them for answers the living cannot give.
 

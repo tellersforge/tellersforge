@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Crystalline architect folk *(NPC only)*
 
+![Crystalline architect folk](../Images/species-crystalline-architect-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 AGI −2 END +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +3, [Geology & Prospecting](../Skills/geology-and-prospecting.md) +2, [Architecture](../Skills/architecture.md) +1, [Composure](../Skills/composure.md) +1, [Sculpture](../Skills/sculpture.md) +1, [Acrobatics](../Skills/acrobatics.md) −2, [Running](../Skills/running.md) −2, [Stealth](../Skills/stealth.md) −2, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Culture lines, inseparable from this people.
 
 ### No. 563 Living gemstone humanoid *(genres: underworld and wild places)*
+
+![Living gemstone humanoid](../Images/species-living-gemstone-humanoid.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Humanoids built from living gemstone, armoured and glittering, slow but nearly impossible to hurt. (looks like: crystal; good at: toughness, powers and magic)
@@ -48,6 +54,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Minor Illusion stands for light refraction, per the species note. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 564 Crystalborn ancestry *(genres: underworld and wild places)*
+
+![Crystalborn ancestry](../Images/species-crystalborn-ancestry.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Living-crystal people whose glassy bodies turn blades and poison but shatter under a heavy blow. (looks like: crystal; good at: toughness, powers and magic)

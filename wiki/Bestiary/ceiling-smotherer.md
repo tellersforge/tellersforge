@@ -1,5 +1,9 @@
 # Ceiling smotherer
 
+![Ceiling smotherer](../Images/BE-098-bestiary-ceiling-smotherer.jpg){.illus}
+
+
+*Catalogue: BE-098*
 *Set: Expansion*
 
 *aka: ______________________________*

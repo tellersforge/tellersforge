@@ -1,5 +1,9 @@
 # Foil blanket
 
+![Foil blanket](../Images/GR-0426-equipment-foil-blanket.jpg){.illus}
+
+
+*Catalogue: GR-0426*
 *Set: Expansion*
 
 *aka: ______________________________*

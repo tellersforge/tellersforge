@@ -1,5 +1,9 @@
 # Vast space amoeba
 
+![Vast space amoeba](../Images/BE-648-bestiary-vast-space-amoeba.jpg){.illus}
+
+
+*Catalogue: BE-648*
 *Set: Expansion*
 
 *aka: ______________________________*

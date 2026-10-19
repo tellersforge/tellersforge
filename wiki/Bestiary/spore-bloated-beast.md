@@ -1,5 +1,9 @@
 # Spore-bloated beast
 
+![Spore-bloated beast](../Images/BE-584-bestiary-spore-bloated-beast.jpg){.illus}
+
+
+*Catalogue: BE-584*
 *Set: Expansion*
 
 *aka: ______________________________*

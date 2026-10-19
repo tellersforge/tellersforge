@@ -1,5 +1,9 @@
 # Multitool
 
+![Multitool](../Images/GR-0669-equipment-multitool.jpg){.illus}
+
+
+*Catalogue: GR-0669*
 *Set: Core*
 
 *aka: ______________________________*

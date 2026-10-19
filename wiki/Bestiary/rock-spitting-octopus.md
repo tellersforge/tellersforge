@@ -1,5 +1,9 @@
 # Rock-spitting octopus
 
+![Rock-spitting octopus](../Images/BE-499-bestiary-rock-spitting-octopus.jpg){.illus}
+
+
+*Catalogue: BE-499*
 *Set: Expansion*
 
 *aka: ______________________________*

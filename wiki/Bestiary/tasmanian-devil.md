@@ -1,5 +1,9 @@
 # Tasmanian devil
 
+![Tasmanian devil](../Images/BE-609-bestiary-tasmanian-devil.jpg){.illus}
+
+
+*Catalogue: BE-609*
 *Set: Core*
 
 *aka: ______________________________*

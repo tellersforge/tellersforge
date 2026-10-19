@@ -1,5 +1,9 @@
 # Major Illusion
 
+![Major Illusion](../Images/PW-168-powers-major-illusion.jpg){.illus}
+
+
+*Catalogue: PW-168*
 *Set: Expansion*
 
 *aka: ______________________________*

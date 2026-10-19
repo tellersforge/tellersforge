@@ -1,5 +1,9 @@
 # Quilted winter coat
 
+![Quilted winter coat](../Images/GR-0769-equipment-quilted-winter-coat.jpg){.illus}
+
+
+*Catalogue: GR-0769*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Jeweller's kit
 
+![Jeweller's kit](../Images/GR-0570-equipment-jeweller-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0570*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Life-sign detector
 
+![Life-sign detector](../Images/GR-0597-equipment-life-sign-detector.jpg){.illus}
+
+
+*Catalogue: GR-0597*
 *Set: Expansion*
 
 *aka: ______________________________*

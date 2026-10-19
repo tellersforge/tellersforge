@@ -1,5 +1,9 @@
 # Great beaked worm
 
+![Great beaked worm](../Images/BE-304-bestiary-great-beaked-worm.jpg){.illus}
+
+
+*Catalogue: BE-304*
 *Set: Expansion*
 
 *aka: ______________________________*

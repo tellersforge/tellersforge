@@ -1,5 +1,9 @@
 # Relentless stalker
 
+![Relentless stalker](../Images/BE-487-bestiary-relentless-stalker.jpg){.illus}
+
+
+*Catalogue: BE-487*
 *Set: Expansion*
 
 *aka: ______________________________*

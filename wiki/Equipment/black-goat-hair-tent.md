@@ -1,5 +1,9 @@
 # Black goat-hair tent
 
+![Black goat-hair tent](../Images/GR-0216-equipment-black-goat-hair-tent.jpg){.illus}
+
+
+*Catalogue: GR-0216*
 *Set: Expansion*
 
 *aka: ______________________________*

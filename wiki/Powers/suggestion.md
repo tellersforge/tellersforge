@@ -1,5 +1,9 @@
 # Suggestion
 
+![Suggestion](../Images/PW-279-powers-suggestion.jpg){.illus}
+
+
+*Catalogue: PW-279*
 *Set: Core*
 
 *aka: ______________________________*

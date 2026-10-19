@@ -1,5 +1,9 @@
 # Collapsible bucket
 
+![Collapsible bucket](../Images/GR-0292-equipment-collapsible-bucket.jpg){.illus}
+
+
+*Catalogue: GR-0292*
 *Set: Expansion*
 
 *aka: ______________________________*

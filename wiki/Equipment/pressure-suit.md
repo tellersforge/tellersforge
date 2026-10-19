@@ -1,5 +1,9 @@
 # Pressure suit
 
+![Pressure suit](../Images/GR-0759-equipment-pressure-suit.jpg){.illus}
+
+
+*Catalogue: GR-0759*
 *Set: Expansion*
 
 *aka: ______________________________*

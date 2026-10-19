@@ -1,5 +1,9 @@
 # Dome tent
 
+![Dome tent](../Images/GR-0344-equipment-dome-tent.jpg){.illus}
+
+
+*Catalogue: GR-0344*
 *Set: Core*
 
 *aka: ______________________________*

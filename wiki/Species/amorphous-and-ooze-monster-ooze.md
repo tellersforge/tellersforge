@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Acidic gelatinous predator *(beast)*
 
+![Acidic gelatinous predator](../Images/species-acidic-gelatinous-predator.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** STR +1 AGI +1 END +2 INT −3 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Shapeshifting pet ooze *(beast)*
 
+![Shapeshifting pet ooze](../Images/species-shapeshifting-pet-ooze.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** amorphous
 - **Attributes:** STR −3 AGI +3 END +2 INT −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Can reshape itself and roughly copy shapes.
 
 ### Matter-converting ooze *(NPC only)*
+
+![Matter-converting ooze](../Images/species-matter-converting-ooze.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** AGI +1 END +2 INT −1 CHA −2
@@ -58,6 +67,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Crystal-shard ooze *(beast)*
 
+![Crystal-shard ooze](../Images/species-crystal-shard-ooze.jpg){.illus}
+
+
 - **Size:** medium · **Body:** amorphous
 - **Attributes:** AGI −1 END +4 INT −3 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Crystal shards toughen its body and can be flung.
 
 ### Jelly-swarm folk *(beast)*
+
+![Jelly-swarm folk](../Images/species-jelly-swarm-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** amorphous
 - **Attributes:** STR −2 AGI +2 END +2 INT −3 CHA −2
@@ -80,6 +95,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Toxic sludge colossus *(NPC only)*
 
+![Toxic sludge colossus](../Images/species-toxic-sludge-colossus.jpg){.illus}
+
+
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +7 AGI −3 END +2 INT −2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept
@@ -90,6 +108,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Corrosive, and reforms after being dispersed.
 
 ### Corruption-twisted spawn *(beast)*
+
+![Corruption-twisted spawn](../Images/species-corruption-twisted-spawn.jpg){.illus}
+
 
 - **Size:** huge · **Body:** amorphous
 - **Attributes:** STR +7 AGI −4 END +3 INT −3 WIS −2 CHA −2

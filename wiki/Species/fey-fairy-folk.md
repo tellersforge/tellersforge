@@ -35,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 431 Tiny winged fey *(genres: fairy tale and folklore; starter)*
 
+![Tiny winged fey](../Images/species-tiny-winged-fey.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped+winged
 - **What it's like:** Tiny winged sprites who fly, play tricks and weave small illusions. (looks like: fairy; good at: flying, powers and magic, people and talk)
 - **Attributes:** STR −3 AGI +3 END −1 CHA +2

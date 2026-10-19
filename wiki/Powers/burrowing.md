@@ -1,5 +1,9 @@
 # Burrowing
 
+![Burrowing](../Images/PW-030-powers-burrowing.jpg){.illus}
+
+
+*Catalogue: PW-030*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Communications & Sensors
 
+![Communications & Sensors](../Images/SK-037-skills-communications-and-sensors.jpg){.illus}
+
+
+*Catalogue: SK-037*
 *Set: Expansion*
 
 *aka: ______________________________*

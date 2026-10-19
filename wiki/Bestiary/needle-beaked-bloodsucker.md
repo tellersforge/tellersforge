@@ -1,5 +1,9 @@
 # Needle-beaked bloodsucker
 
+![Needle-beaked bloodsucker](../Images/BE-436-bestiary-needle-beaked-bloodsucker.jpg){.illus}
+
+
+*Catalogue: BE-436*
 *Set: Expansion*
 
 *aka: ______________________________*

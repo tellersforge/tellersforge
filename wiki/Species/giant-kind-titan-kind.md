@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Primordial titan *(NPC only; NPC-scale)*
 
+![Primordial titan](../Images/species-primordial-titan.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** biped
 - **Attributes:** STR +9 AGI −6 END +2 INT +1 WIS +2 CHA +2 COU +2
 - **Skills:** [Lifting & Carrying](../Skills/lifting-and-carrying.md) +3, [Intimidation](../Skills/intimidation.md) +2, [Construction](../Skills/construction.md) +1, [Herding & Husbandry](../Skills/herding-and-husbandry.md) +1, [Stonemasonry](../Skills/stonemasonry.md) +1, [Disguise](../Skills/disguise.md) −2, [Sleight of Hand](../Skills/sleight-of-hand.md) −2, [Stealth](../Skills/stealth.md) −3, [Riding](../Skills/riding.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale. Shown for a sky titan; a sea titan uses Water Control Set 3 and a time titan Haste & Slow Set 3 instead (separate stat blocks). Size set to gigantic: the primordial titans are world-scale beings (one holds up the sky), far past huge.
 
 ### Ancient giant-god *(NPC only; NPC-scale)*
+
+![Ancient giant-god](../Images/species-ancient-giant-god.jpg){.illus}
+
 
 - **Size:** gigantic · **Body:** biped
 - **Attributes:** STR +9 AGI −6 END +2 INT +1 WIS +2 CHA +2 COU +2

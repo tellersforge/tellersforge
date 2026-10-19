@@ -1,5 +1,9 @@
 # Servitor protoplasm mass
 
+![Servitor protoplasm mass](../Images/BE-532-bestiary-servitor-protoplasm-mass.jpg){.illus}
+
+
+*Catalogue: BE-532*
 *Set: Expansion*
 
 *aka: ______________________________*

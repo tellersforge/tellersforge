@@ -1,5 +1,9 @@
 # Giant octopus
 
+![Giant octopus](../Images/BE-268-bestiary-giant-octopus.jpg){.illus}
+
+
+*Catalogue: BE-268*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Industrial city
 
+![Industrial city](../Images/cultures-industrial-city.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

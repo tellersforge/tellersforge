@@ -1,5 +1,9 @@
 # Masquerade half-mask
 
+![Masquerade half-mask](../Images/GR-0631-equipment-masquerade-half-mask.jpg){.illus}
+
+
+*Catalogue: GR-0631*
 *Set: Expansion*
 
 *aka: ______________________________*

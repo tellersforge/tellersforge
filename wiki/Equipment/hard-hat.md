@@ -1,5 +1,9 @@
 # Hard hat
 
+![Hard hat](../Images/GR-0504-equipment-hard-hat.jpg){.illus}
+
+
+*Catalogue: GR-0504*
 *Set: Expansion*
 
 *aka: ______________________________*

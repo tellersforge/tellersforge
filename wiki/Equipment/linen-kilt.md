@@ -1,5 +1,9 @@
 # Linen kilt
 
+![Linen kilt](../Images/GR-0602-equipment-linen-kilt.jpg){.illus}
+
+
+*Catalogue: GR-0602*
 *Set: Expansion*
 
 *aka: ______________________________*

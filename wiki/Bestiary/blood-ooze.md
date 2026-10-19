@@ -1,5 +1,9 @@
 # Blood ooze
 
+![Blood ooze](../Images/BE-058-bestiary-blood-ooze.jpg){.illus}
+
+
+*Catalogue: BE-058*
 *Set: Expansion*
 
 *aka: ______________________________*

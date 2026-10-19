@@ -1,5 +1,9 @@
 # Mendicant's robe
 
+![Mendicant's robe](../Images/GR-0642-equipment-mendicant-s-robe.jpg){.illus}
+
+
+*Catalogue: GR-0642*
 *Set: Expansion*
 
 *aka: ______________________________*

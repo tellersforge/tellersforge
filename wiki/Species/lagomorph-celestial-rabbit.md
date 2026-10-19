@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Moon rabbit *(NPC only)*
 
+![Moon rabbit](../Images/species-moon-rabbit.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **Attributes:** STR −2 AGI +2 WIS +3 PER +2 CHA +1 COU −1
 - **Skills:** [Jumping](../Skills/jumping.md) +3, [Danger Sense](../Skills/danger-sense.md) +2, [Remedies & Pharmacy](../Skills/remedies-and-pharmacy.md) +2, [Running](../Skills/running.md) +2, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +1, [Stealth](../Skills/stealth.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Pain Tolerance](../Skills/pain-tolerance.md) −1, [Intimidation](../Skills/intimidation.md) −3

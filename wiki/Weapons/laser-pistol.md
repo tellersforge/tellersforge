@@ -1,7 +1,8 @@
 # Laser Pistol
 
-![Laser pistol](../Images/weapons-laser-pistol.jpg){.illus}
+![Laser pistol](../Images/GR-0056-weapons-laser-pistol.jpg){.illus}
 
+*Catalogue: GR-0056*
 *Set: Core*
 
 *aka: ______________________________*

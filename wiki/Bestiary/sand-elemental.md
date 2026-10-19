@@ -1,5 +1,9 @@
 # Sand elemental
 
+![Sand elemental](../Images/BE-515-bestiary-sand-elemental.jpg){.illus}
+
+
+*Catalogue: BE-515*
 *Set: Expansion*
 
 *aka: ______________________________*

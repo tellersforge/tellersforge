@@ -1,5 +1,9 @@
 # Frost lizard
 
+![Frost lizard](../Images/BE-222-bestiary-frost-lizard.jpg){.illus}
+
+
+*Catalogue: BE-222*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Militarist tiger-lord *(NPC only)*
 
+![Militarist tiger-lord](../Images/species-militarist-tiger-lord.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 WIS +1 COU +1
 - **Skills:** [Balance](../Skills/balance.md) +2, [Stealth](../Skills/stealth.md) +2, [Acrobatics](../Skills/acrobatics.md) +1, [Climbing](../Skills/climbing.md) +1, [Hunting](../Skills/hunting.md) +1, [Jumping](../Skills/jumping.md) +1, Endurance (attribute) −1, [Swimming](../Skills/swimming.md) −2
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Clawed, militaristic lords.
 
 ### Aristocratic lion-lord *(NPC only)*
+
+![Aristocratic lion-lord](../Images/species-aristocratic-lion-lord.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +2 WIS +1 CHA +1 COU +1

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 776 Bottle-bound wish-spirit *(high-power: Game Master's approval; genres: heavens, hells and other planes)*
 
+![Bottle-bound wish-spirit](../Images/species-bottle-bound-wish-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** incorporeal
 - **What it's like:** Ancient spirits bound inside a vessel, able to grant vast wishes if you can word your request exactly right. (looks like: genie; good at: powers and magic, knowledge)
 - **Attributes:** STR −3 INT +1 WIS +1 PER +1 CHA +1

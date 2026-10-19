@@ -1,5 +1,9 @@
 # Brain pool master
 
+![Brain pool master](../Images/BE-071-bestiary-brain-pool-master.jpg){.illus}
+
+
+*Catalogue: BE-071*
 *Set: Expansion*
 
 *aka: ______________________________*

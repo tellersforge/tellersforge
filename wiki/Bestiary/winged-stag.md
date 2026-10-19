@@ -1,5 +1,9 @@
 # Winged stag
 
+![Winged stag](../Images/BE-680-bestiary-winged-stag.jpg){.illus}
+
+
+*Catalogue: BE-680*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Tusked battle boar
 
+![Tusked battle boar](../Images/BE-636-bestiary-tusked-battle-boar.jpg){.illus}
+
+
+*Catalogue: BE-636*
 *Set: Expansion*
 
 *aka: ______________________________*

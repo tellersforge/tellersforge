@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 768 Two-dimensional polygon-folk *(genres: multiverse and time)*
 
+![Two-dimensional polygon-folk](../Images/species-two-dimensional-polygon-folk.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **What it's like:** Flat, two-dimensional folk whose social rank is decided by how many sides their shape has. (looks like: shape; good at: knowledge, people and talk)
 - **Attributes:** STR −2 INT +1 WIS +1 CHA −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Linear one-dimensional being *(NPC only)*
 
+![Linear one-dimensional being](../Images/species-linear-one-dimensional-being.jpg){.illus}
+
+
 - **Size:** small · **Body:** other
 - **Attributes:** STR −2 AGI +2 INT −1 WIS +1 CHA −1
 - **Skills:** [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2, Perception (attribute) −3, [Climbing](../Skills/climbing.md) Foreign Concept, [Jumping](../Skills/jumping.md) Foreign Concept
@@ -40,6 +46,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Lives on a single line and can perceive only fore and aft.
 
 ### Pointland solipsist being *(NPC only)*
+
+![Pointland solipsist being](../Images/species-pointland-solipsist-being.jpg){.illus}
+
 
 - **Size:** tiny · **Body:** other
 - **Attributes:** STR −3 AGI +3 INT −2 WIS −2 CHA −4

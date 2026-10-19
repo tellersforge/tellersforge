@@ -1,5 +1,9 @@
 # Three-headed storm dragon
 
+![Three-headed storm dragon](../Images/BE-620-bestiary-three-headed-storm-dragon.jpg){.illus}
+
+
+*Catalogue: BE-620*
 *Set: Expansion*
 
 *aka: ______________________________*

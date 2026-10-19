@@ -1,5 +1,9 @@
 # Logistics
 
+![Logistics](../Images/SK-120-skills-logistics.jpg){.illus}
+
+
+*Catalogue: SK-120*
 *Set: Expansion*
 
 *aka: ______________________________*

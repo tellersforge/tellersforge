@@ -1,5 +1,9 @@
 # Abundance
 
+![Abundance](../Images/PW-001-powers-abundance.jpg){.illus}
+
+
+*Catalogue: PW-001*
 *Set: Expansion*
 
 *aka: ______________________________*

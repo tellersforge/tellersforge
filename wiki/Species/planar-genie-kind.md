@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 590 Common djinn *(high-power: Game Master's approval; genres: heavens, hells and other planes)*
 
+![Common djinn](../Images/species-common-djinn.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Invisible fire-spirits who can take any shape and might help you, or trick you, depending on their mood. (looks like: genie; good at: powers and magic, sneaking)
 - **Attributes:** END −1 WIS +1 CHA +2
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 591 Flame-wreathed ifrit *(high-power: Game Master's approval; genres: heavens, hells and other planes)*
 
+![Flame-wreathed ifrit](../Images/species-flame-wreathed-ifrit.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** Proud, towering fire-spirits wreathed in flame, with magic strong enough to frighten most who meet them. (looks like: fire; good at: powers and magic, strength)
 - **Attributes:** STR +2 AGI −2 END −1 INT +1 WIS +1 CHA +2
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element is fire. High-power (Game Master's approval): suits super-powered or mythic campaigns.
 
 ### No. 592 Sea marid *(high-power: Game Master's approval; genres: heavens, hells and other planes)*
+
+![Sea marid](../Images/species-sea-marid.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Mighty sea-spirits, prideful and hard to pin down, who might grant a wish if you can catch one. (looks like: water spirit; good at: powers and magic, swimming)

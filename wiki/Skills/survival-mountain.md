@@ -1,5 +1,9 @@
 # Survival: Mountain
 
+![Survival: Mountain](../Images/SK-202-skills-survival-mountain.jpg){.illus}
+
+
+*Catalogue: SK-202*
 *Set: Expansion*
 
 *aka: ______________________________*

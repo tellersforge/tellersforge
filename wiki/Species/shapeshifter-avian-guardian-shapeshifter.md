@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Bird-woman sorceress *(NPC only)*
 
+![Bird-woman sorceress](../Images/species-bird-woman-sorceress.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged(shift)
 - **Attributes:** AGI +1 WIS +1 PER +1 CHA +1
 - **Skills:** [Acting](../Skills/acting.md) +1, [Deception](../Skills/deception.md) +1, [Mimicry](../Skills/mimicry.md) +1, [Composure](../Skills/composure.md) −1

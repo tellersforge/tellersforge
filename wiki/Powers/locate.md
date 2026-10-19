@@ -1,5 +1,9 @@
 # Locate
 
+![Locate](../Images/PW-155-powers-locate.jpg){.illus}
+
+
+*Catalogue: PW-155*
 *Set: Core*
 
 *aka: ______________________________*

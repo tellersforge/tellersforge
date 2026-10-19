@@ -1,5 +1,9 @@
 # African wild dog
 
+![African wild dog](../Images/BE-011-bestiary-african-wild-dog.jpg){.illus}
+
+
+*Catalogue: BE-011*
 *Set: Core*
 
 *aka: ______________________________*

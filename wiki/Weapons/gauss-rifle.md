@@ -1,7 +1,8 @@
 # Gauss Rifle
 
-![Gauss rifle](../Images/weapons-gauss-rifle.jpg){.illus}
+![Gauss rifle](../Images/GR-0041-weapons-gauss-rifle.jpg){.illus}
 
+*Catalogue: GR-0041*
 *Set: Expansion*
 
 *aka: ______________________________*

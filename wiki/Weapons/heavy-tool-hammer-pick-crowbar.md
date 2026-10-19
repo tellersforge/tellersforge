@@ -1,5 +1,9 @@
 # Heavy tool (hammer, pick, crowbar)
 
+![Heavy tool (hammer, pick, crowbar)](../Images/GR-0052-weapons-heavy-tool-hammer-pick-crowbar.jpg){.illus}
+
+
+*Catalogue: GR-0052*
 *Set: Expansion*
 
 *aka: ______________________________*

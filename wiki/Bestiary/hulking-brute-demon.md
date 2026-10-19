@@ -1,7 +1,8 @@
 # Hulking brute demon
 
-![Hulking brute demon](../Images/bestiary-hulking-brute-demon.jpg){.illus}
+![Hulking brute demon](../Images/BE-350-bestiary-hulking-brute-demon.jpg){.illus}
 
+*Catalogue: BE-350*
 *Set: Core*
 
 *aka: ______________________________*

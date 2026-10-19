@@ -1,5 +1,9 @@
 # Four-finned sea steed
 
+![Four-finned sea steed](../Images/BE-216-bestiary-four-finned-sea-steed.jpg){.illus}
+
+
+*Catalogue: BE-216*
 *Set: Expansion*
 
 *aka: ______________________________*

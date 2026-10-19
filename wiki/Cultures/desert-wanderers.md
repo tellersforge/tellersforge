@@ -1,5 +1,8 @@
 # Desert wanderers
 
+![Desert wanderers](../Images/cultures-desert-wanderers.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

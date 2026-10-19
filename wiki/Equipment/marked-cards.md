@@ -1,5 +1,9 @@
 # Marked cards
 
+![Marked cards](../Images/GR-0629-equipment-marked-cards.jpg){.illus}
+
+
+*Catalogue: GR-0629*
 *Set: Expansion*
 
 *aka: ______________________________*

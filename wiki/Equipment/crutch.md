@@ -1,5 +1,9 @@
 # Crutch
 
+![Crutch](../Images/GR-0314-equipment-crutch.jpg){.illus}
+
+
+*Catalogue: GR-0314*
 *Set: Expansion*
 
 *aka: ______________________________*

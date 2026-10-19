@@ -1,7 +1,8 @@
 # Padded jack / gambeson
 
-![Padded jack (gambeson)](../Images/armour-padded-jack-gambeson.jpg){.illus}
+![Padded jack (gambeson)](../Images/GR-0153-armour-padded-jack-gambeson.jpg){.illus}
 
+*Catalogue: GR-0153*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Wish-giving cow
 
+![Wish-giving cow](../Images/BE-682-bestiary-wish-giving-cow.jpg){.illus}
+
+
+*Catalogue: BE-682*
 *Set: Expansion*
 
 *aka: ______________________________*

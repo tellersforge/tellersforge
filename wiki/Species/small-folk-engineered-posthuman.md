@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 759 Microhuman low-mass parahuman *(genres: near future and cyberpunk)*
 
+![Microhuman low-mass parahuman](../Images/species-microhuman-low-mass-parahuman.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped
 - **What it's like:** Humans miniaturised to save resources on space habitats, agile but fragile at half normal size. (looks like: human; good at: speed and agility, knowledge)
 - **Attributes:** STR −2 AGI +2 END −2 WIS +1

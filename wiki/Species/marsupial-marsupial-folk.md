@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Wallaby-folk *(NPC only)*
 
+![Wallaby-folk](../Images/species-wallaby-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END +1 CHA −1
 - **Skills:** [Jumping](../Skills/jumping.md) +2, [Caregiving](../Skills/caregiving.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Climbing](../Skills/climbing.md) −1, [Swimming](../Skills/swimming.md) −1
@@ -48,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 561 Koala-folk *(genres: beast-folk: fur)*
 
+![Koala-folk](../Images/species-koala-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailless
 - **What it's like:** Round, sleepy tree-hugging folk who climb well and doze through the day. (looks like: koala; good at: climbing, wilderness)
 - **Attributes:** END +1 CHA −1
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Strong climbing grip and a slow, low-energy metabolism.
 
 ### No. 562 Opossum-folk *(genres: beast-folk: fur)*
+
+![Opossum-folk](../Images/species-opossum-folk.jpg){.illus}
+
 
 - **Size:** small · **Body:** biped+tailed
 - **What it's like:** Small tree-climbers with gripping tails who play dead and shrug off poisons. (looks like: possum; good at: climbing, toughness)
@@ -69,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Tasmanian devil-folk *(NPC only)*
 
+![Tasmanian devil-folk](../Images/species-tasmanian-devil-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+tailed
 - **Attributes:** STR −1 AGI +2 END +1 CHA −1 COU +1
 - **Skills:** [Intimidation](../Skills/intimidation.md) +2, [Jumping](../Skills/jumping.md) +2, [Caregiving](../Skills/caregiving.md) +1, [Scavenging](../Skills/scavenging.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Climbing](../Skills/climbing.md) −1, [Swimming](../Skills/swimming.md) −1
@@ -78,6 +90,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A savage bite and loud aggressive displays.
 
 ### Wombat-folk *(NPC only)*
+
+![Wombat-folk](../Images/species-wombat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailless
 - **Attributes:** STR +1 END +2 CHA −1
@@ -90,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sugar glider-folk *(NPC only)*
 
+![Sugar glider-folk](../Images/species-sugar-glider-folk.jpg){.illus}
+
+
 - **Size:** small · **Body:** biped+winged
 - **Attributes:** STR −2 AGI +2 END +1 CHA −1
 - **Skills:** [Jumping](../Skills/jumping.md) +2, [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +2, [Caregiving](../Skills/caregiving.md) +1, [Climbing](../Skills/climbing.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Survival: Plains & Steppe](../Skills/survival-plains-and-steppe.md) +1, [Swimming](../Skills/swimming.md) −1
@@ -98,6 +116,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Nocturnal tree-dwellers that glide on membranes between their limbs.
 
 ### Thylacine-folk *(beast)*
+
+![Thylacine-folk](../Images/species-thylacine-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** AGI +1 END +1 INT −3 WIS +1 CHA −1

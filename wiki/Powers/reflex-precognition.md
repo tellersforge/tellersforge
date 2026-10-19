@@ -1,5 +1,9 @@
 # Reflex Precognition
 
+![Reflex Precognition](../Images/PW-240-powers-reflex-precognition.jpg){.illus}
+
+
+*Catalogue: PW-240*
 *Set: Expansion*
 
 *aka: ______________________________*

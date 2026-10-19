@@ -1,5 +1,9 @@
 # Handheld computer
 
+![Handheld computer](../Images/GR-0497-equipment-handheld-computer.jpg){.illus}
+
+
+*Catalogue: GR-0497*
 *Set: Core*
 
 *aka: ______________________________*

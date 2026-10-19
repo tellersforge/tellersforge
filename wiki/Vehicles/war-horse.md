@@ -1,7 +1,8 @@
 # War Horse
 
-![War horse](../Images/vehicles-war-horse.jpg){.illus}
+![War horse](../Images/GR-1131-vehicles-war-horse.jpg){.illus}
 
+*Catalogue: GR-1131*
 *Set: Core*
 
 

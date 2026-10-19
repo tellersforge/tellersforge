@@ -1,7 +1,8 @@
 # Medical injector
 
-![Medical injector](../Images/equipment-medical-injector.jpg){.illus}
+![Medical injector](../Images/GR-0639-equipment-medical-injector.jpg){.illus}
 
+*Catalogue: GR-0639*
 *Set: Core*
 
 *aka: ______________________________*

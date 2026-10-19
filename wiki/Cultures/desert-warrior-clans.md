@@ -1,5 +1,8 @@
 # Desert warrior clans
 
+![Desert warrior clans](../Images/cultures-desert-warrior-clans.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

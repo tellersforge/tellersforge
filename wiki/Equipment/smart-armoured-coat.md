@@ -1,5 +1,9 @@
 # Smart armoured coat
 
+![Smart armoured coat](../Images/GR-0879-equipment-smart-armoured-coat.jpg){.illus}
+
+
+*Catalogue: GR-0879*
 *Set: Expansion*
 
 *aka: ______________________________*

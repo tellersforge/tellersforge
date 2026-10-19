@@ -1,7 +1,8 @@
 # Matchlock Musket
 
-![Matchlock musket](../Images/weapons-matchlock-musket.jpg){.illus}
+![Matchlock musket](../Images/GR-0065-weapons-matchlock-musket.jpg){.illus}
 
+*Catalogue: GR-0065*
 *Set: Expansion*
 
 *aka: ______________________________*

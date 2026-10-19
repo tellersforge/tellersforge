@@ -1,5 +1,8 @@
 # Pachyderm
 
+![Pachyderm](../Images/species-families-pachyderm.jpg){.illus}
+
+
 
 The great thick-skinned folk: elephants, mammoths, rhinos and hippos, and the peoples who carry their bulk. They are huge, heavy and slow to rouse, with hides like leather armour, tusks or horns, and in many cases a clever trunk that serves as nose, hand and trumpet. Most are calm, patient and deeply loyal to their herd, with long memories for both kindness and injury. When pushed too far they charge, and little stands in the way. The family also holds a horned lineage from other worlds. Smaller peoples find them gentle and immovable, rather like a mountain with opinions.
 

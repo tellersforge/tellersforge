@@ -1,7 +1,8 @@
 # Riding Lizard
 
-![Riding lizard](../Images/vehicles-riding-lizard.jpg){.illus}
+![Riding lizard](../Images/GR-1108-vehicles-riding-lizard.jpg){.illus}
 
+*Catalogue: GR-1108*
 *Set: Expansion*
 
 

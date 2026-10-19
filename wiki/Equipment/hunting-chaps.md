@@ -1,5 +1,9 @@
 # Hunting chaps
 
+![Hunting chaps](../Images/GR-0549-equipment-hunting-chaps.jpg){.illus}
+
+
+*Catalogue: GR-0549*
 *Set: Expansion*
 
 *aka: ______________________________*

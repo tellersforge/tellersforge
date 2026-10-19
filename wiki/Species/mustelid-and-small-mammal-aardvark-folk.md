@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 581 Earth-pig-born aardvark *(genres: dark fantasy)*
 
+![Earth-pig-born aardvark](../Images/species-earth-pig-born-aardvark.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Long-snouted aardvark folk, the last of their kind, tough mercenaries with surprising political cunning. (looks like: aardvark; good at: fighting, strength)
 - **Attributes:** AGI +1 END +1 CHA −1 COU +1

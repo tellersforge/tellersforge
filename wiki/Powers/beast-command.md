@@ -1,5 +1,9 @@
 # Beast Command
 
+![Beast Command](../Images/PW-020-powers-beast-command.jpg){.illus}
+
+
+*Catalogue: PW-020*
 *Set: Core*
 
 *aka: ______________________________*

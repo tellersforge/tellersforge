@@ -1,5 +1,9 @@
 # Sea snake
 
+![Sea snake](../Images/BE-528-bestiary-sea-snake.jpg){.illus}
+
+
+*Catalogue: BE-528*
 *Set: Core*
 
 *aka: ______________________________*

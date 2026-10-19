@@ -1,5 +1,9 @@
 # Bog corpse
 
+![Bog corpse](../Images/BE-062-bestiary-bog-corpse.jpg){.illus}
+
+
+*Catalogue: BE-062*
 *Set: Core*
 
 *aka: ______________________________*

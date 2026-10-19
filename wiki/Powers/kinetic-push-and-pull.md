@@ -1,5 +1,9 @@
 # Kinetic Push & Pull
 
+![Kinetic Push & Pull](../Images/PW-145-powers-kinetic-push-and-pull.jpg){.illus}
+
+
+*Catalogue: PW-145*
 *Set: Core*
 
 *aka: ______________________________*

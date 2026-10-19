@@ -1,5 +1,9 @@
 # Draft ox
 
+![Draft ox](../Images/BE-157-bestiary-draft-ox.jpg){.illus}
+
+
+*Catalogue: BE-157*
 *Set: Core*
 
 *aka: ______________________________*

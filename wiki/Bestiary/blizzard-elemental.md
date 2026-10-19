@@ -1,5 +1,9 @@
 # Blizzard elemental
 
+![Blizzard elemental](../Images/BE-052-bestiary-blizzard-elemental.jpg){.illus}
+
+
+*Catalogue: BE-052*
 *Set: Expansion*
 
 *aka: ______________________________*

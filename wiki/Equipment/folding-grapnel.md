@@ -1,5 +1,9 @@
 # Folding grapnel
 
+![Folding grapnel](../Images/GR-0428-equipment-folding-grapnel.jpg){.illus}
+
+
+*Catalogue: GR-0428*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,8 @@
 # Crudeness
 
+![Crudeness](../Images/flaws-crudeness.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when rude, coarse and vulgar in company.

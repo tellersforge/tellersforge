@@ -1,5 +1,9 @@
 # Lava worm
 
+![Lava worm](../Images/BE-381-bestiary-lava-worm.jpg){.illus}
+
+
+*Catalogue: BE-381*
 *Set: Expansion*
 
 *aka: ______________________________*

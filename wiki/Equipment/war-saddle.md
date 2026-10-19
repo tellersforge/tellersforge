@@ -1,5 +1,9 @@
 # War saddle
 
+![War saddle](../Images/GR-0996-equipment-war-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0996*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Grooming & Style
 
+![Grooming & Style](../Images/SK-084-skills-grooming-and-style.jpg){.illus}
+
+
+*Catalogue: SK-084*
 *Set: Expansion*
 
 *aka: ______________________________*

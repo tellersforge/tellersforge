@@ -1,5 +1,9 @@
 # Hidebehind
 
+![Hidebehind](../Images/BE-335-bestiary-hidebehind.jpg){.illus}
+
+
+*Catalogue: BE-335*
 *Set: Core*
 
 *aka: ______________________________*

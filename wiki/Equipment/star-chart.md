@@ -1,5 +1,9 @@
 # Star chart
 
+![Star chart](../Images/GR-0905-equipment-star-chart.jpg){.illus}
+
+
+*Catalogue: GR-0905*
 *Set: Expansion*
 
 *aka: ______________________________*

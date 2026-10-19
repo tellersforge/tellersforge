@@ -1,5 +1,9 @@
 # Long-tongued wall licker
 
+![Long-tongued wall licker](../Images/BE-402-bestiary-long-tongued-wall-licker.jpg){.illus}
+
+
+*Catalogue: BE-402*
 *Set: Expansion*
 
 *aka: ______________________________*

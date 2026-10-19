@@ -1,7 +1,8 @@
 # Great tusked boar
 
-![Great tusked boar](../Images/bestiary-great-tusked-boar.jpg){.illus}
+![Great tusked boar](../Images/BE-312-bestiary-great-tusked-boar.jpg){.illus}
 
+*Catalogue: BE-312*
 *Set: Core*
 
 *aka: ______________________________*

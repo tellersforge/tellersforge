@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Genie/djinn-kind *(NPC only; NPC-scale)*
 
+![Genie/djinn-kind](../Images/species-genie-djinn-kind.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** STR −1 AGI +1 END −1 INT +1 CHA +3
 - **Skills:** [Charm & Seduction](../Skills/charm-and-seduction.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Dance](../Skills/dance.md) +1, [Deception](../Skills/deception.md) +1, [Wit & Mockery](../Skills/wit-and-mockery.md) +1, [Bookkeeping](../Skills/bookkeeping.md) −1, [Religion & Theology](../Skills/religion-and-theology.md) −1, [Blacksmithing](../Skills/blacksmithing.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is air. Wish Granting only while bound to a lamp, ring or pact; NPC-scale.
 
 ### No. 433 Fire elemental warrior *(genres: heavens, hells and other planes)*
+
+![Fire elemental warrior](../Images/species-fire-elemental-warrior.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** A hot-tempered, fire-wreathed warrior from the elemental planes, utterly untouched by flame. (looks like: fire; good at: fighting, powers and magic)
@@ -44,6 +50,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Element is fire.
 
 ### No. 434 Sylph wind spirit *(genres: heavens, hells and other planes)*
+
+![Sylph wind spirit](../Images/species-sylph-wind-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** A light, swift air-spirit tied to wind and storm, hardly weighing more than a breeze. (looks like: ghost; good at: flying, speed and agility)

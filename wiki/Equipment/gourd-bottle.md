@@ -1,5 +1,9 @@
 # Gourd bottle
 
+![Gourd bottle](../Images/GR-0466-equipment-gourd-bottle.jpg){.illus}
+
+
+*Catalogue: GR-0466*
 *Set: Expansion*
 
 *aka: ______________________________*

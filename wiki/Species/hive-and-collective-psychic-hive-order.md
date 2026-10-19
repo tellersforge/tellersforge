@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 488 Bodiless psychic warrior order *(genres: space opera: strange aliens)*
 
+![Bodiless psychic warrior order](../Images/species-bodiless-psychic-warrior-order.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Frail-bodied psychic warriors who need almost nothing to survive, drawing immense power from their shared mental bond. (looks like: ghost; good at: powers and magic, knowledge)
 - **Attributes:** STR −1 END −1 INT +1 WIS +3 CHA −2 COU +1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; physical frailty is an attribute matter.
 
 ### No. 489 Dark rogue psychic exile order *(genres: space opera: strange aliens)*
+
+![Dark rogue psychic exile order](../Images/species-dark-rogue-psychic-exile-order.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Exiles who broke from a shared hive-mind to think for themselves, and grew even stronger psychics for it. (looks like: human; good at: powers and magic, sneaking)

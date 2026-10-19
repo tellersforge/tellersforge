@@ -1,5 +1,9 @@
 # Pinafore dress
 
+![Pinafore dress](../Images/GR-0725-equipment-pinafore-dress.jpg){.illus}
+
+
+*Catalogue: GR-0725*
 *Set: Expansion*
 
 *aka: ______________________________*

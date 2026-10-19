@@ -1,5 +1,9 @@
 # Grey nanite swarm
 
+![Grey nanite swarm](../Images/BE-316-bestiary-grey-nanite-swarm.jpg){.illus}
+
+
+*Catalogue: BE-316*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Propeller Fighter
 
-![Propeller fighter](../Images/vehicles-propeller-fighter.jpg){.illus}
+![Propeller fighter](../Images/GR-1103-vehicles-propeller-fighter.jpg){.illus}
 
+*Catalogue: GR-1103*
 *Set: Expansion*
 
 

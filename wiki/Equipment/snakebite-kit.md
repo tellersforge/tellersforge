@@ -1,5 +1,9 @@
 # Snakebite kit
 
+![Snakebite kit](../Images/GR-0888-equipment-snakebite-kit.jpg){.illus}
+
+
+*Catalogue: GR-0888*
 *Set: Expansion*
 
 *aka: ______________________________*

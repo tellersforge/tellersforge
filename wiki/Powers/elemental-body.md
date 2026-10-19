@@ -1,5 +1,9 @@
 # Elemental Body
 
+![Elemental Body](../Images/PW-084-powers-elemental-body.jpg){.illus}
+
+
+*Catalogue: PW-084*
 *Set: Expansion*
 
 *aka: ______________________________*

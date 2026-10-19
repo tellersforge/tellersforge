@@ -1,5 +1,9 @@
 # Haggling
 
+![Haggling](../Images/SK-087-skills-haggling.jpg){.illus}
+
+
+*Catalogue: SK-087*
 *Set: Core · Basic skill: Bartering*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Speaking trumpet
 
+![Speaking trumpet](../Images/GR-0897-equipment-speaking-trumpet.jpg){.illus}
+
+
+*Catalogue: GR-0897*
 *Set: Expansion*
 
 *aka: ______________________________*

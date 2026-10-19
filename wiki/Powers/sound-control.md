@@ -1,5 +1,9 @@
 # Sound Control
 
+![Sound Control](../Images/PW-267-powers-sound-control.jpg){.illus}
+
+
+*Catalogue: PW-267*
 *Set: Expansion*
 
 *aka: ______________________________*

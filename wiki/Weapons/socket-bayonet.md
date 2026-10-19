@@ -1,5 +1,9 @@
 # Socket Bayonet
 
+![Socket Bayonet](../Images/GR-0100-weapons-socket-bayonet.jpg){.illus}
+
+
+*Catalogue: GR-0100*
 *Set: Expansion*
 
 *aka: ______________________________*

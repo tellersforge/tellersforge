@@ -1,5 +1,9 @@
 # Star-winged steed
 
+![Star-winged steed](../Images/BE-591-bestiary-star-winged-steed.jpg){.illus}
+
+
+*Catalogue: BE-591*
 *Set: Expansion*
 
 *aka: ______________________________*

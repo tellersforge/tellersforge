@@ -1,5 +1,9 @@
 # Twig crawler
 
+![Twig crawler](../Images/BE-638-bestiary-twig-crawler.jpg){.illus}
+
+
+*Catalogue: BE-638*
 *Set: Expansion*
 
 *aka: ______________________________*

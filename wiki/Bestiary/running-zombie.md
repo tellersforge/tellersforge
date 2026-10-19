@@ -1,7 +1,8 @@
 # Running zombie
 
-![Running zombie](../Images/bestiary-running-zombie.jpg){.illus}
+![Running zombie](../Images/BE-506-bestiary-running-zombie.jpg){.illus}
 
+*Catalogue: BE-506*
 *Set: Core*
 
 *aka: ______________________________*

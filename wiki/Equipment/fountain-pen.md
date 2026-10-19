@@ -1,5 +1,9 @@
 # Fountain pen
 
+![Fountain pen](../Images/GR-0438-equipment-fountain-pen.jpg){.illus}
+
+
+*Catalogue: GR-0438*
 *Set: Expansion*
 
 *aka: ______________________________*

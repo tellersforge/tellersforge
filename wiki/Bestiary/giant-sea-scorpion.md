@@ -1,5 +1,9 @@
 # Giant sea scorpion
 
+![Giant sea scorpion](../Images/BE-275-bestiary-giant-sea-scorpion.jpg){.illus}
+
+
+*Catalogue: BE-275*
 *Set: Expansion*
 
 *aka: ______________________________*

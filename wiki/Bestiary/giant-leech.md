@@ -1,5 +1,9 @@
 # Giant leech
 
+![Giant leech](../Images/BE-260-bestiary-giant-leech.jpg){.illus}
+
+
+*Catalogue: BE-260*
 *Set: Expansion*
 
 *aka: ______________________________*

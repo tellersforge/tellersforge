@@ -1,7 +1,8 @@
 # Oil lantern
 
-![Oil lantern](../Images/equipment-oil-lantern.jpg){.illus}
+![Oil lantern](../Images/GR-0688-equipment-oil-lantern.jpg){.illus}
 
+*Catalogue: GR-0688*
 *Set: Core*
 
 *aka: ______________________________*

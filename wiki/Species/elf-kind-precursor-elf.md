@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Extinct wild/precursor elf *(NPC only)*
 
+![Extinct wild/precursor elf](../Images/species-extinct-wild-precursor-elf.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2
 - **Skills:** [Balance](../Skills/balance.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Carousing](../Skills/carousing.md) −1, [Intimidation](../Skills/intimidation.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; their vanished civilization is culture.
 
 ### Extinct proto-dwarven elf · Tech-preserving precursor elf *(NPC only)*
+
+![Extinct proto-dwarven elf](../Images/species-extinct-proto-dwarven-elf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 INT +1 WIS +1 PER +2
@@ -42,6 +48,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Tech-preserving precursor elf:* Same as its species; their preserved technology is gear.
 
 ### No. 384 Psionic space-elf *(genres: space opera: near-humans)*
+
+![Psionic space-elf](../Images/species-psionic-space-elf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **What it's like:** Frail, long-lived elves of a fading star-empire, gifted with visions of what's to come. (looks like: elf; good at: powers and magic, knowledge)
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Desert raider folk (sci-fi) *(NPC only)*
 
+![Desert raider folk (sci-fi)](../Images/species-desert-raider-folk-sci-fi.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 WIS +1 PER +2
 - **Skills:** [Balance](../Skills/balance.md) +1, [Legends & Folklore](../Skills/legends-and-folklore.md) +1, [Meditation & Concentration](../Skills/meditation-and-concentration.md) +1, [Survival: Desert](../Skills/survival-desert.md) +1, [Carousing](../Skills/carousing.md) −1, [Intimidation](../Skills/intimidation.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1
@@ -62,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Nomadic desert raiders.
 
 ### Crashed alien precursor elf *(NPC only)*
+
+![Crashed alien precursor elf](../Images/species-crashed-alien-precursor-elf.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR −1 AGI +2 END −1 INT +2 WIS +2 PER +2

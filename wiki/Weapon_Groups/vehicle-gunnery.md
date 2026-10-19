@@ -1,5 +1,9 @@
 # Vehicle Gunnery
 
+![Vehicle Gunnery](../Images/WG-030-weapon-groups-vehicle-gunnery.jpg){.illus}
+
+
+*Catalogue: WG-030*
 *Set: Expansion*
 
 *aka: ______________________________*

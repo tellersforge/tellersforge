@@ -1,5 +1,9 @@
 # Poultice kit
 
+![Poultice kit](../Images/GR-0748-equipment-poultice-kit.jpg){.illus}
+
+
+*Catalogue: GR-0748*
 *Set: Core*
 
 *aka: ______________________________*

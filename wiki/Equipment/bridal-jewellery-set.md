@@ -1,5 +1,9 @@
 # Bridal jewellery set
 
+![Bridal jewellery set](../Images/GR-0231-equipment-bridal-jewellery-set.jpg){.illus}
+
+
+*Catalogue: GR-0231*
 *Set: Expansion*
 
 *aka: ______________________________*

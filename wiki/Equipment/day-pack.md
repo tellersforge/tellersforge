@@ -1,5 +1,9 @@
 # Day pack
 
+![Day pack](../Images/GR-0323-equipment-day-pack.jpg){.illus}
+
+
+*Catalogue: GR-0323*
 *Set: Core*
 
 *aka: ______________________________*

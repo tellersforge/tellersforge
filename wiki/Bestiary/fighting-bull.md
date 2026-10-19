@@ -1,5 +1,9 @@
 # Fighting bull
 
+![Fighting bull](../Images/BE-189-bestiary-fighting-bull.jpg){.illus}
+
+
+*Catalogue: BE-189*
 *Set: Core*
 
 *aka: ______________________________*

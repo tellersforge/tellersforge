@@ -1,5 +1,9 @@
 # Rawhide lariat
 
+![Rawhide lariat](../Images/GR-0781-equipment-rawhide-lariat.jpg){.illus}
+
+
+*Catalogue: GR-0781*
 *Set: Expansion*
 
 *aka: ______________________________*

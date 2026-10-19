@@ -1,5 +1,9 @@
 # Machine Disruption
 
+![Machine Disruption](../Images/PW-162-powers-machine-disruption.jpg){.illus}
+
+
+*Catalogue: PW-162*
 *Set: Expansion*
 
 *aka: ______________________________*

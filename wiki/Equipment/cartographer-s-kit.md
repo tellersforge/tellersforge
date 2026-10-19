@@ -1,5 +1,9 @@
 # Cartographer's kit
 
+![Cartographer's kit](../Images/GR-0263-equipment-cartographer-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0263*
 *Set: Expansion*
 
 *aka: ______________________________*

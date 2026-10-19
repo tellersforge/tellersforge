@@ -1,5 +1,9 @@
 # Matches
 
+![Matches](../Images/GR-0633-equipment-matches.jpg){.illus}
+
+
+*Catalogue: GR-0633*
 *Set: Expansion*
 
 *aka: ______________________________*

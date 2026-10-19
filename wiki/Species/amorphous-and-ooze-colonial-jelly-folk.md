@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Siphonophore colony-folk *(NPC only)*
 
+![Siphonophore colony-folk](../Images/species-siphonophore-colony-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** colonial
 - **Attributes:** AGI −1 END +2 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept, [Survival: Desert](../Skills/survival-desert.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 13 · Parry — · Dodge 6 · Damage tentacle lash 1d6+2 · Armour 0 · Life 21 · Threat minor ([Bestiary roles](../bestiary.md))
 
 ### Drifting jellyfolk armada *(NPC only)*
+
+![Drifting jellyfolk armada](../Images/species-drifting-jellyfolk-armada.jpg){.illus}
+
 
 - **Size:** medium · **Body:** colonial
 - **Attributes:** STR −2 AGI +1 END +2 CHA −1

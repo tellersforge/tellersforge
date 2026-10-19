@@ -1,5 +1,9 @@
 # Court regalia gown
 
+![Court regalia gown](../Images/GR-0307-equipment-court-regalia-gown.jpg){.illus}
+
+
+*Catalogue: GR-0307*
 *Set: Expansion*
 
 *aka: ______________________________*

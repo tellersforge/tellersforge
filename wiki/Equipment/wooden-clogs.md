@@ -1,5 +1,9 @@
 # Wooden clogs
 
+![Wooden clogs](../Images/GR-1023-equipment-wooden-clogs.jpg){.illus}
+
+
+*Catalogue: GR-1023*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Thermal underwear
 
+![Thermal underwear](../Images/GR-0953-equipment-thermal-underwear.jpg){.illus}
+
+
+*Catalogue: GR-0953*
 *Set: Expansion*
 
 *aka: ______________________________*

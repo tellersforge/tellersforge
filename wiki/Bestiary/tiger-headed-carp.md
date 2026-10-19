@@ -1,5 +1,9 @@
 # Tiger-headed carp
 
+![Tiger-headed carp](../Images/BE-626-bestiary-tiger-headed-carp.jpg){.illus}
+
+
+*Catalogue: BE-626*
 *Set: Expansion*
 
 *aka: ______________________________*

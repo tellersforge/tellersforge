@@ -1,7 +1,8 @@
 # Short Teleport
 
-![Short teleport](../Images/powers-short-teleport.jpg){.illus}
+![Short teleport](../Images/PW-259-powers-short-teleport.jpg){.illus}
 
+*Catalogue: PW-259*
 *Set: Core*
 
 *aka: ______________________________*

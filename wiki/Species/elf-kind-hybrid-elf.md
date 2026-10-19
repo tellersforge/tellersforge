@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 382 Half-blood elf *(genres: classic fantasy)*
 
+![Half-blood elf](../Images/species-half-blood-elf.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Children of elf and human, living longer than either parent's kin and often belonging fully to neither. (looks like: elf; good at: keen senses, people and talk)
 - **Attributes:** AGI +1 WIS +1 PER +1
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - **For the Game Master only, this race as an NPC guard or soldier (not your character's numbers):** Attack 14 · Parry 11 · Dodge 9 · Damage longsword 1d6+2 · Armour 2 · Life 17 · Threat 1 ([Bestiary roles](../bestiary.md))
 
 ### No. 383 Half-giant blooded folk *(genres: dark fantasy)*
+
+![Half-giant blooded folk](../Images/species-half-giant-blooded-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **What it's like:** Big, tough elf-kin carrying giant blood in their veins, roaming the desert in tight tribal bands. (looks like: human; good at: strength, toughness)

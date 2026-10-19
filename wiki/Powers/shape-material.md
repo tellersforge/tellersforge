@@ -1,5 +1,9 @@
 # Shape Material
 
+![Shape Material](../Images/PW-256-powers-shape-material.jpg){.illus}
+
+
+*Catalogue: PW-256*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -36,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 263 Clay-bodied labor golem *(genres: classic fantasy; starter)*
 
+![Clay-bodied labor golem](../Images/species-clay-bodied-labor-golem.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **What it's like:** A huge, tireless clay giant brought to life by magic words. (looks like: statue; good at: strength, toughness, making and fixing)
 - **Attributes:** STR +6 AGI −2 END +2 WIS −1 CHA −2
@@ -48,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sentient living-wood ship *(NPC only)*
 
+![Sentient living-wood ship](../Images/species-sentient-living-wood-ship.jpg){.illus}
+
+
 - **Size:** huge · **Body:** other
 - **Attributes:** STR +6 AGI −4 END +2 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Sea Navigation](../Skills/sea-navigation.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept, [Running](../Skills/running.md) Foreign Concept
@@ -57,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Huge size is set in the attribute step. Lifespan (very long-lived) is a lexicon detail, not a game number. No hands: held weapons unusable.
 
 ### Guardian automaton (bronze) *(NPC only; NPC-scale)*
+
+![Guardian automaton (bronze)](../Images/species-guardian-automaton-bronze.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +8 AGI −4 END +4 WIS −1 CHA −2
@@ -69,6 +78,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Animated clay/stone golem *(NPC only; NPC-scale)*
 
+![Animated clay/stone golem](../Images/species-animated-clay-stone-golem.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +7 AGI −2 END +4 INT −2 WIS −1 CHA −4
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Storytelling & Conversation](../Skills/storytelling-and-conversation.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept, [Swimming](../Skills/swimming.md) Foreign Concept
@@ -79,6 +91,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Its resistance to most magic is an NPC-scale trait for the GM.
 
 ### Bone-and-sinew tupilaq *(NPC only)*
+
+![Bone-and-sinew tupilaq](../Images/species-bone-and-sinew-tupilaq.jpg){.illus}
+
 
 - **Size:** small · **Body:** varies
 - **Attributes:** AGI +2 END +2 CHA −2
@@ -91,6 +106,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Alchemical homunculus *(NPC only)*
 
+![Alchemical homunculus](../Images/species-alchemical-homunculus.jpg){.illus}
+
+
 - **Size:** tiny · **Body:** biped
 - **Attributes:** STR −3 AGI +2 END −1 INT +3 WIS −1 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -99,6 +117,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Differs from its species only in tiny, fragile size; flesh, so not immune to poison.
 
 ### Stone/metal automaton sentry *(NPC only)*
+
+![Stone/metal automaton sentry](../Images/species-stone-metal-automaton-sentry.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +3 WIS −1 CHA −2
@@ -111,6 +132,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Armored crab-warrior construct *(beast)*
 
+![Armored crab-warrior construct](../Images/species-armored-crab-warrior-construct.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +5 AGI −2 END +2 INT −3 WIS −2 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -121,6 +145,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* An armoured, clawed war-golem that feels no poison or disease.
 
 ### Luggage-chest servant *(NPC only; NPC-scale)*
+
+![Luggage-chest servant](../Images/species-luggage-chest-servant.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** STR +2 AGI −1 END +2 INT −2 WIS −1 CHA −2 COU +3
@@ -133,6 +160,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Punitively grafted hybrid convict *(NPC only)*
 
+![Punitively grafted hybrid convict](../Images/species-punitively-grafted-hybrid-convict.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** STR +2 AGI −1 END +2 WIS −1 CHA −2
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2
@@ -141,6 +171,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Grafted animal, plant or machine parts add their own lines per character (GM's choice).
 
 ### Time-displaced killing machine *(NPC only; NPC-scale)*
+
+![Time-displaced killing machine](../Images/species-time-displaced-killing-machine.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped
 - **Attributes:** STR +6 AGI −1 END +2 WIS −1 CHA −2 COU +3
@@ -153,6 +186,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Soul-bound homunculus *(NPC only)*
 
+![Soul-bound homunculus](../Images/species-soul-bound-homunculus.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 AGI −1 END +2 INT +1 WIS −1 COU +1
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -162,6 +198,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Healing Factor spends a stored soul each time it saves the body. Lifespan (very long-lived) is a lexicon detail, not a game number.
 
 ### No. 264 Living-metal automaton champion *(genres: myth and legend)*
+
+![Living-metal automaton champion](../Images/species-living-metal-automaton-champion.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** An exalted soul housed in a living metal-and-jade body, immune to poison and disease. (looks like: statue; good at: strength, toughness)
@@ -173,6 +212,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Mindless brute construct *(beast)*
 
+![Mindless brute construct](../Images/species-mindless-brute-construct.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped
 - **Attributes:** STR +9 AGI −4 END +4 INT −3 WIS −4 CHA −5
 - **Skills:**, [Composure](../Skills/composure.md) +2, [Counting & Measuring](../Skills/counting-and-measuring.md) +2, [Memory Training](../Skills/memory-training.md) +2, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Cooking](../Skills/cooking.md) −1, [Charm & Seduction](../Skills/charm-and-seduction.md) −2, [Insight](../Skills/insight.md) −2, [Swimming](../Skills/swimming.md) −2, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -182,6 +224,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A faceless, will-less brute that is almost impossible to stop.
 
 ### Dream-logic object servant *(NPC only)*
+
+![Dream-logic object servant](../Images/species-dream-logic-object-servant.jpg){.illus}
+
 
 - **Size:** small · **Body:** other
 - **Attributes:** STR −2 AGI +1 END +2 WIS −1 CHA −2

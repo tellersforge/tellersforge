@@ -1,5 +1,9 @@
 # Glass cutter
 
+![Glass cutter](../Images/GR-0459-equipment-glass-cutter.jpg){.illus}
+
+
+*Catalogue: GR-0459*
 *Set: Expansion*
 
 *aka: ______________________________*

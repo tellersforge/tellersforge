@@ -1,5 +1,9 @@
 # Sleep
 
+![Sleep](../Images/PW-264-powers-sleep.jpg){.illus}
+
+
+*Catalogue: PW-264*
 *Set: Core · Basic power*
 
 *aka: ______________________________*

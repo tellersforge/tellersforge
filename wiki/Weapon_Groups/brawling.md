@@ -1,5 +1,9 @@
 # Brawling
 
+![Brawling](../Images/WG-007-weapon-groups-brawling.jpg){.illus}
+
+
+*Catalogue: WG-007*
 *Set: Core*
 
 *aka: ______________________________*

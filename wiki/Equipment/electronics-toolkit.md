@@ -1,5 +1,9 @@
 # Electronics toolkit
 
+![Electronics toolkit](../Images/GR-0368-equipment-electronics-toolkit.jpg){.illus}
+
+
+*Catalogue: GR-0368*
 *Set: Expansion*
 
 *aka: ______________________________*

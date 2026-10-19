@@ -1,5 +1,9 @@
 # Brewer's kit
 
+![Brewer's kit](../Images/GR-0230-equipment-brewer-s-kit.jpg){.illus}
+
+
+*Catalogue: GR-0230*
 *Set: Expansion*
 
 *aka: ______________________________*

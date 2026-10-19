@@ -1,5 +1,9 @@
 # Fur mittens
 
+![Fur mittens](../Images/GR-0446-equipment-fur-mittens.jpg){.illus}
+
+
+*Catalogue: GR-0446*
 *Set: Core*
 
 *aka: ______________________________*

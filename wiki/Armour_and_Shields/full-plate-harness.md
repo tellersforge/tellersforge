@@ -1,7 +1,8 @@
 # Full plate harness
 
-![Full plate harness](../Images/armour-full-plate-harness.jpg){.illus}
+![Full plate harness](../Images/GR-0138-armour-full-plate-harness.jpg){.illus}
 
+*Catalogue: GR-0138*
 *Set: Core*
 
 *aka: ______________________________*

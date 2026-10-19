@@ -1,7 +1,8 @@
 # Guardian eye orb
 
-![Guardian eye orb](../Images/bestiary-guardian-eye-orb.jpg){.illus}
+![Guardian eye orb](../Images/BE-321-bestiary-guardian-eye-orb.jpg){.illus}
 
+*Catalogue: BE-321*
 *Set: Expansion*
 
 *aka: ______________________________*

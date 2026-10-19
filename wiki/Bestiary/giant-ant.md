@@ -1,5 +1,9 @@
 # Giant ant
 
+![Giant ant](../Images/BE-235-bestiary-giant-ant.jpg){.illus}
+
+
+*Catalogue: BE-235*
 *Set: Core*
 
 *aka: ______________________________*

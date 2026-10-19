@@ -1,5 +1,9 @@
 # Embalming kit
 
+![Embalming kit](../Images/GR-0370-equipment-embalming-kit.jpg){.illus}
+
+
+*Catalogue: GR-0370*
 *Set: Expansion*
 
 *aka: ______________________________*

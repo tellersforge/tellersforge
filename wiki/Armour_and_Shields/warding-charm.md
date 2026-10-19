@@ -1,5 +1,9 @@
 # Warding charm
 
+![Warding charm](../Images/GR-0168-armour-warding-charm.jpg){.illus}
+
+
+*Catalogue: GR-0168*
 *Set: Expansion*
 
 *aka: ______________________________*

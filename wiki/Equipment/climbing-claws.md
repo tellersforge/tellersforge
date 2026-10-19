@@ -1,5 +1,9 @@
 # Climbing claws
 
+![Climbing claws](../Images/GR-0284-equipment-climbing-claws.jpg){.illus}
+
+
+*Catalogue: GR-0284*
 *Set: Expansion*
 
 *aka: ______________________________*

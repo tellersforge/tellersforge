@@ -1,5 +1,9 @@
 # Searchlight
 
+![Searchlight](../Images/GR-0832-equipment-searchlight.jpg){.illus}
+
+
+*Catalogue: GR-0832*
 *Set: Expansion*
 
 *aka: ______________________________*

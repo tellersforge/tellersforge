@@ -1,5 +1,9 @@
 # Jury-Rigging
 
+![Jury-Rigging](../Images/SK-105-skills-jury-rigging.jpg){.illus}
+
+
+*Catalogue: SK-105*
 *Set: Expansion*
 
 *aka: ______________________________*

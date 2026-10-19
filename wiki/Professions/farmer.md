@@ -1,5 +1,8 @@
 # Farmer
 
+![Farmer](../Images/professions-farmer.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

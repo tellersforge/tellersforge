@@ -1,5 +1,9 @@
 # Steppe saddle
 
+![Steppe saddle](../Images/GR-0915-equipment-steppe-saddle.jpg){.illus}
+
+
+*Catalogue: GR-0915*
 *Set: Expansion*
 
 *aka: ______________________________*

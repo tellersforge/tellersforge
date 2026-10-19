@@ -1,5 +1,9 @@
 # Notebook
 
+![Notebook](../Images/GR-0682-equipment-notebook.jpg){.illus}
+
+
+*Catalogue: GR-0682*
 *Set: Core*
 
 *aka: ______________________________*

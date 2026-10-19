@@ -1,5 +1,9 @@
 # Giant short-faced kangaroo
 
+![Giant short-faced kangaroo](../Images/BE-278-bestiary-giant-short-faced-kangaroo.jpg){.illus}
+
+
+*Catalogue: BE-278*
 *Set: Expansion*
 
 *aka: ______________________________*

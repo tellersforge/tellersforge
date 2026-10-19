@@ -1,5 +1,9 @@
 # Heavy Sabre
 
+![Heavy Sabre](../Images/GR-0050-weapons-heavy-sabre.jpg){.illus}
+
+
+*Catalogue: GR-0050*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Giant wolverine
 
+![Giant wolverine](../Images/BE-293-bestiary-giant-wolverine.jpg){.illus}
+
+
+*Catalogue: BE-293*
 *Set: Expansion*
 
 *aka: ______________________________*

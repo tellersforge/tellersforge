@@ -37,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Amphibious tentacled ancient horror *(NPC only; NPC-scale)*
 
+![Amphibious tentacled ancient horror](../Images/species-amphibious-tentacled-ancient-horror.jpg){.illus}
+
+
 - **Size:** huge · **Body:** aquatic
 - **Attributes:** STR +7 AGI −3 END +1 INT +5 WIS +4 CHA +2 COU +4
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Camouflage](../Skills/camouflage.md) +2, [Swimming](../Skills/swimming.md) +2, [Diving](../Skills/diving.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1, [Running](../Skills/running.md) −3, [Survival: Desert](../Skills/survival-desert.md) Foreign Concept

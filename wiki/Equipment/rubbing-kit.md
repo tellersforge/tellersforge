@@ -1,5 +1,9 @@
 # Rubbing kit
 
+![Rubbing kit](../Images/GR-0806-equipment-rubbing-kit.jpg){.illus}
+
+
+*Catalogue: GR-0806*
 *Set: Expansion*
 
 *aka: ______________________________*

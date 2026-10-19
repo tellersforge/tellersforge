@@ -1,5 +1,9 @@
 # Two-headed eagle
 
+![Two-headed eagle](../Images/BE-640-bestiary-two-headed-eagle.jpg){.illus}
+
+
+*Catalogue: BE-640*
 *Set: Core*
 
 *aka: ______________________________*

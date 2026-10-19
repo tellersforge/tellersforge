@@ -1,5 +1,9 @@
 # Mountain goat
 
+![Mountain goat](../Images/BE-424-bestiary-mountain-goat.jpg){.illus}
+
+
+*Catalogue: BE-424*
 *Set: Core*
 
 *aka: ______________________________*

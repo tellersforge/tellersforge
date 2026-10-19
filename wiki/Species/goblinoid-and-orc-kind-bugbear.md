@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 477 Stealthy brute goblinoid folk *(genres: classic fantasy)*
 
+![Stealthy brute goblinoid folk](../Images/species-stealthy-brute-goblinoid-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** A long-limbed, surprisingly strong goblinoid brute who somehow moves as quietly as something half its size. (looks like: goblin; good at: sneaking, strength)
 - **Attributes:** STR +2 END +1 INT −1 CHA −1 COU +1

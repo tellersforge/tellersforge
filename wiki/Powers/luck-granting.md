@@ -1,5 +1,9 @@
 # Luck-Granting
 
+![Luck-Granting](../Images/PW-160-powers-luck-granting.jpg){.illus}
+
+
+*Catalogue: PW-160*
 *Set: Core*
 
 *aka: ______________________________*

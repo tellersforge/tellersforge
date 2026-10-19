@@ -1,5 +1,9 @@
 # World-eating crystal lattice
 
+![World-eating crystal lattice](../Images/BE-685-bestiary-world-eating-crystal-lattice.jpg){.illus}
+
+
+*Catalogue: BE-685*
 *Set: Expansion*
 
 *aka: ______________________________*

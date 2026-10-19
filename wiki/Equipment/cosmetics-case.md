@@ -1,5 +1,9 @@
 # Cosmetics case
 
+![Cosmetics case](../Images/GR-0305-equipment-cosmetics-case.jpg){.illus}
+
+
+*Catalogue: GR-0305*
 *Set: Core*
 
 *aka: ______________________________*

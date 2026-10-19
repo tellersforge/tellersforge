@@ -1,5 +1,9 @@
 # Mimicry
 
+![Mimicry](../Images/SK-134-skills-mimicry.jpg){.illus}
+
+
+*Catalogue: SK-134*
 *Set: Expansion*
 
 *aka: ______________________________*

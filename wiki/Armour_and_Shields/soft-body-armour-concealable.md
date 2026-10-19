@@ -1,5 +1,9 @@
 # Soft body armour (concealable)
 
+![Soft body armour (concealable)](../Images/GR-0161-armour-soft-body-armour-concealable.jpg){.illus}
+
+
+*Catalogue: GR-0161*
 *Set: Core*
 
 *aka: ______________________________*

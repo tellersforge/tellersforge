@@ -1,5 +1,9 @@
 # Biting gourd
 
+![Biting gourd](../Images/BE-044-bestiary-biting-gourd.jpg){.illus}
+
+
+*Catalogue: BE-044*
 *Set: Expansion*
 
 *aka: ______________________________*

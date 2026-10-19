@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 200 Surface-passing legged form *(genres: super-powered: cosmic and mythic)*
 
+![Surface-passing legged form](../Images/species-surface-passing-legged-form.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Long-lived sea-folk who pass easily for land-dwellers while hiding superhuman strength. (looks like: human; good at: swimming, strength)
 - **Attributes:** STR +2 END +2 CHA −1
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Carries out the species note on long life. Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### No. 201 Gilled deep-water native *(genres: sea and sky, super-powered: cosmic and mythic)*
+
+![Gilled deep-water native](../Images/species-gilled-deep-water-native.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** True deep-sea folk with gills and webbed hands, built for crushing pressure and dark. (looks like: fish; good at: swimming, strength, keen senses)
@@ -46,6 +52,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Degenerated deep-trench dweller *(NPC only)*
 
+![Degenerated deep-trench dweller](../Images/species-degenerated-deep-trench-dweller.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 INT −3 CHA −3 COU +1
 - **Skills:** [Swimming](../Skills/swimming.md) +5, [Diving](../Skills/diving.md) +3, [Hunting](../Skills/hunting.md) +2, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -56,6 +65,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Near-mindlessness is set in the attribute step.
 
 ### No. 202 Penal-colony offshoot *(genres: super-powered: cosmic and mythic)*
+
+![Penal-colony offshoot](../Images/species-penal-colony-offshoot.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **What it's like:** Grudge-holding descendants of an undersea penal colony who command water itself. (looks like: human; good at: swimming, strength, powers and magic)
@@ -68,6 +80,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Lost-city isolationist *(NPC only)*
 
+![Lost-city isolationist](../Images/species-lost-city-isolationist.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +5, [Diving](../Skills/diving.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Running](../Skills/running.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3
@@ -78,6 +93,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Fin-tailed merfolk *(NPC only)*
 
+![Fin-tailed merfolk](../Images/species-fin-tailed-merfolk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +2 END +2 CHA −1
 - **Skills:** [Swimming](../Skills/swimming.md) +5, [Diving](../Skills/diving.md) +3, [Survival: Coast & Sea](../Skills/survival-coast-and-sea.md) +2, [Fishing](../Skills/fishing.md) +1, [Climbing](../Skills/climbing.md) −1, [Riding](../Skills/riding.md) −2, [Survival: Desert](../Skills/survival-desert.md) −3, [Running](../Skills/running.md) Foreign Concept
@@ -87,6 +105,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Lifespan (long-lived) is a lexicon detail, not a game number.
 
 ### Seal-kin coastal folk *(NPC only)*
+
+![Seal-kin coastal folk](../Images/species-seal-kin-coastal-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +2 END +2 CHA −1

@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Night-stalking bat spirit *(NPC only)*
 
+![Night-stalking bat spirit](../Images/species-night-stalking-bat-spirit.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** STR −1 AGI +1 WIS +1 PER +2 COU +1
 - **Skills:** [Survival: Caves & Underground](../Skills/survival-caves-and-underground.md) +3, [Intimidation](../Skills/intimidation.md) +1, [Parachuting & Gliding](../Skills/parachuting-and-gliding.md) +1, [Stealth](../Skills/stealth.md) +1, [Survival: Desert](../Skills/survival-desert.md) −1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −2
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A shapeshifting bat-winged spirit that flies by night to attack sleepers.
 
 ### Cave bat-god folk *(NPC only)*
+
+![Cave bat-god folk](../Images/species-cave-bat-god-folk.jpg){.illus}
+
 
 - **Size:** large · **Body:** biped+winged
 - **Attributes:** STR +1 AGI −1 WIS +1 PER +2 COU +1

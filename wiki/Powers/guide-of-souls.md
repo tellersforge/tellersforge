@@ -1,5 +1,9 @@
 # Guide of Souls
 
+![Guide of Souls](../Images/PW-122-powers-guide-of-souls.jpg){.illus}
+
+
+*Catalogue: PW-122*
 *Set: Expansion*
 
 *aka: ______________________________*

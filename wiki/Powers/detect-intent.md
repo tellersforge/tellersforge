@@ -1,5 +1,9 @@
 # Detect Intent
 
+![Detect Intent](../Images/PW-067-powers-detect-intent.jpg){.illus}
+
+
+*Catalogue: PW-067*
 *Set: Expansion*
 
 *aka: ______________________________*

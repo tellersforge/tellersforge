@@ -1,7 +1,8 @@
 # Great tyrant lizard
 
-![Great tyrant lizard](../Images/bestiary-great-tyrant-lizard.jpg){.illus}
+![Great tyrant lizard](../Images/BE-313-bestiary-great-tyrant-lizard.jpg){.illus}
 
+*Catalogue: BE-313*
 *Set: Core*
 
 *aka: ______________________________*

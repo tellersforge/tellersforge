@@ -1,5 +1,9 @@
 # Ember carrier
 
+![Ember carrier](../Images/GR-0371-equipment-ember-carrier.jpg){.illus}
+
+
+*Catalogue: GR-0371*
 *Set: Core*
 
 *aka: ______________________________*

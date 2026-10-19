@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hive-orb tentacled folk *(NPC only)*
 
+![Hive-orb tentacled folk](../Images/species-hive-orb-tentacled-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI +1 END −1 INT +2 WIS +1 CHA +1
 - **Skills:** [Swimming](../Skills/swimming.md) +2, [Diving](../Skills/diving.md) +1, [Insight](../Skills/insight.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) +1, [Lifting & Carrying](../Skills/lifting-and-carrying.md) −1
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Water Breathing Set 0 per the species note.
 
 ### No. 254 Tentacled jellyfish diplomat folk *(genres: space opera: strange aliens)*
+
+![Tentacled jellyfish diplomat folk](../Images/species-tentacled-jellyfish-diplomat-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** amorphous
 - **What it's like:** Glowing, tentacled diplomats whose language is a beautifully elaborate grammar. (looks like: jellyfish; good at: knowledge, people and talk)
@@ -45,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 255 Squid-faced rival folk *(genres: space opera: strange aliens)*
 
+![Squid-faced rival folk](../Images/species-squid-faced-rival-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **What it's like:** Sharp-eyed, tentacle-faced folk locked in old rivalry with a neighbouring sea-people. (looks like: squid; good at: knowledge, swimming)
 - **Attributes:** AGI +1 END −1 INT +2
@@ -54,6 +63,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Same as its species; amphibious like it.
 
 ### No. 256 Sensory head-tendril folk *(genres: space opera: near-humans)*
+
+![Sensory head-tendril folk](../Images/species-sensory-head-tendril-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tentacled
 - **What it's like:** Tendril-headed folk who sense smell and mood through their head-tresses. (looks like: octopus; good at: keen senses, knowledge)

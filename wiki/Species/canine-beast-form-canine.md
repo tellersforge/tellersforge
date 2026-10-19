@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Hellhound *(beast)*
 
+![Hellhound](../Images/species-hellhound.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +4 AGI −2 END +3 INT −4 WIS +1 PER +2 CHA −1 COU +3
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Running](../Skills/running.md) +2, [Hunting](../Skills/hunting.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) Foreign Concept, [Hand Tools](../Skills/hand-tools.md) Foreign Concept, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept
@@ -34,6 +37,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Many-headed underworld guard-dog: bites from every head, never all asleep, and ordinary wounds do not harm it.
 
 ### Fairy hound *(NPC only)*
+
+![Fairy hound](../Images/species-fairy-hound.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +2 AGI −1 END +1 INT −2 WIS +3 PER +1 CHA −1 COU +1
@@ -47,6 +53,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Great speaking wolf *(NPC only)*
 
+![Great speaking wolf](../Images/species-great-speaking-wolf.jpg){.illus}
+
+
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +5 AGI −2 END +2 INT −2 WIS +1 PER +1 CHA −1 COU +1
 - **Skills:** [Tracking](../Skills/tracking.md) +3, [Hunting](../Skills/hunting.md) +2, [Running](../Skills/running.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) Foreign Concept, [Hand Tools](../Skills/hand-tools.md) Foreign Concept, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept
@@ -57,6 +66,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Giant fierce pack wolf that can speak and bears riders; its size is an attribute.
 
 ### Spirit-bonded pack wolf *(NPC only)*
+
+![Spirit-bonded pack wolf](../Images/species-spirit-bonded-pack-wolf.jpg){.illus}
+
 
 - **Size:** large · **Body:** quadruped
 - **Attributes:** STR +2 AGI −1 END +1 INT −2 WIS +3 PER +1 CHA −1 COU +1
@@ -70,6 +82,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Reptile-hide hunting hound *(beast)*
 
+![Reptile-hide hunting hound](../Images/species-reptile-hide-hunting-hound.jpg){.illus}
+
+
 - **Size:** medium · **Body:** quadruped
 - **Attributes:** STR +1 END +3 INT −5 WIS +1 PER +1 CHA −1 COU +1
 - **Skills:** [Tracking](../Skills/tracking.md) +4, [Running](../Skills/running.md) +2, [Hunting](../Skills/hunting.md) +1, [Calligraphy & Scribing](../Skills/calligraphy-and-scribing.md) Foreign Concept, [Hand Tools](../Skills/hand-tools.md) Foreign Concept, [Jewellery & Gem Cutting](../Skills/jewellery-and-gem-cutting.md) Foreign Concept, [Riding](../Skills/riding.md) Foreign Concept
@@ -80,6 +95,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Scaled tracking hound bred as a guard and hunting beast.
 
 ### Pack-mind wolf alien *(NPC only)*
+
+![Pack-mind wolf alien](../Images/species-pack-mind-wolf-alien.jpg){.illus}
+
 
 - **Size:** medium · **Body:** other
 - **Attributes:** END +1 INT −6 WIS +1 PER +1 CHA −1 COU +1

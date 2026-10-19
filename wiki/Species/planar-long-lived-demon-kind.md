@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Language-mimicking predatory demon *(NPC only)*
 
+![Language-mimicking predatory demon](../Images/species-language-mimicking-predatory-demon.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** STR +1 END −1 INT +1 WIS +1 CHA +1
 - **Skills:** [Deception](../Skills/deception.md) +3, [Mimicry](../Skills/mimicry.md) +2, [Otherworldly Dealings](../Skills/otherworldly-dealings.md) +2, [Religion & Theology](../Skills/religion-and-theology.md) +2, [Arcana](../Skills/arcana.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −1, [Local Lore](../Skills/local-lore.md) −2

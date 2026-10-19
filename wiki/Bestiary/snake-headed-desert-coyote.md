@@ -1,5 +1,9 @@
 # Snake-headed desert coyote
 
+![Snake-headed desert coyote](../Images/BE-570-bestiary-snake-headed-desert-coyote.jpg){.illus}
+
+
+*Catalogue: BE-570*
 *Set: Expansion*
 
 *aka: ______________________________*

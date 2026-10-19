@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 814 Camel-folk *(genres: beast-folk: fur)*
 
+![Camel-folk](../Images/species-camel-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Humped camel folk built to shrug off desert heat, drought and blowing sand. (looks like: camel; good at: wilderness, toughness)
 - **Attributes:** STR +3 AGI −2 END +2 CHA −1
@@ -35,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* Resist Element is heat.
 
 ### No. 815 Llama/alpaca-folk *(genres: beast-folk: fur)*
+
+![Llama/alpaca-folk](../Images/species-llama-alpaca-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **What it's like:** Sure-footed, woolly llama folk who spit when annoyed and never slip on a mountain trail. (looks like: llama; good at: climbing, toughness)

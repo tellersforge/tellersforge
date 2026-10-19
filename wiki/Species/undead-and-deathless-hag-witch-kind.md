@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Child-devouring phantom *(NPC only)*
 
+![Child-devouring phantom](../Images/species-child-devouring-phantom.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Deception](../Skills/deception.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -33,6 +36,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Child-eating mountain hag *(NPC only)*
 
+![Child-eating mountain hag](../Images/species-child-eating-mountain-hag.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Survival: Mountain](../Skills/survival-mountain.md) +2, [Composure](../Skills/composure.md) +1, [Deception](../Skills/deception.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -41,6 +47,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A deep-mountain hag.
 
 ### Stretching-neck spy spirit *(NPC only)*
+
+![Stretching-neck spy spirit](../Images/species-stretching-neck-spy-spirit.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1 COU +2
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Frost-breath snow woman *(NPC only)*
 
+![Frost-breath snow woman](../Images/species-frost-breath-snow-woman.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Deception](../Skills/deception.md) +1, [Survival: Arctic](../Skills/survival-arctic.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -62,6 +74,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Vengeful banana-tree ghost *(NPC only)*
 
+![Vengeful banana-tree ghost](../Images/species-vengeful-banana-tree-ghost.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1 COU +2
 - **Skills:** [Pain Tolerance](../Skills/pain-tolerance.md) +5, [Intimidation](../Skills/intimidation.md) +2, [Composure](../Skills/composure.md) +1, [Deception](../Skills/deception.md) +1, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +1, [Cooking](../Skills/cooking.md) −1, [Caregiving](../Skills/caregiving.md) −2, [Animal Handling](../Skills/animal-handling.md) −3, [Carousing](../Skills/carousing.md) Foreign Concept
@@ -70,6 +85,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* A night-hunting ghost dwelling in banana groves.
 
 ### Self-segmenting flying ghoul-witch *(NPC only)*
+
+![Self-segmenting flying ghoul-witch](../Images/species-self-segmenting-flying-ghoul-witch.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+winged
 - **Attributes:** AGI −1 END +2 WIS +1 CHA −1 COU +2

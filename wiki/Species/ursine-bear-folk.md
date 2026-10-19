@@ -38,6 +38,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 821 Black bear-folk *(genres: beast-folk: fur)*
 
+![Black bear-folk](../Images/species-black-bear-folk.jpg){.illus}
+
+
 - **Size:** large · **Body:** biped+tailed
 - **What it's like:** Agile black bear folk, strong climbers equally happy fishing or foraging in the forest. (looks like: bear; good at: climbing, strength)
 - **Attributes:** STR +4 AGI −2 END +2 INT −1
@@ -48,6 +51,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Strong, agile climbers.
 
 ### No. 822 Polar bear-folk *(genres: beast-folk: fur)*
+
+![Polar bear-folk](../Images/species-polar-bear-folk.jpg){.illus}
+
 
 - **Size:** huge · **Body:** biped+tailed
 - **What it's like:** Huge white bear folk built for the ice, powerful swimmers who ambush prey in freezing cold. (looks like: bear; good at: swimming, strength)
@@ -62,6 +68,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### No. 823 Grizzly-folk *(genres: beast-folk: fur)*
 
+![Grizzly-folk](../Images/species-grizzly-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped+tailed
 - **What it's like:** Massive, hump-shouldered grizzly folk with long digging claws and a short temper about their territory. (looks like: bear; good at: strength, fighting)
 - **Attributes:** STR +6 AGI −4 END +2 INT −1 COU +1
@@ -74,6 +83,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Sun bear-folk *(NPC only)*
 
+![Sun bear-folk](../Images/species-sun-bear-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI −2 END +2 INT −1
 - **Skills:**, [Fishing](../Skills/fishing.md) +2, [Foraging](../Skills/foraging.md) +2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Intimidation](../Skills/intimidation.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Survival: Jungle & Swamp](../Skills/survival-jungle-and-swamp.md) +1, [Tracking](../Skills/tracking.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Acrobatics](../Skills/acrobatics.md) −2
@@ -83,6 +95,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Tropical insect-foragers with long claws and tongue.
 
 ### Sloth bear-folk *(NPC only)*
+
+![Sloth bear-folk](../Images/species-sloth-bear-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI −2 END +2 INT −1
@@ -94,6 +109,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Cave bear-folk *(beast)*
 
+![Cave bear-folk](../Images/species-cave-bear-folk.jpg){.illus}
+
+
 - **Size:** huge · **Body:** biped+tailed
 - **Attributes:** STR +7 AGI −4 END +2 INT −4
 - **Skills:**, [Fishing](../Skills/fishing.md) +2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Foraging](../Skills/foraging.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Tracking](../Skills/tracking.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Acrobatics](../Skills/acrobatics.md) −2
@@ -104,6 +122,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Spectacled bear-folk *(NPC only)*
 
+![Spectacled bear-folk](../Images/species-spectacled-bear-folk.jpg){.illus}
+
+
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI −2 END +2 INT −1
 - **Skills:** [Climbing](../Skills/climbing.md) +2, [Fishing](../Skills/fishing.md) +2, [Lifting & Carrying](../Skills/lifting-and-carrying.md) +2, [Foraging](../Skills/foraging.md) +1, [Intimidation](../Skills/intimidation.md) +1, [Survival: Forest (Woodcraft)](../Skills/survival-forest-woodcraft.md) +1, [Tracking](../Skills/tracking.md) +1, [Sleight of Hand](../Skills/sleight-of-hand.md) −1, [Stealth](../Skills/stealth.md) −1, [Acrobatics](../Skills/acrobatics.md) −2
@@ -113,6 +134,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Why:* Strong climbers.
 
 ### Moon bear-folk *(NPC only)*
+
+![Moon bear-folk](../Images/species-moon-bear-folk.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped+tailed
 - **Attributes:** STR +2 AGI −2 END +2 INT −1

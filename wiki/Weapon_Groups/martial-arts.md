@@ -1,5 +1,9 @@
 # Martial Arts
 
+![Martial Arts](../Images/WG-020-weapon-groups-martial-arts.jpg){.illus}
+
+
+*Catalogue: WG-020*
 *Set: Expansion*
 
 *aka: ______________________________*

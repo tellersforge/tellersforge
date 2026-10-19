@@ -1,7 +1,8 @@
 # Kraken
 
-![Kraken](../Images/bestiary-kraken.jpg){.illus}
+![Kraken](../Images/BE-378-bestiary-kraken.jpg){.illus}
 
+*Catalogue: BE-378*
 *Set: Expansion*
 
 *aka: ______________________________*

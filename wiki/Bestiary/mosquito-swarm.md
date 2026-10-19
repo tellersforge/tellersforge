@@ -1,5 +1,9 @@
 # Mosquito swarm
 
+![Mosquito swarm](../Images/BE-422-bestiary-mosquito-swarm.jpg){.illus}
+
+
+*Catalogue: BE-422*
 *Set: Core*
 
 *aka: ______________________________*

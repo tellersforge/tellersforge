@@ -1,5 +1,9 @@
 # Pain-easing tea
 
+![Pain-easing tea](../Images/GR-0701-equipment-pain-easing-tea.jpg){.illus}
+
+
+*Catalogue: GR-0701*
 *Set: Expansion*
 
 *aka: ______________________________*

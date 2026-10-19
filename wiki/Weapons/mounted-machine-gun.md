@@ -1,5 +1,9 @@
 # Mounted Machine Gun
 
+![Mounted Machine Gun](../Images/GR-0068-weapons-mounted-machine-gun.jpg){.illus}
+
+
+*Catalogue: GR-0068*
 *Set: Expansion*
 
 *aka: ______________________________*

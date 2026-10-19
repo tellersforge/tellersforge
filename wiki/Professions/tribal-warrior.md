@@ -1,5 +1,8 @@
 # Tribal warrior
 
+![Tribal warrior](../Images/professions-tribal-warrior.jpg){.illus}
+
+
 *Set: Core*
 
 *aka: ______________________________*

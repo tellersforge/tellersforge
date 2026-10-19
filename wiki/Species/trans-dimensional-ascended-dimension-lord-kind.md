@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Ascended energy-form being *(NPC only; NPC-scale)*
 
+![Ascended energy-form being](../Images/species-ascended-energy-form-being.jpg){.illus}
+
+
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -32,6 +35,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* No hands: held weapons unusable.
 
 ### Fallen ascended zealot *(NPC only; NPC-scale)*
+
+![Fallen ascended zealot](../Images/species-fallen-ascended-zealot.jpg){.illus}
+
 
 - **Size:** varies · **Body:** incorporeal
 - **Attributes:** STR −3 INT +3 WIS +3 PER +1 CHA +2
@@ -43,6 +49,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Omnipotent continuum-dweller *(NPC only; NPC-scale)*
 
+![Omnipotent continuum-dweller](../Images/species-omnipotent-continuum-dweller.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** STR −3 INT +3 WIS +3 PER +1 CHA −1
 - **Skills:** [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Composure](../Skills/composure.md) +1, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Local Lore](../Skills/local-lore.md) −2
@@ -52,6 +61,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 - *Note:* NPC-scale (species note).
 
 ### Star-crossing feudal dimension-lord *(NPC only; NPC-scale)*
+
+![Star-crossing feudal dimension-lord](../Images/species-star-crossing-feudal-dimension-lord.jpg){.illus}
+
 
 - **Size:** medium · **Body:** biped
 - **Attributes:** INT +3 WIS +3 PER +1 CHA +1

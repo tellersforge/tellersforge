@@ -1,5 +1,9 @@
 # Space Warp
 
+![Space Warp](../Images/PW-268-powers-space-warp.jpg){.illus}
+
+
+*Catalogue: PW-268*
 *Set: Expansion*
 
 *aka: ______________________________*

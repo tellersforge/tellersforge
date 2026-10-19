@@ -1,5 +1,9 @@
 # Long-necked lake beast
 
+![Long-necked lake beast](../Images/BE-400-bestiary-long-necked-lake-beast.jpg){.illus}
+
+
+*Catalogue: BE-400*
 *Set: Expansion*
 
 *aka: ______________________________*

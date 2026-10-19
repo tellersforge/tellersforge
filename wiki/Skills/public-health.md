@@ -1,5 +1,9 @@
 # Public Health
 
+![Public Health](../Images/SK-157-skills-public-health.jpg){.illus}
+
+
+*Catalogue: SK-157*
 *Set: Expansion*
 
 *aka: ______________________________*

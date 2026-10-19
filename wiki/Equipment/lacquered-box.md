@@ -1,5 +1,9 @@
 # Lacquered box
 
+![Lacquered box](../Images/GR-0580-equipment-lacquered-box.jpg){.illus}
+
+
+*Catalogue: GR-0580*
 *Set: Expansion*
 
 *aka: ______________________________*

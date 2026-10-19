@@ -1,5 +1,9 @@
 # Foot wraps
 
+![Foot wraps](../Images/GR-0436-equipment-foot-wraps.jpg){.illus}
+
+
+*Catalogue: GR-0436*
 *Set: Core*
 
 *aka: ______________________________*

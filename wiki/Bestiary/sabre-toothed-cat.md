@@ -1,7 +1,8 @@
 # Sabre-toothed cat
 
-![Sabre-toothed cat](../Images/bestiary-sabre-toothed-cat.jpg){.illus}
+![Sabre-toothed cat](../Images/BE-508-bestiary-sabre-toothed-cat.jpg){.illus}
 
+*Catalogue: BE-508*
 *Set: Core*
 
 *aka: ______________________________*

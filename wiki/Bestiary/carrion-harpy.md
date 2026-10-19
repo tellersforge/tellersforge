@@ -1,7 +1,8 @@
 # Carrion harpy
 
-![Carrion harpy](../Images/bestiary-carrion-harpy.jpg){.illus}
+![Carrion harpy](../Images/BE-090-bestiary-carrion-harpy.jpg){.illus}
 
+*Catalogue: BE-090*
 *Set: Core*
 
 *aka: ______________________________*

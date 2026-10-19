@@ -1,5 +1,9 @@
 # Astronomical telescope
 
+![Astronomical telescope](../Images/GR-0192-equipment-astronomical-telescope.jpg){.illus}
+
+
+*Catalogue: GR-0192*
 *Set: Expansion*
 
 *aka: ______________________________*

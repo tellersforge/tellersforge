@@ -1,5 +1,9 @@
 # Body Control
 
+![Body Control](../Images/PW-028-powers-body-control.jpg){.illus}
+
+
+*Catalogue: PW-028*
 *Set: Expansion*
 
 *aka: ______________________________*

@@ -1,5 +1,9 @@
 # Mummified sacred beast
 
+![Mummified sacred beast](../Images/BE-428-bestiary-mummified-sacred-beast.jpg){.illus}
+
+
+*Catalogue: BE-428*
 *Set: Core*
 
 *aka: ______________________________*

@@ -1,7 +1,8 @@
 # Assault Rifle
 
-![Assault rifle](../Images/weapons-assault-rifle.jpg){.illus}
+![Assault rifle](../Images/GR-0002-weapons-assault-rifle.jpg){.illus}
 
+*Catalogue: GR-0002*
 *Set: Expansion*
 
 *aka: ______________________________*

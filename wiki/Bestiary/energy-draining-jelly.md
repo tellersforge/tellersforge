@@ -1,5 +1,9 @@
 # Energy-draining jelly
 
+![Energy-draining jelly](../Images/BE-174-bestiary-energy-draining-jelly.jpg){.illus}
+
+
+*Catalogue: BE-174*
 *Set: Expansion*
 
 *aka: ______________________________*

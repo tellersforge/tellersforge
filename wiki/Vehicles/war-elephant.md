@@ -1,7 +1,8 @@
 # War Elephant
 
-![War elephant](../Images/vehicles-war-elephant.jpg){.illus}
+![War elephant](../Images/GR-1129-vehicles-war-elephant.jpg){.illus}
 
+*Catalogue: GR-1129*
 *Set: Expansion*
 
 

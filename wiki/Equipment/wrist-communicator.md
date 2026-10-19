@@ -1,5 +1,9 @@
 # Wrist communicator
 
+![Wrist communicator](../Images/GR-1037-equipment-wrist-communicator.jpg){.illus}
+
+
+*Catalogue: GR-1037*
 *Set: Expansion*
 
 *aka: ______________________________*

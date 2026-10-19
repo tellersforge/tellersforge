@@ -1,5 +1,9 @@
 # Gaudy jewels
 
+![Gaudy jewels](../Images/GR-0453-equipment-gaudy-jewels.jpg){.illus}
+
+
+*Catalogue: GR-0453*
 *Set: Expansion*
 
 *aka: ______________________________*

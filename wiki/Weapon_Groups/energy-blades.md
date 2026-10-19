@@ -1,5 +1,9 @@
 # Energy Blades
 
+![Energy Blades](../Images/WG-009-weapon-groups-energy-blades.jpg){.illus}
+
+
+*Catalogue: WG-009*
 *Set: Expansion*
 
 *aka: ______________________________*

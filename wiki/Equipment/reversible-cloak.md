@@ -1,5 +1,9 @@
 # Reversible cloak
 
+![Reversible cloak](../Images/GR-0789-equipment-reversible-cloak.jpg){.illus}
+
+
+*Catalogue: GR-0789*
 *Set: Expansion*
 
 *aka: ______________________________*

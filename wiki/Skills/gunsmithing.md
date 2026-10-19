@@ -1,5 +1,9 @@
 # Gunsmithing
 
+![Gunsmithing](../Images/SK-085-skills-gunsmithing.jpg){.illus}
+
+
+*Catalogue: SK-085*
 *Set: Expansion*
 
 *aka: ______________________________*

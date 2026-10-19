@@ -1,5 +1,8 @@
 # Distrust
 
+![Distrust](../Images/flaws-distrust.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Social vices* kind. It fires when won't trust allies or accept help.

@@ -1,5 +1,9 @@
 # Light Crossbow
 
+![Light Crossbow](../Images/GR-0061-weapons-light-crossbow.jpg){.illus}
+
+
+*Catalogue: GR-0061*
 *Set: Core*
 
 *aka: ______________________________*

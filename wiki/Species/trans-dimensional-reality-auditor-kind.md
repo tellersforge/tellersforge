@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Reality-auditing entity *(NPC only; NPC-scale)*
 
+![Reality-auditing entity](../Images/species-reality-auditing-entity.jpg){.illus}
+
+
 - **Size:** varies · **Body:** other
 - **Attributes:** INT +4 WIS +1 PER +1 CHA −4
 - **Skills:** [Composure](../Skills/composure.md) +3, [Counting & Measuring](../Skills/counting-and-measuring.md) +3, [Low & Zero Gravity](../Skills/low-and-zero-gravity.md) +3, [Law](../Skills/law.md) +2, [Cultures & Customs](../Skills/cultures-and-customs.md) −2, [Insight](../Skills/insight.md) −2, [Local Lore](../Skills/local-lore.md) −2

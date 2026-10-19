@@ -24,6 +24,9 @@ Each block below is one set of numbers; breeds that share every number share a b
 
 ### Dormant living-planet horror *(NPC only; NPC-scale)*
 
+![Dormant living-planet horror](../Images/species-dormant-living-planet-horror.jpg){.illus}
+
+
 - **Size:** gigantic · **Body:** amorphous
 - **Attributes:** STR +6 AGI −6 END +2 INT +3 WIS +3 CHA −2
 - **Skills:** [Escape Artistry](../Skills/escape-artistry.md) +3, [Pain Tolerance](../Skills/pain-tolerance.md) +2, [Stealth](../Skills/stealth.md) +1, [Swimming](../Skills/swimming.md) +1, [Etiquette](../Skills/etiquette.md) −1, [Hand Tools](../Skills/hand-tools.md) −1, [Riding](../Skills/riding.md) Foreign Concept

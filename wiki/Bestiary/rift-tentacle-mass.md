@@ -1,5 +1,9 @@
 # Rift tentacle mass
 
+![Rift tentacle mass](../Images/BE-490-bestiary-rift-tentacle-mass.jpg){.illus}
+
+
+*Catalogue: BE-490*
 *Set: Expansion*
 
 *aka: ______________________________*

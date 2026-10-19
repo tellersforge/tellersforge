@@ -1,5 +1,8 @@
 # Fear of Snakes
 
+![Fear of Snakes](../Images/flaws-fear-of-snakes.jpg){.illus}
+
+
 *Set: Core*
 
 A flaw of the *Fears* kind. It fires when snakes, serpents.

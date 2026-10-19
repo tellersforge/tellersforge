@@ -1,5 +1,9 @@
 # Sign Language & Gesture
 
+![Sign Language & Gesture](../Images/SK-179-skills-sign-language-and-gesture.jpg){.illus}
+
+
+*Catalogue: SK-179*
 *Set: Expansion*
 
 *aka: ______________________________*

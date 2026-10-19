@@ -1,5 +1,9 @@
 # Clockwork spider
 
+![Clockwork spider](../Images/BE-113-bestiary-clockwork-spider.jpg){.illus}
+
+
+*Catalogue: BE-113*
 *Set: Expansion*
 
 *aka: ______________________________*
